@@ -1,18 +1,3 @@
-# ------------------------------------[UPDATE]--------------------------------------
-# Title: The Block List Project - Redirect List
-# Expires: 1 day
-# Homepage: https://blocklist.site
-# Help: https://github.com/blocklistproject/lists/wiki/
-# License: https://unlicense.org
-# Total number of network filters: 108682
-# ------------------------------------[SUPPORT]-------------------------------------
-# You can support by:
-# - reporting false positives
-# - making a donation: https://paypal.me/blocklistproject
-# -------------------------------------[INFO]---------------------------------------
-#
-# Redirect list
-# ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 0------------0-------------0.0n-line.biz
 0.0.0.0 0------------0-------------0.0n-line.info
 0.0.0.0 0------------0-------------0.123erp.net
@@ -30169,7 +30154,6 @@
 0.0.0.0 fishsydney.tk
 0.0.0.0 fishtool.cf
 0.0.0.0 fishtool.gq
-# 0.0.0.0 fisica.unina.it Issue 126
 0.0.0.0 fiskino.info
 0.0.0.0 fista.info
 0.0.0.0 fitcproxy.tk
@@ -59479,7 +59463,6 @@
 0.0.0.0 noproxy.us
 0.0.0.0 noproxyads.com
 0.0.0.0 noraproxy.tk
-# 0.0.0.0 nordvpn.com Issue 278
 0.0.0.0 noregulation.com
 0.0.0.0 norepick.info
 0.0.0.0 norepick.tk
@@ -77064,7 +77047,6 @@
 0.0.0.0 radiocarb.com
 0.0.0.0 radiofairy.com
 0.0.0.0 radiofarda.be
-# 0.0.0.0 radiofarda.com Issue 290
 0.0.0.0 radiofeather.com
 0.0.0.0 radiosurf.tk
 0.0.0.0 radishproxy.xyz

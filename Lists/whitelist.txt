@@ -1,3 +1,111 @@
+Discord-Phishing-URLs/official-domains.txt at main · Dogino/Discord-Phishing-URLs · GitHub
+Skip to content
+Toggle navigation
+Sign up
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+For
+Enterprise
+Teams
+Startups
+Education
+By Solution
+CI/CD & Automation
+DevOps
+DevSecOps
+Case Studies
+Customer Stories
+Resources
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Pricing
+In this repository
+All GitHub
+↵
+Jump to
+No suggested jump to results
+In this user
+Sign in
+Sign up
+Dogino
+/
+Discord-Phishing-URLs
+Public
+Notifications
+Fork
+9
+Star
+45
+Code
+0
+Pull requests
+Insights
+More
+Permalink
+main
+Switch branches/tags
+Branches
+Tags
+View all branches
+View all tags
+Name already in use
+A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+Cancel
+Create
+Discord-Phishing-URLs/official-domains.txt
+Go to file
+T
+Go to line
+L
+Copy path
+Copy permalink
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+Added twitch official domain list
+Latest commit
+c64546e
+Feb 7, 2022
+History
+1
+contributor
+Users who have contributed to this file
+48 lines (46 sloc)
+684 Bytes
+Raw
+Blame
+Edit this file
+E
+Open in GitHub Desktop
+Open with Desktop
+View raw
+View blame
 // Discord
 dis.gd
 discord-activities.com
@@ -251,5 +359,14 @@ vidtech.cbsinteractive.com
 continuum.dds.microsoft.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
-www.msftconnecttest.comDiscord-Phishing-URLs/official-domains.txt at main · Dogino/Discord-Phishing-URLs · GitHub
-www.msftconnecttest.com
+www.msftconnecttest.coms.youtube.com
+edge-mqtt.facebook.com
+scontent.xx.fbcdn.net
+graph.facebook.com
+www.messenger.com
+b-graph.facebook.com
+edge-chat.messenger.com
+connect.facebook.net
+facebook.comDiscord-Phishing-URLs/official-domains.txt at main · Dogino/Discord-Phishing-URLs · GitHub
+Cannot retrieve contributors at this time
+facebook.com
