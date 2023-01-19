@@ -32901,4 +32901,9 @@ zonajakarta-pikiran--rakyat-com.cdn.ampproject.org
 zon-it.cdn.ampproject.org
 zor-livefyre-com.cdn.ampproject.org
 zp-vgorode-ua.cdn.ampproject.org
-zur--eisenbahn--hotel--limburg--an--der--lahn-ibooked-nl.cdn.ampproject.org
+zur--eisenbahn--hotel--limburg--an--der--lahn-ibooked-nl.cdn.ampproject.org# Title: Lightswitch05's amp-hosts-extended.txt
+0.0.0.0 d-103090104143969910.ampproject.net
+0.0.0.0 d-294686873040608003.ampproject.net
+0.0.0.0 d-4190200080714617234.ampproject.net
+0.0.0.0 zur--eisenbahn--hotel--limburg--an--der--lahn-ibooked-nl.cdn.ampproject.org
+0.0.0.0 ykaedivmrovgjhtdh.ampproject.org
