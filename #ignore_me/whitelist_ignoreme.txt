@@ -1,0 +1,13 @@
+s.youtube.com
+discord.com
+edge-mqtt.facebook.com
+scontent.xx.fbcdn.net
+graph.facebook.com
+github.com
+raw.githubusercontent.com
+spclient.wg.spotify.com
+www.messenger.com
+b-graph.facebook.com
+edge-chat.messenger.com
+connect.facebook.net
+facebook.com
