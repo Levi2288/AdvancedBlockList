@@ -1,0 +1,28 @@
+# Regex filters provided by MMotti
+# https://github.com/mmotti
+# Installation
+# If you have made it directly to this list and are wondering how to apply these to your Pi-hole
+# installation, there is a Python (3.6+) script to automate this process. Please see:
+# https://github.com/mmotti/pihole-regex
+# N.B - False Positives
+# Due to the restrictive nature of these regexps, you may encounter a small number of false positives
+# for domain names that are similar to ad-serving / tracking domains.
+# I will continue to update the following whitelist with any conflicts, and you can choose to
+# add them to your install if you so wish, or use them as a reference.
+# https://raw.githubusercontent.com/mmotti/pihole-regex/master/whitelist.list
+# Regular Expressions:
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+^(.+[_.-])?telemetry[_.-]
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
+^aff(iliat(es?|ion))?[_.-]
+^analytics?[_.-]
+^banners?[_.-]
+^beacons?[0-9]*[_.-]
+^count(ers?)?[0-9]*[_.-]
+^mads\.
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[_.-]# Regex filters provided by MMotti
+^stat(s|istics)?[0-9]*[_.-]
