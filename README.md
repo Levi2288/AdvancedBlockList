@@ -1,3 +1,4 @@
 # AdvancedBlockList
 
-Current Host List Contains ```3961186``` domains, IP addresses and DNS servers
+Current Host List Contains ```3526263``` domains, IP addresses and DNS servers
+:star: Stars are always appreciated.
