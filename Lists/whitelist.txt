@@ -88,14 +88,7 @@ L
 Copy path
 Copy permalink
 This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
-Added twitch official domain list
-Latest commit
-c64546e
-Feb 7, 2022
-History
-1
-contributor
-Users who have contributed to this file
+Cannot retrieve contributors at this time
 48 lines (46 sloc)
 684 Bytes
 Raw
@@ -367,6 +360,4 @@ www.messenger.com
 b-graph.facebook.com
 edge-chat.messenger.com
 connect.facebook.net
-facebook.comDiscord-Phishing-URLs/official-domains.txt at main · Dogino/Discord-Phishing-URLs · GitHub
-Cannot retrieve contributors at this time
 facebook.com
