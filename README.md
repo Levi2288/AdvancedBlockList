@@ -1,7 +1,7 @@
 # AdvancedBlockList
 
-*Current Host List Contains ```4436984``` domains, IP addresses and DNS servers
-*:star: Stars are always appreciated.
+- Current Host List Contains ```4435218``` domains, IP addresses and DNS servers
+- :star: Stars are always appreciated.
 
 ```Direct Links to the lists
 https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/adlist.txt
@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/redirect
 https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/spam.txt
 https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/google_amp.txt
 https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/regex.txt
-https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/whitelist.txt```
-
-I recommend ```malware```, ```ransomware```, ```coinmining``` and ```andlist``` for everyone this list might be too aggressive for some people but because of this they are pretty good at stopping malware and ads :D 
+https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/whitelist.txt
+```
+I recommend ```malware```, ```ransomware```, ```coinmining``` and ```andlist``` for everyone.
+Note: This list might be too aggressive for some people but because of this they are pretty good at stopping malware and ads :D 
