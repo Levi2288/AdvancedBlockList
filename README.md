@@ -17,4 +17,5 @@ https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/regex.tx
 https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/whitelist.txt
 ```
 I recommend ```malware```, ```ransomware```, ```coinmining``` and ```andlist``` for everyone.
-Note: This list might be too aggressive for some people but because of this they are pretty good at stopping malware and ads :D 
+Note: This list might be too aggressive for some people but because of this they are pretty good at stopping malware and ads :D
+![image](https://media.discordapp.net/attachments/834579464637775892/1066014987967012934/asd.png?width=952&height=132)
