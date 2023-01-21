@@ -2,7 +2,7 @@
 
 - Current Host List Contains ```4441091``` domains, IP addresses and DNS servers
 - :star: Stars are always appreciated.
-If u use my list please give credit
+- If u use my list please give credit
 
 ```Direct Links to the lists
 https://raw.githubusercontent.com/Levi2288/AdvancedBlockList/main/Lists/adlist.txt
