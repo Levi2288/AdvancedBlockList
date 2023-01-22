@@ -1,4 +1,3 @@
-// Discord
 dis.gd
 discord-activities.com
 discord.co
@@ -21,7 +20,6 @@ discordmerch.com
 discordpartygames.com
 discordsays.com
 discordstatus.com
-// Steam
 s.team
 steam-chat.com
 steamchina.com
@@ -35,7 +33,6 @@ steamstatic.com.8686c.com
 steamusercontent.com
 valve.net
 valvesoftware.com
-// Twitch
 ext-twitch.tv
 jtvnw.net
 live-video.net

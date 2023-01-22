@@ -8386,7 +8386,7 @@
  fakty-ictv-ua.cdn.ampproject.org
  fakty-ua.cdn.ampproject.org
  fame-grid-id.cdn.ampproject.org
- familydoctor-localhost.cdn.ampproject.org
+ familydoctor-.cdn.ampproject.org
  familydoctor-org.cdn.ampproject.org
  fandomwire-com.cdn.ampproject.org
  fansided-com.cdn.ampproject.org
@@ -24838,7 +24838,7 @@ fairbahisgiris-com.cdn.ampproject.org
 fakty-ictv-ua.cdn.ampproject.org
 fakty-ua.cdn.ampproject.org
 fame-grid-id.cdn.ampproject.org
-familydoctor-localhost.cdn.ampproject.org
+familydoctor-.cdn.ampproject.org
 familydoctor-org.cdn.ampproject.org
 fandomwire-com.cdn.ampproject.org
 fansided-com.cdn.ampproject.org
@@ -41599,7 +41599,7 @@ zur--eisenbahn--hotel--limburg--an--der--lahn-ibooked-nl.cdn.ampproject.org# Tit
  fakty-ictv-ua.cdn.ampproject.org
  fakty-ua.cdn.ampproject.org
  fame-grid-id.cdn.ampproject.org
- familydoctor-localhost.cdn.ampproject.org
+ familydoctor-.cdn.ampproject.org
  familydoctor-org.cdn.ampproject.org
  fandomwire-com.cdn.ampproject.org
  fansided-com.cdn.ampproject.org
