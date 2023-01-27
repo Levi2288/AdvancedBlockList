@@ -1,21 +1,4 @@
 [Adblock Plus 1.1]
-&action=confection_send_data&
-&action=js_stats&
-&action=js_stats_
-&callback=hitStats_
-&event=view&
-&EventType=Impression&
-&hitType=pageview&
-&http_referer=$script,xmlhttprequest,domain=~facebook.com|~jobscore.com
-&mf_referrer=
-&pageReferrer=
-&ref=*&tag=
-&refer=http$script
-&refererPageDetail=
-&stats_tkn=
-&t=pageview&
-&tag=IMPRESSION&
-&visitorUuid=
 .analytics.min.
 .asis?Log=
 .asp?t=*&c=$image
@@ -234,7 +217,6 @@
 cgi-bin/counter
 ||internal-matomo.
 ||meetrics.netbb-
-&mi_ecmp=
 .acemlna.com/Prod/link-tracker?$image
 .acemlnb.com/Prod/link-tracker?$image
 .alcmpn.com/
@@ -337,7 +319,6 @@ cgi-bin/counter
 .wix.com/_api/ping/
 .zalando.com/images/probe.png
 ://email.*/e/o/
-&pagegroup=*&url=$script
 =eulerian&
 ?euidlls=$script,~third-party
 .aspx?poolid=
@@ -654,6 +635,7 @@ cgi-bin/counter
 ||videoplayerhub.com^
 ||vkanalytics.net^
 ||vpdcp.com^
+||wct-2.com^
 ||widgetbe.com^
 ||wknd.ai^
 ||wmgroup.us^
@@ -6284,6 +6266,7 @@ cgi-bin/counter
 ||collect.usefathom.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
+||collector.api.video^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
@@ -22884,7 +22867,7 @@ cgi-bin/counter
 @@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|bicyclebluebook.com|equinoxplus.com|speedcheck.ky|urbanswan.com
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
-@@||api.ipstack.com^$domain=ride.guru
+@@||api.ipstack.com^$domain=meteo365.es|ride.guru
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
