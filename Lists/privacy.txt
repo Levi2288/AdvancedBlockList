@@ -4477,6 +4477,7 @@ cgi-bin/counter
 ||selfishsnake.com^
 ||separateshow.com^
 ||separatesilver.com^$third-party
+||serpentshampoo.com^
 ||shaggytank.com^
 ||shakegoldfish.com^
 ||shakesuggestion.com^
@@ -6268,6 +6269,7 @@ cgi-bin/counter
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.*.miui.com^
+||collect.alphastream.io^
 ||collect.cloudsponge.com^
 ||collect.igodigital.com^
 ||collect.iteam-dress.com^
@@ -9724,6 +9726,7 @@ cgi-bin/counter
 ||livejournal.com/log?
 ||liveperson.net/hc/*/?visitor=
 ||local.ch/track/
+||log-gateway.zoom.us^
 ||log.china.cn^
 ||log.genyt.net^
 ||log.hypebeast.com^
@@ -22937,7 +22940,7 @@ cgi-bin/counter
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|fedex.com|freeshipping.com|heroku.com
 @@||cdn.segment.com/analytics-next/
 @@||cdn.segment.com/analytics.js/$script,domain=app.cryptotrader.tax|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com
 @@||cdn.segment.com/next-integrations/integrations/
@@ -23115,7 +23118,7 @@ cgi-bin/counter
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com|rubex.efilecabinet.net
-@@||js.sentry-cdn.com^$script,domain=book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
+@@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsonip.com/?format=json$xmlhttprequest,domain=cyberpower.com
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||jumbe.zaius.com/v2/zaius.gif?$domain=subscriptions.management
@@ -23631,6 +23634,7 @@ cgi-bin/counter
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||rtl.hu/javascripts/UserTracking.js
 @@||rtl.hu^*/gemius_id.js?
+@@||vefir.mms.is^*/static/analytics.js$~third-party
 @@||adobedtm.com^*/AppMeasurement.min.js$script,domain=sky.it
 @@||adobedtm.com^*/mbox-contents-$script,domain=conad.it
 @@||adobedtm.com^*/satelliteLib-$script,domain=conad.it|ilsole24ore.com|laredoute.it
