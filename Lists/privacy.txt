@@ -527,6 +527,7 @@ cgi-bin/counter
 ||mediapvx.com^
 ||mediapxv.com^
 ||micpn.com^
+||mitour.de^
 ||mm-api.agency^
 ||monu.delivery^
 ||mors22.com^
@@ -1590,7 +1591,6 @@ cgi-bin/counter
 ||glassboxcdn.com^$third-party
 ||glassboxdigital.io^$third-party
 ||glbtracker.com^$third-party
-||glia.com^$third-party
 ||globalsiteanalytics.com^$third-party
 ||globalwebindex.net^$third-party
 ||globase.com^$third-party
@@ -2547,7 +2547,6 @@ cgi-bin/counter
 ||sageanalyst.net^$third-party
 ||sailthru.com^$third-party
 ||salecycle.com^$third-party
-||salemove.com^$third-party
 ||salesgenius.com^$third-party
 ||salesviewer.com^$third-party
 ||salesviewer.org^$third-party
@@ -6206,6 +6205,7 @@ cgi-bin/counter
 ||clicktime.symantec.com^$script,third-party
 ||clicktracker.iscan.nl^
 ||client-analytics.braintreegateway.com^
+||client-logger.salemove.com^
 ||client.tahono.com^$third-party
 ||clinch.co/a_js/client_pixels/
 ||clipsyndicate.com/cs_api/cliplog?
@@ -6990,6 +6990,7 @@ cgi-bin/counter
 ||mc.yandex.com^
 ||mc.yandex.ru^
 ||mcdp-*.outbrain.com^
+||mcloud.to/ping/
 ||mcssl.com^*/track.ashx?
 ||mdctrail.com/b.ashx$third-party
 ||mdxprod.io/analytics.js
@@ -7895,6 +7896,7 @@ cgi-bin/counter
 ||videopress.com/plugins/stats/
 ||vidible.tv/trk/
 ||vidstream.pro/log/
+||vidstream.pro/ping/
 ||viglink.com/api/ping$third-party
 ||vimeocdn.com/add/player-stats?
 ||vimeocdn.com/ga/
@@ -8437,6 +8439,7 @@ cgi-bin/counter
 ||c.woopic.com/tools/pdb.min.js
 ||caast.tv/v1/record.gif?
 ||calcul-pagerank.fr/client/$third-party
+||capping.sirius.press^
 ||cdn-files.prsmedia.fr^*/xiti/
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||cloudfront.net^$script,domain=gentside.com
@@ -8474,6 +8477,7 @@ cgi-bin/counter
 ||p.a2d.io/plx.js
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
+||qiota.com/api/event
 ||rs.smc.tf^
 ||scriptsgratuits.com/sg/stats/
 ||service-webmaster.fr/cpt-visites/$third-party
@@ -9442,7 +9446,6 @@ cgi-bin/counter
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
 ||digg.com/library/tracker.js
 ||digital.flytedesk.com/js/head.js
-||discord.com/api/*/science
 ||discover-metrics.cloud.seek.com.au^
 ||discover.com/QaiuqHH6L7OpQ2dSZzdDRhs6/
 ||discoveryplus.com/events/
@@ -21962,10 +21965,13 @@ cgi-bin/counter
 ||lecho.be/track/
 ||lefigaro.fr/ext/analytics
 ||lefigaro.fr/ext/figanalytics
+||lemonde.fr/*&gatp=
 ||lemonde.fr/*&ptag=
+||lemonde.fr/*&vtag=
 ||lemonde.fr/bucket/*/tagistan.
 ||leparking-moto.fr/jsV155/Tracker.js
 ||leparking.fr/*/Tracker.js
+||lepoint.fr/img-l/$image
 ||liberation.fr/newsite/js/cmp/
 ||logstash-3.radio-canada.ca^
 ||ma-petite-recette.fr/visites
@@ -21991,6 +21997,7 @@ cgi-bin/counter
 ||sncf-connect.com/bff/api/v1/t/events
 ||space-blogs.net/include/counter/
 ||stat.ouedkniss.com^
+||stats.bouyguestelecom.fr^
 ||stats.sexemodel.com^
 ||stats.zone-annuaire.
 ||stats.zone-telechargement.
@@ -23592,6 +23599,7 @@ cgi-bin/counter
 @@||aixifan.com^*/sensorsdata.min.js?$domain=acfun.cn
 @@||baidu.com/api/bidder/$domain=jump2.bdimg.com
 @@||baidu.com^*/track.gif$image,domain=jump2.bdimg.com
+@@||epson.com.cn/common/new/js/tracking_code.js$~third-party
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
@@ -23648,7 +23656,7 @@ cgi-bin/counter
 @@||inpref.s3.amazonaws.com/sites/$script,domain=kauppahalli24.fi
 @@||leiki.com/focus/$script,domain=anna.fi|como.fi|episodi.fi|fum.fi|inferno.fi|kaksplus.fi|rumba.fi|seura.fi|soundi.fi|tilt.fi
 @@||lekane.net/lekane/dialogue-tracking.js?$script
-@@||mpsnare.iesnare.com/snare.js$script,domain=power.fi
+@@||mpsnare.iesnare.com/snare.js$script,domain=power.fi|verkkokauppa.com
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
