@@ -8793,7 +8793,9 @@ cgi-bin/counter
 ||api.all-internet.jp^$third-party
 ||api.popin.cc/conversion2.js
 ||asumi.shinobi.jp^
+||b.karte.io^
 ||b.sli-spark.com^
+||b0.yahoo.co.jp^
 ||bidder.mediams.mb.softbank.jp^
 ||bridge-ashiato.appspot.com/beacon/
 ||buzzurl.jp/api/counter/
@@ -8852,6 +8854,7 @@ cgi-bin/counter
 ||reproio.com^$third-party
 ||resultspage.com/js/sli-spark.js
 ||rlog.popin.cc^
+||rtg-adroute.focas.jp^
 ||s.dc-tag.jp^
 ||s.yimg.jp/images/listing/tool/cv/ytag.js
 ||sankei-digital.co.jp/log?
@@ -8873,6 +8876,7 @@ cgi-bin/counter
 ||t.felmat.net^$third-party
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
+||targeting.focas.jp^
 ||tr.c-tag.net^
 ||tr.slvrbullet.com^
 ||track.span-smt.jp^
@@ -23911,9 +23915,9 @@ cgi-bin/counter
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
 @@||fplay.online/log_event$~third-party,xmlhttprequest
-@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com
+@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com|tribuna.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=teddyfood.com
-@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|rustih.ru|sportmaster.ru|teddyfood.com
+@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|rustih.ru|sportmaster.ru|teddyfood.com|tribuna.com
 @@||itv.1tv.ru/stat.php?
 @@||k12-company.ru^*/statistics.js$script
 @@||komus.ru/_ui/shared/js/ga/googleTagManager.js$script,~third-party
@@ -107106,6 +107110,7 @@ activity.wisepops.com
 adfox.yandex.ru
 adl.bankofthewest.com
 ad-tracker-api.luizalabs.com
+advantage.digitalsunray.com
 analys.live
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
@@ -107193,6 +107198,7 @@ easycompute.systems
 edge.staging.fullstory.com
 e.legalstart.fr
 e.metarouter.io
+engine.traceparts.com
 eq.userneeds.com
 etop.ro
 eu-mobile.events.data.microsoft.com
@@ -107203,6 +107209,7 @@ experiments.sparanoid.net
 ffe390afd658c19dcbf707e0597b846d.de
 firstblackphase.com
 forecast.huffingtonpost.fr
+forecast.lemonde.fr
 foretellfifth.com
 fortunatemark.com
 fpa-cdn.decrypt.co
@@ -107260,6 +107267,7 @@ metrics.onshape.com
 metrics.userguiding.com
 midas.chase.com
 mitour.de
+ml-sys.xyz
 monitor.azure.com
 monitoring.iraiser.eu
 mr.homedepot.ca
@@ -107326,6 +107334,8 @@ stat.i3.dmm.com
 static.fengkongcloud.com
 stats.bouyguestelecom.fr
 stats.callnowbutton.com
+statscollector-1.agora.io
+statscollector.sd-rtn.com
 stats-dev.brid.tv
 stats.ksearchnet.com
 stats.mpthemes.net
