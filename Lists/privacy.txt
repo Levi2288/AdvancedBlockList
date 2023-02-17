@@ -531,6 +531,7 @@ cgi-bin/counter
 ||mediapxv.com^
 ||micpn.com^
 ||mitour.de^
+||ml-sys.xyz^
 ||mm-api.agency^
 ||monu.delivery^
 ||mors22.com^
@@ -1802,7 +1803,7 @@ cgi-bin/counter
 ||ipinyou.com.cn^$third-party
 ||iplist.cc^$third-party
 ||iplocationtools.com^$third-party
-||iplogger.org^$third-party
+||iplogger.org^$third-party,domain=~iplogger.com
 ||ipmeta.io^$third-party
 ||ipnoid.com^$third-party
 ||ippen.space^$third-party
@@ -7531,6 +7532,8 @@ cgi-bin/counter
 ||stats.zotabox.com^
 ||statsadv.dadapro.com^$third-party
 ||statsapi.screen9.com^
+||statscollector-1.agora.io^
+||statscollector.sd-rtn.com^
 ||statsd.zmags.com^
 ||statt-collect.herokuapp.com^
 ||stg-data-collector.playbuzz.com^
@@ -8276,6 +8279,7 @@ cgi-bin/counter
 ||ablida.net^$third-party
 ||adc-srv.net/retargeting.php
 ||adm24.de/hp_counter/$third-party
+||advantage.digitalsunray.com^
 ||aftonbladet.se/trafikfonden/
 ||agitos.de/content/track?
 ||analytics.audionow.de^
@@ -9490,6 +9494,7 @@ cgi-bin/counter
 ||ekg.riotgames.com^
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
+||engine.traceparts.com^
 ||enlightenment.secureshoppingbasket.com^
 ||eproof.drudgereport.com^
 ||equirodi.*/addstat.php
@@ -10292,6 +10297,7 @@ cgi-bin/counter
 ||toyota.com/analytics/
 ||tr.clickstay.com^
 ||tr.www.cloudflare.com^
+||traceparts.com/logs
 ||track-visit.monday.com^
 ||track.dictionary.com^
 ||track.kueez.com^
@@ -21950,6 +21956,7 @@ cgi-bin/counter
 ||email.nautiljon.com/oo/$image
 ||events-logs.doctolib.com^
 ||forecast.huffingtonpost.fr^
+||forecast.lemonde.fr^
 ||franceculture.fr/static/js/xtcore-
 ||franceinter.fr/vendor/track.js
 ||fsm.lapresse.ca^
@@ -93395,6 +93402,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  ads.genieessp.com
  ads.imbc.com
  ads.jp2.vip.prod.criteo.com
+ ads.nl3.vip.prod.criteo.com
  ads.par.vip.prod.criteo.com
  ads.sg1.vip.prod.criteo.com
  ads.spacenine.biz
@@ -93932,6 +93940,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  caseking01.wt-eu02.net
  cas.eu.criteo.com
  cas.jp2.vip.prod.criteo.com
+ cas.nl3.vip.prod.criteo.com
  cas.par.vip.prod.criteo.com
  cas.sg1.vip.prod.criteo.com
  castorama.eulerian.net
@@ -93946,6 +93955,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  cati.mcad.com
  catimini-boutique-com.eulerian.net
  cat.jp2.vip.prod.criteo.com
+ cat.nl3.vip.prod.criteo.com
  cat.nl.eu.criteo.com
  cat.par.vip.prod.criteo.com
  catracking.finning.com
@@ -93961,6 +93971,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  cbsd.am5.vip.prod.criteo.com
  cbsd.da1.vip.prod.criteo.com
  cbsdigitalmedia.hb.omtrdc.net
+ cbsd.nl3.vip.prod.criteo.com
  cbsd.par.vip.prod.criteo.com
  cbsd.va1.vip.prod.criteo.com
  cbs.hb-api.omtrdc.net
@@ -96916,6 +96927,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gum.criteo.com
  gum.da1.vip.prod.criteo.com
  gum.jp2.vip.prod.criteo.com
+ gum.nl3.vip.prod.criteo.com
  gum.par.vip.prod.criteo.com
  gum.sg1.vip.prod.criteo.com
  gum.va1.vip.prod.criteo.com
@@ -106438,6 +106450,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  static.criteo.net
  static.da1.vip.prod.criteo.net
  static.jp2.vip.prod.criteo.net
+ static.nl3.vip.prod.criteo.net
  static.par.vip.prod.criteo.net
  static.sg1.vip.prod.criteo.net
  static.va1.vip.prod.criteo.net
@@ -107097,6 +107110,7 @@ analys.live
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
 analytics.algolia.com
+analytics.dashboard.fingerprint.com
 analytics.emol.com
 analytics.gooogol.com
 analytics.kkb.com.tr
@@ -107119,9 +107133,11 @@ beacon.dropbox.com
 beacon.sftoaa.com
 beat.yourtv.jp
 behavior.tongdun.net
+blushingbread.com
 bringmethehats.com
 brsrvr.com
 bup.bankofamerica.com
+capping.sirius.press
 captcha-display.com
 c.bazo.io
 cfa.fidelity.com
@@ -107130,6 +107146,7 @@ ckies.net
 clarice.streema.com
 clear.wallapop.com
 client-analytics.mts.ru
+client-logger.salemove.com
 cm.nordvpn.com
 cmp.telerama.fr
 cntxtfl.com
@@ -107172,6 +107189,7 @@ doubtdrawer.com
 dp.coinbase.com
 dspx.tv
 d.tv-asahi.co.jp
+easycompute.systems
 edge.staging.fullstory.com
 e.legalstart.fr
 e.metarouter.io
@@ -107181,6 +107199,7 @@ eu-mobile.events.data.microsoft.com
 event-collector.moviesanywhere.com
 events.ubembed.com
 ev.stellarlabs.ai
+experiments.sparanoid.net
 ffe390afd658c19dcbf707e0597b846d.de
 firstblackphase.com
 forecast.huffingtonpost.fr
@@ -107192,6 +107211,7 @@ fptls2.com
 fptls.com
 frog.editorx.com
 frogtray.com
+funnelserv.systems
 g10300385420.co
 g9508048080.co
 gct.americanexpress.com
@@ -107224,8 +107244,11 @@ log.nordot.jp
 log.rabobank.nl
 logstash-3.radio-canada.ca
 log.zdnet.co.kr
+lokalwerben.t-online.de
 mat.socy.es
 matt.mercadolivre.com.br
+mb-tracking.com
+measlymiddle.com
 mediamathrdrt.com
 mediapvx.com
 meltmilk.com
@@ -107236,6 +107259,7 @@ metrics.el-mundo.net
 metrics.onshape.com
 metrics.userguiding.com
 midas.chase.com
+mitour.de
 monitor.azure.com
 monitoring.iraiser.eu
 mr.homedepot.ca
@@ -107281,6 +107305,7 @@ rum.perfops.net
 s5.charliehebdo.fr
 serpentshampoo.com
 sgali-mcs.byteoversea.com
+shiveringspot.com
 sitecounter.site
 slackb.com
 smashquartz.com
@@ -107299,6 +107324,7 @@ stat.absolutist.com
 stat.cdngeek.com
 stat.i3.dmm.com
 static.fengkongcloud.com
+stats.bouyguestelecom.fr
 stats.callnowbutton.com
 stats-dev.brid.tv
 stats.ksearchnet.com
@@ -107350,6 +107376,7 @@ tr.c-tag.net
 trkr.shoppingminds.net
 tumbleicicle.com
 tw.cx
+txrx.bol.com
 t.y8.com
 t.zulily.com
 u44.pnc.com
