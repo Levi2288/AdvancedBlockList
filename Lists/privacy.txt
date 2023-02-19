@@ -3765,6 +3765,7 @@ cgi-bin/counter
 ||carpentercomparison.com^$third-party
 ||carriagecan.com^
 ||carscannon.com^$third-party
+||carvecakes.com^
 ||catalogdiscovery.com^
 ||catschickens.com^
 ||causecherry.com^$third-party
@@ -6020,6 +6021,7 @@ cgi-bin/counter
 ||at.cbsi.com^*/event?
 ||atcdn.co.uk/frostbite/
 ||atgsvcs.com/js/atgsvcs.js
+||ati-host.net/event?
 ||atlassian.net/rest/collectors/$third-party
 ||atom-data.io/session/latest/track.html?$third-party
 ||attn.tv^*/dtag.js
@@ -23377,6 +23379,7 @@ cgi-bin/counter
 @@||switchfly.com/static/*/resources/shopping/.build/scripts/analytics-$script,domain=reise-services.americanexpress.de|travel.americanexpress.co.uk|viaggi.americanexpress.it
 @@||t.st/video/js/kGoogleAnalytics.js?$domain=thestreet.com
 @@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
+@@||tag.aticdn.net/piano-analytics.js$domain=yourstory.com
 @@||tag.aticdn.net^*/smarttag.js$domain=rte.ie|uktvplay.co.uk
 @@||tag.md-nx.com^$script,domain=weather.us
 @@||tagcommander.com^*/tc_$script
@@ -23501,6 +23504,7 @@ cgi-bin/counter
 @@||assets.adobedtm.com^*-source.min.js$domain=manager-magazin.de
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|rtl.de|toggo.de|vip.de
 @@||businessclick.ch/index.js$domain=finanzen.ch
+@@||caritas-international.de^*/analyticsmediator.js$domain=caritas-international.de
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||cleverpush.com/channel/loader/$domain=prosieben.de
 @@||cleverpush.com/sdk/$domain=prosieben.de
@@ -107139,10 +107143,12 @@ applets.ebxcdn.com
 assets.instacart.com
 at.360.audion.fm
 auriro.net
+b0.yahoo.co.jp
 beacon.dropbox.com
 beacon.sftoaa.com
 beat.yourtv.jp
 behavior.tongdun.net
+b.karte.io
 blushingbread.com
 bringmethehats.com
 brsrvr.com
@@ -107314,7 +107320,9 @@ ring.staticmoly.me
 robotflowermobile.com
 r.stripe.com
 rsx.afterpay.com
+rtg-adroute.focas.jp
 rum.perfops.net
+ruralrobin.com
 s5.charliehebdo.fr
 serpentshampoo.com
 sgali-mcs.byteoversea.com
@@ -107357,6 +107365,7 @@ tag.imagino.com
 tag.lexer.io
 tag.statshop.fr
 tao.barstoolsports.com
+targeting.focas.jp
 target.microsoft.com
 t.buyist.app
 td.airdroid.com
