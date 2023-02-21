@@ -354,7 +354,6 @@ cgi-bin/counter
 ||aaxwall.com^
 ||acsbapp.com^
 ||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^
-||adbp.online^
 ||adcontroll.com^
 ||adnext.co^
 ||adrtx.net^
@@ -374,7 +373,6 @@ cgi-bin/counter
 ||apxl.io^
 ||auriro.net^
 ||ayc0zsm69431gfebd.info^
-||ayc0zsm69431gfebd.xyz^
 ||bfmio.com^
 ||bidswitch.net^
 ||bkrtx.com^
@@ -1087,7 +1085,6 @@ cgi-bin/counter
 ||ccgateway.net^$third-party
 ||ccscserver.com^$third-party
 ||cdn-net.com^$third-party
-||cdnanalytics.xyz^$third-party
 ||cdnmaster.com^$third-party
 ||cdnopw.com^$third-party
 ||cedexis.com^$third-party
@@ -1302,6 +1299,7 @@ cgi-bin/counter
 ||didit.com^$third-party
 ||didna.io^$third-party
 ||diffusion-tracker.com^$third-party
+||digianalytics.fr^$third-party
 ||digitaloptout.com^$third-party
 ||digitaltarget.ru^$third-party
 ||digitru.st^$third-party
@@ -2246,7 +2244,6 @@ cgi-bin/counter
 ||outbid.io^$third-party
 ||outboundlink.me^$third-party
 ||overstat.com^$third-party
-||owlanalytics.io^$third-party
 ||ownpage.fr^$third-party
 ||ox-bio.com^$third-party
 ||oxidy.com^$third-party
@@ -3383,7 +3380,6 @@ cgi-bin/counter
 ||besstahete.info^$third-party
 ||bewaslac.com^
 ||biberukalap.com^
-||binarybusiness.de^
 ||bitclub.network^
 ||bitclubnetwork.com^
 ||bitcoin-cashcard.com^
@@ -3497,7 +3493,6 @@ cgi-bin/counter
 ||minero.pw^$third-party
 ||minescripts.info^$third-party
 ||minexmr.com^$third-party
-||mining.best^$third-party
 ||mininghub.club^$third-party
 ||mmpool.org^$third-party
 ||mollnia.com^$third-party
@@ -3510,16 +3505,13 @@ cgi-bin/counter
 ||nablabee.com^$third-party
 ||nametraff.com^$third-party
 ||nathetsof.com^$third-party
-||ner-de-mi-nis-6.info^$third-party
 ||nerohut.com^$third-party
 ||nfwebminer.com^$third-party
-||niematego.tk^$third-party
 ||nimiq.com^$third-party
 ||nimiqpool.com^$third-party
 ||nimiqtest.net^$third-party
 ||nimpool.io^$third-party
 ||notmining.org^$third-party
-||oei1.gq^
 ||omine.org^$third-party
 ||openguid.org^$third-party
 ||p2poolmining.com^$third-party
@@ -3623,6 +3615,7 @@ cgi-bin/counter
 ||ajaralarm.com^
 ||ak0gsh40.com^
 ||alertafterthought.com^
+||aliasanvil.com^
 ||alikeaddition.com^$third-party
 ||alikearm.com^
 ||aliveachiever.com^$third-party
@@ -3732,7 +3725,6 @@ cgi-bin/counter
 ||broaddoor.com^$third-party
 ||brothersbucket.com^
 ||bruisebaseball.com^
-||btez8.xyz^
 ||bucketbean.com^
 ||bulbbait.com^
 ||bunchance.com^
@@ -3750,7 +3742,7 @@ cgi-bin/counter
 ||calculatorstatement.com^$third-party
 ||calendarrate.com^
 ||callousbrake.com^$third-party
-||calmcactus.com^$third-party
+||calmcactus.com^
 ||calmcough.com^
 ||calypsocapsule.com^
 ||cannonjudo.com^
@@ -3854,6 +3846,7 @@ cgi-bin/counter
 ||curtaincows.com^
 ||curvedsquirrel.com^
 ||curvycry.com^$third-party
+||cushiondrum.com^
 ||cushionpig.com^$third-party
 ||cutecalculator.com^
 ||cutechin.com^$third-party
@@ -3900,6 +3893,7 @@ cgi-bin/counter
 ||dispensablestranger.com^
 ||distancefinger.com^
 ||distinctday.com^$third-party
+||distributionneck.com^
 ||distributiontomatoes.com^$third-party
 ||disturbedquiet.com^
 ||divehope.com^$third-party
@@ -3964,6 +3958,7 @@ cgi-bin/counter
 ||erraticreaction.com^
 ||evaluateend.com^
 ||evanescentedge.com^
+||exchangedetail.com^
 ||exclusivebrass.com^
 ||expansioneggnog.com^
 ||experienceeggs.com^
@@ -4160,6 +4155,7 @@ cgi-bin/counter
 ||kittyaction.com^
 ||knotkettle.com^
 ||knottysticks.com^
+||knottyswing.com^
 ||lackadaisicalkite.com^
 ||lagoonolivia.com^
 ||lameletters.com^$third-party
@@ -4335,6 +4331,7 @@ cgi-bin/counter
 ||podiumpresto.com^
 ||pointlesshour.com^
 ||pointlesspocket.com^
+||pointlessprofit.com^
 ||pointlessrifle.com^
 ||poisedpig.com^
 ||politegoldfish.com^
@@ -4349,6 +4346,7 @@ cgi-bin/counter
 ||presssensor.com^
 ||previousplayground.com^
 ||previouspotato.com^
+||priceypies.com^
 ||pricklydebt.com^
 ||pricklyplastic.com^
 ||printerplasma.com^
@@ -4670,6 +4668,7 @@ cgi-bin/counter
 ||superficialsquare.com^
 ||supervisegoldfish.com^
 ||suspendseed.com^
+||swankysquare.com^
 ||sweepsheep.com^
 ||sweetslope.com^
 ||swellstocking.com^
@@ -4782,6 +4781,7 @@ cgi-bin/counter
 ||verifyvegetable.com^
 ||verseballs.com^
 ||virgoplato.com^
+||virtualvincent.com^
 ||vivaciousveil.com^
 ||voicevegetable.com^
 ||voraciousgrip.com^
@@ -5330,7 +5330,6 @@ cgi-bin/counter
 ||0stats.com^$third-party
 ||24log.it^$third-party
 ||accessi.it^$third-party
-||avstat.it^$third-party
 ||buzzoole.com^$third-party
 ||contatoreaccessi.com^$third-party
 ||cpmktg.com^$third-party
@@ -5527,6 +5526,7 @@ cgi-bin/counter
 ||inaudium.com^$third-party
 ||inistrack.net^$third-party
 ||legenhit.com^$third-party
+||naanalle.pl^
 ||ngacm.com^$third-party
 ||ngastatic.com^$third-party
 ||nokaut.link^$third-party
@@ -5909,6 +5909,7 @@ cgi-bin/counter
 ||analytics.jst.ai^
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
+||analytics.kongregate.io^
 ||analytics.live.com^
 ||analytics.livestream.com^
 ||analytics.logsss.com^
@@ -6103,12 +6104,12 @@ cgi-bin/counter
 ||betano.de^*?btag=$subdocument,third-party
 ||bhphotovideo.com/imp/
 ||bi.medscape.com^
+||birdsend.co/assets/static/js/pixel/
 ||birdsend.email/pixel
 ||birdsend.net/pixel
 ||bit.ly/stats?
 ||bitclouds.ru/trd
 ||bitrix.info/ba.js
-||bizsolutions.strands.com^
 ||blend.com/event/
 ||blink.net/e/
 ||blip.bizrate.com^$script
@@ -6419,7 +6420,6 @@ cgi-bin/counter
 ||dealer.com^*/tracker/
 ||dealer.com^*/tracking/
 ||dealerfire.com/analytics/
-||deb.gs/track/
 ||delivra.com/tracking/$third-party
 ||dell.com/TAG/tag.aspx?$third-party
 ||delvenetworks.com/player/plugins/analytics/
@@ -6928,7 +6928,6 @@ cgi-bin/counter
 ||location3.com/analytics/
 ||log-*.previewnetworks.com^
 ||log.aimtell.com^
-||log.artipbox.net^$third-party
 ||log.cookieyes.com^
 ||log.go.com^
 ||log.invodo.com^
@@ -7359,7 +7358,6 @@ cgi-bin/counter
 ||rum.azioncdn.net^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
-||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
 ||rum.uptime.com^
@@ -7706,7 +7704,6 @@ cgi-bin/counter
 ||track.nopaperforms.com^
 ||track.pnicnik.live^
 ||track.pricespider.com^
-||track.qcri.org^
 ||track.qoof.com^
 ||track.realtimeboard.com^
 ||track.searchignite.com^
@@ -7817,7 +7814,6 @@ cgi-bin/counter
 ||tracking.wisepops.com^
 ||tracking1.brandmentions.com^
 ||tracking2.channeladvisor.com^
-||trackingapi.cloudapp.net^
 ||trackjs.com/agent/$script,third-party
 ||trackjs.com/releases/current/tracker.js
 ||trackjs.com/usage.gif?
@@ -7845,7 +7841,6 @@ cgi-bin/counter
 ||tritondigital.com/ondemand/impression?
 ||trk.clinch.co^
 ||trk.techtarget.com^
-||tru.webelapp.com^
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
@@ -7921,7 +7916,6 @@ cgi-bin/counter
 ||visual.ly/track.php?
 ||visualstudio.com/_da.gif?
 ||vivociti.com/images/$third-party
-||vizual.ai^*/click-stream-event?
 ||vizury.com/analyze/
 ||vk.com/rtrg?
 ||vk.com/videostats.php
@@ -8674,7 +8668,6 @@ cgi-bin/counter
 ||statistics.jfmedier.dk^
 ||trckr.nordiskemedier.dk^
 ||wee.dk/modules/$third-party
-||wwwportal.dk/statistik.php
 ||adult-trade.nl/lo/track.php
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
@@ -9009,7 +9002,6 @@ cgi-bin/counter
 ||count.yandeg.ru^
 ||counter.insales.ru^
 ||counter.megaindex.ru^
-||counter.nn.ru^
 ||counter.photopulse.ru^
 ||counter.pr-cy.ru^
 ||counter.reddigital.ru^
@@ -9037,7 +9029,6 @@ cgi-bin/counter
 ||kvartirant.ru/counter.php?
 ||likemore-go.imgsmail.ru^$image
 ||linestudio.ru/counter/
-||log.kslogs.ru^
 ||logs.viavideo.digital^
 ||mediaplus.fm/cntr.php?
 ||metka.ru/counter/
@@ -9077,7 +9068,6 @@ cgi-bin/counter
 ||stat.tvigle.ru^
 ||statistics.fppressa.ru^
 ||stats-*.p2pnow.ru^
-||stats.seedr.com^
 ||stats.tazeros.com^
 ||stats2.videonow.ru^
 ||subscribe.ru/1.gif/$image
@@ -9275,7 +9265,6 @@ cgi-bin/counter
 ||analytics.slashdotmedia.com^
 ||analytics.synchrony.com^
 ||analytics.synedat.com^
-||analytics.touchnote.io^
 ||analytics.tradedoubler.com^
 ||analytics.twitter.com^
 ||analytics.vedantu.com^
@@ -9288,7 +9277,6 @@ cgi-bin/counter
 ||api-router.kaspersky-labs.com/logger2/metrics/
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
-||apkpure.com/analytics_
 ||apnews.com/logger
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
@@ -9586,6 +9574,7 @@ cgi-bin/counter
 ||freebiesms.com/tracker.aspx?
 ||freedownloadmanager.org/ajax/th_hit.php
 ||freedownloadmanager.org/ajax/th_view.php
+||freepik.*/download.gif?
 ||freepik.com/_ga?
 ||freeplayervideo.com/cdn-cgi/trace
 ||fresnel-events.vimeocdn.com^
@@ -9818,6 +9807,7 @@ cgi-bin/counter
 ||metrics.roblox.com^
 ||metrics.spkt.io^
 ||metrics.syf.com^
+||metrics.ted.com^
 ||metricsishare.rediff.com^
 ||metro.co.uk/base/rta/
 ||metroweekly.com/tools/blog_add_visitor/
@@ -9826,6 +9816,7 @@ cgi-bin/counter
 ||mi.dickssportinggoods.com/p/js/1.js
 ||miao.baidu.com^
 ||midas.chase.com^
+||mixpanel-proxy.ted.com^
 ||mktcs.cloudapps.cisco.com^
 ||mms.cnn.com^
 ||modanisa.com/al/j/analytics.js
@@ -9848,7 +9839,6 @@ cgi-bin/counter
 ||mybbc-analytics.files.bbci.co.uk/reverb-client-js/smarttag-
 ||myspace.com/beacon/
 ||n26-trusted.n26.com^
-||n511.thestar.com^
 ||namethatporn.com/assets/imgs/1x1.gif
 ||nasi.etherscan.com^
 ||nature.com/platform/track/
@@ -10169,7 +10159,6 @@ cgi-bin/counter
 ||srtb.msn.com^
 ||srv.plesk.com^
 ||ss.photospecialist.co.uk^
-||ssc.api.bbc.com^
 ||st.sawlive.tv^
 ||stackoverflow.com/_/client-timings
 ||stackshare.io/analytics.
@@ -10473,6 +10462,7 @@ cgi-bin/counter
 ||youtubekids.com/api/stats/qoe?
 ||youtubekids.com/ptracking?
 ||z.cdp-dev.cnn.com^
+||z737.thestar.com^
 ||zappos.com/err.cgi?
 ||zappos.com/karakoram/js/main.
 ||zedo.com/img/bh.gif?
@@ -22048,7 +22038,6 @@ cgi-bin/counter
 ||zerkalo.io/stat/
 ||mosoah.com/analytics.js
 ||tags.aljazeera.net^
-||tracking.alarabiya.net^
 ||insight.olx.ba^
 ||104.com.tw/log/
 ||17173.com/ping.js
@@ -22433,7 +22422,6 @@ cgi-bin/counter
 ||compare.easyviaggio.com^
 ||data.segugio.it^
 ||deagostinipassion.it/collezioni/analytics.js
-||emng.libero.it^
 ||execution-ci360.rai.it^
 ||fanpage.it/svs.gif?
 ||fanpage.it/views/
@@ -23175,7 +23163,7 @@ cgi-bin/counter
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
 @@||jbj.co.uk^*/analytics.js$script,~third-party
-@@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js-agent.newrelic.com^$domain=alliantcreditunion.com|kapwing.com
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com|rubex.efilecabinet.net
@@ -23461,7 +23449,6 @@ cgi-bin/counter
 @@||googletagmanager.com/gtm.js$domain=blaklader.at|blaklader.be|blaklader.ca|blaklader.com|blaklader.cz|blaklader.de|blaklader.dk|blaklader.ee|blaklader.es|blaklader.fi|blaklader.fr|blaklader.ie|blaklader.it|blaklader.nl|blaklader.no|blaklader.pl|blaklader.se|blaklader.uk
 @@/analyticsmediator.$script,domain=mysortimo.be|mysortimo.co.uk|mysortimo.com|mysortimo.com.au|mysortimo.de|mysortimo.dk|mysortimo.es|mysortimo.fr|mysortimo.no|mysortimo.se|repco.co.nz|repco.com.au
 @@||bugsnag.com^$~third-party,domain=app.bugsnag.com
-@@||sourcepoint.telegraph.co.uk^$~third-party,xmlhttprequest
 @@||sourcepointcmp.bloomberg.*/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
 @@||sourcepointcmp.bloomberg.*/mms/get_site_data?$domain=bloomberg.co.jp|bloomberg.com
 @@||alkosto.cdn.adglare.net^$image,xmlhttprequest,domain=alkosto.com|ktronix.com
@@ -23477,7 +23464,6 @@ cgi-bin/counter
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
 @@||wwwimage-tve.cbsstatic.com^
-@@||api.nyda.pro^$websocket
 @@||szukajka.tv/jsverify.php$~third-party,xmlhttprequest
 @@||szukajka.tv/szukaj|$~third-party,xmlhttprequest
 @@||ws.webcaster.pro^$websocket
@@ -93833,6 +93819,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  blzayw.ticketsmarter.com
  b.medtronic.com
  bmjmse.softsurroundings.com
+ b.nl3.vip.prod.criteo.com
  bodybuilding.com.102.112.2o7.net
  bolch02.webtrekk.net
  bolde02.webtrekk.net
@@ -95701,6 +95688,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc0.da.us.criteo.com
  gbc0.fr.eu.criteo.com
  gbc0.jp2.as.criteo.com
+ gbc0.nl3.eu.criteo.com
  gbc0.nl.eu.criteo.com
  gbc0.sg1.as.criteo.com
  gbc0.va.us.criteo.com
@@ -95714,12 +95702,14 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc2.da.us.criteo.com
  gbc2.fr.eu.criteo.com
  gbc2.jp2.as.criteo.com
+ gbc2.nl3.eu.criteo.com
  gbc2.nl.eu.criteo.com
  gbc2.sg1.as.criteo.com
  gbc2.va.us.criteo.com
  gbc3.da.us.criteo.com
  gbc3.fr.eu.criteo.com
  gbc3.jp2.as.criteo.com
+ gbc3.nl3.eu.criteo.com
  gbc3.nl.eu.criteo.com
  gbc3.sg1.as.criteo.com
  gbc3.va.us.criteo.com
@@ -107159,8 +107149,10 @@ brsrvr.com
 bup.bankofamerica.com
 capping.sirius.press
 captcha-display.com
+carvecakes.com
 c.bazo.io
 cfa.fidelity.com
+chargecracker.com
 chubbycreature.com
 ckies.net
 clarice.streema.com
@@ -107267,6 +107259,7 @@ log.rabobank.nl
 logstash-3.radio-canada.ca
 log.zdnet.co.kr
 lokalwerben.t-online.de
+longingtrees.com
 mat.socy.es
 matt.mercadolivre.com.br
 mb-tracking.com
