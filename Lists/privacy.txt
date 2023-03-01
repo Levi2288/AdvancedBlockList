@@ -417,6 +417,7 @@ cgi-bin/counter
 ||directavenue.tech^
 ||dispatchunique.com^
 ||dispatchvegasplus.com^
+||dkotrack.com^
 ||dlxpix.net^
 ||dm-event.net^
 ||dmpxs.com^
@@ -600,6 +601,7 @@ cgi-bin/counter
 ||securedvisit.com^
 ||selphiu.com^
 ||seoab.io^
+||sgstats.com^
 ||site24x7rum.eu^
 ||sitecounter.site^
 ||sitedataprocessing.com^
@@ -6810,6 +6812,7 @@ cgi-bin/counter
 ||innogamescdn.com/media/js/metrics-
 ||inphonic.com/tracking/
 ||inq.com^*/onEvent?_
+||ins.connatix.com^
 ||insiderdata360online.com/service/platform.js
 ||insight.mintel.com^$third-party
 ||insight.rapid7.com^$third-party
@@ -6918,6 +6921,7 @@ cgi-bin/counter
 ||linkwithin.com/pixel.png
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
+||lit.connatix.com^
 ||literally-analytics.appspot.com^
 ||live-partner.com/tags?
 ||live.mrf.io/statics/marfeel/gardac-sync.js
@@ -7032,6 +7036,7 @@ cgi-bin/counter
 ||metrics.beyondwords.io^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
+||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
 ||metrics.onshape.com^
@@ -7244,6 +7249,7 @@ cgi-bin/counter
 ||pixlee.com/assets/fp.js
 ||pixlee.com/assets/keen-
 ||pixlee.com/assets/pixlee_events.js
+||pl.connatix.com^
 ||platform.iteratehq.com^
 ||platform.twitter.com/impressions.js
 ||plausible.io/js/p.js
@@ -9645,6 +9651,7 @@ cgi-bin/counter
 ||goseek.com/track-
 ||gotie.tunein.com^
 ||grabify.link/api/js
+||groove.so/unlocker.js
 ||groupon.com/analytic/
 ||groupondata.com/tracky
 ||gsght.com/twizards.js
