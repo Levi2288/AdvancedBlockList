@@ -9780,6 +9780,7 @@ cgi-bin/counter
 ||livehdcams.com/api/metrics
 ||livejournal.com/log?
 ||liveperson.net/hc/*/?visitor=
+||lnkd.in/li/track
 ||local.ch/track/
 ||log-gateway.zoom.us^
 ||log.china.cn^
