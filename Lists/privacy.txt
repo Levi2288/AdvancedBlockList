@@ -4349,6 +4349,7 @@ cgi-bin/counter
 ||politegoldfish.com^
 ||possessivebucket.com^
 ||possibleboats.com^
+||potatoinvention.com^
 ||powderprofit.com^
 ||preciouseffect.com^
 ||preciousyoke.com^
@@ -4455,6 +4456,7 @@ cgi-bin/counter
 ||ruthlessrobin.com^
 ||sablesmile.com^
 ||sablesong.com^
+||sadloaf.com^
 ||sailsuit.com^
 ||samestretch.com^
 ||satisfycork.com^
@@ -5555,7 +5557,6 @@ cgi-bin/counter
 ||ad5track.com^$third-party
 ||bob-recs.com^$third-party
 ||btg360.com.br^$third-party
-||cifraclub.com.br^$third-party
 ||clearsale.com.br^$third-party
 ||dataunion.com.br^$third-party
 ||denakop.com^$third-party
@@ -5895,6 +5896,7 @@ cgi-bin/counter
 ||analytics.contentexchange.me^
 ||analytics.convertlanguage.com^
 ||analytics.datahc.com^
+||analytics.dealer.com^
 ||analytics.dev.htmedia.in^
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
@@ -9207,6 +9209,7 @@ cgi-bin/counter
 ||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
+||adblocktape.online/stat/
 ||adblocktape.store/stat/
 ||adblocktape.wiki/stat/
 ||adc-js.nine.com.au^
@@ -10636,6 +10639,7 @@ cgi-bin/counter
 ||simon.com/46SCNLxs/init.js
 ||skechers.com/dL6GOSf9/init.js
 ||snipesusa.com/6XNN2xkk/init.js
+||spirit.com/kp4CLSb5/init.js
 ||stockx.com/16uD0kOF/init.js
 ||streeteasy.com/cZdhF737/init.js
 ||studeersnel.nl/27m703Hm/init.js
@@ -22936,7 +22940,7 @@ cgi-bin/counter
 @@||addthis.com/*-angularjs.min.js$script,domain=ead.senac.br|missingkids.com|missingkids.org
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
-@@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|americanexpress.com|crave.ca|homedepot.ca|nbarizona.com
+@@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|americanexpress.com|crave.ca|hilton.com|homedepot.ca|nbarizona.com
 @@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ing.com.au|ingrammicro.com|kroger.com|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ralphlauren.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
@@ -95755,6 +95759,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc4.da.us.criteo.com
  gbc4.fr.eu.criteo.com
  gbc4.jp2.as.criteo.com
+ gbc4.nl3.eu.criteo.com
  gbc4.nl.eu.criteo.com
  gbc4.sg1.as.criteo.com
  gbc4.va.us.criteo.com
@@ -107189,6 +107194,7 @@ behavior.tongdun.net
 b.karte.io
 bleachbubble.com
 blushingbread.com
+boundlessbrake.com
 bringmethehats.com
 brsrvr.com
 bup.bankofamerica.com
@@ -107241,6 +107247,7 @@ dcinfos-cache.abtasty.com
 dggaenaawxe8z.cloudfront.net
 directavenue.tech
 distributionneck.com
+dkotrack.com
 dl.episerver.net
 d-log.asahi.co.jp
 d-log.bs-asahi.tv
@@ -107292,6 +107299,7 @@ hstats.hepsiburada.com
 idstatus.sky.com
 imgs.signifyd.com
 ineed2s.ro
+ins.connatix.com
 ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 ip.up66.ru
 iwa.iplsc.com
@@ -107301,6 +107309,7 @@ knottyswing.com
 kraken.rambler.ru
 lift.acquia.com
 lists.ccmbg.com
+lit.connatix.com
 log000.goo.ne.jp
 log.cookieyes.com
 log-gateway.zoom.us
@@ -107321,6 +107330,7 @@ mer.stdout.cz
 metrics.ancestry.com
 metrics.bankmonitor.hu
 metrics.el-mundo.net
+metrics.gs-chat.com
 metrics.onshape.com
 metrics.ted.com
 metrics.userguiding.com
@@ -107353,6 +107363,7 @@ pixmg.com
 plausiblecdn.co
 plausible.citynews.ovh
 plausible.safing.io
+pl.connatix.com
 pointlessprofit.com
 priceypies.com
 prod-events.nykaa.com
@@ -107379,6 +107390,7 @@ ruralrobin.com
 s5.charliehebdo.fr
 serpentshampoo.com
 sgali-mcs.byteoversea.com
+sgstats.com
 shiveringspot.com
 sitecounter.site
 slackb.com
@@ -107438,6 +107450,7 @@ tracer.autoscout24.ch
 tracker-dot-optimeeze.appspot.com
 tracker.gleanview.com
 tracker.hdtvcloud.com
+tracker.novage.com.ua
 tracker.ranker.com
 tracker.services.vaix.ai
 tracking3.vnncdn.net
