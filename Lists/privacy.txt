@@ -4484,6 +4484,7 @@ cgi-bin/counter
 ||scintillatingscissors.com^$third-party
 ||scintillatingsilver.com^
 ||scintillatingspace.com^$third-party
+||scrapesleep.com^
 ||scratchsofa.com^
 ||screechingfurniture.com^
 ||screechingslip.com^$third-party
@@ -21902,6 +21903,8 @@ cgi-bin/counter
 ||steuertipps.de/scripts/tracking/
 ||subpixel.4players.de^
 ||suche.web.de/click
+||swmhdata.stuttgarter-nachrichten.de^
+||swmhdata.stuttgarter-zeitung.de^
 ||t-online.de/to/web/click?
 ||t-online.de/toi/html/de/img/transp.bmp?
 ||t.wayfair.de^
@@ -23081,7 +23084,7 @@ cgi-bin/counter
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
 @@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
-@@||d26opx5dl8t69i.cloudfront.net/js/reflektion.js$script,domain=jdsports.com
+@@||d26opx5dl8t69i.cloudfront.net/js/reflektion.js$script,domain=jdsports.com|kegworks.com
 @@||d2r1yp2w7bby2u.cloudfront.net^$domain=sonyliv.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js$script,domain=einthusan.tv|tlk.io
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
@@ -23171,7 +23174,7 @@ cgi-bin/counter
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=inquirer.com|investing.com|lodgecastiron.com|tentree.ca
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com|virginplus.ca|winefolly.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$~third-party
@@ -23243,12 +23246,14 @@ cgi-bin/counter
 @@||logo.clearbit.com^$image,third-party
 @@||lowesgiftcardbonus.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
 @@||lr-ingest.io/logger.min.js$script,domain=pumpkin.care
+@@||mapquestapi.com/logger/$domain=hertz.com
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||material.io/inline-tools/direct-embed/bower_components/angularytics/$script,~third-party
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||maxmind.com/geoip/$xmlhttprequest,domain=bandai-hobby.net|elgato.com|filld.com|ibanez.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|coolsport.tv|dereon.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|incgamers.com|ip-address.cc|maaduu.com|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
 @@||maxmind.com^*/geoip2.js$domain=boostedboards.com|donorschoose.org|driftinnovation.com|elgato.com|fallout4.com|filld.com|ibanez.com|instamed.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
+@@||mbe.modelica.university/_next/static/*/pages/pageview.js$~third-party
 @@||mclo.gs/js/logview.js$~third-party
 @@||metrics.bangbros.com/tk.js$~third-party
 @@||metrics.torproject.org^$~third-party
@@ -23375,6 +23380,7 @@ cgi-bin/counter
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
+@@||shopify.com^*/assets/tracking-$domain=oatsovernight.com
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||smartrevise.online/css/analytics.min.css$~third-party
@@ -23399,7 +23405,6 @@ cgi-bin/counter
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=lenovo.com|officedepot.com|shop.lego.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
-@@||static.okccdn.com/builds/desktop/js/tracking_center.$script,domain=okcupid.com
 @@||static.tixr.com/static/*/Analytics.js$~third-party
 @@||staticflickr.com^*/analytics-min.js$domain=flickr.com
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
@@ -107167,6 +107172,7 @@ analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
 analytics.algolia.com
 analytics.dashboard.fingerprint.com
+analytics.dealer.com
 analytics.emol.com
 analytics.gooogol.com
 analytics.kkb.com.tr
@@ -107365,6 +107371,7 @@ plausible.citynews.ovh
 plausible.safing.io
 pl.connatix.com
 pointlessprofit.com
+potatoinvention.com
 priceypies.com
 prod-events.nykaa.com
 protestcopy.com
@@ -107388,6 +107395,8 @@ rtg-adroute.focas.jp
 rum.perfops.net
 ruralrobin.com
 s5.charliehebdo.fr
+sadloaf.com
+scrapesleep.com
 serpentshampoo.com
 sgali-mcs.byteoversea.com
 sgstats.com
