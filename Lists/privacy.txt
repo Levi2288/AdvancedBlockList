@@ -3933,6 +3933,7 @@ cgi-bin/counter
 ||driverequest.com^
 ||drivingdirt.com^
 ||drydrum.com^$third-party
+||dustyhammer.com^
 ||dustyrabbits.com^
 ||dustywave.com^
 ||earthquakeend.com^
@@ -4157,6 +4158,7 @@ cgi-bin/counter
 ||jadeitite.com^$third-party
 ||jailbulb.com^
 ||jamexistence.com^$third-party
+||jimny.pro^
 ||joblessdrum.com^
 ||joyoussurprise.com^
 ||justicejudo.com^
@@ -4353,6 +4355,7 @@ cgi-bin/counter
 ||powderprofit.com^
 ||preciouseffect.com^
 ||preciousyoke.com^
+||predictplate.com^
 ||prefixpatriot.com^
 ||prepareplanes.com^$third-party
 ||presetrabbits.com^
@@ -7382,6 +7385,7 @@ cgi-bin/counter
 ||rum.perfops.net^
 ||rum.uptime.com^
 ||run.app/data.log
+||run.app/events
 ||run.app/metrics/
 ||s-microsoft.com/mscc/$~stylesheet
 ||s.autopilotapp.com^
@@ -7527,6 +7531,7 @@ cgi-bin/counter
 ||stats.itweb.co.za^
 ||stats.kaltura.com^
 ||stats.ksearchnet.com^
+||stats.live-video.net^$domain=kick.com
 ||stats.lotlinx.com^
 ||stats.mituyu.com^
 ||stats.mpthemes.net^
@@ -8119,7 +8124,6 @@ cgi-bin/counter
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
-||d2ry9vue95px0b.cloudfront.net^
 ||d2san7t27xb2pn.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2tcg4i9q4js4a.cloudfront.net^
@@ -8398,6 +8402,7 @@ cgi-bin/counter
 ||sim-technik.de/dvs.gif?
 ||sim-technik.de^*&uniqueTrackId=
 ||skoom.de/gratis-counter/
+||somquery.sqrt-5041.de/tv/tracking-event
 ||spox.com/pub/js/track.js
 ||ss4w.de/counter.php?
 ||stat.clichehosting.de^
@@ -9224,6 +9229,7 @@ cgi-bin/counter
 ||adtech-events.bookmyshow.com^
 ||adv.drtuber.com^
 ||advancedmp3players.co.uk/support/visitor/index.php?
+||aegis.trovo.live^
 ||affiliate.gearbest.com^$image,third-party
 ||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
@@ -21844,6 +21850,7 @@ cgi-bin/counter
 ||ens.luzernerzeitung.ch^
 ||ens.nzz.ch^
 ||ens.tagblatt.ch^
+||event-collector.prd.data.s.joyn.de^
 ||fc.vodafone.de^
 ||fotocommunity.de/track/
 ||froglytics.eventfrog.ch^
@@ -107240,6 +107247,7 @@ content22.citibank.com.au
 convead.io
 cookie.codemarketing.cloud
 counter.reddigital.ru
+counter.wikiwiki.jp
 count-server.sharethis.com
 cp.official-coupons.com
 cp.official-deals.co.uk
@@ -107436,6 +107444,8 @@ stats.vidyome.com
 stat.u.sb
 stretchsquirrel.com
 swankysquare.com
+swmhdata.stuttgarter-nachrichten.de
+swmhdata.stuttgarter-zeitung.de
 t13.io
 t.360.audion.fm
 tagger.opecloud.com
@@ -107478,6 +107488,7 @@ trc.gpcdn.pl
 tr.c-tag.net
 trk-maiorum.com
 trkr.shoppingminds.net
+trustisimportant.fun
 tumbleicicle.com
 tw.cx
 txrx.bol.com
