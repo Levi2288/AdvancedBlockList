@@ -22019,6 +22019,7 @@ cgi-bin/counter
 ||cdtm.cdiscount.com^
 ||cesu.urssaf.fr/clm10
 ||compteur.developpez.com^
+||courrierinternational.com/*&vtag=
 ||courrierinternational.com/it.hal
 ||developpez.com/public/js/track.js
 ||e.legalstart.fr^
@@ -23742,7 +23743,7 @@ cgi-bin/counter
 @@||clickdimensions.com^$subdocument,domain=fingrid.fi
 @@||cloudfront.net/frosmo.easy.js$domain=hobbyhall.fi|lippu.fi
 @@||frosmo.com/messageApi$xmlhttprequest,domain=hobbyhall.fi
-@@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
+@@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|eeva.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
 @@||google-analytics.com/analytics.js$script,domain=hobbyhall.fi
 @@||google-analytics.com/gtm/js$script,domain=hobbyhall.fi
 @@||googletagmanager.com/gtm.js$script,domain=arvopaperi.fi|cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|iltalehti.fi|inferno.fi|mediuutiset.fi|mikrobitti.fi|rumba.fi|soundi.fi|talouselama.fi|tekniikkatalous.fi|tilt.fi|tivi.fi|veho.fi|www.kauppalehti.fi|www.uusisuomi.fi
@@ -23753,7 +23754,7 @@ cgi-bin/counter
 @@||leiki.com/focus/$script,domain=anna.fi|como.fi|episodi.fi|fum.fi|inferno.fi|kaksplus.fi|rumba.fi|seura.fi|soundi.fi|tilt.fi
 @@||lekane.net/lekane/dialogue-tracking.js?$script
 @@||mpsnare.iesnare.com/snare.js$script,domain=power.fi|verkkokauppa.com
-@@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi
+@@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
@@ -107239,8 +107240,10 @@ beacon.sftoaa.com
 beat.yourtv.jp
 behavior.tongdun.net
 b.karte.io
+blackbrake.com
 bleachbubble.com
 blushingbread.com
+bmwebm.org
 boundlessbrake.com
 bringmethehats.com
 brsrvr.com
@@ -107546,6 +107549,7 @@ uqd.io
 us-central1-markuphero.cloudfunctions.net
 user.userguiding.com
 vengefulgrass.com
+vercel-vitals.axiom.co
 vfgte.com
 view.fujitv.co.jp
 virtualvincent.com
