@@ -6557,6 +6557,7 @@ cgi-bin/counter
 ||events.launchdarkly.com^$third-party
 ||events.matterport.com^
 ||events.medio.com^
+||events.missena.io^
 ||events.ocdn.eu^
 ||events.realgravity.com^
 ||events.release.narrativ.com^$subdocument,xmlhttprequest
@@ -8421,7 +8422,6 @@ cgi-bin/counter
 ||statistik.simaja.de^
 ||stats.blogoscoop.net^
 ||stats.clickforknowledge.com^
-||stats.datawrapper.de^*/datawrapper.gif?
 ||stats.digital-natives.de^
 ||stats.frankfurterneuepresse.de^
 ||stats.united-domains.de^
@@ -9845,6 +9845,7 @@ cgi-bin/counter
 ||medium.com/_/batch
 ||medium.com/_/clientele/reports/performance/
 ||meduza.io/stat/
+||mercedes-benz.com/datadog-
 ||merriam-webster.com/lapi/v1/mwol-search/stats/lookup
 ||messari.io/js/wutangtrack.js
 ||messenger.com/ajax/bnzai?
@@ -10268,6 +10269,7 @@ cgi-bin/counter
 ||streamtapeadblockuser.monster/stat/
 ||streamtapeadblockuser.xyz/stat/
 ||stripe.com/tracking/
+||strtape.cloud/stat/
 ||strtapeadblock.club/stat/
 ||strtapeadblocker.xyz/stat/
 ||strtapewithadblock.art/stat/
