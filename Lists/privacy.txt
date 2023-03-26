@@ -23026,6 +23026,7 @@ cgi-bin/counter
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||btgpactualdigital.com/digital/static/js/libraries/thirdparty/angulartics-google-analytics/
 @@||builder.lift.acquia.com/lift.js$script,domain=edwardjones.com
+@@||c.lytics.io/api/tag/$script,domain=time.com
 @@||c.paypal.com/da/r/fb.js$script
 @@||c.webtrends-optimize.com/acs/$script,domain=tvlicensing.co.uk
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party
@@ -23941,6 +23942,7 @@ cgi-bin/counter
 @@||marktest.pt/netscope-gemius.js$script,domain=ojogo.pt
 @@||netmede.pt/code/ga.min.js$script,domain=netmede.pt
 @@||nostv.pt^*/angulartics-google-analytics.js?
+@@||players.fichub.com/plugins/adobe/$domain=24kitchen.pt
 @@||ram.com.br/etc/clientlibs/wisdom/base/analytics.min.js$domain=ram.com.br
 @@||serasaexperian.com.br/dist/scripts/fingerprint2.js$~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br
@@ -24053,7 +24055,7 @@ cgi-bin/counter
 @@||elon.se^*/googleanalytics.js
 @@||google-analytics.com/analytics.js$domain=tradera.com|xxl.se
 @@||google-analytics.com/plugins/ua/ec.js$domain=xxl.se
-@@||googletagmanager.com/gtm.js?id=$domain=tradera.com|xxl.se
+@@||googletagmanager.com/gtm.js$domain=toyota-forklifts.se|tradera.com|xxl.se
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
 @@||picsearch.com/js/comscore.js$domain=dn.se
 @@||reseguiden.se^*.siteCatalyst.js
