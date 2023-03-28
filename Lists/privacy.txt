@@ -1755,6 +1755,7 @@ cgi-bin/counter
 ||iperceptions.com^$third-party
 ||ipfind.com^$third-party
 ||ipfingerprint.com^$third-party
+||ipgeolocation.io^$third-party
 ||ipgp.net^$third-party
 ||ipify.org^$third-party
 ||ipinfo.info^$third-party
@@ -5954,6 +5955,7 @@ cgi-bin/counter
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
 ||analytics.ziftsolutions.com^
+||analyticsehnwe.servicebus.windows.net^
 ||analyze.full-marke.com^
 ||ancestrycdn.com/tao/at/
 ||ao-freegeoip.herokuapp.com^
@@ -7404,6 +7406,7 @@ cgi-bin/counter
 ||sermoncloud.com/logger/
 ||service.trustpid.com^
 ||session.timecommerce.net^
+||sexhd.pics/x/x.js
 ||sezzle.com/v1/event/log
 ||sftrack.searchforce.net^
 ||sgali-mcs.byteoversea.com^
@@ -7678,6 +7681,7 @@ cgi-bin/counter
 ||tr1.mailperformance.com^
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||traccoon.intellectsoft.net^
+||track.360playvid.info^
 ||track.91app.io^
 ||track.99acres.com^
 ||track.atgstores.com^$third-party
@@ -8011,6 +8015,7 @@ cgi-bin/counter
 ||zeronaught.com/__imp_apg__/
 ||ziffdavisb2b.com^*/tracker.js
 ||zineone.com^*/event
+||zip.co/analytics
 ||zmags.com/a/p/p.js
 ||zoominfo.com/pixel/
 ||zooplus.io/static/js/tracking-min.js
@@ -9235,6 +9240,7 @@ cgi-bin/counter
 ||amethyst.zappos.com^
 ||amnesty.org/collect/
 ||ampltd.top.gg^
+||ampltd2.medal.tv^
 ||analyselog.dx.com^
 ||analytics-api.dvdfab.
 ||analytics-proxy.springboard.com^
@@ -9674,6 +9680,7 @@ cgi-bin/counter
 ||idiva.com/analytics_
 ||iedc.fitbit.com^
 ||ign.com/metrics/
+||ih.newegg.com^
 ||iheart.com/api/v3/playback/reporting
 ||ihg.com/logging/
 ||imagefap.com/images/yes.gif?
@@ -9817,6 +9824,7 @@ cgi-bin/counter
 ||metrics.bangbros.com^
 ||metrics.freemake.com^
 ||metrics.hackerrank.com^
+||metrics.newegg.com^
 ||metrics.roblox.com^
 ||metrics.spkt.io^
 ||metrics.syf.com^
@@ -9943,6 +9951,7 @@ cgi-bin/counter
 ||plausible.safing.io^
 ||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
+||plushd.bio/cdn-cgi/trace
 ||pm.dailykos.com^
 ||pocket-lint.com/media/pf304.js
 ||poki.com/observer/
@@ -22575,7 +22584,6 @@ cgi-bin/counter
 ||link.tv-asahi.co.jp/tver/cookiesync?
 ||ln.ameba.jp^
 ||log-lb.skyperfectv.co.jp^
-||log.suumo.jp^
 ||logql.yahoo.co.jp^
 ||m-oo-m.com/data/report/
 ||measure.ameblo.jp^
@@ -23087,6 +23095,7 @@ cgi-bin/counter
 @@||console.statsig.com/_next/$~third-party
 @@||content.gap.com/fp/check.js$script,domain=oldnavy.gap.com
 @@||content.gap.com/fp/tags.js$script,domain=oldnavy.gap.com
+@@||cookielaw.org^*/OtAutoBlock.js$domain=darkreading.com
 @@||coremetrics.com*/eluminate.js
 @@||coxbusiness.com/R136/assets/newrelic/newrelic.js$~third-party
 @@||cp.rackspace.com/javascript/services/analytics.js?$script,~third-party
@@ -23176,7 +23185,7 @@ cgi-bin/counter
 @@||geoplugin.net/javascript.gp?$script,domain=suicidepreventionlifeline.org|virginmobile.ca
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
 @@||geostag.cardinalcommerce.com/DeviceFingerprintWeb/includes/js/fingerprint2.min.js$script
-@@||get.geojs.io/v1/ip/geo.json$domain=shop.critrole.com
+@@||get.geojs.io/v1/ip/geo.json$domain=namlih.my.id|shop.critrole.com
 @@||getflywheel.com/addons/google-analytics/$~third-party
 @@||getpublica.com/playlist.m3u8$xmlhttprequest
 @@||gettingpersonal.co.uk^*/scripts/app/shared/googleanalytics.js$script,~third-party
@@ -23362,6 +23371,8 @@ cgi-bin/counter
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||rasset.ie/dotie/js/tracker.js$domain=rte.ie
 @@||rba-screen.healthsafe-id.com/fp/tags.js$script,domain=myuhc.com
+@@||realclearpolitics.com/esm/assets/js/admiral.js$~third-party
+@@||realclearpolitics.com/esm/assets/js/analytics/$~third-party,xmlhttprequest
 @@||reallyfreegeoip.org/json/$domain=thekitchensafe.com
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||redbull.com/gtm.js$~third-party
@@ -23825,7 +23836,7 @@ cgi-bin/counter
 @@||google-analytics.com/analytics.js$domain=cmoa.jp
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp|game.anymanager.io|nihontsushin.com|zf1.tohoku-epco.co.jp
-@@||googletagmanager.com/gtm.js$script,domain=animeanime.jp|anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|carcareplus.jp|cinemacafe.net|cmoa.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|dlsite.com|gamebusiness.jp|gamespark.jp|hatenacorp.jp|inside-games.jp|junonline.jp|kakuyomu.jp|mainichi.jp|makitani.net|mangaseek.net|mycar-life.com|nap-camp.com|newscafe.ne.jp|nicovideo.jp|nihontsushin.com|okwave.jp|onlineshop.ocn.ne.jp|radiko.jp|rbbtoday.com|reanimal.jp|resemom.jp|response.jp|rocketnews24.com|sanwacompany.co.jp|scan.netsecurity.ne.jp|spyder7.com|stage.parco.jp|type.jp|viviennewestwood-tokyo.com|wowma.jp|ymobile.jp|youpouch.com|zakzak.co.jp|zf1.tohoku-epco.co.jp|zozo.jp
+@@||googletagmanager.com/gtm.js$script,domain=animeanime.jp|anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|carcareplus.jp|cinemacafe.net|cmoa.jp|costco.co.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|dlsite.com|gamebusiness.jp|gamespark.jp|hatenacorp.jp|inside-games.jp|junonline.jp|kakuyomu.jp|mainichi.jp|makitani.net|mangaseek.net|mycar-life.com|nap-camp.com|newscafe.ne.jp|nicovideo.jp|nihontsushin.com|okwave.jp|onlineshop.ocn.ne.jp|radiko.jp|rbbtoday.com|reanimal.jp|resemom.jp|response.jp|rocketnews24.com|sanwacompany.co.jp|scan.netsecurity.ne.jp|spyder7.com|stage.parco.jp|type.jp|viviennewestwood-tokyo.com|wowma.jp|ymobile.jp|youpouch.com|zakzak.co.jp|zf1.tohoku-epco.co.jp|zozo.jp
 @@||googletagservices.com/tag/js/gpt.js$domain=fukuishimbun.co.jp
 @@||howtonote.jp/google-analytics/$image,~third-party
 @@||in.treasuredata.com/js/*api_key$script,domain=retty.me
@@ -23917,6 +23928,7 @@ cgi-bin/counter
 @@||olx.pl^*/js/tracking/ninja.js$domain=olx.pl
 @@||pataks.pl/core,_assets$script,~third-party
 @@||polfan.pl/*/fingerprint2.min.js$script,~third-party
+@@||pushpushgo.com/js/$script,domain=centrumriviera.pl
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
 @@||staty.portalradiowy.pl/wstats/$script,third-party
 @@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
@@ -93219,6 +93231,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  982429105360946.wt-eu02.net
  997311968670029.wt-eu02.net
  a0ib.ebs-geneve.com
+ a10053.actonservice.com
  a10053.actonsoftware.com
  a10222.actonsoftware.com
  a10255.actonsoftware.com
@@ -107328,6 +107341,7 @@ geoip.cookieyes.com
 geo.ngtv.io
 gfp.intuit.com
 googleoptimize.com
+gtm.wise.com
 handsomehose.com
 hit.interia.pl
 hits.cyberdrop.me
@@ -107346,6 +107360,7 @@ jimny.pro
 jubbie.de
 knottyswing.com
 kraken.rambler.ru
+l.bfmtv.com
 lift.acquia.com
 lists.ccmbg.com
 lit.connatix.com
@@ -107488,6 +107503,7 @@ tag.lexer.io
 tag.statshop.fr
 talltouch.com
 tao.barstoolsports.com
+targetemsecure.blob.core.windows.net
 targeting.focas.jp
 target.microsoft.com
 t.buyist.app
