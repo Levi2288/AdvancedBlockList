@@ -8,6 +8,7 @@
 .click/track?
 .cn/jc.gif?
 .cn/sl.gif?
+.com/_.gif?
 .com/analytics?
 .com/bt/s.png?b=
 .com/clk?
@@ -33,6 +34,7 @@
 .com/stats.aspx?
 .com/track?$~object
 .com/tracking?
+.com/vtrack|
 .content_tracking.
 .d-engine.js
 .de/h.gif?
@@ -2329,6 +2331,7 @@ cgi-bin/counter
 ||pro6e.com^$third-party
 ||proclivitysystems.com^$third-party
 ||profilesnitch.com^$third-party
+||profitmetrics.io^$third-party
 ||programmatictrader.com^$third-party
 ||projectsunblock.com^$third-party
 ||promotionengine.com^$third-party
@@ -9365,6 +9368,8 @@ cgi-bin/counter
 ||c.x.oanda.com^
 ||c.xbox.com^
 ||c.ypcdn.com^$domain=yellowpages.com
+||cambash.com/api/events
+||cambash.com/api/metrics
 ||campsaver.com/nelmio-js-logger/
 ||canstockphoto.com/monitor/
 ||canstockphoto.com/server.php?rqst=track
@@ -24172,6 +24177,25 @@ statsfe2.ws.microsoft.com
 tele.trafficmanager.net
 telecommand.telemetry.microsoft.com
 vortex-win.data.microsoft.com
+win8.ipv6.microsoft.com[Adblock Plus 1.1]
+||reporting-api.gannettinnovation.com^
+||^$third-party,domain=53.com|ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay-kleinanzeigen.de|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.ca|equifax.com|globo.com|gumtree.com|lendup.com|mbna.ca|rusneb.ru|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com|whatleaks.com
+|zazzle.de/svc/px
+||zazzle.ca/botdefender/init.js
+||zazzle.ca/svc/px
+||zazzle.co.nz/botdefender/init.js
+||zazzle.co.nz/svc/px
+||zazzle.co.uk/botdefender/init.js
+||zazzle.co.uk/svc/px
+||zazzle.com.au/botdefender/init.js
+||zazzle.com.au/svc/px
+||zazzle.com/botdefender/init.js
+||zazzle.com/svc/px
+||zazzle.de/botdefender/init.js
+||zazzle.es/botdefender/init.js
+||zazzle.es/svc/px
+||zazzle.fr/botdefender/init.js
+||zazzle.fr/svc/px
 win8.ipv6.microsoft.com# ------------------------------------[UPDATE]--------------------------------------
  1-cl0ud.com
  1-creative-1.com
@@ -95474,6 +95498,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  extranets.criteo.com
  extranets.da1.vip.prod.criteo.com
  extranets.jp2.vip.prod.criteo.com
+ extranets.nl3.vip.prod.criteo.com
  extranets.par.vip.prod.criteo.com
  extranets.sg1.vip.prod.criteo.com
  eyefinity.actonsoftware.com
@@ -107408,7 +107433,6 @@ logstash-3.radio-canada.ca
 log.zdnet.co.kr
 lokalwerben.t-online.de
 longingtrees.com
-mat.socy.es
 matt.mercadolivre.com.br
 maxtrafixx.tech
 mb-tracking.com
@@ -107472,6 +107496,7 @@ push-sdk.net
 pv.sohu.com
 px.srvcs.tumblr.com
 pzapi-kg.com
+rac.ruutu.fi
 ras.yahoo.com
 rba-screen.healthsafe-id.com
 realtimely.io
@@ -107494,6 +107519,7 @@ serpentshampoo.com
 sgali-mcs.byteoversea.com
 sgstats.com
 shiveringspot.com
+shiverscissors.com
 sitecounter.site
 slackb.com
 smashquartz.com
