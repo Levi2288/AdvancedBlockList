@@ -4349,6 +4349,7 @@ cgi-bin/counter
 ||puffypaste.com^
 ||puffypull.com^$third-party
 ||puffypurpose.com^$third-party
+||pumpedpancake.com^
 ||punyplant.com^
 ||purchasesuggestion.com^
 ||puzzlingproperty.com^
@@ -7340,6 +7341,7 @@ cgi-bin/counter
 ||relaymedia.com/ping?$third-party
 ||removeads.workers.dev^
 ||replyat.com/gadgetpagecounter.asp?
+||reporting-api.gannettinnovation.com^
 ||reporting.cdndex.io^
 ||reporting.singlefeed.com^
 ||reports-api.sqreen.io^
@@ -7435,6 +7437,8 @@ cgi-bin/counter
 ||shoplocal.com/it.ashx?
 ||shopnetic.com^$third-party
 ||shorthand.com/analytics/
+||showstopped.com/owa/log.php
+||showstopped.com/owa/modules/base/dist/owa.tracker.js
 ||sinajs.cn/open/analytics/
 ||sitebooster.com/sb/wix/p?$third-party
 ||sitefinity.com/collect/
@@ -8890,6 +8894,7 @@ cgi-bin/counter
 ||storage.googleapis.com/rasin/*/hm.js
 ||sweet-candy.jp/c.php?$third-party
 ||sync.shinobi.jp^
+||sysmon.kakaku.com^
 ||t.adlpo.com^
 ||t.felmat.net^$third-party
 ||t.seesaa.net^
@@ -9895,7 +9900,8 @@ cgi-bin/counter
 ||net.haier.com^
 ||netflix.com/msl/playapi/cadmium/logblob/
 ||netuplayer.top/cdn-cgi/trace
-||newegg.com/amber3/tracking?
+||newegg.com/amber3/
+||newegg.com/gfplib.js
 ||news.google.com/_/v
 ||newscom.com/js/v2/ga.js
 ||newser.com/utility.aspx?
@@ -10620,6 +10626,7 @@ cgi-bin/counter
 ||z492.ctinsider.com^
 ||z680.beaumontenterprise.com^
 ||zion.qbo.intuit.com^
+|zazzle.de/svc/px
 ||anthropologie.com/XgWM9nuH/init.js
 ||apartmenttherapy.com/jAYekY18/init.js
 ||auctionzip.com/eKtvxkQ2/init.js
@@ -10690,10 +10697,21 @@ cgi-bin/counter
 ||whois.com/js/gtmDataLayer.js
 ||wine-searcher.com/K6S8okp3/init.js
 ||worthpoint.com/lIUjcOwl/init.js
-||zazzle.ca/a0o07ort/init.js
-||zazzle.co.uk/a0o07ort/init.js
-||zazzle.com.au/a0o07ort/init.js
-||zazzle.com/a0o07ort/init.js
+||zazzle.ca/botdefender/init.js
+||zazzle.ca/svc/px
+||zazzle.co.nz/botdefender/init.js
+||zazzle.co.nz/svc/px
+||zazzle.co.uk/botdefender/init.js
+||zazzle.co.uk/svc/px
+||zazzle.com.au/botdefender/init.js
+||zazzle.com.au/svc/px
+||zazzle.com/botdefender/init.js
+||zazzle.com/svc/px
+||zazzle.de/botdefender/init.js
+||zazzle.es/botdefender/init.js
+||zazzle.es/svc/px
+||zazzle.fr/botdefender/init.js
+||zazzle.fr/svc/px
 ||zillow.com/HYx10rg3/init.js
 ||zoominfo.com/osx7m0dx/init.js
 ://a02342.
@@ -23222,7 +23240,7 @@ cgi-bin/counter
 @@||gomokuworld.com/app/modules/analyze.js$~third-party
 @@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|healthrangerstore.com|jackbox.tv|k2radio.com|koel.com|kowb1290.com|stressless.com|tracking.narvar.com|truwin.com|westernunion.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
-@@||googleoptimize.com/optimize.js$script,domain=binglee.com.au|inquirer.com|investing.com|lodgecastiron.com|tentree.ca
+@@||googleoptimize.com/optimize.js$script,domain=binglee.com.au|inquirer.com|investing.com|lodgecastiron.com|tentree.ca|virginmedia.com
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|montcopa.org|schwab.com|toptal.com|virginplus.ca|winefolly.com
 @@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|binglee.com.au|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|houseofbilocca.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|montcopa.org|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|theretrofitsource.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||gov.au/Scripts/ga.js$script,~third-party
@@ -23322,7 +23340,6 @@ cgi-bin/counter
 @@||mxpnl.com^$domain=mixpanel.com
 @@||my.dxdelivery.com/js/tracking.js$script,~third-party
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
-@@||myaccount.depositprotection.com/Scripts/lib/jsnlog/$script,~third-party
 @@||mycourses.pearson.com/shared/static/*/component/ga.min.js$~third-party
 @@||mywebar.com/js/tracking_worker.js$~third-party
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
@@ -23353,7 +23370,6 @@ cgi-bin/counter
 @@||ondemand.sas.com^$subdocument
 @@||onenote.com^*/aria-web-telemetry
 @@||online-metrix.net/fp/tags.js$domain=donorschoose.org
-@@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||onlyfans.com/theme/onlyfans/spa/statistics.js$~third-party
 @@||open.spotifycdn.com/cdn/build/embed/overture.$script,domain=open.spotify.com
@@ -23431,6 +23447,7 @@ cgi-bin/counter
 @@||sephora-track.inside-graph.com/gtm/$domain=sephora.com
 @@||sephora-track.inside-graph.com/ig.js$domain=sephora.com
 @@||sephora.com/js/ufe/isomorphic/thirdparty/fp.min.js$script,~third-party
+@@||service.apport.net/apport-spa-common/src/tracking/tracking.js$~third-party
 @@||shoonya.finvasia.com/fingerprint2.min.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
@@ -24177,25 +24194,6 @@ statsfe2.ws.microsoft.com
 tele.trafficmanager.net
 telecommand.telemetry.microsoft.com
 vortex-win.data.microsoft.com
-win8.ipv6.microsoft.com[Adblock Plus 1.1]
-||reporting-api.gannettinnovation.com^
-||^$third-party,domain=53.com|ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay-kleinanzeigen.de|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.ca|equifax.com|globo.com|gumtree.com|lendup.com|mbna.ca|rusneb.ru|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com|whatleaks.com
-|zazzle.de/svc/px
-||zazzle.ca/botdefender/init.js
-||zazzle.ca/svc/px
-||zazzle.co.nz/botdefender/init.js
-||zazzle.co.nz/svc/px
-||zazzle.co.uk/botdefender/init.js
-||zazzle.co.uk/svc/px
-||zazzle.com.au/botdefender/init.js
-||zazzle.com.au/svc/px
-||zazzle.com/botdefender/init.js
-||zazzle.com/svc/px
-||zazzle.de/botdefender/init.js
-||zazzle.es/botdefender/init.js
-||zazzle.es/svc/px
-||zazzle.fr/botdefender/init.js
-||zazzle.fr/svc/px
 win8.ipv6.microsoft.com# ------------------------------------[UPDATE]--------------------------------------
  1-cl0ud.com
  1-creative-1.com
@@ -93890,6 +93888,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  b.e.ubertidricksettlement.com
  b.fox.com
  b.foxsports.com
+ b.fr3.vip.prod.criteo.com
  bfs.bibbyfs.net
  bft5.destinia.fr
  bfv01.wt-eu02.net
@@ -94071,6 +94070,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  cat.criteo.com
  cat.da1.vip.prod.criteo.com
  cat.da.us.criteo.com
+ cat.fr3.vip.prod.criteo.com
  cat.fr.eu.criteo.com
  cat.hlserve.com
  cati.mcad.com
@@ -94092,6 +94092,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  cbsd.am5.vip.prod.criteo.com
  cbsd.da1.vip.prod.criteo.com
  cbsd.eu.criteo.com
+ cbsd.fr3.vip.prod.criteo.com
  cbsdigitalmedia.hb.omtrdc.net
  cbsd.nl3.vip.prod.criteo.com
  cbsd.par.vip.prod.criteo.com
@@ -94581,6 +94582,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  ctlayn.talbots.com
  culturesforhealth.postaffiliatepro.com
  customer-account-management-webapp.da1.vip.prod.criteo.com
+ customer-account-management-webapp.fr3.vip.prod.criteo.com
  customer-account-management-webapp.par.vip.prod.criteo.com
  customer.newsflare.com
  custvpn.cainus.teradatadmc.com
@@ -95497,6 +95499,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  exp.sofology.co.uk
  extranets.criteo.com
  extranets.da1.vip.prod.criteo.com
+ extranets.fr3.vip.prod.criteo.com
  extranets.jp2.vip.prod.criteo.com
  extranets.nl3.vip.prod.criteo.com
  extranets.par.vip.prod.criteo.com
@@ -95837,6 +95840,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc2.sg1.as.criteo.com
  gbc2.va.us.criteo.com
  gbc3.da.us.criteo.com
+ gbc3.fr3.eu.criteo.com
  gbc3.fr.eu.criteo.com
  gbc3.jp2.as.criteo.com
  gbc3.nl3.eu.criteo.com
@@ -97064,6 +97068,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gum.am5.vip.prod.criteo.com
  gum.criteo.com
  gum.da1.vip.prod.criteo.com
+ gum.fr3.vip.prod.criteo.com
  gum.jp2.vip.prod.criteo.com
  gum.nl3.vip.prod.criteo.com
  gum.par.vip.prod.criteo.com
@@ -106922,6 +106927,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  widget.am5.vip.prod.criteo.com
  widget.as.criteo.com
  widget.da1.vip.prod.criteo.com
+ widget.fr3.vip.prod.criteo.com
  widget.jp2.vip.prod.criteo.com
  widget.nl3.vip.prod.criteo.com
  widget.par.vip.prod.criteo.com
@@ -107492,6 +107498,7 @@ protestcopy.com
 pt.legalstart.fr
 p.typekit.net
 pubgw.yahoo.com
+pumpedpancake.com
 push-sdk.net
 pv.sohu.com
 px.srvcs.tumblr.com
@@ -107502,6 +107509,7 @@ rba-screen.healthsafe-id.com
 realtimely.io
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
+reporting-api.gannettinnovation.com
 restrainstorm.com
 ring.staticmoly.me
 robotflowermobile.com
