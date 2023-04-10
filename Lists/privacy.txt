@@ -6352,6 +6352,7 @@ cgi-bin/counter
 ||counter.cam-content.com^
 ||counter.hyipexplorer.com^
 ||counter.jdi5.com^
+||counter.live4members.com^
 ||counter.maases.com^
 ||counter.packa2.cz^
 ||counter.powr.io^
@@ -6452,6 +6453,7 @@ cgi-bin/counter
 ||dmdt.io/collect
 ||domodomain.com^*/ddsense.aspx?
 ||doppiocdn.com/healthcheck
+||doppiocdn.org/healthcheck
 ||doppler-beacons.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
@@ -9360,6 +9362,7 @@ cgi-bin/counter
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
 ||beam.bankrate.com^
+||beat.socialblade.com^
 ||behance.net/v2/an/pv
 ||bfp.capitalone.com^
 ||bhphotovideo.com/aperture/client/logs
@@ -9469,7 +9472,6 @@ cgi-bin/counter
 ||crta.metro.co.uk^
 ||crumbs.robinhood.com^
 ||crunchyroll.com/tracker?
-||cryo.socialblade.com^
 ||cstats.sankakucomplex.com^
 ||ctrl.blog/assets/script/log-
 ||cultofmac.com/djrxqhzkbsgf.js
@@ -9696,7 +9698,6 @@ cgi-bin/counter
 ||gtreus.aliexpress.com^
 ||gumtree.com.au/tracking/
 ||gurgle.pcmag.com^
-||hanaana.socialblade.com^
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
 ||hbo.com/events/
@@ -10380,6 +10381,7 @@ cgi-bin/counter
 ||traceparts.com/logs
 ||track-visit.monday.com^
 ||track.dictionary.com^
+||track.eurogirlsescort.com^
 ||track.kueez.com^
 ||track.lexico.com^
 ||track.mrgugu.com^
