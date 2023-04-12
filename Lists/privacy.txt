@@ -953,6 +953,7 @@ cgi-bin/counter
 ||bionicclick.com^$third-party
 ||bizible.com^$third-party
 ||bizo.com^$third-party
+||bizseasky.com^$third-party
 ||bizspring.net^$third-party
 ||bjcathay.com^$third-party
 ||bkvtrack.com^$third-party
@@ -2734,6 +2735,7 @@ cgi-bin/counter
 ||stats4you.com^$third-party
 ||statsbox.nl^$third-party
 ||statsig.com^$third-party
+||statsigapi.net^$third-party
 ||statsinsight.com^$third-party
 ||statsit.com^$third-party
 ||statsmachine.com^$third-party
@@ -6549,7 +6551,6 @@ cgi-bin/counter
 ||events.shareably.net^
 ||events.splash-screen.net^
 ||events.split.io^
-||events.statsigapi.net^
 ||events.tubecup.org^
 ||events.ubembed.com^
 ||events.whisk.com^
@@ -23476,6 +23477,7 @@ cgi-bin/counter
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
 @@||signalshares.com/webtrends.min.js$script,~third-party
+@@||simcotools.app/assets/adsense-*.js$~third-party
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||smartrevise.online/css/analytics.min.css$~third-party
 @@||smartrevise.online/js/teacher.analytics.min.js$~third-party
@@ -95873,6 +95875,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc3.sg1.as.criteo.com
  gbc3.va.us.criteo.com
  gbc4.da.us.criteo.com
+ gbc4.fr3.eu.criteo.com
  gbc4.fr.eu.criteo.com
  gbc4.jp2.as.criteo.com
  gbc4.nl3.eu.criteo.com
@@ -107307,6 +107310,7 @@ analytics.oyorooms.com
 analytics.spun.com.br
 analytics.synchrony.com
 analytics-tracking.meetup.com
+analytics.wavebox.io
 analytics.yugen.to
 anonstat.pw
 api-js.mixpanel.com
@@ -107316,6 +107320,7 @@ at.360.audion.fm
 auriro.net
 averageactivity.com
 b0.yahoo.co.jp
+beaconcdn.qq.com
 beacon.dropbox.com
 beacon.sftoaa.com
 beat.yourtv.jp
@@ -107364,6 +107369,7 @@ content22.citibank.com.au
 convead.io
 conversion.mooncard.co
 cookie.codemarketing.cloud
+counter.powr.io
 counter.reddigital.ru
 counter.wikiwiki.jp
 count-server.sharethis.com
@@ -107379,6 +107385,7 @@ d2ef20sk9hi1u3.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
 d3gi6isrskhoq.cloudfront.net
 datadome.patreon.com
+data.sportdeutschland.tv
 dbhsejcg-meetup-com.cdnjs.network
 dcinfos-cache.abtasty.com
 dggaenaawxe8z.cloudfront.net
@@ -107401,7 +107408,9 @@ easycompute.systems
 edge.staging.fullstory.com
 e.legalstart.fr
 e.metarouter.io
+engineertrick.com
 engine.traceparts.com
+epimetheus.navigator.web.de
 eq.userneeds.com
 etl.springbot.com
 etop.ro
@@ -107526,6 +107535,7 @@ predictplate.com
 priceypies.com
 prod-events.nykaa.com
 protestcopy.com
+pstt.mtb-news.de
 pt.legalstart.fr
 p.typekit.net
 pubgw.yahoo.com
@@ -107663,6 +107673,7 @@ vercel-vitals.axiom.co
 vfgte.com
 view.fujitv.co.jp
 virtualvincent.com
+visit.xchina.pics
 visor.sberbank.ru
 vpdcp.com
 vstats.me
