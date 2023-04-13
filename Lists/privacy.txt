@@ -1330,7 +1330,6 @@ cgi-bin/counter
 ||ecustomeropinions.com^$third-party
 ||edgeadx.net^$third-party
 ||edigitalsurvey.com^$third-party
-||educationdynamics.com^$third-party
 ||eggplant.cloud^$third-party
 ||ekmpinpoint.co.uk^$third-party
 ||ekmpinpoint.com^$third-party
@@ -6509,6 +6508,7 @@ cgi-bin/counter
 ||equalweb.com/statistics.taf
 ||erne.co/tags?
 ||errors.snackly.co^
+||et.educationdynamics.com^
 ||etahub.com^*/track?site_id
 ||etl.springbot.com^
 ||etoro.com/tradesmonitor/
@@ -8750,6 +8750,7 @@ cgi-bin/counter
 ||analytics2-meride-tv.akamaized.net^
 ||aruba.it/servlet/counterserver?
 ||audit.shaa.it^
+||bemail.it^*/analytics.js
 ||click.kataweb.it^
 ||cnt.iol.it^
 ||d32hwlnfiv2gyn.cloudfront.net^
@@ -9216,6 +9217,7 @@ cgi-bin/counter
 ||abcnews.com/assets/dtci/js/at.js
 ||abebooks.com/timer.gif?
 ||about.me/track?
+||abysscdn.com/cdn-cgi/trace
 ||academia.edu/record_hit
 ||accuterm.com/data/stat.js
 ||acronymfinder.com/~/tr.ashx
@@ -10659,6 +10661,7 @@ cgi-bin/counter
 ||booktopia.com.au/Ns7aBMIv/init.js
 ||brownsshoes.com/IZ/2tcS0qiG/init.js
 ||build.com/2Ztkihy4/init.js
+||calvinklein.us/n8ANl15k/init.js
 ||carbon38.com/A44kxi5a/init.js
 ||careermatch.com/oGckki0e/init.js
 ||carolsdaughter.com/IZ/uaPO0cuk/init.js
@@ -17118,7 +17121,6 @@ cgi-bin/counter
 ||digitalmarketing.smu.edu.sg^
 ||direct.t-mobile.com^
 ||discover.dignityhealth.org^
-||discover.interlochen.org^
 ||discover.proshipinc.com^
 ||dppublishinginc.actonservice.com^
 ||durst-group.actonservice.com^
@@ -23525,6 +23527,7 @@ cgi-bin/counter
 @@||techrepublic.com^*/dw-tracking-1.0.js$~third-party
 @@||tennispro.eu/min/?$script,~third-party
 @@||texasroadhouse.com/common/javascript/google-analytics.js
+@@||thaiairways.com/static/common/js/wt_js/webtrends.min.js$~third-party
 @@||the-japan-news.com/modules/js/lib/fgp/fingerprint2.js
 @@||thetenthwatch.com/js/tracking.js$~third-party
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party
@@ -94868,6 +94871,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  dynamic.am5.vip.prod.criteo.com
  dynamic.criteo.com
  dynamic.da1.vip.prod.criteo.com
+ dynamic.fr3.vip.prod.criteo.com
  dynamic.jp2.vip.prod.criteo.com
  dynamic.nl3.vip.prod.criteo.com
  dynamic.par.vip.prod.criteo.com
@@ -95860,6 +95864,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc1.sg1.as.criteo.com
  gbc1.va.us.criteo.com
  gbc2.da.us.criteo.com
+ gbc2.fr3.eu.criteo.com
  gbc2.fr.eu.criteo.com
  gbc2.jp2.as.criteo.com
  gbc2.nl3.eu.criteo.com
@@ -95891,6 +95896,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc5.sg1.as.criteo.com
  gbc5.va.us.criteo.com
  gbc6.da.us.criteo.com
+ gbc6.fr3.eu.criteo.com
  gbc6.fr.eu.criteo.com
  gbc6.jp2.as.criteo.com
  gbc6.nl3.eu.criteo.com
