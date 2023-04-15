@@ -257,6 +257,7 @@ cgi-bin/counter
 .sendibt2.com/tr/op/$image
 .simplicitycrm.com/rd/
 .smartrmail.co/o/$image
+.smtp.net/o/$image
 .southwest.com/r/$image
 .sparkpostmail.com/q/$image
 .sparkpostmail2.com/q/$image
@@ -452,6 +453,7 @@ cgi-bin/counter
 ||hsleadflows.net^
 ||hubty.network^
 ||i218435.net^
+||icanhazip.com^
 ||id5-sync.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -846,6 +848,7 @@ cgi-bin/counter
 ||aprtx.com^$third-party
 ||apsis1.com^$third-party
 ||apsislead.com^$third-party
+||aptrinsic.com^$third-party
 ||aqtracker.com^$third-party
 ||aralego.net^$third-party
 ||arcadeweb.com^$third-party
@@ -2746,7 +2749,6 @@ cgi-bin/counter
 ||stattrax.com^$third-party
 ||statun.com^$third-party
 ||statuncore.com^$third-party
-||steadfastsystem.com^$third-party
 ||steelhousemedia.com^$third-party
 ||stellaservice.com^$third-party
 ||sterlingwoods.com^$third-party
@@ -3628,6 +3630,7 @@ cgi-bin/counter
 ||arizonapuzzle.com^
 ||aromamirror.com^
 ||aspiringattempt.com^
+||attractionapples.com^
 ||attractionbanana.com^
 ||attractiveafternoon.com^
 ||attractivecap.com^$third-party
@@ -3637,6 +3640,7 @@ cgi-bin/counter
 ||automaticairplane.com^
 ||automaticflock.com^
 ||automaticside.com^$third-party
+||availablerest.com^
 ||avalonalbum.com^
 ||averageactivity.com^
 ||averageamusement.com^
@@ -3652,6 +3656,7 @@ cgi-bin/counter
 ||balloontexture.com^
 ||bandborder.com^$third-party
 ||barbarousnerve.com^
+||baseballbone.com^
 ||basketballbelieve.com^$third-party
 ||baskettexture.com^$third-party
 ||batbuilding.com^
@@ -3662,6 +3667,7 @@ cgi-bin/counter
 ||bawdypets.com^
 ||beadbears.com^
 ||beamincrease.com^
+||beamvolcano.com^
 ||beastbeef.com^
 ||beautifulhobbies.com^
 ||bedsberry.com^
@@ -3702,12 +3708,14 @@ cgi-bin/counter
 ||breakfastboat.com^$third-party
 ||briefbears.com^
 ||briefstem.com^
+||broadborder.com^
 ||broadboundary.com^
 ||broadcastbed.com^$third-party
 ||broaddoor.com^$third-party
 ||brothersbucket.com^
 ||bruisebaseball.com^
 ||bucketbean.com^
+||buildingknife.com^
 ||bulbbait.com^
 ||bunchance.com^
 ||burgerbrush.com^
@@ -3743,6 +3751,7 @@ cgi-bin/counter
 ||catalogdiscovery.com^
 ||catschickens.com^
 ||causecherry.com^$third-party
+||cautiouscamera.com^
 ||cautiouscrate.com^$third-party
 ||cautiouscredit.com^
 ||chairscrack.com^
@@ -3794,9 +3803,11 @@ cgi-bin/counter
 ||conditionchange.com^
 ||conditioncrush.com^
 ||confesschairs.com^$third-party
+||confusedcart.com^
 ||consciouschairs.com^$third-party
 ||consciouscheese.com^
 ||consciousdirt.com^
+||considermice.com^
 ||consistpotato.com^
 ||controlswim.com^
 ||cookchalk.com^
@@ -3819,6 +3830,7 @@ cgi-bin/counter
 ||critictruck.com^
 ||crowdedmass.com^
 ||cubchannel.com^
+||cuddlycake.com^
 ||culturedcrayon.com^$third-party
 ||cumbersomecake.com^
 ||cumbersomecar.com^
@@ -3873,6 +3885,7 @@ cgi-bin/counter
 ||difficultfog.com^
 ||diplomahawaii.com^$third-party
 ||discreetfield.com^$third-party
+||discreetquarter.com^
 ||dispensablestranger.com^
 ||distancefinger.com^
 ||distinctday.com^$third-party
@@ -3942,8 +3955,10 @@ cgi-bin/counter
 ||enviousthread.com^
 ||erraticreaction.com^
 ||evaluateend.com^
+||evaluatestream.com^
 ||evanescentedge.com^
 ||exchangedetail.com^
+||excitingtub.com^
 ||exclusivebrass.com^
 ||expansioneggnog.com^
 ||experienceeggs.com^
@@ -3966,6 +3981,7 @@ cgi-bin/counter
 ||farethief.com^
 ||farmergoldfish.com^
 ||farshake.com^
+||farsnails.com^
 ||fascinatedfeather.com^
 ||fastenfather.com^
 ||fatcoil.com^
@@ -4025,6 +4041,7 @@ cgi-bin/counter
 ||giftedglue.com^
 ||giftedthumb.com^
 ||giraffepiano.com^$third-party
+||gleamingcow.com^
 ||gleamingtrade.com^
 ||glisteningguide.com^$third-party
 ||glisteningsign.com^
@@ -4033,6 +4050,7 @@ cgi-bin/counter
 ||glossysense.com^
 ||godlygeese.com^
 ||gondolagnome.com^
+||gorgeousedge.com^
 ||gorgeousground.com^$third-party
 ||gracefulsock.com^
 ||grandioseguide.com^
@@ -4044,7 +4062,9 @@ cgi-bin/counter
 ||greetzebra.com^
 ||greyinstrument.com^$third-party
 ||gripcorn.com^
+||groovyornament.com^
 ||grouchypush.com^
+||grumpydrawer.com^
 ||guaranteelamp.com^
 ||guardedschool.com^
 ||guiltlessbasketball.com^
@@ -4090,7 +4110,9 @@ cgi-bin/counter
 ||honorableland.com^$third-party
 ||hoplaugh.com^
 ||hosenews.com^
+||hothydrant.com^
 ||humdrumhat.com^
+||humdrumhobbies.com^
 ||hurtgrape.com^
 ||hurtteeth.com^
 ||hypnoticwound.com^
@@ -4143,6 +4165,7 @@ cgi-bin/counter
 ||knotkettle.com^
 ||knottysticks.com^
 ||knottyswing.com^
+||laboredlocket.com^
 ||lackadaisicalkite.com^
 ||lagoonolivia.com^
 ||lameletters.com^$third-party
@@ -4156,6 +4179,7 @@ cgi-bin/counter
 ||leaplunchroom.com^$third-party
 ||learnedmarket.com^
 ||leftliquid.com^
+||legalleg.com^
 ||lettucecopper.com^
 ||lettucelimit.com^
 ||levelbehavior.com^$third-party
@@ -4194,16 +4218,20 @@ cgi-bin/counter
 ||materialexample.com^
 ||materialisticfan.com^
 ||materialisticmark.com^
+||materialisticmoon.com^
 ||materialmoon.com^$third-party
 ||measlymiddle.com^
 ||measurecaption.com^
 ||meatydime.com^
+||meddleplant.com^
+||mediatescarf.com^
 ||medusasailor.com^
 ||melodicminute.com^
 ||meltmilk.com^
 ||memopilot.com^
 ||memorizeneck.com^$third-party
 ||memorycobweb.com^
+||mentorsticks.com^
 ||meremark.com^
 ||messagenovice.com^
 ||messyoranges.com^
@@ -4342,6 +4370,7 @@ cgi-bin/counter
 ||pricklyplastic.com^
 ||printerplasma.com^
 ||producecopy.com^$third-party
+||producepickle.com^
 ||productivepear.com^
 ||profitrumour.com^$third-party
 ||profusesupport.com^
@@ -4357,6 +4386,7 @@ cgi-bin/counter
 ||pumpedpancake.com^
 ||punyplant.com^
 ||purchasesuggestion.com^
+||pushypipe.com^
 ||puzzlingproperty.com^
 ||q20jqurls0y7gk8.info^
 ||quacksquirrel.com^
@@ -4365,6 +4395,7 @@ cgi-bin/counter
 ||quarterbean.com^
 ||quicksandear.com^
 ||quietknowledge.com^$third-party
+||quillkick.com^
 ||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
@@ -4449,6 +4480,7 @@ cgi-bin/counter
 ||scarecrowslip.com^
 ||scarecrowslope.com^
 ||scaredcomfort.com^
+||scaredfarm.com^
 ||scaredsidewalk.com^
 ||scaredsnake.com^
 ||scaredsnakes.com^
@@ -4468,6 +4500,7 @@ cgi-bin/counter
 ||screechingfurniture.com^
 ||screechingslip.com^$third-party
 ||screechingstove.com^
+||scribblestring.com^
 ||scrollservice.com^
 ||scrubswim.com^$third-party
 ||seashoresociety.com^
@@ -4570,6 +4603,7 @@ cgi-bin/counter
 ||specialscissors.com^
 ||specialsnake.com^
 ||specialstatement.com^
+||spellmist.com^
 ||spellsalsa.com^
 ||spendpest.com^
 ||spidersboats.com^
@@ -4714,8 +4748,11 @@ cgi-bin/counter
 ||threetruck.com^
 ||throattrees.com^
 ||thunderingrose.com^
+||thunderingtendency.com^
 ||ticketaunt.com^
 ||ticklesign.com^
+||tidymitten.com^
+||tightpowder.com^
 ||timeterritory.com^
 ||timetwig.com^
 ||tinytendency.com^
@@ -4817,6 +4854,7 @@ cgi-bin/counter
 ||wtaccesscontrol.com^
 ||xovq5nemr.com^
 ||yamstamp.com
+||yamstamp.com^
 ||youngmarble.com^
 ||youthfulnoise.com^
 ||zbwp6ghm.com^
@@ -6301,6 +6339,7 @@ cgi-bin/counter
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
+||collector.appconsent.io^$image
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
@@ -6729,7 +6768,7 @@ cgi-bin/counter
 ||gtrk.s3.amazonaws.com^
 ||gu-pix.appspot.com^$third-party
 ||gubagoo.com/modules/tracking/
-||gubagoo.io/track/
+||gubagoo.io/c/$image
 ||h2porn.com/new-hit/?
 ||happen.spkt.io^
 ||happymod.io/event/
@@ -6978,7 +7017,7 @@ cgi-bin/counter
 ||luminate.com/track/
 ||lycos.com/hb.js
 ||m.addthisedge.com^
-||m.stripe.com^
+||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
@@ -7861,6 +7900,7 @@ cgi-bin/counter
 ||traq.li/tracker/
 ||travel-assets.com/datacapture/
 ||travix.com/log
+||traxex.gannettdigital.com^
 ||trc.pushnami.com^
 ||tree-nation.com/js/track.js
 ||trends.newsmaxwidget.com^
@@ -7874,7 +7914,6 @@ cgi-bin/counter
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
-||trustcommander.net/privacy/$third-party
 ||trustedform.com/trustedform.js?provide_referrer
 ||trustpilot.com/stats/
 ||try.abtasty.com^
@@ -8400,6 +8439,7 @@ cgi-bin/counter
 ||onlyfree.de^*/counterservice/
 ||orbidder.otto.de^
 ||ottogroup.media/ogm.nitro.
+||pixel.poptok.com^
 ||plausible.ams.to^
 ||plista.com/getuid?
 ||plista.com/iframeShowItem.php
@@ -9207,6 +9247,7 @@ cgi-bin/counter
 ||9gag.com/track/
 ||a-reporting.nytimes.com^
 ||a.electerious.com^
+||a.tellonym.me^
 ||a10.nationalreview.com^
 ||aa.avvo.com^
 ||aax-eu-dub.amazon.com^$script
@@ -9849,6 +9890,7 @@ cgi-bin/counter
 ||mangadex.org/p.js
 ||manua.ls/g/collect?
 ||manua.ls/gtag
+||mapcarta.com/logs
 ||mapquest.com/logger
 ||marketing.alibaba.com^
 ||massivecams.com/api/events
@@ -10482,6 +10524,7 @@ cgi-bin/counter
 ||walmart.com/client/api/logs
 ||walmart.com/client/api/metrics
 ||walmartimages.com^*/cdn-perf.min.js$domain=walmart.com
+||watchonlinehd123.sbs/cdn-cgi/trace
 ||watchsomuch.to/AD/
 ||wblt.oui.sncf^
 ||wc.yahoodns.net^$image
@@ -22544,6 +22587,7 @@ cgi-bin/counter
 ||bnamic.com/referrer/
 ||c-date.it/tracking?
 ||c-date.it^*/tracking2/tr.js
+||c.corriere.it^
 ||catalove.com/bimp/
 ||catalove.com/ntv/
 ||click.tv.repubblica.it^
@@ -23270,7 +23314,7 @@ cgi-bin/counter
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=binglee.com.au|inquirer.com|investing.com|lodgecastiron.com|tentree.ca|virginmedia.com
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|montcopa.org|schwab.com|toptal.com|virginplus.ca|winefolly.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|binglee.com.au|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|houseofbilocca.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|montcopa.org|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|theretrofitsource.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|binglee.com.au|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|houseofbilocca.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|luko.eu|mcgeeandco.com|mercell.com|montcopa.org|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|theretrofitsource.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$~third-party
@@ -23704,7 +23748,6 @@ cgi-bin/counter
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=programme-tv.net
 @@||caf.fr^*/smarttag.js$script,~third-party
 @@||cdiscount.com/Js/tracking/cdtmv2.js$script,~third-party
-@@||cdn.trustcommander.net/privacy$script,domain=tf1.fr
 @@||chronopost.fr/tracking-no-cms/resources/js/lib/atinternet/smarttag.prod.$script
 @@||cmp.telerama.fr/js/telerama.min.js$~third-party
 @@||connect.facebook.net^*/fbevents.js$domain=elinoi.com
@@ -23729,7 +23772,6 @@ cgi-bin/counter
 @@||tag.aticdn.net^*/smarttag.js$domain=gouv.fr|mon.compteczam.fr
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|capital.fr|voici.fr
 @@||trustcommander.net/iab-tcfapi/tcfapi.js$script,domain=tf1info.fr
-@@||trustcommander.net/privacy/*/privacy$script,domain=tf1info.fr
 @@||ultimedia.com/api/widget/getwidget/$xmlhttprequest,domain=ouest-france.fr
 @@||vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be
 @@||vuplay.co.uk/stats/adobe/*/VisitorAPI.js$script,domain=radioplus.be
@@ -107329,6 +107371,8 @@ b0.yahoo.co.jp
 beaconcdn.qq.com
 beacon.dropbox.com
 beacon.sftoaa.com
+beamvolcano.com
+beat.socialblade.com
 beat.yourtv.jp
 behavior.tongdun.net
 b.karte.io
@@ -107375,6 +107419,7 @@ content22.citibank.com.au
 convead.io
 conversion.mooncard.co
 cookie.codemarketing.cloud
+counter.live4members.com
 counter.powr.io
 counter.reddigital.ru
 counter.wikiwiki.jp
@@ -107383,7 +107428,6 @@ cp.official-coupons.com
 cp.official-deals.co.uk
 crashchance.com
 crossees.com
-cryo.socialblade.com
 ctx.citiservi.es
 cushiondrum.com
 d11bdev7tcn7wh.cloudfront.net
@@ -107418,6 +107462,7 @@ engineertrick.com
 engine.traceparts.com
 epimetheus.navigator.web.de
 eq.userneeds.com
+et.educationdynamics.com
 etl.springbot.com
 etop.ro
 eu-mobile.events.data.microsoft.com
@@ -107458,6 +107503,7 @@ hits.cyberdrop.me
 hits.letras.mus.br
 hstats.hepsiburada.com
 hubty.network
+icanhazip.com
 idstatus.sky.com
 ih.newegg.com
 imgs.signifyd.com
@@ -107509,7 +107555,6 @@ monitor.azure.com
 monitoring.iraiser.eu
 mr.homedepot.ca
 mstm.motorsport.com
-m.stripe.com
 mxpl.9gag.com
 naanalle.pl
 nct.ui-portal.de
@@ -107528,6 +107573,7 @@ painstakingpickle.com
 p.fusevideo.net
 p.hentaiforce.net
 pixel.archipro.co.nz
+pixel.poptok.com
 pixel.redgifs.com
 pixmg.com
 plausiblecdn.co
@@ -107550,6 +107596,7 @@ push-sdk.net
 pv.sohu.com
 px.srvcs.tumblr.com
 pzapi-kg.com
+quillkick.com
 rac.ruutu.fi
 ras.yahoo.com
 rba-screen.healthsafe-id.com
@@ -107569,6 +107616,7 @@ ruralrobin.com
 s5.charliehebdo.fr
 sadloaf.com
 scrapesleep.com
+scribblestring.com
 search.anonymous.ads.brave.com
 serpentshampoo.com
 sgali-mcs.byteoversea.com
@@ -107632,6 +107680,7 @@ telem.sre.gopuff.com
 tgw.gmx.ch
 tgw.gmx.net
 tgw.web.de
+tightpowder.com
 tla.traderlink.com
 tmetrix.my.chick-fil-a.com
 tm.jsuol.com.br
@@ -107646,6 +107695,7 @@ tracker.hdtvcloud.com
 tracker.novage.com.ua
 tracker.ranker.com
 tracker.services.vaix.ai
+track.eurogirlsescort.com
 tracking3.vnncdn.net
 tracking-api-4lasu2nlcq-ew.a.run.app
 tracking.digitalocean.com
