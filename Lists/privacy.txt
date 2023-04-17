@@ -8773,6 +8773,7 @@ cgi-bin/counter
 ||tags.op-palvelut.fi^
 ||vine.eu/track/
 ||links.boom.ge^
+||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ||walla.co.il/stats/
 ||gpr.hu/pr.pr?
@@ -95892,6 +95893,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gannett.hb.omtrdc.net
  gazette-news-gb.gazette-news.co.uk
  gbc0.da.us.criteo.com
+ gbc0.fr3.eu.criteo.com
  gbc0.fr.eu.criteo.com
  gbc0.jp2.as.criteo.com
  gbc0.nl3.eu.criteo.com
@@ -95899,6 +95901,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc0.sg1.as.criteo.com
  gbc0.va.us.criteo.com
  gbc1.da.us.criteo.com
+ gbc1.fr3.eu.criteo.com
  gbc1.fr.eu.criteo.com
  gbc1.jp2.as.criteo.com
  gbc1.nl3.eu.criteo.com
