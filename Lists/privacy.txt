@@ -4197,6 +4197,7 @@ cgi-bin/counter
 ||longinglettuce.com^
 ||longingtrees.com^
 ||lorenzourban.com^$third-party
+||losslace.com^
 ||loudlunch.com^$third-party
 ||lovelydrum.com^
 ||lowlocket.com^$third-party
@@ -10461,7 +10462,6 @@ cgi-bin/counter
 ||tracking.carsales.com.au^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
-||tracking.epicgames.com^
 ||tracking.hsn.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
@@ -23112,7 +23112,7 @@ cgi-bin/counter
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|ally.com|americanexpress.com|backcountry.com|costco.com|fcbarcelona.com|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|usanetwork.com|vanityfair.com|wired.com|wowway.net
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crave.ca|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hellobank.fr|hgtv.com|hrw.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crave.ca|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hellobank.fr|hgtv.com|hrw.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wayin.com|wired.com|wowway.net
 @@||adobedtm.com^*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||aeries.net^*/require/analytics/views/$script,~third-party
 @@||ajio.com/static/assets/vendors~static/chunk/common/libraries/fingerprintjs2.$script,~third-party
@@ -23333,10 +23333,10 @@ cgi-bin/counter
 @@||glenat.com^*/static/analytics.js$script,~third-party
 @@||gls-us.com/api/tracking/$~third-party
 @@||gomokuworld.com/app/modules/analyze.js$~third-party
-@@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|healthrangerstore.com|jackbox.tv|k2radio.com|koel.com|kowb1290.com|stressless.com|tracking.narvar.com|truwin.com|westernunion.com|worldsbiggestpacman.com
+@@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|enmotive.com|healthrangerstore.com|jackbox.tv|k2radio.com|koel.com|kowb1290.com|stressless.com|tracking.narvar.com|truwin.com|westernunion.com|worldsbiggestpacman.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=binglee.com.au|inquirer.com|investing.com|lodgecastiron.com|tentree.ca|virginmedia.com
-@@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|montcopa.org|schwab.com|toptal.com|virginplus.ca|winefolly.com
+@@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|enmotive.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|montcopa.org|schwab.com|toptal.com|virginplus.ca|winefolly.com
 @@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|binglee.com.au|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|enmotive.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|houseofbilocca.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|luko.eu|mcgeeandco.com|mercell.com|montcopa.org|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|theretrofitsource.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
@@ -107365,6 +107365,7 @@ aliasanvil.com
 ampltd2.medal.tv
 analys.live
 analytics2-3-meride-tv.akamaized.net
+analytics2.dashboard.fingerprint.com
 analytics2-meride-tv.akamaized.net
 analytics.adliners.de
 analytics.algolia.com
@@ -107417,6 +107418,7 @@ broadborder.com
 brsrvr.com
 buildingknife.com
 bup.bankofamerica.com
+bx-cloud.com
 capping.sirius.press
 captcha-display.com
 carvecakes.com
@@ -107424,6 +107426,7 @@ cautiouscamera.com
 c.bazo.io
 c.corriere.it
 cfa.fidelity.com
+c.fingerprint.com
 chargecracker.com
 chubbycreature.com
 ckies.net
@@ -107522,6 +107525,7 @@ forecast.lemonde.fr
 foretellfifth.com
 fortunatemark.com
 fpa-cdn.decrypt.co
+fpa.fingerprint.com
 fpnpmcdn.net
 fptls2.com
 fptls.com
@@ -107547,11 +107551,11 @@ handsomehose.com
 hit.interia.pl
 hits.cyberdrop.me
 hits.letras.mus.br
+hlms.ecologie.gouv.fr
 hothydrant.com
 hstats.hepsiburada.com
 hubty.network
 humdrumhobbies.com
-icanhazip.com
 idstatus.sky.com
 ih.newegg.com
 imgs.signifyd.com
@@ -107586,6 +107590,8 @@ matt.mercadolivre.com.br
 maxtrafixx.tech
 mb-tracking.com
 measlymiddle.com
+medaipvx.com
+medaipxv.com
 meddleplant.com
 mediamathrdrt.com
 mediapvx.com
@@ -107622,6 +107628,7 @@ oms.dowjoneson.com
 openfpcdn.io
 optimeeze.appspot.com
 optistats.ovh
+p7cloud.net
 pageid.info
 painstakingpickle.com
 p.fusevideo.net
@@ -107798,6 +107805,7 @@ vstats.me
 wcs.naver.com
 wct-2.com
 web-tracker.smsbump.com
+wrhv.education.gouv.fr
 ws3.smartp.com
 wup-content23.bmoharris.com
 wwopenclick.space
