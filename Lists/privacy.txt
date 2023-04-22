@@ -9990,6 +9990,7 @@ cgi-bin/counter
 ||news.google.com/_/v
 ||newscom.com/js/v2/ga.js
 ||newser.com/utility.aspx?
+||newsmax.com/js/analytics.js
 ||newzit.com/setABframe.html
 ||nextdoor.com/events/
 ||nflshop.com/api/track
@@ -10064,7 +10065,6 @@ cgi-bin/counter
 ||player-telemetry.vimeo.com^
 ||plushd.bio/cdn-cgi/trace
 ||pm.dailykos.com^
-||pocket-lint.com/media/pf304.js
 ||poki.com/observer/
 ||politico.com/resource/assets/js.min/video-tracking.
 ||poptropica.com/brain/track.php?
@@ -10682,6 +10682,7 @@ cgi-bin/counter
 ||rsx.afterpay.com^
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ||tmetrix.my.chick-fil-a.com^
+||tmx.bestbuy.com^
 ||tmx.td.com^
 ||u44.pnc.com^
 ||u47.pnc.com^
@@ -10832,7 +10833,7 @@ cgi-bin/counter
 ||trustarc.mgr.consensu.org/get?
 ||twus-mms.theweek.com^
 ||usgamer-us.usgamer.net^
-||vg247.com/wp-content/themes/vg247/scripts/mvg247-fsm.js
+||vg247-p2.vg247.com^
 ||aerlingus.com/ahktqsewxjhguuxe.js
 ||aerlingus.com/ahktqsewxjhguuxexhr.js
 ||browsealoud.com/plus/scripts/$script
@@ -23287,7 +23288,7 @@ cgi-bin/counter
 @@||ect.se.com/cbt/app/js/util/angularytics.min.js$script,~third-party
 @@||editorx.com/_api/*count?type$~third-party
 @@||enchambered.com^*/googleanalytics_2.js?
-@@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
+@@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|bestbuy.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/code/$script
 @@||ensighten.com^*/scode/$script,domain=norton.com
 @@||ensighten.com^*/serverComponent.php?$script
@@ -23338,7 +23339,7 @@ cgi-bin/counter
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=binglee.com.au|inquirer.com|investing.com|lodgecastiron.com|tentree.ca|virginmedia.com
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|enmotive.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|montcopa.org|schwab.com|toptal.com|virginplus.ca|winefolly.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|binglee.com.au|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|enmotive.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|houseofbilocca.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|luko.eu|mcgeeandco.com|mercell.com|montcopa.org|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|theretrofitsource.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|binglee.com.au|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|enmotive.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|houseofbilocca.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|luko.eu|mcgeeandco.com|mercell.com|montcopa.org|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|radio-canada.ca|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|talent.lowes.com|theretrofitsource.com|trademe.co.nz|tumi.com|uclabruins.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$~third-party
@@ -107412,6 +107413,7 @@ b.karte.io
 blackbrake.com
 bleachbubble.com
 blushingbread.com
+bmly.impots.gouv.fr
 bmwebm.org
 boundlessbrake.com
 bringmethehats.com
@@ -107431,6 +107433,7 @@ c.fingerprint.com
 chargecracker.com
 chubbycreature.com
 ckies.net
+clanker-events.squarespace.com
 clarice.streema.com
 clear.wallapop.com
 client-analytics.mts.ru
@@ -107513,6 +107516,7 @@ evaluatestream.com
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
 events.missena.io
+events.squarespace.com
 events.ubembed.com
 ev.stellarlabs.ai
 exchangedetail.com
@@ -107586,6 +107590,7 @@ logstash-3.radio-canada.ca
 log.zdnet.co.kr
 lokalwerben.t-online.de
 longingtrees.com
+losslace.com
 materialisticmoon.com
 matt.mercadolivre.com.br
 maxtrafixx.tech
@@ -107789,6 +107794,7 @@ txrx.bol.com
 t.y8.com
 t.zulily.com
 u44.pnc.com
+um.contentstudio.io
 unbecominglamp.com
 unm.emol.com
 uqd.io
