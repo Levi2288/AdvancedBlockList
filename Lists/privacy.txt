@@ -593,6 +593,7 @@ cgi-bin/counter
 ||the-ozone-project.com^
 ||thefontzone.com^
 ||tncid.app^
+||track-selectmedia.com^
 ||trackclicks.info^
 ||triplestat.online^
 ||trk-maiorum.com^
@@ -4893,6 +4894,7 @@ cgi-bin/counter
 ||analytics.rechtslupe.org^
 ||andyhoppe.com^$third-party
 ||anormal-tracker.de^$third-party
+||area51.to^$third-party
 ||asadcdn.com^$third-party
 ||atsfi.de^$third-party
 ||audiencemanager.de^$third-party
@@ -5607,6 +5609,7 @@ cgi-bin/counter
 ||retargeter.com.br^$third-party
 ||sambaads.com^$third-party
 ||shoptarget.com.br^$third-party
+||solucx.com.br^$third-party
 ||tailtarget.com^$third-party
 ||trugaze.io^$third-party
 ||voxus.com.br^$third-party
@@ -10342,6 +10345,7 @@ cgi-bin/counter
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.sg^
 ||stats.justpaste.it^
+||stats.newsweek.com^
 ||stats.pandora.com^
 ||stats.paste2.org^
 ||stats.pstream.net^
@@ -10576,6 +10580,7 @@ cgi-bin/counter
 ||wikimonde.com/h.php
 ||wikipedia.org/beacon/
 ||windy.com/sedlina/ga/
+||wiztube.xyz/cdn-cgi/trace
 ||wolfram.com/common/javascript/wal/
 ||wondershare.com/trk
 ||wsj.com/asset/amt.js
@@ -22955,6 +22960,7 @@ cgi-bin/counter
 ||top.mail.ru/tc?js
 ||top.mail.ru/tpc.js
 ||top.mail.ru/tt?js
+||trk.mail.ru^
 ||tut.by/stat/
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
