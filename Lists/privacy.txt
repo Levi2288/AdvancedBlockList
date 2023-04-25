@@ -495,6 +495,7 @@ cgi-bin/counter
 ||mediapvx.com^
 ||mediapxv.com^
 ||mediaxpf.com^
+||mediaxpv.com^
 ||micpn.com^
 ||mitour.de^
 ||ml-sys.xyz^
@@ -9354,7 +9355,6 @@ cgi-bin/counter
 ||analytics.archive.org^
 ||analytics.brave.com^
 ||analytics.chase.com^
-||analytics.dashboard.fingerprint.com^
 ||analytics.designspiration.com^
 ||analytics.ecosia.org^
 ||analytics.faceitanalytics.com^
@@ -9384,7 +9384,7 @@ cgi-bin/counter
 ||analytics.vedantu.com^
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
-||analytics2.dashboard.fingerprint.com^
+||analytics4.dashboard.fingerprint.com^
 ||ancestry.com/core.js
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
@@ -9558,6 +9558,7 @@ cgi-bin/counter
 ||dc.banggood.com^
 ||dcf.espn.com/privacy/
 ||dd.auspost.com.au^
+||dd.nytimes.com^
 ||dealnews.com/lw/ul.php
 ||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
 ||deliver.ptgncdn.com^
@@ -9698,8 +9699,7 @@ cgi-bin/counter
 ||fpa-cdn.arstechnica.com^
 ||fpa-cdn.decrypt.co^
 ||fpa-events.decrypt.co^
-||fpa.fingerprint.com^
-||fpb.fingerprint.com^
+||fpc.fingerprint.com^
 ||fpt.microsoft.com^
 ||freebiesms.com/tracker.aspx?
 ||freedownloadmanager.org/ajax/th_hit.php
@@ -107546,6 +107546,7 @@ foretellfifth.com
 fortunatemark.com
 fpa-cdn.decrypt.co
 fpa.fingerprint.com
+fpb.fingerprint.com
 fpnpmcdn.net
 fptls2.com
 fptls.com
@@ -107568,6 +107569,7 @@ groovyornament.com
 grumpydrawer.com
 gtm.wise.com
 handsomehose.com
+healflowers.com
 hit.interia.pl
 hits.cyberdrop.me
 hits.letras.mus.br
@@ -107607,6 +107609,7 @@ lokalwerben.t-online.de
 longingtrees.com
 losslace.com
 materialisticmoon.com
+materialplayground.com
 matt.mercadolivre.com.br
 maxtrafixx.tech
 mb-tracking.com
@@ -107617,6 +107620,7 @@ meddleplant.com
 mediamathrdrt.com
 mediapvx.com
 mediatescarf.com
+mediaxpf.com
 meltmilk.com
 mentorsticks.com
 mer.stdout.cz
@@ -107736,6 +107740,7 @@ statscollector.sd-rtn.com
 stats-dev.brid.tv
 stats.ksearchnet.com
 stats.mpthemes.net
+stats.newsweek.com
 stats.rocketbeans.tv
 stats.sandberg.world
 stats.suedtirolerjobs.it
@@ -107774,6 +107779,7 @@ tla.traderlink.com
 tmetrix.my.chick-fil-a.com
 tm.jsuol.com.br
 tm.swp.de
+tmx.bestbuy.com
 tmx.td.com
 t.pagesix.com
 tracer.autoscout24.ch
@@ -107793,6 +107799,7 @@ tracking.lqm.io
 tracking.wisepops.com
 track.myli.io
 trackr.vivenu.com
+track-selectmedia.com
 track-srv.vietnamnet.vn
 track.tappx.com
 track.tom.com
@@ -107800,9 +107807,11 @@ traxex.gannettdigital.com
 trc.gpcdn.pl
 tr.c-tag.net
 triplestat.online
+trk.mail.ru
 trk-maiorum.com
 trkr.shoppingminds.net
 trustisimportant.fun
+tr.vitals.co
 tumbleicicle.com
 tw.cx
 txrx.bol.com
@@ -107818,6 +107827,7 @@ user.userguiding.com
 vengefulgrass.com
 vercel-vitals.axiom.co
 vfgte.com
+vg247-p2.vg247.com
 view.fujitv.co.jp
 virtualvincent.com
 visit.xchina.pics
