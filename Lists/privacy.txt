@@ -7728,6 +7728,7 @@
 ||tr.webantenna.info^
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||traccoon.intellectsoft.net^
+||track-dark-bz.b-cdn.net^
 ||track.360playvid.info^
 ||track.91app.io^
 ||track.99acres.com^
@@ -9493,6 +9494,7 @@
 ||dailymail.co.uk/rta2/
 ||dailymotion.com/logger/
 ||darkreader.org/elements/statistics.js
+||data.allstate.com^
 ||data.guide.photobucket.com^
 ||data.webullfintech.com/event/
 ||data.younow.com^
@@ -25441,7 +25443,6 @@
 ||space-blogs.net/include/counter/
 ||sta.zone-telechargement.day^
 ||stat.ouedkniss.com^
-||stats.bouyguestelecom.fr^
 ||stats.sexemodel.com^
 ||stats.zone-annuaire.
 ||stats.zone-telechargement.
