@@ -1766,7 +1766,6 @@
 ||ironbeast.io^$third-party
 ||ist-track.com^$third-party
 ||istrack.com^$third-party
-||iterable.com^$third-party
 ||ithinkthereforeiam.net^$third-party
 ||itrac.it^$third-party
 ||itracker360.com^$third-party
@@ -5158,6 +5157,7 @@
 ||mastertag.effiliation.com^$third-party
 ||mb-srv.com^$third-party
 ||megavisites.com^$third-party
+||mgtmod01.com^$third-party
 ||mmtro.com^$third-party
 ||netquattro.com/stats/
 ||netvigie.com^$third-party
@@ -6753,6 +6753,7 @@
 ||hasbro.com/includes/js/metrics/
 ||haymarket.com/injector/deliver/
 ||hb.vhsrv.com^
+||hcmanager.swifteq.com/hc_events/
 ||hearstmags.com^*/hdm-lib_hearstuser_proxy.html$third-party
 ||heg-cp.com/upm/$third-party
 ||hello.myfonts.net/count/
@@ -6856,6 +6857,7 @@
 ||iraiser.eu/analytics.js
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
+||iterable.com/analytics.js
 ||iubenda.com/write?
 ||iyisayfa.net/inc.php?
 ||jailbaitchan.com/tp/
@@ -9155,6 +9157,7 @@
 ||stat.ringier.sk^
 ||interseek.si^*/visit.js
 ||1to1.bbva.com^
+||ab.blogs.es^
 ||advgo.net/hits/
 ||advgo.net/mushroom/
 ||analitica.webrpp.com^
@@ -9731,6 +9734,7 @@
 ||hotstar.com/v1/track
 ||houzz.com/hsc/aetrk/
 ||houzz.com/js/log?
+||hqq.ac/cdn-cgi/trace
 ||hqq.tv/cdn-cgi/trace
 ||html5games.com/event/
 ||hulkshare.com/ajax/tracker.php
@@ -9961,6 +9965,7 @@
 ||nytimes.com/v1/purr-cache
 ||nzpages.co.nz/modules/common/track.js
 ||observe.metarouter.io^
+||oceanplay.xyz/cdn-cgi/trace
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
 ||okx.com/jsstat/sb?
@@ -25389,6 +25394,7 @@
 ||ecranlarge.com/stat
 ||email.nautiljon.com/oo/$image
 ||events-logs.doctolib.com^
+||flow.kiloutou.fr^
 ||forecast.huffingtonpost.fr^
 ||forecast.lemonde.fr^
 ||franceculture.fr/static/js/xtcore-
@@ -26540,7 +26546,6 @@
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
 @@||level.travel/tracker/tracker.js$script,~third-party
-@@||links.iterable.com/lists/$domain=clickup.com
 @@||linksynergy.com/minified_logic.js$third-party,xmlhttprequest
 @@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||live.bbc.co.uk^*/comscore.js$~third-party
@@ -27060,7 +27065,9 @@
 @@||json.geoiplookup.io/?callback=$script,domain=chilepeajes.cl
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
+@@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||tag.search.sensefuel.live/tag/$script,domain=bricomart.es
+@@||vodgc.net^*/genoa-event-tracking.min.js
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
 @@||picsearch.com/js/comscore.js$domain=dn.se
 @@||cdn.segmentify.com^$script,domain=gratis.com
@@ -111359,6 +111366,7 @@ analytics.bigfishgames.com
 analytics.blackboard.com
 analytics.brickaward.com
 analytics.chattarize.de
+analytics-consent-manager-v2-prod.azureedge.net
 analytics.crowdkeep.com
 analytics.cyrillus.be
 analytics.cyrillus.ch
@@ -111385,6 +111393,7 @@ analytics.kongregate.io
 analytics-lgs.corebridgefinancial.com
 analytics.littlekingdesigns.com
 analytics.logsss.com
+analytics.maikel.pro
 analytics.makeitmeme.com
 analytics.manen.me
 analytics.martinandosa.com
@@ -112228,7 +112237,6 @@ auforex.americanexpress.com
 au-go.experian.com
 au.interface.com
 au-partners.ingrammicro.com
-auriro.net
 aus.amexforbusiness.com.au
 au.secure.sonosite.com
 auth.carte-gr.total.fr
@@ -112295,6 +112303,7 @@ bdkuth.smartbuyglasses.co.uk
 beaconcdn.qq.com
 beacon.dropbox.com
 beacon.sftoaa.com
+beam.telex.hu
 beamvolcano.com
 beat.socialblade.com
 beat.yourtv.jp
@@ -112374,6 +112383,7 @@ bnc.tripcody.com
 bnk.wolterskluwerfs.com
 bnutnr.landandfarm.com
 bold.windstreamwholesale.com
+bonfire.spklw.com
 boobs.aridjaya.com
 booking.getwaitnot.com
 book.londonsoundacademy.com
@@ -112687,6 +112697,7 @@ collect.chaordicsystems.com
 collect.hollisterco.com
 collect.igodigital.com
 collections.equifax.com
+collector5.zipy.ai
 collector.api.video
 collector.fiverr.com
 collector-videoplayer.5centscdn.net
@@ -112978,12 +112989,14 @@ d3gi6isrskhoq.cloudfront.net
 da.hornbach.be
 dare2share.inthere.link
 data.aik.in
+data.allstate.com
 data-basics.actonservice.com
 data.blog.swicket.io
 data.craftsamericana.com
 datadome.patreon.com
 datafiletechnologies.actonservice.com
 data.janvanderstorm.de
+data.kameleoon.io
 data.main-ding.de
 data.ricaud.com
 datas.connectingthreads.com
@@ -114753,6 +114766,7 @@ kqkcoq.vidaxl.fr
 kqoelg.ultrafootball.com
 kqzbph.zerohedge.com
 kraken.rambler.ru
+kropka.onet.pl
 kryptonitenews.allegion.com
 kszuxn.snidel.com
 kthjuw.lyst.com.au
@@ -115432,6 +115446,7 @@ materialplayground.com
 math.meistercody.com
 mat.lgdisplay.com
 matrix.elecle.bike
+mat.socy.es
 matsubun.matsubun.com
 matt.mercadolivre.com.br
 ma.workhorse.dev
@@ -116271,6 +116286,7 @@ rczwcs.brack.ch
 realtimely.io
 recipient-branch.staging.worldremit.com
 recipient-branch.worldremit.com
+recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
 redditstream.arborapps.io
@@ -117292,7 +117308,6 @@ stats.bjarteblogg.com
 stats.blackbird-automotive.com
 stats.booncon.com
 stats.bordspel.org
-stats.bouyguestelecom.fr
 stats.brennholzauktion.com
 stats.buddiy.net
 stats.cafepress.com
@@ -117611,6 +117626,7 @@ stats-xavie.mirmon.co.uk
 stats.xbloom.io
 stats.xn--drivation-b4a.fr
 stats.zimri.net
+stat.tiara.tistory.com
 stat.u.sb
 stat.wk-formation.fr
 stat.wki.it
@@ -118013,6 +118029,7 @@ track.connectwise.com
 track.cornerstonebuildingbrands.com
 track.craudia.com
 track.dark.bz
+track-dark-bz.b-cdn.net
 track.docusign.ca
 track.docusign.com
 track.docusign.com.br
@@ -118805,6 +118822,7 @@ vfo4.carrefour-banque.fr
 vfqhvr.hearing-aid-advice.com
 vfzxaz.bloomingdales.ae
 vg247-p2.vg247.com
+vg247-uk.vg247.com
 vgavzy.spierandmackay.com
 vge-business.vodafone.com
 vgellr.esprit.de
