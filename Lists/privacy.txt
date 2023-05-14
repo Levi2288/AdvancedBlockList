@@ -6318,7 +6318,7 @@
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
-||collector.appconsent.io^$image
+||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
@@ -7059,6 +7059,7 @@
 ||metrics.beyondwords.io^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
+||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
@@ -8748,6 +8749,7 @@
 ||dmtgo.upc.biz^
 ||hottraffic.nl^$third-party
 ||marktplaats.net/cnt/
+||mediahuis.be/cxense/
 ||npo.nl/divolte/tt/web-event?$domain=zapp.nl
 ||pijper.io/visits/
 ||rmgdapfnccsharpprd.azurewebsites.net^
@@ -25805,6 +25807,7 @@
 ||bc34.wijnvoordeel.nl^
 ||bol.com/tracking/
 ||businessinsider.nl^*/tr.php
+||c.vrt.be^
 ||coolblue.nl/monitoring/
 ||ds2.independer.nl^
 ||events.reclamefolder.nl^
@@ -25831,6 +25834,7 @@
 ||sanoma.nl/pixel/
 ||sat.sanoma.fi^
 ||stats.fd.nl^
+||t.vrt.be^
 ||tdep.kvk.nl^
 ||tijd.be/fb/?
 ||tijd.be/fb2?
