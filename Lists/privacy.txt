@@ -490,6 +490,7 @@
 ||nigelmidnightrappers.com^
 ||nimblebird.co^
 ||nimbleswan.io^
+||noeyeon.click^
 ||noeyeon.com^
 ||notifpush.com^
 ||ns1p.net^
@@ -4110,6 +4111,7 @@
 ||informengine.com^
 ||innocentinvention.com^$third-party
 ||innocentwax.com^
+||inquisitiveice.com^
 ||inquisitiveinvention.com^$third-party
 ||instrumentinsect.com^
 ||instrumentsponge.com^
@@ -8067,6 +8069,7 @@
 ||ws.sharethis.com^$script
 ||wsmcdn.audioeye.com^
 ||wspisp.net/logger.php
+||wt.viagogo.net^
 ||wtbevents.pricespider.com^
 ||x.babe.today^
 ||x.disq.us^
@@ -9242,7 +9245,6 @@
 ||tracking3.vnncdn.net^
 ||za.zdn.vn^
 ||zalo.me/v3/w/_zaf.gif
-||1337x.to/ip3.php
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
 ||9gag.com/event/
@@ -9278,7 +9280,6 @@
 ||adblocktape.online/stat/
 ||adblocktape.store/stat/
 ||adblocktape.wiki/stat/
-||adc-js.nine.com.au^
 ||adc.9news.com.au^
 ||adc.api.nine.com.au^
 ||adc.nine.com.au^
@@ -9391,6 +9392,7 @@
 ||aws-native.com/ping/
 ||b.wal.co/rum.js$domain=samsclub.com
 ||backcountry.com/api/log
+||baidu.com/static/h.gif
 ||baidu.com^*/mwb2.gif?
 ||baidu.com^*/wb.gif?
 ||bandcamp.com/api/tracker/
@@ -9468,7 +9470,6 @@
 ||classistatic.com^*/js/lib/prebid-7.5.0.min.js$script,domain=kijiji.ca
 ||click.aliexpress.com^$image
 ||click.nudevista.com^
-||click.oneplus.com^
 ||click.sinx.com^
 ||click.udimg.com^
 ||client-log.box.com^
@@ -9527,7 +9528,6 @@
 ||ctrl.blog/assets/script/log-
 ||cultofmac.com/djrxqhzkbsgf.js
 ||cvs.com/tnadstlinj.js
-||d.cdngeek.com^$domain=edugeek.net
 ||d.skk.moe^
 ||dailymail.co.uk/geo/
 ||dailymail.co.uk/rta2/
@@ -9548,7 +9548,6 @@
 ||deliver.ptgncdn.com^
 ||deliveroo.com^*/events
 ||deliveryrank.com/drapp070eb2deb1932e2101e6.js
-||dellcdn.com/csb/scripts/csb-boomr.$domain=dell.com
 ||delta.com/datacollect
 ||deovr.com/api_logs/
 ||desa.fkapi.net^
@@ -9611,7 +9610,6 @@
 ||etsy.com/bcn/beacon
 ||etui.fs.ml.com^
 ||etx.indiatimes.com^
-||eu.groupondata.com^
 ||euclid.kuula.co^
 ||eurogamer-uk.eurogamer.net^
 ||event-api.reverb.com^
@@ -9634,6 +9632,7 @@
 ||expressvpn.com/__px.gif?
 ||exr-mms.expertreviews.co.uk^
 ||extendoffice.com/analytics.js
+||f.cdngeek.com^$domain=edugeek.net
 ||f362.nola.com^
 ||facebook.com/a/bz?
 ||facebook.com/ajax/*/log.php
@@ -9736,8 +9735,6 @@
 ||google.com/dssw.js
 ||google.com/images/phd/px.gif
 ||google.com/log?
-||goseek.com/session-
-||goseek.com/track-
 ||gotie.tunein.com^
 ||grabify.link/api/js
 ||groove.so/unlocker.js
@@ -9773,7 +9770,7 @@
 ||hulkshare.com/ajax/tracker.php
 ||hulu.com/metricsconfig
 ||i.pokernews.com^
-||ibt.com/front/js/counter.js
+||ibtimes.com/front/js/counter.js
 ||icgp.ie/overview/js/tracker.php
 ||idiva.com/analytics_
 ||iedc.fitbit.com^
@@ -9879,10 +9876,9 @@
 ||log.quora.com^
 ||log.snapdeal.com^
 ||log.webnovel.com^
-||logg.kiwi.com^
 ||logger.nerdwallet.com^
 ||logging.api.intuit.com^
-||logs.gaana.com^
+||loglady.kiwi.com^
 ||logs.hotstar.com^
 ||logs.naukri.com^
 ||logx.optimizely.com^
@@ -9986,7 +9982,7 @@
 ||nm.newegg.com^
 ||no9pldds1lmn3.soundcloud.com^
 ||noodle.backmarket.io^
-||nordstrom.com/log
+||nordstrom.com/api/cupcake/
 ||norton.com/service/norton/head?
 ||novanthealth.org/v1/tagular/beam
 ||novelcool.com/files/js/yh_tj.js
@@ -10083,7 +10079,6 @@
 ||qwant.com/impression/
 ||qwant.com/maps/events
 ||qwant.com/v2/api/ux/surveys?
-||qz.com/log
 ||r.bbci.co.uk^
 ||r.my.com^
 ||rakuten.com/rmsgjs/soj2.js
@@ -10162,7 +10157,6 @@
 ||slack-edge.com/bv1-10/slack_beacon.
 ||slack.com/beacon/
 ||slack.com/clog/track/
-||slant.co/js/track.min.js
 ||slashdot.org/country.js
 ||slashdot.org/images/js.gif
 ||slickdeals.net/ajax/stats/
@@ -10211,13 +10205,12 @@
 ||stat.tildacdn.com^
 ||stat.turb.pw^
 ||stat.vulkanvegas.com^
+||stategg.cdngeek.com^
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
 ||stats.cardschat.com^
-||stats.cdngeek.com^$domain=edugeek.net
 ||stats.clear-media.com^
 ||stats.davidickedelivery.com^
-||stats.fs.com^
 ||stats.gateio.ch^
 ||stats.hd24.watch^
 ||stats.ibtimes.co.in^
@@ -10257,7 +10250,7 @@
 ||strtapewithadblock.art/stat/
 ||strtapewithadblock.xyz/stat/
 ||strtpe.link/stat/
-||stubhub.com/bfx/api/logging
+||stubhub.com/a/icph
 ||swarm.video/stats/
 ||t.3hentai.net^
 ||t.9gag.com^
@@ -10326,8 +10319,8 @@
 ||tms.hft.greenchef.com^
 ||tms.hft.hellofresh.com^
 ||tnaflix.com/stats.php
-||tongji.meizu.com^
-||top.gg/api/auctions/impression
+||tongji-res.meizu.com^
+||top.gg/api/auctions/i
 ||top.wn.com^
 ||touch.myntra.com^
 ||toyota.com/analytics/
@@ -10338,11 +10331,9 @@
 ||track.dictionary.com^
 ||track.eurogirlsescort.com^
 ||track.kueez.com^
-||track.lexico.com^
 ||track.mrgugu.com^
 ||track.netzero.net^
 ||track.thesaurus.com^
-||track.totalav.com^$script
 ||track.ultimate-guitar.com^
 ||tracker.affiliate.iqbroker.com^
 ||tracker.nbcuas.com^
@@ -10366,7 +10357,6 @@
 ||trumba.com/et.aspx?
 ||trx3.famousfix.com^
 ||ts.delfi.lt^
-||tube8live.com/api/metrics
 ||tubepornstars.com/js/analytics
 ||tubi.io/datascience/logging?
 ||tubitv.com/oz/performance/
@@ -10391,7 +10381,6 @@
 ||ucoz.com/stat/
 ||ucweb.com/collect/
 ||udemy.com/api-2.0/ecl
-||uie.data.cbc.ca^
 ||ulogin.ru/stats.html
 ||ultimate-guitar.com/components/ab/event?
 ||ultimedia.com/deliver/statistiques/
@@ -10418,18 +10407,15 @@
 ||visit.theglobeandmail.com^
 ||visitors.sourcingmap.com^
 ||visualstudio.com/v2/track
-||vivid.money/projectx/$ping
 ||vizcloud.co/ping/
 ||vk.com/js/lib/px.js
 ||vortex.hulu.com^
 ||vrbo.com/pdp/logger?
-||vrv.co/ip
 ||vsco.co/api/cantor/track
 ||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
 ||wa.ui-portal.de^
 ||waaw.to/cdn-cgi/trace
-||wal.co/cdn-perf.min.js
 ||wal.wolfram.com^
 ||walmart.ca/api/*/logger
 ||walmart.ca^*/beacon-logger
@@ -10438,7 +10424,6 @@
 ||walmartimages.com^*/cdn-perf.min.js$domain=walmart.com
 ||watchonlinehd123.sbs/cdn-cgi/trace
 ||watchsomuch.to/AD/
-||wblt.oui.sncf^
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
 ||web.whatsapp.com/wam
@@ -10450,13 +10435,13 @@
 ||wellsfargo.com/dti_apg/
 ||wellsfargo.com/jenny/
 ||wellsfargo.com/PIDO/
-||wellsfargo.com/tracking/
+||wfinterface.com/tracking/$domain=wellsfargo.com
 ||whattomine.com/stats
 ||wheregoes.com/api/event
 ||whistleout.com.au/track
 ||wikihow.com/ev/
 ||wikihow.com/x/collect?
-||wikimonde.com/h.php
+||wikimonde.com/matom.js
 ||wikipedia.org/beacon/
 ||windy.com/sedlina/ga/
 ||wiztube.xyz/cdn-cgi/trace
@@ -10549,6 +10534,7 @@
 ||citi.com^*/fp.js
 ||citibank.com.ph/tmx/js/
 ||clear.wallapop.com^
+||content.id.elsevier.com^
 ||content22.bmoharris.com^
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
@@ -10567,7 +10553,6 @@
 ||idstatus.sky.com^
 ||imgs.signifyd.com^
 ||olacontent.schwab.com^$script
-||pages.ebay.com/identity/device/$subdocument
 ||rba-screen.healthsafe-id.com^
 ||rsx.afterpay.com^
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
