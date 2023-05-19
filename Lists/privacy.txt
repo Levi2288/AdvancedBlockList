@@ -6398,6 +6398,7 @@
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
 ||csr.onet.pl^
+||ct.capterra.com^
 ||ct.corpusapp.com^
 ||ct.eid.co.nz^$third-party
 ||ct.itbusinessedge.com^$third-party
@@ -6599,6 +6600,7 @@
 ||facebook.com/tr/
 ||facebook.com/tr?
 ||facebook.com/w/$third-party
+||facebook.com/xti.php?
 ||factors.ai/sdk/event/
 ||fairfax.com.au/js/track/
 ||faphouse.com/api/collector/
@@ -10395,6 +10397,8 @@
 ||yahoo.com/beacon?
 ||yahoo.net/pixel.gif
 ||yalemedicine.org/website-api-data/analytics-report
+||yandex.*/clck/$~ping
+||yandex.*/count/
 ||yandex.com/clck/
 ||yandex.eu/clck/
 ||yandex.ru/clck/
@@ -24134,7 +24138,6 @@
 ||get.pintpass.com^
 ||get.printtapp.com^
 ||get.prismapp.com^
-||get.revolut.com^
 ||get.reward.me^
 ||get.riyazapp.com^
 ||get.roomiapp.com^
@@ -26407,7 +26410,7 @@
 @@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tn.com.ar|wsj.com
 @@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|wpb.shueisha.co.jp
 @@||cxense.com/cx.js$domain=bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp
-@@||fast.appcues.com^$script,domain=initial.inc|myap.collegeboard.org|static.abcmouse.com
+@@||fast.appcues.com^$script,domain=initial.inc|myap.collegeboard.org|static.abcmouse.com|westrive.com
 @@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 @@||gs.statcounter.com/chart.php$script,third-party
 @@||statcounter.com/js//fusioncharts.charts.js
