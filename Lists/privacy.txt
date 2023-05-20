@@ -155,6 +155,7 @@
 .bahn.de/op/$image
 .bhphotovideo.com/mo/
 .bluekai.com/*?e_id_
+.bmetrack.com/c/$image
 .cmail19.com/t/$image
 .cmail19.com/ti/$image
 .cmail20.com/t/$image
@@ -299,6 +300,7 @@
 ||apeagle.io^
 ||apenterprise.io^
 ||apxl.io^
+||awmonitor.com^
 ||ayc0zsm69431gfebd.info^
 ||bfmio.com^
 ||bidswitch.net^
@@ -7060,6 +7062,7 @@
 ||metrics.ctvdigital.net^
 ||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
+||metrics.futureplc.engineering^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
@@ -8741,6 +8744,7 @@
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ||walla.co.il/stats/
 ||gpr.hu/pr.pr?
+||heartbeat.pmd.444.hu^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
@@ -25466,8 +25470,20 @@
 ||stats.mako.co.il^
 ||walla.co.il/CountsHP.asp?
 ||walla.co.il/impression/
+||adat.borsonline.hu^
+||adat.ingatlanbazar.hu^
+||adat.koponyeg.hu^
+||adat.life.hu^
+||adat.mandiner.hu^
+||adat.mindmegette.hu^
+||adat.origo.hu^
+||adat.travelo.hu^
+||adat.veol.hu^
+||adat.videa.hu^
 ||beam.telex.hu^
 ||events.ingatlan.com^
+||hirtv.hu/ajaxx/_stat/
+||hirtv.hu/nx_general_stat.jpg?
 ||otthonterkep.hu/c.js
 ||outal.origo.hu^
 ||rtl.hu/_stat/
@@ -25582,6 +25598,7 @@
 ||astat.nikkei.com^
 ||astral.nicovideo.jp^
 ||barks.jp/v1/stats
+||bc.nhk.jp^
 ||beacon.watch.impress.co.jp^
 ||beat.yourtv.jp^
 ||bookoffonline.co.jp/files/inc_js/ac/
@@ -25634,6 +25651,7 @@
 ||scis.tbs.co.jp^
 ||seesaawiki.jp/img/rainman.gif?
 ||so-zou.jp/js/ga.js
+||stats.nhk.or.jp^
 ||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
@@ -97438,6 +97456,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  ea.norauto.fr
  ea.odalys-vacances.com
  ea.odalys-vacation-rental.com
+ ea.officedepot.fr
  ea.pixmania.de
  ea.pixmania.it
  ea.placedestendances.com
