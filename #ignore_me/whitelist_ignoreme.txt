@@ -22,3 +22,4 @@ google.ie
 google.open.pdf.ep-stock.com
 google.se
 cdn.discordapp.com
+cdn.jsdelivr.net

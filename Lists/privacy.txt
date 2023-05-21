@@ -566,6 +566,7 @@
 ||testingmetriksbre.ru^
 ||the-ozone-project.com^
 ||thefontzone.com^
+||tkrconnector.com^
 ||tncid.app^
 ||track-selectmedia.com^
 ||trackclicks.info^
@@ -3298,7 +3299,6 @@
 .n.2.1.js^$third-party
 .n.2.1.l50.js^$third-party
 .n.2.1.l60.js^$third-party
-||185.165.169.108^
 ||185.193.38.148^
 ||35.194.26.233^
 ||35.239.57.233^
@@ -3543,6 +3543,7 @@
 ||actoramusement.com^
 ||actuallysheep.com^
 ||actuallysnake.com^
+||adamantsnail.com^
 ||additionant.com^$third-party
 ||adorableanger.com^
 ||advertisementafterthought.com^
@@ -7272,6 +7273,7 @@
 ||pixel.wp.com^
 ||pixel.yabidos.com^
 ||pixel.yola.com^
+||pixel2.realclever.com^
 ||pixels.afcdn.com^
 ||pixlee.com/assets/fp.js
 ||pixlee.com/assets/keen-
@@ -9228,6 +9230,7 @@
 ||about.me/track?
 ||abysscdn.com/cdn-cgi/trace
 ||academia.edu/record_hit
+||accor.com/g/collect?
 ||accuterm.com/data/stat.js
 ||acronymfinder.com/~/tr.ashx
 ||activate.latimes.com/pc/caltimes/?pulse2001=
@@ -25099,14 +25102,6 @@
 ||wt.oscaro.com^
 ||yandex.fr/clck/click
 ||zone-telechargement.al/analytics/
-||edmi.nextinpact.com^
-||nextinpact.com/bundles/mtm
-||nextinpact.com/image/*=.jpg
-||pam.nextinpact.com^
-||pwk.nextinpact.com^
-||rel.nextinpact.com^
-||rel2.nextinpact.com^
-||zam.nextinpact.com^
 ||c1hit.zerkalo.io^
 ||s1r.zerkalo.io^
 ||s3r.zerkalo.io^
