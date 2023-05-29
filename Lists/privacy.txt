@@ -6802,6 +6802,7 @@
 ||hsforms.com^*/counters.gif
 ||hsforms.com^*/timings.gif$image
 ||hspbotdetection.azurewebsites.net^
+||hub.reacti.co/index.js
 ||hubspot.com/analytics/
 ||hubspot.com/cs/loader-v2.js
 ||hubspot.com/tracking/
@@ -7661,6 +7662,7 @@
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
 ||t.rentcafe.com^
+||t.screeb.app^
 ||t.sharethis.com^
 ||t.signalayer.com^
 ||t.skimresources.com^
