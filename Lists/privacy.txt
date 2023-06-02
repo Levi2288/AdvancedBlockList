@@ -1,7 +1,5 @@
 [Adblock Plus 1.1]
 .analytics.min.
-.asp?t=*&c=$image
-.aspx?trackid=
 .beacon.min.js
 .bmp?*&referrer=
 .cdn-tracking.js
@@ -10,10 +8,7 @@
 .cn/sl.gif?
 .com/_.gif?
 .com/analytics?
-.com/bt/s.png?b=
 .com/clk?
-.com/cm?ci=
-.com/cm?tid
 .com/count?
 .com/counter?
 .com/dc.gif?
@@ -48,9 +43,7 @@
 .jp/pv?
 .lms-analytics/
 .net/l.gif?
-.net/ping.php?
 .ntpagetag.
-.org/js/ga-
 .php?action=browse&
 .php?action_name=
 .php?hey_stat=
@@ -63,7 +56,6 @@
 .php?self=
 .php?stats=
 .php?tracking=
-.pt/n.gif?
 .sharecounter.$third-party
 .sitecatalyst.js
 .siteclarity.
@@ -72,7 +64,6 @@
 .snowplowanalytics.$domain=~snowplowanalytics.com
 .stats?action=
 .svc/?tracking_id=
-.track_Visit?
 .tv/log?event
 .v4.analytics.
 .vsTracking.
@@ -7322,13 +7313,11 @@
 ||pv.pjtsu.com^
 ||px-cdn.net/b/
 ||px-cdn.net^*/collector
-||px-cloud.net/api/v2/collector
 ||px-cloud.net/b/s
 ||px.marchex.io^
 ||px.mountain.com^
 ||px.owneriq.net^
 ||px.spiceworks.com^
-||pxchk.net/api/v2/collector$xmlhttprequest
 ||pxchk.net/b/s
 ||pylon.micstatic.com^
 ||qcloud.com/report.go?
@@ -8493,11 +8482,11 @@
 ||c.woopic.com/tools/pdb.min.js
 ||caast.tv/v1/record.gif?
 ||calcul-pagerank.fr/client/$third-party
+||canalplus-bo.net/web/*/tracker/?
 ||capping.sirius.press^
 ||cdn-files.prsmedia.fr^*/xiti/
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||cloudfront.net^$script,domain=gentside.com
-||canalplus-bo.net/web/*/tracker/?
 ||collect-v6.51.la^
 ||compteur.websiteout.net^
 ||core.unit-sense.net^
@@ -9725,6 +9714,7 @@
 ||html5games.com/event/
 ||hulkshare.com/ajax/tracker.php
 ||hulu.com/metricsconfig
+||hypebeast.com/firebase-messaging-sw.js
 ||i.pokernews.com^
 ||ibtimes.com/front/js/counter.js
 ||icgp.ie/overview/js/tracker.php
