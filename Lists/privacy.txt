@@ -81,7 +81,6 @@
 ://collector.*/event
 ://email.*/blankpixel.gif
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
-://gtrack.*/dye
 ://lightning.*/launch/
 ://matomo.$domain=~matomo.org
 ://mint.*/?js
@@ -102,8 +101,6 @@
 =getStats_
 =metrics_profile&
 =pageImpression&
-=stats&action=
-=stats&apiVersion=
 ?[AQB]&ndh=1&t=
 ?act=counter&
 ?action=event&
@@ -119,7 +116,6 @@
 ?event=performance&
 ?event=performancelogger:
 ?event=tracking:ajax
-?eventtype=impression&pid=
 ?eventtype=request&pid=
 ?local_ga_js=
 ?log=stats-
@@ -132,7 +128,6 @@
 ?type=page&event=
 ?type=pageview&
 ||internal-matomo.
-||meetrics.netbb-
 .acemlna.com/Prod/link-tracker?$image
 .acemlnb.com/Prod/link-tracker?$image
 .alcmpn.com/
@@ -3952,6 +3947,7 @@
 ||flockflame.com^
 ||floodprincipal.com^
 ||flowerstreatment.com^
+||flowerycreature.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
 ||foamyfood.com^
@@ -25402,7 +25398,6 @@
 ||adat.videa.hu^
 ||beam.telex.hu^
 ||events.ingatlan.com^
-||hirtv.hu/ajaxx/_stat/
 ||hirtv.hu/nx_general_stat.jpg?
 ||otthonterkep.hu/c.js
 ||outal.origo.hu^
