@@ -92,13 +92,6 @@
 ://tracking.*/beacon/
 ://tracking.*/event
 ://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.lol|~utm.md|~utm.openskies.sh|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca
-;type=eligibleimpression;
-;type=pixel;
-=comscoreAdobeDpvCall&
-=getSideStats&
-=getStats_
-=metrics_profile&
-=pageImpression&
 ?[AQB]&ndh=1&t=
 ?act=counter&
 ?action=event&
@@ -125,7 +118,6 @@
 ?statify_referrer=
 ?type=page&event=
 ?type=pageview&
-||internal-matomo.
 .acemlna.com/Prod/link-tracker?$image
 .acemlnb.com/Prod/link-tracker?$image
 .alcmpn.com/
@@ -394,6 +386,7 @@
 ||g990421676.co^
 ||gbqofs.com^
 ||geoedge.be^
+||geotargetly-api-*.com^
 ||glimr.io^
 ||glookup.info^
 ||go-mpulse.net^
