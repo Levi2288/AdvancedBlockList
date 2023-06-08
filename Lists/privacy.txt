@@ -3956,6 +3956,7 @@
 ||frailoffer.com^
 ||franticcarpenter.com^
 ||frantictrail.com^
+||freezingbuilding.com^
 ||fretfulfurniture.com^
 ||friendlyfold.com^
 ||friendwool.com^
@@ -4366,6 +4367,7 @@
 ||realizevacation.com^$third-party
 ||rebelhen.com^
 ||rebelsubway.com^
+||rebelswing.com^
 ||receptivebranch.com^
 ||receptiveink.com^
 ||receptivereaction.com^$third-party
@@ -9826,6 +9828,7 @@
 ||log.china.cn^
 ||log.genyt.net^
 ||log.hypebeast.com^
+||log.klook.com^
 ||log.quora.com^
 ||log.snapdeal.com^
 ||log.webnovel.com^
