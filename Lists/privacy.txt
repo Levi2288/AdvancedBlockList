@@ -806,6 +806,7 @@
 ||aptrinsic.com^$third-party
 ||aqtracker.com^$third-party
 ||aralego.net^$third-party
+||arc.io^$third-party
 ||arcadeweb.com^$third-party
 ||ardalio.com^$third-party
 ||arena-quantum.co.uk^$third-party
@@ -4182,6 +4183,7 @@
 ||memorycobweb.com^
 ||mentorsticks.com^
 ||meremark.com^
+||merequartz.com^
 ||messagenovice.com^
 ||messyoranges.com^
 ||metroaverage.com^
@@ -6268,6 +6270,7 @@
 ||cloudfront.net/zephyr.js
 ||cloudfront.net^*.bmp?
 ||cloudfunctions.net/commonBonnierDataLayer
+||cloudfunctions.net/export-customizer-data-metrics
 ||cloudfunctions.net/function-record-stream-metric?
 ||cloudfunctions.net/ingest?
 ||cloudfunctions.net/vanalytics
@@ -9197,6 +9200,7 @@
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
+||analitik.bik.gov.tr^
 ||analytics.kkb.com.tr^
 ||collector.wawlabs.com^
 ||hulyagedikci.com/vhit.php?
@@ -9563,6 +9567,7 @@
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
 ||eighten-bloc-party.thebrowser.company/script.js
+||embed.reddit.com/svc/shreddit
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
 ||engine.traceparts.com^
@@ -10317,6 +10322,7 @@
 ||tredir.go.com^
 ||tripadvisor.*/MetricsAjax
 ||tripadvisor.*/wm/record
+||tripcdn.com/bee/collect$domain=trip.com
 ||trivago.com/tracking/
 ||trumba.com/et.aspx?
 ||trx3.famousfix.com^
@@ -26172,6 +26178,7 @@
 @@||paypal.com/xoplatform/logger/api/logger$domain=play.leagueofkingdoms.com
 @@||paypalobjects.com/*/pageView.js$script,domain=paypal.com
 @@||paypalobjects.com/web/*/gAnalytics.js$script,domain=paypal.com
+@@||pendo.io/agent/static/$script,domain=recruiting.adp.com
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||plausible.io/js/plausible.js$script,domain=sammobile.com
 @@||plex.tv/api/v2/geoip$xmlhttprequest
@@ -106502,6 +106509,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  s334284386.hs.eloqua.com
  s337390453.hs.eloqua.com
  s373.hs.eloqua.com
+ s389462.hs.eloqua.com
  s431645872.hs.eloqua.com
  s443791045.hs.eloqua.com
  s460529241.hs.eloqua.com
