@@ -6966,6 +6966,7 @@
 ||liverail.com/track/?
 ||livestats.kaltura.com^
 ||livestory.io/*/collect
+||llama.fi/script.js
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||location3.com/analytics/
@@ -26380,6 +26381,7 @@
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
+@@||digitalo.de/min/?b=*/WebTracking.js$script,~third-party
 @@||energy.de^*/ivw.js?$domain=energy.de
 @@||ens.nzz.ch^$~third-party
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
