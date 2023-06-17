@@ -251,3 +251,8 @@ google.open.pdf.ep-stock.com
 google.se
 cdn.discordapp.com
 cdn.jsdelivr.net
+www.linkedin.com
+static.xx.fbcdn.net
+www.behance.net
+encrypted-tbn0.gstatic.com
+js.stripe.com
