@@ -8207,24 +8207,6 @@
 ||dyv1bugovvq1g.cloudfront.net^
 ||firebase.googleapis.com^$domain=terabox.fun
 ||firebaseinstallations.googleapis.com^$domain=terabox.fun
-||cefgo.com^
-||domaincontrol.com^
-||fbi.com^
-||lacolhost.com^
-||lndo.site^$third-party
-||local.computer^
-||local.qinlili.bid^
-||local.sisteminha.com^
-||localho.st^
-||.direct^
-||localtest.me^
-||lvh.me^
-||netfinity.hostedrmm.com^
-||nip.io^$third-party
-||ssh.town^
-||supercalifragilisticexpialidocious.co.uk^
-||xip.io^
-||yoogle.com^
 ||am-vid-events.taboola.com^
 ||convsgmp.taboola.com^
 ||la-sync.taboola.com^
@@ -9344,6 +9326,7 @@
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
+||apester.com/cookie/bundle.js
 ||api-js.mixpanel.com^
 ||api-router.kaspersky-labs.com/logger2/metrics/
 ||api.ffm.to/sl/e/$image
@@ -9673,6 +9656,7 @@
 ||geoip.hmageo.com^
 ||geoip.ifunny.co^
 ||geolocation.forbes.com^
+||getadblock.com/js/log.js
 ||gettyimages.*/pulse$ping
 ||ghacks.net/statics/px.gif
 ||github.com/_private/browser/stats
@@ -10087,6 +10071,7 @@
 ||rv.modanisa.com^$script
 ||rvo-cohesion.healthline.com^
 ||s.infogram.com^
+||s.wayfair.com^
 ||saa.insideedition.com^
 ||sciencechannel.com/events/
 ||scloud.online/stat/
@@ -10481,6 +10466,7 @@
 ||s3.amazonaws.com/downloads.mailchimp.com/$script,domain=confection.io
 ||substation.confection.io^
 ||lightning.ncaa.com/launch/$script
+||onesignal.com^$domain=androidauthority.com|iphoneincanada.ca|rockpapershotgun.com|senpa.io|shineads.org
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx
 ||bing.com^*/glinkping.aspx$ping,xmlhttprequest
@@ -24855,6 +24841,8 @@
 ||happysex.ch/app_jquery/Tracking.js
 ||hartgeld.com/cgi-sys/Count.cgi?
 ||heise.de/ivw-bin/ivw/cp/
+||herz-fuer-tiere.de^*/ad.gif?
+||herz-fuer-tiere.de^*/sunshine.gif?
 ||hokuspokus.tarnkappe.info^
 ||homegate.ch/g/collect?
 ||horizont.net/stats/
@@ -25104,6 +25092,7 @@
 ||autohome.com.cn/impress?
 ||baidu.com/api/bidder/
 ||baidu.com/kan/api/ipLocation
+||baidu.com^*/ps_default.gif?
 ||banana.le.com^
 ||beacon.qq.com^
 ||cherry.le.com^
@@ -25367,7 +25356,7 @@
 ||analytics.sanoma.fi^
 ||api.nettix.fi/counter/$image
 ||data.reactandshare.com^
-||dax.yle.fi/yya/event
+||dax.yle.fi^
 ||dp.alma.iltalehti.fi/v1/cookie
 ||events.il.fi^
 ||hs.fi/stats
@@ -26128,6 +26117,7 @@
 @@||noodid.ee/chordQuiz/$~third-party
 @@||noxgroup.com/noxinfluencer/sensor_sdk/$script,domain=noxinfluencer.com
 @@||nsfw.xxx/vendor/fingerprint/fingerprint2.min.js$script,~third-party
+@@||nypost.com/blaize/datalayer$~third-party
 @@||nytimes.com^*/EventTracker.js$~third-party
 @@||ondemand.sas.com^$subdocument
 @@||onenote.com^*/aria-web-telemetry
