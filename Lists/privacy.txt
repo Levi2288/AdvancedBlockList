@@ -3691,6 +3691,7 @@
 ||chairscrack.com^
 ||channelcamp.com^
 ||chargecracker.com^
+||charmingplate.com^
 ||cheerfulrange.com^
 ||chemicalcoach.com^
 ||chemicalsnake.com^
@@ -10398,6 +10399,7 @@
 ||wikipedia.org/beacon/
 ||windy.com/sedlina/ga/
 ||wiztube.xyz/cdn-cgi/trace
+||wolfram.com/common/javascript/analytics.js
 ||wolfram.com/common/javascript/wal/
 ||wondershare.com/trk
 ||wsj.com/asset/amt.js
@@ -26003,6 +26005,7 @@
 @@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||check.ddos-guard.net/check.js$script
+@@||checkout.tito.io/dynatrace/$xmlhttprequest,domain=ti.to
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|myair.resmed.com
@@ -26050,6 +26053,8 @@
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
+@@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
+@@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||friendbuy.com^$domain=butcherbox.com
 @@||geoip-db.com/jsonp/$script,third-party
