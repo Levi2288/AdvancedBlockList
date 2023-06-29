@@ -2899,6 +2899,7 @@
 ||ubertracking.info^$third-party
 ||uciservice.com^$third-party
 ||udkcrj.com^$third-party
+||umami.is^$third-party
 ||umbel.com^$third-party
 ||unicaondemand.com^$third-party
 ||uniqodo.com^$third-party
@@ -6078,6 +6079,7 @@
 ||bc0a.com/be_ixf_js_sdk.js
 ||bc0a.com/marvel.js
 ||bdg.com/event?
+||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
 ||beacon.cdnma.com^
@@ -10399,6 +10401,7 @@
 ||wikipedia.org/beacon/
 ||windy.com/sedlina/ga/
 ||wiztube.xyz/cdn-cgi/trace
+||wnyc.org/analytics/
 ||wolfram.com/common/javascript/analytics.js
 ||wolfram.com/common/javascript/wal/
 ||wondershare.com/trk
@@ -25543,6 +25546,7 @@
 ||d-log.bs-asahi.tv^
 ||d-log.tv-asahi.co.jp^
 ||d.tv-asahi.co.jp^
+||daiichi-kamotsu.co.jp/js/google_analytics.js
 ||dmm.com/analytics/
 ||dmm.com/imp?
 ||dxlive.com/js/dtrace.js
@@ -26005,7 +26009,6 @@
 @@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||check.ddos-guard.net/check.js$script
-@@||checkout.tito.io/dynatrace/$xmlhttprequest,domain=ti.to
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|myair.resmed.com
@@ -26052,6 +26055,7 @@
 @@||events.raceresult.com^$~third-party,xmlhttprequest
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
+@@||ezodn.com/cmp/gvl.json$xmlhttprequest
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
 @@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
