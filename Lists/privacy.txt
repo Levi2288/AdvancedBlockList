@@ -1854,6 +1854,7 @@
 ||lporirxe.com^$third-party
 ||lr-in-prod.com^$third-party
 ||lr-in.com^$third-party
+||lr-ingest.com^$third-party
 ||lr-ingest.io^$third-party
 ||lsfinteractive.com^$third-party
 ||lucidel.com^$third-party
@@ -5514,6 +5515,7 @@
 ||f-counter.net^$third-party
 ||fspark-ap.com^$third-party
 ||fw-ad.jp^$third-party
+||gacraft.jp^$third-party
 ||geniee.jp^$third-party
 ||genieedmp.com^$third-party
 ||genieessp.jp^$third-party
@@ -113696,7 +113698,6 @@ acq-au.americanexpress.com
 acq-jp.americanexpress.com
 acro.egghead.link
 act.firstdata.com
-actioniq.mr-in.com
 activity.fiverr.com
 activity.wisepops.com
 acton.brightspeed.com
@@ -113834,6 +113835,7 @@ alerts.ironmountain.com
 alerts.wolterskluwerfs.com
 ali8.alinea.fr
 aliasanvil.com
+aliveappliance.com
 allergy.thermo.com
 allergy.thermofisher.com
 allsafe.inthere.link
@@ -114277,6 +114279,7 @@ asssyy.icook.tw
 astage.dailynumber.app
 ast-en.adp.ca
 ast-fr.adp.ca
+astonishingfood.com
 astral.nicovideo.jp
 asttcp.vatera.hu
 a.svenskfast.se
@@ -114364,7 +114367,6 @@ beacon.sftoaa.com
 beam.telex.hu
 beamvolcano.com
 bears.daigostudio.com
-beat.socialblade.com
 beat.yourtv.jp
 beer2s.millerbrewing.com
 be-go.experian.com
@@ -114397,7 +114399,6 @@ bi.irisdating.com
 bikini.hasdukmerahputih.com
 bikini.indonesiya.com
 bint.openapp.link
-bin.vinted.net
 bio.chups.co
 bit.aridjaya.com
 bizlink.dinifi.com
@@ -114470,6 +114471,7 @@ bqacmp.vidaxl.no
 bractivacar.eccocar.com
 br.adpinfo.com
 brainlands.stonefalcon.com
+brainynut.com
 branch2.udl.io
 branch.365soup.bibsolution.net
 branch-4567w2a56q.salesfloor.net
@@ -114616,6 +114618,7 @@ b.todaytix.com
 btstats.benakt.com
 bu.adpinfo.com
 buasmk.earthshoes.com
+bubblebedroom.com
 buildingknife.com
 bulgariarestaurant.openapp.link
 buoypinger-app.sapsailing.com
@@ -114627,6 +114630,8 @@ business-pages.edfenergy.com
 businessprocess.ricoh.de
 business.stc.com.sa
 business.vodafone.co.nz
+bustlingbook.com
+buttonladybug.com
 buyer.okiela.com
 buzz.vocus.com
 b.whee.ly
@@ -114690,6 +114695,7 @@ cast.net.anwalt.de
 catalogs.printplace.com
 catracking.cubiq.com
 cautiouscamera.com
+cautiouscherries.com
 cavecurtain.com
 c.bazo.io
 cbl6.destinia.gt
@@ -114718,10 +114724,12 @@ chat.forddirectdealers.com
 chef.getmenoo.com
 chef.newtrina.com
 chelsea.clicks.hqo.co
+chivalrouscord.com
 choose.adelaide.edu.au
 chubbycreature.com
 ci.intuit.ca
 cimarketingforms.aig.com
+cinemabonus.com
 cinepolis.trailervote.com
 circle.pandasuite.io
 cis.schibsted.com
@@ -114758,10 +114766,12 @@ cliquelead.com
 clk.ingage.jp
 clnbze.echodnia.eu
 clnbze.naszemiasto.pl
+cloisteredcurve.com
 c.lolamarket.com
 cloud.degoo.com
 cloudhosting-business.vodafone.com
 cloud.webtrack.online
+clovercabbage.com
 cloverleaf.infor.com
 cltr.irlmail.org
 clumsycar.com
@@ -114938,6 +114948,7 @@ counter.reddigital.ru
 counter.wikiwiki.jp
 count.gothaer-digital.de
 count-server.sharethis.com
+courageousbaby.com
 cowscrayon.com
 cp.deltadentalwa.com
 cph.credit-pret-hypothecaire.com
@@ -114960,6 +114971,7 @@ crm.leads360.com
 crookedcreature.com
 crossees.com
 crrm.onjoyri.de
+cryo.socialblade.com
 crypto.egghead.link
 cs2113sbeda.hokto-onlineshop.jp
 cs.nakanohito.jp
@@ -114988,6 +115000,8 @@ c-t.topya.com
 ctx.citiservi.es
 cuddlycake.com
 cufroa.aboutyou.be
+curvedhoney.com
+curvycord.com
 cushiondrum.com
 custom.dowjones.com
 customer-engagement.verintsystemsinc.com
@@ -115137,6 +115151,7 @@ d.deloitte.fr
 dd.nytimes.com
 d.doctipharma.fr
 deadpanmarble.com
+deafeningdowntown.com
 dealfastfood.openapp.link
 deb1.refleximmo-recrutement.com
 debonairtree.com
@@ -115164,6 +115179,7 @@ deeplink.wbnc.99array.com
 deeplink.xeropan.com
 deep.plant.chat
 deep.souk.com.br
+deerbeginner.com
 delicateducks.com
 delivery.email-pepipost.branch.rocks
 delivery.lululemon.com
@@ -115241,6 +115257,7 @@ direct.diarymuslim.com
 directlink.aridjaya.com
 directlink.hasdukmerahputih.com
 directlink.indonesiya.com
+direfuldesk.com
 discover.jll.com
 discover.perceptivesoftware.fr
 discover.pharmaignite.com
@@ -115687,6 +115704,7 @@ explore.broncos.com.au
 explore.epsilon.com
 explore.firstnet.com
 exprealty377.myre.io
+exultantdrop.com
 eymiwj.cancan.ro
 eyypxz.canifa.com
 ezvjys.belezanaweb.com.br
@@ -115741,6 +115759,7 @@ flow.kiloutou.fr
 fma7.aegon.es
 fmjgtp.dentalspeed.com
 fmqidg.letras.com
+foamypain.com
 fokbrd.impo.ch
 food.informaengage.com
 food.pentonmarketingsvcs.com
@@ -115797,7 +115816,6 @@ fpc.utexas.edu
 fpghll.rossmann.hu
 fp.mandatumlife.fi
 fp.mandatumtrader.fi
-fpnpmcdn.net
 fpt.inxinternational.com
 fptls2.com
 fptls.com
@@ -116247,6 +116265,7 @@ gpplus-app.hotdoc.com.au
 gpsqnl.delsey.com
 gr.a23.in
 grado.ufv.es
+grayoranges.com
 gr-business.vodafone.com
 grn.openapp.link
 groovyornament.com
@@ -116275,7 +116294,9 @@ gxyojn.underarmour.fr
 gyradiko.openapp.link
 gyydua.dakine.com
 gyzwcl.sconto.cz
+haltingdivision.com
 handsomehose.com
+handsomeyam.com
 harborcaption.com
 harman.epoise.com
 harpra-companion.harvinar.com
@@ -117072,6 +117093,7 @@ library.daptiv.com
 lieudetravail.ricoh.fr
 lifestyle.tradeshow.globalsources.com
 lift.acquia.com
+liftedknowledge.com
 l.imax.com
 lincoln-financial.lfd.com
 link.1800contacts.com
@@ -117551,6 +117573,7 @@ looseloaf.com
 l.orna.me
 losslace.com
 lotte.myomee.com
+loveseashore.com
 lozano.net.anwalt.de
 lp.adp.com
 lp.apac.business.samsung.com
@@ -118575,6 +118598,7 @@ mortgage.equifax.com
 mortgage.inform.equifax.com
 mortgage.leads360.com
 mortgage.velocify.com
+motionflowers.com
 motista.actonservice.com
 motorsports.locktonaffinity.net
 mousebusters.odencat.com
@@ -118884,6 +118908,7 @@ open.theinnercircle.co
 open.ticketbro.com
 open.uzitapp.com
 open.wynk.in
+operationchicken.com
 opportunityfund.actonservice.com
 oppositeparcel.com
 opticca.actonservice.com
@@ -119127,6 +119152,7 @@ play.wavelength.zone
 plbcsd.vidaxl.se
 pl.carbon-tab.ethan.link
 pl.connatix.com
+plenty.vidio.com
 ple.pearlinsurance.com
 pl.hitthefrontpage.com
 pl.mynorthstarapp.com
@@ -119148,6 +119174,7 @@ pod.spoti.fi
 poeticpackage.com
 pointlessprofit.com
 polhvf.bootbarn.com
+politeplanes.com
 pool.onjoyri.de
 pop3.happ.social
 popcornfood.com
@@ -119491,6 +119518,7 @@ rochelle.wantsext.me
 rollbar.actonservice.com
 romotur.actonservice.com
 r.onmyway.com
+roseincome.com
 rottenray.com
 roulette.abzorbagames.com
 router28.net.anwalt.de
@@ -119907,6 +119935,7 @@ sg.lucanet.com
 sgms.greatschools.org
 s.goat.com
 sgstats.com
+shadeship.com
 shakyseat.com
 share.1stphorm.app
 share1.stubmed.net
@@ -120007,6 +120036,7 @@ short.isdev.info
 sickflock.com
 sig.nadex.com
 sign.use-neo.com
+silkysoda.com
 s.imagica.ai
 simg.discovery.com
 simg.interhome.be
@@ -120030,6 +120060,7 @@ site.johnlewis.com
 site.johnlewis-insurance.com
 site.tdk.com
 siusmv.coraltravel.pl
+sixauthority.com
 sjms.actonservice.com
 sjourney.penfed.org
 sk0.monnierfreres.eu
@@ -121392,6 +121423,7 @@ sonar.viously.com
 s-onetag.com
 soneticscorp.actonservice.com
 so.opentable.co.uk
+soresidewalk.com
 sosintl.actonservice.com
 so.swisscom.ch
 soundstocking.com
@@ -121402,6 +121434,7 @@ sp-app.fixly.pl
 spark.thelyst.com
 sp.data.funkedigital.de
 sp.ecosia.org
+spectacularstamp.com
 spellmist.com
 spencerfane.actonservice.com
 spenvp.gate.shop
@@ -121628,6 +121661,7 @@ staging-links.thriveglobal.com
 staging.narrateapp.com
 staging-refer.rooam.co
 staging.refer.wagr.us
+stampknot.com
 st.anastasija.lt
 stanburns.actonservice.com
 starify.appsonic.fr
@@ -122066,6 +122100,7 @@ stat.tiara.tistory.com
 stat.u.sb
 stat.wolterskluwer.es
 stat.wolterskluwer.pt
+stayaction.com
 stay.lottehotel.com
 std.o.rxlist.com
 steepsister.com
@@ -122090,6 +122125,7 @@ strack.aetnafeds.com
 strack.concur.com.sg
 strack.cricketworldcupstore.com
 strangeclocks.com
+strangersponge.com
 stream.9now.com.au
 stretchsneeze.com
 stretchsquirrel.com
@@ -122238,6 +122274,7 @@ t.arkansasrazorbacks.com
 t.arts.uci.edu
 tas.actonservice.com
 tastelesstoes.com
+tastesnake.com
 ta.taxslayer.com
 t.auburntigers.com
 t.augustaentertainmentcomplex.com
@@ -122286,6 +122323,7 @@ telegraph.prd.api.max.com
 telem.sre.gopuff.com
 telephoneapparatus.com
 telsmith.actonservice.com
+tempertrick.com
 temptteam.com
 t.emueagles.com
 te.nitro-test-extern.otto.boreus.de
@@ -122546,6 +122584,9 @@ track-e.infineon.com
 track-e.infineoncommunity.com
 tracker-aa.pafbetscore.lv
 tracker-dot-optimeeze.appspot.com
+tracker.durasite.net
+tracker.gamedock.io
+tracker.gamemonkey.org
 tracker.gleanview.com
 tracker.hdtvcloud.com
 tracker.novage.com.ua
@@ -122643,6 +122684,7 @@ tracking.ftitechnology.com
 tracking.gartner.com
 tracking.gelia.com
 tracking.getapp.com
+tracking.gnavi.co.jp
 tracking.go.provident.bank
 tracking.go.toyobo.co.jp
 tracking.handlesets.com
@@ -122772,6 +122814,7 @@ track.intostudy.com
 track.invtrusts.co.uk
 track.ivia.com
 track.lesmills.com
+track.list-finder.jp
 track.mentor.com
 track.murray-income.co.uk
 track.myli.io
@@ -122950,6 +122993,7 @@ tr.email.investissement-residence-service.fr
 tr.email.landrover-approved.fr
 tr.email.nauticexpo.com
 tr.email.pointfranchise.co.uk
+tremendousearthquake.com
 tr.e.m-entreprise.fr
 tr.engie-globalenergy.info
 tr.enquetes.actionlogement.fr
@@ -123153,6 +123197,7 @@ trk.solution.desjardins.com
 trk.sourcingatmagic.com
 trk.speedbumpsandhumps.com
 trk.squeezemassage.com
+trk.storyly.io
 trk.theaisummit.com
 trk.thebatteryshow.com
 trk.thebatteryshow.eu
@@ -123544,6 +123589,7 @@ u.salony.com
 us.appbackupapi.micloud.xiaomi.net.iberostar.com
 us-central1-markuphero.cloudfunctions.net
 use.fvr.to
+uselesslumber.com
 use.lunos.app
 user.userguiding.com
 us-go.experian.com
@@ -123570,6 +123616,7 @@ valdes.net.anwalt.de
 v.angha.me
 v.cameo.com
 vcs.kensington.my
+v.ctrl.blog
 vdmvyu.falk.de
 vdrebz.kathmandu.com.au
 vd-test.net.anwalt.de
