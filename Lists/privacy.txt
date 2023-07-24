@@ -7736,6 +7736,7 @@
 ||sync.outbrain.com^$third-party
 ||synergizeonline.net/trackpoint/
 ||syteapi.com/et?
+||t.360playvid.info^
 ||t.91syun.com^
 ||t.a3cloud.net^
 ||t.adx.opera.com^
@@ -9465,6 +9466,7 @@
 ||atrack.allposters.com^
 ||ats.alot.com^
 ||audacy.com/data-events/
+||aurum.tirto.id^
 ||auth.services.adobe.com/signin/v1/audit
 ||autotrader.com/pixall/
 ||avitop.com/aviation/hitlist.asp
@@ -9959,6 +9961,8 @@
 ||lookawoman.com/t/
 ||lowes.com/gauge/
 ||lyft.com/api/track
+||m.facebook.com/ajax/weblite_load_logging/
+||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||ma.redhat.com^
 ||macys.com/tag_path/
 ||mail.yahoo.com/f/track/
@@ -10440,6 +10444,7 @@
 ||tripadvisor.*/wm/record
 ||tripcdn.com/bee/collect$domain=trip.com
 ||trivago.com/tracking/
+||trk.tirto.id^
 ||trumba.com/et.aspx?
 ||trx3.famousfix.com^
 ||ts.delfi.lt^
