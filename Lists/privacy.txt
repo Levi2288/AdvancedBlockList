@@ -9754,6 +9754,7 @@
 ||freepik.*/download.gif?
 ||freepik.com/_ga?
 ||freeplayervideo.com/cdn-cgi/trace
+||freeprivacypolicy.com/track/
 ||fresnel-events.vimeocdn.com^
 ||ft.com/ingest?
 ||fullscreen.nz/v1/tracking/$domain=threenow.co.nz
@@ -9930,6 +9931,7 @@
 ||link.kogan.com^
 ||link2.strawberrynet.com^$image
 ||linkedin.com/collect/
+||linkedin.com/li/track$xmlhttprequest
 ||linkedin.com/litms/utag/
 ||linkedin.com/platform-telemetry/
 ||linkedin.com/sensorCollect/
@@ -10288,6 +10290,7 @@
 ||stat.turb.pw^
 ||stat.vulkanvegas.com^
 ||stategg.cdngeek.com^
+||statista.com/data/ptm.gif
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
@@ -28438,6 +28441,7 @@ arketing.indianadunes.com^
 ||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
+||t.syosetu.org^
 ||track.buyma.com^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^
@@ -29275,6 +29279,7 @@ arketing.indianadunes.com^
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 @@||linksynergy.com/minified_logic.js$xmlhttprequest
 @@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
+@@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
@@ -98530,6 +98535,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  a34403.actonsoftware.com
  a34436.actonservice.com
  a34520.actonsoftware.com
+ a34938.actonservice.com
  a35353.actonsoftware.com
  a35415.actonservice.com
  a35434.actonsoftware.com
