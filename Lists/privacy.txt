@@ -1382,6 +1382,7 @@
 ||flxpxl.com^$third-party
 ||flyingpt.com^$third-party
 ||flyspy.co^$third-party
+||fmhy.net^$third-party
 ||fndrsp.net^$third-party
 ||followercounter.com^$third-party
 ||footprintdns.com^$third-party
@@ -5975,6 +5976,7 @@
 ||analytics.carbaselive.com^
 ||analytics.chegg.com^
 ||analytics.cincopa.com^
+||analytics.clic2buy.com^
 ||analytics.cloud.coveo.com^
 ||analytics.cmn.com^
 ||analytics.codigo.se^
@@ -9324,6 +9326,7 @@
 ||analytics.kkb.com.tr^
 ||collector.wawlabs.com^
 ||hulyagedikci.com/vhit.php?
+||iyzipay.com/buyer-protection/assets/js/analytics.js
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
 ||tracking.venturify.at^
@@ -10070,6 +10073,7 @@
 ||newzit.com/setABframe.html
 ||nextdoor.com/events/
 ||nflshop.com/api/track
+||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
 ||no9pldds1lmn3.soundcloud.com^
 ||noodle.backmarket.io^
@@ -10087,6 +10091,7 @@
 ||ohm-dot-hackster-io.appspot.com^
 ||okx.com/jsstat/sb?
 ||online-umwandeln.de/analytics.js
+||ontraport.com/opt_assets/static/js/logging.js
 ||opendesktop.org/l/fp
 ||ophan.theguardian.com^
 ||optimizely.com/js/geo.js
@@ -27869,6 +27874,7 @@ arketing.indianadunes.com^
 ||compteur.developpez.com^
 ||courrierinternational.com/*&vtag=
 ||developpez.com/public/js/log.js
+||donnons.org/log.js
 ||e.legalstart.fr^
 ||e.m6web.fr/events
 ||easeus.com/default/js/aff_buy_tracking.js
@@ -28752,6 +28758,7 @@ arketing.indianadunes.com^
 ||at.ua/stat/
 ||counter.ukr.net^
 ||meta.ua/c.asp?
+||obozrevatel.com/pixel.png
 ||piccy.info/c?
 ||piccy.org.ua/c?
 ||remp.nv.ua^
