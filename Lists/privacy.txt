@@ -213,6 +213,7 @@
 .wix.com/_api/ping/
 .zalando.com/images/probe.png
 .zippingcare.com/beacon/$image
+://2ip.*/member_photo/$third-party
 ://email.*/e/o/
 ://img.promio-connect.com/
 ://omni.soundestlink.com/$image
@@ -2249,6 +2250,7 @@
 ||precisioncounter.com^$third-party
 ||predicta.net^$third-party
 ||predictiveresponse.net^$third-party
+||premiumimpression.com^$third-party
 ||presage.io^$third-party
 ||prfct.co^$third-party
 ||privymktg.com^$third-party
