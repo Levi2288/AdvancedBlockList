@@ -215,6 +215,7 @@
 .zippingcare.com/beacon/$image
 ://email.*/e/o/
 ://img.promio-connect.com/
+://omni.soundestlink.com/$image
 ://parcel-api.delivery-status.*/open/$image
 ://t.order.*/r/?id=$image
 ||google.com/gen_204?
