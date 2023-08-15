@@ -9808,6 +9808,7 @@
 ||globes.co.il/shared/s.ashx?
 ||gnar.grammarly.com^
 ||gnavi.co.jp/analysis/
+||go.fap18.net/ftt2/js.php
 ||go.pardot.com^
 ||go.theregister.com^$image
 ||gobankingrates.com/fp/
@@ -9910,6 +9911,7 @@
 ||isharemetric.rediff.com^
 ||ivx.lacompagnie.com^
 ||j927.statnews.com^
+||jansatta.com/api/capture/ua
 ||jav4tv.com/player/analytics
 ||javhd.com/ascripts/gcu.js
 ||javhd.com/rstat
@@ -27748,6 +27750,7 @@ arketing.indianadunes.com^
 ||navigation-timing.meinestadt.de^
 ||nct.ui-portal.de^
 ||netzwelt.de/log?
+||news.de/track.php
 ||newsdeutschland.com/RPC.php
 ||nickles.de/ivw/
 ||nius.de/monitoring
@@ -113951,6 +113954,7 @@ analytics.bgr.com
 analytics.blackboard.com
 analytics.carbaselive.com
 analytics.chattarize.de
+analytics.clic2buy.com
 analytics-consent-manager-v2-prod.azureedge.net
 analytics.cookiefirst.dev
 analytics.crowdkeep.com
