@@ -2475,6 +2475,7 @@
 ||scriptshead.com^$third-party
 ||sddan.com^$third-party
 ||sea-nov-1.com^$third-party
+||sealmetrics.com^$third-party
 ||searchenginegenie.com^$third-party
 ||searchfeed.com^$third-party
 ||searchignite.com^$third-party
@@ -4355,6 +4356,7 @@
 ||poisedpig.com^
 ||politegoldfish.com^
 ||politeplanes.com^
+||politicalporter.com^
 ||popcornfood.com^
 ||possessivebucket.com^
 ||possibleboats.com^
@@ -6313,6 +6315,7 @@
 ||citygridmedia.com/tracker/
 ||citysearch.com/tracker/
 ||cityzen.io/Pixel/
+||civicscience.com/jot?
 ||ck.connatix.com^
 ||cleantalk.org/pixel/
 ||clearspring.com/at/
@@ -7095,6 +7098,7 @@
 ||log-*.previewnetworks.com^
 ||log.aimtell.com^
 ||log.cookieyes.com^
+||log.dpa.com^
 ||log.go.com^
 ||log.invodo.com^
 ||log.mediacategory.com^
@@ -9394,6 +9398,7 @@
 ||adguard.com/-/event/
 ||adl.bankofthewest.com^
 ||adobe.io/system/log
+||adobe.io/web/v1/metrics
 ||adtech-events.bookmyshow.com^
 ||adv.drtuber.com^
 ||advancedmp3players.co.uk/themes/basic/js/analytics.js
@@ -10763,6 +10768,7 @@
 ||samsclub.com/px/PXsLC3j22K/init.js
 ||seattlepi.com/413gkwMT/init.js
 ||seekingalpha.com/xgCxM9By/init.js
+||sfgate.com/413gkwMT/init.js
 ||shiekh.com/iJ55yhVs/init.js
 ||simon.com/46SCNLxs/init.js
 ||skechers.com/dL6GOSf9/init.js
@@ -27774,6 +27780,7 @@ arketing.indianadunes.com^
 ||oxifwsabgd.nzz.ch^
 ||pi.technik3d.com^
 ||pixel.ionos.de^
+||plausible.motorpresse.de^
 ||potsdamer-stadtplan.com/t.gif
 ||pstt.mtb-news.de^
 ||px.derstandard.at^
