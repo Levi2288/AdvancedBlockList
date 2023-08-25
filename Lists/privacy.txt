@@ -202,6 +202,7 @@
 .spreadshirt.net/mo/$image
 .starbucks.com/a/
 .substack.com/o/$image
+.substackcdn.com/open?$image
 .theatlantic.com/email.gif?
 .titus.de/oo/$image
 .travis-ci.com/r/$image
@@ -215,10 +216,10 @@
 .zippingcare.com/beacon/$image
 ://2ip.*/member_photo/$third-party
 ://email.*/e/o/
-://img.promio-connect.com/
-://omni.soundestlink.com/$image
 ://parcel-api.delivery-status.*/open/$image
 ://t.order.*/r/?id=$image
+img.promio-connect.com$image
+omni.soundestlink.com$image
 ||google.com/gen_204?
 ||googleapis.com^*/gen_204?
 ||gstatic.com/gen_204?
@@ -3498,6 +3499,7 @@
 ||adamantsnail.com^
 ||additionant.com^
 ||adorableanger.com^
+||adventurousamount.com^
 ||advertisementafterthought.com^
 ||afraidlanguage.com^
 ||agreeablestew.com^
@@ -5893,6 +5895,7 @@
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
 ||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/sa7d76sa/
+||4taps.me/analytics/
 ||51network.com^$third-party
 ||99widgets.com/counters/
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
@@ -6302,6 +6305,7 @@
 ||cgicounter.puretec.de^
 ||chanalytics.merchantadvantage.com^
 ||channelexco.com/events
+||chargebee.com/api/internal/track_info_error
 ||check.ddos-guard.net^$third-party
 ||check.deadlinefunnel.com^$third-party
 ||checkout.com/logger/
@@ -7447,7 +7451,6 @@
 ||ptracker.nurturehq.com^
 ||ptsc.shoplocal.com^
 ||pub.sheknows.com^
-||pubgw.yahoo.com^
 ||public.cobrowse.oraclecloud.com/rely/storage/
 ||publicbroadcasting.net/analytics/
 ||purevideo.com^*/pvshim.gif?
@@ -8246,6 +8249,7 @@
 ||d1k8sb4xbepqao.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
+||d1qnmu4nrib73p.cloudfront.net^
 ||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
@@ -9074,6 +9078,8 @@
 ||tracker-rec.smart-bdash.com^
 ||tracker.520call.me^
 ||tracker.durasite.net^
+||tracker.shanon-services.com^
+||tracker.smartseminar.jp^
 ||trk.fensi.plus^
 ||uh.nakanohito.jp^
 ||userdive.com^$third-party
@@ -9348,6 +9354,7 @@
 ||informers.sinoptik.ua^
 ||mgz.com.ua/counter.php?
 ||top.zp.ua/counter/
+||tracker.prom.ua^
 ||analytics.yomedia.vn^
 ||f-emc.ngsp.gov.vn^
 ||fpt.shop/fa_tracking.js
@@ -9552,6 +9559,7 @@
 ||canstockphoto.com/server.php?rqst=track
 ||capitalone.com/collector/
 ||cargurus.com/tr/
+||carsandbids.com/a/p
 ||cbc.ca/g/stats/
 ||centerblog.net/stats.js
 ||change.org/api-proxy/-/bandit/pull
@@ -9754,6 +9762,7 @@
 ||fc2.com/ana/processor.php?
 ||fc2.com/counter_img.php?
 ||fdt.kraken.com^
+||filext.com/pageview^
 ||findmatches.com/bts.js
 ||findmatches.com/t/tr/lp/intg.js?
 ||findmatches.com/tri?tid=
@@ -28000,6 +28009,7 @@ arketing.indianadunes.com^
 ||analytics.oceanengine.com^
 ||analytics.shop.hisense.com^
 ||applog.yiche.com^
+||audit.qiuwen.net.cn^
 ||autohome.com.cn/impress?
 ||baidu.com/api/bidder/
 ||baidu.com/kan/api/ipLocation
@@ -28990,7 +29000,7 @@ arketing.indianadunes.com^
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$~third-party
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
-@@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|furniturevillage.co.uk|luggagehero.com
+@@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|condor.com|furniturevillage.co.uk|luggagehero.com
 @@||hirosystems.vscode-unpkg.net/*/clarity-lsp/$domain=github.dev|vscode.dev
 @@||hobbyking.com^*/gtm.js$script,~third-party
 @@||hotstarext.com/web-messages/core/error/v52.json$xmlhttprequest,domain=hotstar.com
@@ -29233,6 +29243,7 @@ arketing.indianadunes.com^
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||google-analytics.com/gtm/js?$script,domain=unicef.de
 @@||google-analytics.com/gtm/optimize.js$domain=focus.de
+@@||googleoptimize.com/optimize.js?$domain=eventim.de
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||kameleoon.eu/images/$domain=welt.de
@@ -113871,6 +113882,7 @@ adultmovieh.indonesiya.com
 advancing.acams.org
 advantage.digitalsunray.com
 advantages.americanexpress.com
+adventurousamount.com
 advise.gallup.com
 advisorservices.etradefinancial.com
 advisorservicesfpc.etradefinancial.com
@@ -114393,6 +114405,7 @@ a-t.topya.com
 attractionapples.com
 aud.banque-france.fr
 audio-ak-spotify-com.akamaized.net.iberostar.com
+audit.qiuwen.net.cn
 audsoa.narumiya-online.jp
 auforex.americanexpress.com
 au-go.experian.com
@@ -115154,6 +115167,7 @@ cz-trenyrkarna.m-shop.me
 cz-tropicliberec.m-shop.me
 cz-velkykosik.m-shop.me
 d11bdev7tcn7wh.cloudfront.net
+d1qnmu4nrib73p.cloudfront.net
 d1tbj6eaenapdy.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d2ef20sk9hi1u3.cloudfront.net
@@ -117666,6 +117680,7 @@ lnk.welthee.com
 log000.goo.ne.jp
 log.cognex.com
 log.cookieyes.com
+log.dpa.com
 log-gateway.zoom.us
 log.klook.com
 loglady.kiwi.com
@@ -119243,6 +119258,7 @@ plausible.holderbaum-academy.de
 plausible.hopecanebay.com
 plausible.k6sbw.net
 plausible.kdojang.com
+plausible.motorpresse.de
 plausible.myvirtualsuper.com
 plausible.nickmazuk.com
 plausible.pumpkint.com
@@ -119296,6 +119312,7 @@ poeticpackage.com
 pointlessprofit.com
 polhvf.bootbarn.com
 politeplanes.com
+politicalporter.com
 pool.onjoyri.de
 pop3.happ.social
 popcornfood.com
@@ -119389,7 +119406,6 @@ pt.legalstart.fr
 ptrenx.vidaxl.com.au
 ptw-i.actonservice.com
 p.typekit.net
-pubgw.yahoo.com
 publicidad.daviviendaintl.com
 publicschoolworks.actonservice.com
 publish.tagstorm.com
@@ -122723,8 +122739,11 @@ tracker.gleanview.com
 tracker.hdtvcloud.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
+tracker.prom.ua
 tracker.ranker.com
 tracker.services.vaix.ai
+tracker.shanon-services.com
+tracker.smartseminar.jp
 track.eurogirlsescort.com
 track.exame.com
 track.financialfairness.org.uk
