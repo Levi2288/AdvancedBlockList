@@ -2197,7 +2197,7 @@ omni.soundestlink.com$image
 ||personaclick.com^$third-party
 ||personyze.com^$third-party
 ||peruse.ai^$third-party
-||petametrics.com^$third-party
+||petametrics.com^$image,third-party
 ||pghub.io^$third-party
 ||pgs.io^$third-party,domain=~publicgood.com
 ||phonalytics.com^$third-party
@@ -7797,6 +7797,7 @@ omni.soundestlink.com$image
 ||t.channeladvisor.com^
 ||t.clic2buy.com^
 ||t.dgm-au.com^$third-party
+||t.enuygun.com^
 ||t.id.net/log
 ||t.irtyc.com^
 ||t.jobsyn.org^
@@ -8311,6 +8312,7 @@ omni.soundestlink.com$image
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
 ||d31bfnnwekbny6.cloudfront.net/customers/
 ||d31y97ze264gaa.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
@@ -9350,6 +9352,7 @@ omni.soundestlink.com$image
 ||mdstrm.com/js/lib/streammetrics.js
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
+||recogerconsentimiento.com/consent/
 ||s3wfg.com/js/vortexloader.js
 ||smarte.rs/log
 ||sp.vtex.com^
@@ -9410,6 +9413,7 @@ omni.soundestlink.com$image
 ||abcnews.com/assets/dtci/js/at.js
 ||abebooks.com/timer.gif?
 ||about.me/track?
+||abysscdn.com/cdn-cgi/trace
 ||academia.edu/record_hit
 ||accor.com/g/collect?
 ||accuterm.com/data/stat.js
@@ -9820,6 +9824,7 @@ omni.soundestlink.com$image
 ||freedownloadmanager.org/ajax/th_view.php
 ||freepik.*/download.gif?
 ||freepik.com/_ga?
+||freeplayervideo.com/cdn-cgi/trace
 ||freeprivacypolicy.com/track/
 ||fresnel-events.vimeocdn.com^
 ||ft.com/ingest?
@@ -9905,6 +9910,9 @@ omni.soundestlink.com$image
 ||hotstar.com/v1/track
 ||houzz.com/hsc/aetrk/
 ||houzz.com/js/log?
+||hqq.ac/cdn-cgi/trace
+||hqq.to/cdn-cgi/trace
+||hqq.tv/cdn-cgi/trace
 ||html5games.com/event/
 ||hulkshare.com/ajax/tracker.php
 ||hulu.com/metricsconfig
@@ -10007,6 +10015,7 @@ omni.soundestlink.com$image
 ||linkedin.com/sensorCollect/
 ||links.strava.com^$image
 ||linktr.ee/events
+||linris.xyz/cdn-cgi/trace
 ||lists.ccmbg.com^
 ||littlebigsnake.com/event?
 ||livehdcams.com/api/events
@@ -10057,6 +10066,7 @@ omni.soundestlink.com$image
 ||medium.com/_/batch
 ||medium.com/_/clientele/reports/performance/
 ||meduza.io/stat/
+||megaplay.cc/cdn-cgi/trace
 ||mercedes-benz.com/datadog-
 ||merriam-webster.com/lapi/v1/mwol-search/stats/lookup
 ||messari.io/js/wutangtrack.js
@@ -10075,6 +10085,7 @@ omni.soundestlink.com$image
 ||metro.co.uk/base/rta/
 ||metro.co.uk/cvx/client/sync/fpc?
 ||metroweekly.com/tools/blog_add_visitor/
+||meucdn.vip/cdn-cgi/trace
 ||mewe.com/ubk4jrxn.js
 ||mi.academy.com/p/js/1.js
 ||mi.dickssportinggoods.com/p/js/1.js
@@ -10116,6 +10127,7 @@ omni.soundestlink.com$image
 ||neowin.net/ws/$websocket
 ||net.haier.com^
 ||netflix.com/msl/playapi/cadmium/logblob/
+||netuplayer.top/cdn-cgi/trace
 ||newegg.com/amber3/tracking
 ||newegg.com/gfplib.js
 ||news.google.com/_/v
@@ -10134,6 +10146,7 @@ omni.soundestlink.com$image
 ||norton.com/service/norton/head?
 ||novanthealth.org/v1/tagular/beam
 ||novelcool.com/files/js/yh_tj.js
+||ntvid.online/cdn-cgi/trace
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||nytimes.com/v1/purr-cache
 ||nzpages.co.nz/modules/common/track.js
@@ -10163,6 +10176,7 @@ omni.soundestlink.com$image
 ||pardot.com/pd.js
 ||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
+||pcgamesn.com/cdn-cgi/trace
 ||pcmag.com/js/ga.js
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||pendo.scopus.com/data/ptm.gif
@@ -10193,8 +10207,10 @@ omni.soundestlink.com$image
 ||plausible.ripped.guide^
 ||plausible.safing.io^
 ||play.google.com/log
+||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
 ||plenty.vidio.com^
+||plushd.bio/cdn-cgi/trace
 ||pm.dailykos.com^
 ||pm.geniusmonkey.com^
 ||poki.com/observer/
@@ -10585,6 +10601,7 @@ omni.soundestlink.com$image
 ||vsco.co/api/cantor/track
 ||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
+||waaw.to/cdn-cgi/trace
 ||wal.wolfram.com^
 ||walmart.ca/api/bsp/logger
 ||walmart.ca/api/home-page/logger
@@ -10607,6 +10624,7 @@ omni.soundestlink.com$image
 ||wikimonde.com/matom.js
 ||wikipedia.org/beacon/
 ||windy.com/sedlina/ga/
+||wiztube.xyz/cdn-cgi/trace
 ||wnyc.org/analytics/
 ||wolfram.com/common/javascript/analytics.js
 ||wolfram.com/common/javascript/wal/
@@ -10629,6 +10647,7 @@ omni.soundestlink.com$image
 ||yandex.com/clck/
 ||yandex.eu/clck/
 ||yandex.ru/clck/
+||yandexcdn.com/cdn-cgi/trace
 ||yelp.*/sit_rep
 ||yelp.com/ad_acknowledgment
 ||yelp.com/ad_syndication_user_tracking
