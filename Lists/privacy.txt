@@ -2759,6 +2759,7 @@ omni.soundestlink.com$image
 ||tgdaudience.com^$third-party
 ||tglyr.co^$third-party
 ||tgtag.io^$third-party
+||thank-you.io^$third-party
 ||theadex.com^$third-party
 ||theagency.com^$third-party
 ||theardent.group^$third-party
@@ -3967,6 +3968,7 @@ omni.soundestlink.com$image
 ||fewjuice.com^
 ||fifthborder.com^
 ||finalizeforce.com^
+||financefear.com^
 ||firstfrogs.com^
 ||flakyfeast.com^
 ||flimsycircle.com^
@@ -6070,6 +6072,7 @@ omni.soundestlink.com$image
 ||analytics.rogersmedia.com^
 ||analytics.salesanalytics.io^
 ||analytics.shareaholic.com^
+||analytics.shorte.st^
 ||analytics.sitewit.com^
 ||analytics.sleeknote.com^
 ||analytics.snidigital.com^
@@ -9017,6 +9020,7 @@ omni.soundestlink.com$image
 ||b.sli-spark.com^
 ||b0.yahoo.co.jp^
 ||bidder.mediams.mb.softbank.jp^
+||blogroll.livedoor.net/img/blank.gif?
 ||bridge-ashiato.appspot.com/beacon/
 ||bs.nakanohito.jp^
 ||buzzurl.jp/api/counter/
@@ -9176,6 +9180,7 @@ omni.soundestlink.com$image
 ||youlead.pl/st?browserid
 ||ad-tracker-api.luizalabs.com^
 ||analytics-coletor-site.ojc.com.br^
+||analytics-stamp.confi.com.vc^
 ||analytics.spun.com.br^
 ||api.nobeta.com.br^
 ||b2w.io/event/
@@ -9521,6 +9526,7 @@ omni.soundestlink.com$image
 ||ancestry.com/core.js
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
+||antiadtape.com/stat/
 ||apartments.com/clientvisit/al.gif?
 ||apester.com/cookie/bundle.js
 ||api-js.mixpanel.com^
@@ -9532,6 +9538,7 @@ omni.soundestlink.com$image
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
 ||appanalysis.banggood.com^
+||archive.org^*/analytics.js
 ||as.coinbase.com/metrics
 ||assets.instacart.com^
 ||atrack.allposters.com^
@@ -9749,6 +9756,7 @@ omni.soundestlink.com$image
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
 ||engine.traceparts.com^
+||engineering.com/scripts/$script,domain=eng-tips.com
 ||eproof.drudgereport.com^
 ||equirodi.*/addstat.php
 ||ericdraken.com/a/$script
@@ -10174,6 +10182,7 @@ omni.soundestlink.com$image
 ||outbound.io/v2/track
 ||overstock.com/analytics/
 ||overstock.com/dlp?
+||ovyerus.com/js/script.js
 ||p.ctpost.com/article?
 ||p.fusevideo.net^
 ||p.hentaiforce.net^
@@ -10611,6 +10620,7 @@ omni.soundestlink.com$image
 ||vsco.co/api/cantor/track
 ||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
+||waaw.ac/cdn-cgi/trace
 ||waaw.to/cdn-cgi/trace
 ||wal.wolfram.com^
 ||walmart.ca/api/bsp/logger
@@ -10639,6 +10649,7 @@ omni.soundestlink.com$image
 ||wolfram.com/common/javascript/analytics.js
 ||wolfram.com/common/javascript/wal/
 ||wondershare.com/trk
+||wsj.com/cookies/pixel.gif
 ||wstats.e-wok.tv^
 ||xero.com/api/events/
 ||xfinity.com/event/
@@ -29250,8 +29261,8 @@ arketing.indianadunes.com^
 @@||adobedtm.com/extensions/$domain=antena3.com|apple.com|atresmedia.com|atresplayer.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|lasexta.com|telus.com|verizon.com
 @@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com
 @@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tn.com.ar|wsj.com
-@@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|wpb.shueisha.co.jp
-@@||cxense.com/cx.js$domain=bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp
+@@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|wpb.shueisha.co.jp|wsj.com
+@@||cxense.com/cx.js$domain=bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|wsj.com
 @@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 @@||imrworldwide.com/novms/js/2/ggc$script,domain=9now.com.au|adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|espn.com|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|la7.it|news-mail.com.au|news.com.au|noosanews.com.au|ntnews.com.au|sky.it|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|townsvillebulletin.com.au|tvnow.de|video.corriere.it|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|corriereadriatico.it|couriermail.com.au|dailyexaminer.com.au|fanpage.it|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ipswichadvertiser.com.au|la7.it|last.fm|leggo.it|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|quotidianodipuglia.it|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
@@ -115237,6 +115248,7 @@ d1vg5xiq7qffdj.cloudfront.net
 d2ef20sk9hi1u3.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
 d3gi6isrskhoq.cloudfront.net
 d3oodlxb1rw3kg.cloudfront.net
 d3pi0tys5sdysl.cloudfront.net
@@ -115509,6 +115521,7 @@ dnkeyt.svetsochtillbehor.se
 doagpm.promart.pe
 dodsdexonline.dexknows.com
 domino.flycl.ps
+doppler-beacon.cbsivideo.com
 doublestat.info
 doubtdrawer.com
 do.usefireside.com
@@ -115854,6 +115867,7 @@ events.mcgladrey.com
 events.missena.io
 events.mywd.com
 events.nuance.com
+events.paramount.tech
 event.spektare.com
 events.prd.api.max.com
 events.ricoh.ch
@@ -119645,6 +119659,7 @@ rent.mgrc.com
 reply.osv.com
 reporting-api.gannettinnovation.com
 reporting.autographapp.me
+reports.hibu.com
 reppify.actonservice.com
 representativebat.com
 request.idangels.org
@@ -122544,6 +122559,7 @@ temptteam.com
 t.emueagles.com
 te.nitro-test-extern.otto.boreus.de
 tentflooring.biljax.com
+t.enuygun.com
 teracom.actonservice.com
 terradatum.actonservice.com
 te.sieh-an.at
@@ -122871,6 +122887,7 @@ tracking.care.salinasvalleyhealth.com
 tracking.cengage.com
 tracking.changehealthcare.com
 tracking.chem-agilent.com
+tracking.christianpost.com
 tracking.coldspringusa.com
 tracking.compactappliance.com
 tracking.connect.nicklaushealth.org
