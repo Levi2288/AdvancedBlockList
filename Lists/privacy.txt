@@ -114115,12 +114115,14 @@ analytics.plumbworld.co.uk
 analytics.recamov.com
 analyticssec.overwolf.com
 analytics.shopncaasports.com
+analytics.shorte.st
 analytics.silktide.com
 analytics.skinit.com
 analytics.sportfishingmag.com
 analytics.spun.com.br
 analytics-ssl.allconnect.com
 analytics-ssl.bradyid.com
+analytics-stamp.confi.com.vc
 analytics.synchrony.com
 analytics.theinstitutes.org
 analytics.tntdram.com
@@ -115257,6 +115259,7 @@ cz-trenyrkarna.m-shop.me
 cz-tropicliberec.m-shop.me
 cz-velkykosik.m-shop.me
 d11bdev7tcn7wh.cloudfront.net
+d1f0tbk1v3e25u.cloudfront.net
 d1qnmu4nrib73p.cloudfront.net
 d1tbj6eaenapdy.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
@@ -115264,6 +115267,7 @@ d2ef20sk9hi1u3.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
+d34r8q7sht0t9k.cloudfront.net
 d3gi6isrskhoq.cloudfront.net
 d3oodlxb1rw3kg.cloudfront.net
 d3pi0tys5sdysl.cloudfront.net
@@ -115529,6 +115533,7 @@ dluat.pokerbros.net
 dluat.supremapoker.net
 dl.workindia.in
 dlziqh9bo7.boring.fm
+dmpmetrics.rcsmetrics.it
 dm-target.fishersci.com
 dm-target.thermofisher.com
 dmvbpz.swimoutlet.com
@@ -115957,6 +115962,7 @@ ffyvsn.evisu.com
 fgfecw.rebelle.com
 fhdnds.mrmarvis.com
 fight.offtherecord.com
+financefear.com
 findthetruth.allergyai.com
 fire.solutions.jci.com
 firstblackphase.com
@@ -124096,6 +124102,7 @@ we-love-privacy.humane.club
 wevbgr.vidaxl.it
 wgyapq.stormberg.com
 whale3.io
+wh.ipaddress.com
 whispermeeting.com
 whrsen.itemmania.com
 widget.educationdynamics.com
