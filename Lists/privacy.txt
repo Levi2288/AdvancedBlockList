@@ -1838,7 +1838,6 @@ omni.soundestlink.com$image
 ||linksynergy.com^$third-party
 ||linkxchanger.com^$third-party
 ||listenlayer.com^$third-party
-||listrakbi.com^$third-party
 ||litix.io^$third-party
 ||livecount.fr^$third-party
 ||livesegmentservice.com^$third-party
@@ -7110,6 +7109,8 @@ omni.soundestlink.com$image
 ||linkwithin.com/pixel.png
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
+||listrakbi.com/activity/
+||listrakbi.com/api/ActivityEvents/
 ||lit.connatix.com^
 ||literally-analytics.appspot.com^
 ||live-partner.com/tags?
@@ -7244,6 +7245,7 @@ omni.soundestlink.com$image
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
 ||mochiads.com/clk/
+||moco.yukata.dev/get/$image,third-party
 ||modules.ooyala.com^*/analytics-
 ||mon.domdog.io^
 ||monitor-frontend-collector.a.bybit-aws.com^
@@ -9366,6 +9368,7 @@ omni.soundestlink.com$image
 ||advgo.net/mushroom/
 ||analitica.webrpp.com^
 ||analytics.lasegunda.ecn.cl^
+||analytics.neoogilvy.uy^
 ||citiservi.es/adstrack?
 ||collector-videoplayer.5centscdn.net^
 ||contadores.miarroba.com^
@@ -10394,6 +10397,7 @@ omni.soundestlink.com$image
 ||srtb.msn.com^
 ||srv.plesk.com^
 ||ss.photospecialist.co.uk^
+||sstats.adobe.com^
 ||st.sawlive.tv^
 ||stackoverflow.com/_/client-timings
 ||stackshare.io/analytics.
@@ -10657,6 +10661,7 @@ omni.soundestlink.com$image
 ||web.whatsapp.com/wam
 ||weblog.flyasiana.com^
 ||webmd.com/static/v/c?
+||wellsfargo.com/as/jsLog
 ||wellsfargo.com/dti_apg/
 ||wellsfargo.com/jenny/
 ||wellsfargo.com/tracking/
@@ -28060,6 +28065,7 @@ arketing.indianadunes.com^
 ||tc2.hometogo.net^
 ||telerama.fr/*&ptag=
 ||tracker.mspy.com^
+||tracking.cdiscount.com^
 ||unblog.fr/cu.js
 ||vinted.fr/relay/events
 ||wawacity.*/bypass
@@ -28106,7 +28112,6 @@ arketing.indianadunes.com^
 ||cherry.le.com^
 ||clewm.net/public/cli_analytics.js$domain=cli.im
 ||click.gamersky.com^
-||cm.bilibili.com^
 ||count.candou.com^
 ||count5.pconline.com.cn^
 ||counter.people.cn^
@@ -28172,6 +28177,7 @@ arketing.indianadunes.com^
 ||mtrace.qq.com^
 ||music.163.com/weapi/feedback/weblog
 ||music.163.com/weapi/pl/count
+||netstat.yunnan.cn^
 ||nex.163.com^
 ||p.data.cctv.com^
 ||pan.baidu.com/api/report/
@@ -29129,7 +29135,6 @@ arketing.indianadunes.com^
 @@||level.travel/tracker/tracker.js$script,~third-party
 @@||lightning.bleacherreport.com/launch/*-source.min.js$~third-party
 @@||lightning.bleacherreport.com^*/launch-$~third-party
-@@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||loader-cdn.azureedge.net/prod/smi/loader.min.js$domain=pressdemocrat.com
 @@||logging.apache.org^$~third-party
@@ -29148,7 +29153,7 @@ arketing.indianadunes.com^
 @@||mmstat.com/eg.js$script,domain=aliexpress.com
 @@||mopar.com/moparsvc/mopar-analytics-state$~third-party
 @@||mozu.com^*/monetate.js$script,domain=acehardware.com
-@@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|cnbc.com|motortrendondemand.com
+@@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|cnbc.com|gymshark.com|motortrendondemand.com
 @@||msecnd.net/scripts/jsll-$script,domain=forms.microsoft.com|office.com|sharepoint.com|teams.microsoft.com
 @@||munchkin.marketo.net/munchkin.js$domain=telus.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
