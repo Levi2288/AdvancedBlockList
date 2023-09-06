@@ -2842,7 +2842,6 @@ omni.soundestlink.com$image
 ||tradescape.biz^$third-party
 ||trafex.net^$third-party
 ||traffer.net^$third-party
-||trafficbass.com^$third-party
 ||trafficby.net^$third-party
 ||trafficengine.net^$third-party
 ||trafficfacts.com^$third-party
@@ -114134,6 +114133,7 @@ analytics.martinandosa.com
 analytics.martin-fieber.de
 analytics.mattmcadams.com
 analytics.ml.homedepot.ca
+analytics.neoogilvy.uy
 analytics.netshops.com
 analytics-nssl.bradyid.com
 analytics.onlinehomeretail.co.uk
@@ -114568,6 +114568,7 @@ badgeboat.com
 b.allsecur.nl
 bank.svb.com
 b.arenum.games
+barnes.send.cm
 baseballbone.com
 basket.mondo.link
 baton.cuetv.online
@@ -114909,6 +114910,7 @@ care.southeasthealth.org
 care.stlukes-stl.com
 carrierservices-business.vodafone.com
 cars.smartfleetaustralia.com.au
+cartkitten.com
 cartoon.hardalist.com
 carvecakes.com
 cascadion.thermo.com
@@ -115385,6 +115387,7 @@ dc.repsol.es
 dcs.esprit.au
 dcspil.hifiklubben.nl
 dc.stenaline.com
+dd.betano.com
 d.delahorro.app
 d.deloitte.fr
 dd.leboncoin.fr
@@ -115470,6 +115473,7 @@ dialogue.mazda.rs
 diana.hasdukmerahputih.com
 differentcoat.com
 digianalytics.airtel.in
+digi-ping.com
 digital.acutx.org
 digital.aptaracorp.com
 digital.cloud.travelport.com
@@ -117337,7 +117341,6 @@ lets.rabb.it
 lets.useflash.app
 lets.watcho.com
 level.badlandgame.com
-lexa.realestate.com.au
 leynqj.newport.se
 l.getpyfl.com
 l.gpay.to
@@ -117347,6 +117350,7 @@ lhp-mortgage.loanzify.com
 l.ialoc.app
 l.iamfy.co
 library.daptiv.com
+librato-collector.genius.com
 lieudetravail.ricoh.fr
 lifestyle.tradeshow.globalsources.com
 lift.acquia.com
@@ -117791,6 +117795,7 @@ lk.vrstories.com
 lld.fordlease.fr
 l.lilyzhou.com
 llkdiu.chacos.com
+llntrack.messe-duesseldorf.de
 l.lottery.com
 l.lyfshort.com
 lmavci.eloquii.com
@@ -117828,6 +117833,7 @@ logtail.com
 log.zdnet.co.kr
 lokalwerben.t-online.de
 longingtrees.com
+loopcybersec.com
 looseloaf.com
 l.orna.me
 losslace.com
@@ -118976,6 +118982,7 @@ netinsight.actonservice.com
 net.jumia.com.eg
 netlify-rum.netlify.app
 netmailcsr11.net.anwalt.de
+netstat.yunnan.cn
 net.steiner-vision.de
 net.toom.de
 network.cogentco.com
@@ -119238,6 +119245,7 @@ p7h1silo3f.app.cainthus.com
 pabgey.siepomaga.pl
 packagingsolutions.filamatic.com
 pacstainless.actonservice.com
+pac.thescottishsun.co.uk
 page1solutions.actonservice.com
 page.asraymond.com
 page.downloads.cooperlighting.com
@@ -119984,6 +119992,7 @@ scrapesleep.com
 sc.rbos.com
 sc.restplatzboerse.de
 scribblestring.com
+script.ac
 scs.lacapitale.com
 sc.wa.gto.db.com
 s.cybercompass.io
@@ -121825,6 +121834,7 @@ ssp.rambler.ru
 ssqwkl.belabef.com
 ss.silkandsonder.com
 sstats2.gq.com
+sstats.adobe.com
 sstats.cotswoldoutdoor.com
 sstats.daicompanies.com
 sstats.deloitte.com
@@ -121958,6 +121968,7 @@ stat.i3.dmm.com
 static.fengkongcloud.com
 static.osalta.eu
 statistic.jac-systeme.de
+statistics.streamdav.com
 stat.juridicas.com
 stat.laley.es
 stat.laleynext.es
@@ -122709,10 +122720,12 @@ ticketoffice.liberty.edu
 tic.net.anwalt.de
 ticomix.actonservice.com
 tidymitten.com
+tif.ionos.com
 tightpowder.com
 timeclock.mytoolr.com
 timing.uhrforum.de
 t.indonesiya.com
+t.ionos.com
 tirandoalmedio.net.anwalt.de
 tiredthroat.com
 titomacia.net.anwalt.de
@@ -122934,6 +122947,7 @@ tracking.capterra.com
 trackingcareers.accenture.com
 tracking.care.muschealth.org
 tracking.care.salinasvalleyhealth.com
+tracking.cdiscount.com
 tracking.cengage.com
 tracking.changehealthcare.com
 tracking.chem-agilent.com
@@ -124140,9 +124154,13 @@ wirjoi.meetsmore.com
 wiz.empowerhearing.com
 wjtekf.vidaxl.bg
 wkympu.agnesb.co.jp
+wlct-one.de
+wlct-two.de
 wlkojk.orange.ro
 wlp3.aegon.es
 wlptux.habitaclia.com
+wlt-alice.de
+wlt-jupiter.de
 wlwtcr.toptoon.com
 wmizdm.relax-job.com
 wnd2.destinia.cat
@@ -124378,6 +124396,7 @@ zds.net.anwalt.de
 zdx5.destinia.pe
 zelle.odencat.com
 zenedge.actonservice.com
+zfctrack.net
 zimadifirenze.net.anwalt.de
 z.inlist.com
 ziuggw.archon.pl
