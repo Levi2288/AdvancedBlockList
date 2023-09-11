@@ -3497,6 +3497,7 @@ omni.soundestlink.com$image
 ||aboardlevel.com^
 ||aboriginalboats.com^
 ||abruptroad.com^
+||absentairport.com^
 ||absentstream.com^
 ||absorbingband.com^
 ||absorbingcorn.com^
@@ -3515,11 +3516,13 @@ omni.soundestlink.com$image
 ||actuallysheep.com^
 ||actuallysnake.com^
 ||adamantsnail.com^
+||addictedattention.com^
 ||additionant.com^
 ||adorableanger.com^
 ||adventurousamount.com^
 ||advertisementafterthought.com^
 ||afraidlanguage.com^
+||aftermathbrother.com^
 ||agreeablestew.com^
 ||agreeabletouch.com^
 ||aheadday.com^
@@ -3592,6 +3595,7 @@ omni.soundestlink.com$image
 ||badgeboat.com^
 ||bagbeam.com^
 ||balancemailbox.com^
+||balloonbelieve.com^
 ||balloonbit.com^
 ||balloontexture.com^
 ||bandborder.com^
@@ -3620,6 +3624,7 @@ omni.soundestlink.com$image
 ||bewilderedblade.com^
 ||bhcumsc.com^
 ||billowybead.com^
+||billowybelief.com^
 ||bitterbear.com^
 ||bizarrebaseball.com^
 ||blackbrake.com^
@@ -3664,6 +3669,7 @@ omni.soundestlink.com$image
 ||bucketbean.com^
 ||buildingknife.com^
 ||bulbbait.com^
+||bumpydevelopment.com^
 ||bunchance.com^
 ||burgerbrush.com^
 ||burnbubble.com^
@@ -3696,6 +3702,7 @@ omni.soundestlink.com$image
 ||carelesshat.com^
 ||caringcast.com^
 ||caringzinc.com^
+||carloforward.com^
 ||carpentercomparison.com^
 ||carriagecan.com^
 ||carscannon.com^
@@ -3713,6 +3720,7 @@ omni.soundestlink.com$image
 ||cdnral.com^
 ||celestialspectra.com^
 ||chairscrack.com^
+||chalkoil.com^
 ||channelcamp.com^
 ||chargecracker.com^
 ||charmingcough.com^
@@ -3787,6 +3795,7 @@ omni.soundestlink.com$image
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
 ||copytitle.com^
+||cordcopper.com^
 ||correctchaos.com^
 ||cosmosjackson.com^
 ||courageousbaby.com^
@@ -3804,6 +3813,7 @@ omni.soundestlink.com$image
 ||crowdedmass.com^
 ||cubchannel.com^
 ||cuddlycake.com^
+||culturedcamera.com^
 ||culturedcrayon.com^
 ||cumbersomecake.com^
 ||cumbersomecar.com^
@@ -3909,9 +3919,11 @@ omni.soundestlink.com$image
 ||dustyhammer.com^
 ||dustyrabbits.com^
 ||dustywave.com^
+||dysfunctionalcellar.com^
 ||earthquakeend.com^
 ||earthquakescarf.com^
 ||earthycopy.com^
+||echoinghaven.com^
 ||economicpizzas.com^
 ||educatedeggnog.com^
 ||efficaciouscactus.com^
@@ -3924,7 +3936,9 @@ omni.soundestlink.com$image
 ||embermosaic.com^
 ||emptyescort.com^
 ||enchantedjudge.com^
+||enchantedskyline.com^
 ||enchantedtop.com^
+||enchantingbear.com^
 ||encourageidea.com^
 ||encourageshock.com^
 ||encouragingleaf.com^
@@ -3994,6 +4008,7 @@ omni.soundestlink.com$image
 ||flimsythought.com^
 ||flockflame.com^
 ||floodprincipal.com^
+||flowersornament.com^
 ||flowerstreatment.com^
 ||flowerycreature.com^
 ||floweryfact.com^
@@ -4047,9 +4062,11 @@ omni.soundestlink.com$image
 ||gleamingtrade.com^
 ||glisteningguide.com^
 ||glisteningsign.com^
+||glitteringbrook.com^
 ||gloriousbeef.com^
 ||glossysense.com^
 ||godlygeese.com^
+||goldfishgrowth.com^
 ||gondolagnome.com^
 ||gorgeousedge.com^
 ||gorgeousground.com^
@@ -4071,6 +4088,7 @@ omni.soundestlink.com$image
 ||guaranteelamp.com^
 ||guardeddirection.com^
 ||guardedschool.com^
+||guessdetail.com^
 ||guidecent.com^
 ||guiltlessbasketball.com^
 ||guitargrandmother.com^
@@ -4102,6 +4120,7 @@ omni.soundestlink.com$image
 ||hearthorn.com^
 ||heavyplayground.com^
 ||helpcollar.com^
+||helpflame.com^
 ||hesitanttoothpaste.com^
 ||hfc195b.com^
 ||highfalutinbox.com^
@@ -4275,6 +4294,7 @@ omni.soundestlink.com$image
 ||modifyeyes.com^
 ||modularmental.com^
 ||moldyicicle.com^
+||moorshoes.com^
 ||motionflowers.com^
 ||motionlessbag.com^
 ||motionlessbelief.com^
@@ -4364,6 +4384,7 @@ omni.soundestlink.com$image
 ||petiteumbrella.com^
 ||photographpan.com^
 ||physicalbikes.com^
+||piespower.com^
 ||pietexture.com^
 ||pigspie.com^
 ||pinpointpotato.com^
@@ -4399,7 +4420,9 @@ omni.soundestlink.com$image
 ||possessivebucket.com^
 ||possibleboats.com^
 ||potatoinvention.com^
+||powderjourney.com^
 ||powderprofit.com^
+||powerfulcopper.com^
 ||preciouseffect.com^
 ||preciousyoke.com^
 ||predictplate.com^
@@ -4525,10 +4548,12 @@ omni.soundestlink.com$image
 ||ruthlessdegree.com^
 ||ruthlessmilk.com^
 ||ruthlessrobin.com^
+||sableloss.com^
 ||sablesmile.com^
 ||sablesong.com^
 ||sadloaf.com^
 ||sailsuit.com^
+||samesticks.com^
 ||samestretch.com^
 ||satisfycork.com^
 ||satisfyingshow.com^
@@ -4572,6 +4597,7 @@ omni.soundestlink.com$image
 ||secretivestick.com^
 ||secretspiders.com^
 ||secretturtle.com^
+||sedatebun.com^
 ||seedscissors.com^
 ||selectionship.com^
 ||selectivesummer.com^
@@ -4581,6 +4607,7 @@ omni.soundestlink.com$image
 ||separateshow.com^
 ||separatesilver.com^
 ||seraphichorizon.com^
+||serenecascade.com^
 ||serioussuit.com^
 ||serpentshampoo.com^
 ||shadeship.com^
@@ -4709,6 +4736,7 @@ omni.soundestlink.com$image
 ||springaftermath.com^
 ||springsister.com^
 ||spuriousbase.com^
+||spurioussquirrel.com^
 ||spurioussteam.com^
 ||spuriousstranger.com^
 ||spysubstance.com^
@@ -4747,6 +4775,7 @@ omni.soundestlink.com$image
 ||stiffgame.com^
 ||stiffstem.com^
 ||stingsquirrel.com^
+||stingycrush.com^
 ||stockingsneeze.com^
 ||stomachscience.com^
 ||storescissors.com^
@@ -4765,6 +4794,7 @@ omni.soundestlink.com$image
 ||stripedburst.com^
 ||strivesidewalk.com^
 ||strivesquirrel.com^
+||strokesystem.com^
 ||structurerod.com^
 ||stupendousselection.com^
 ||stupendoussleet.com^
@@ -4848,6 +4878,7 @@ omni.soundestlink.com$image
 ||thirstyswing.com^
 ||thirstytwig.com^
 ||thomastorch.com^
+||thoughtlessknot.com^
 ||threechurch.com^
 ||threetruck.com^
 ||throattrees.com^
@@ -4928,6 +4959,7 @@ omni.soundestlink.com$image
 ||verdantanswer.com^
 ||verifyvegetable.com^
 ||verseballs.com^
+||victoriousrequest.com^
 ||virgoplato.com^
 ||virtualvincent.com^
 ||vivaciousveil.com^
@@ -9669,6 +9701,7 @@ omni.soundestlink.com$image
 ||channel.io^*/events
 ||chatroll.com/t.gif
 ||chickadvisor.com/js/detect.min.js
+||cidrap.umn.edu/core/modules/statistics
 ||cisco.com/c/dam/cdc/j/at.js
 ||cl.canva.com^
 ||clanker-events.squarespace.com^
@@ -29323,7 +29356,7 @@ arketing.indianadunes.com^
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
 @@||zoominfo.com/c/amplitude-js$script,~third-party
 @@||amplitude.com/libs/$script,domain=elconfidencial.com|kink.com|pdfexpert.com|xe.com
-@@||googletagmanager.com/gtm.js$domain=3djuegosguias.com|3djuegospc.com|acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|animeanime.jp|anond.hatelabo.jp|applesfera.com|aruba.it|arvopaperi.fi|atptour.com|autobild.de|autorevue.cz|axeptio.eu|backcountry.com|bbcgoodfood.com|benesse-style-care.co.jp|besplatka.ua|beterbed.nl|betten.de|binglee.com.au|book.impress.co.jp|bsa-whitelabel.com|bunte.de|bybit.com|bybitglobal.com|carcareplus.jp|carhartt-wip.com|casa.it|ccleaner.com|cdek.ru|cdon.fi|chipotle.com|chronopost.fr|cinemacafe.net|clickup.com|cmoa.jp|como.fi|complex.com|compradiccion.com|computerbild.de|coolermaster.com|costco.co.jp|crello.com|cyclestyle.net|cyclingnews.com|cypress.io|dazeddigital.com|dengekionline.com|dholic.co.jp|directoalpaladar.com|dlsite.com|dmv.ca.gov|doodle.com|dropps.com|e15.cz|easternbank.com|edwardjones.com|elnuevodia.com|enmotive.com|episodi.fi|eprice.it|ergotron.com|espinof.com|euronics.it|expressvpn.com|fandom.com|feex.co.il|festoolusa.com|finanzen.at|finanzen.ch|finanzen.net|flytap.com|focus.de|formula1.com|fortress.com.hk|fortune.com|freenet-funk.de|fum.fi|gamebusiness.jp|gamespark.jp|genbeta.com|glamusha.ru|gorillamind.com|grandhood.dk|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|hatenacorp.jp|headlightrevolution.com|herculesstands.com|hobbyhall.fi|hostingvergelijker.nl|houseofbilocca.com|idealo.at|idealo.de|iexprofs.nl|iltalehti.fi|independent.co.uk|inferno.fi|inside-games.jp|insiderstore.com.br|iphoneitalia.com|jalan.net|jn.pt|journaldunet.com|jreastmall.com|junonline.jp|kakuyomu.jp|karriere.at|kedronparkhotel.com.au|komputronik.pl|konami.com|la7.it|lastampa.it|lecker.de|level.travel|lift.co.za|linternaute.com|lippu.fi|luko.eu|m1.com|mainichi.jp|makitani.net|mangaseek.net|mcgeeandco.com|mediamarkt.nl|mediuutiset.fi|mercell.com|meritonsuites.com.au|mikrobitti.fi|mirapodo.de|mobilmania.cz|montcopa.org|mycar-life.com|mysmartprice.com|nap-camp.com|netcombo.com.br|newscafe.ne.jp|nflgamepass.com|nielsendodgechryslerjeepram.com|nihontsushin.com|nordvpn.com|nourison.com|oakandfort.com|odia.ig.com.br|oetker-shop.de|okwave.jp|olx.ro|onlineshop.ocn.ne.jp|papajohns.com|pccomponentes.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|poprosa.com|post.ch|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|radiko.jp|radio-canada.ca|radiorur.de|rbbtoday.com|reanimal.jp|resemom.jp|response.jp|rocketnews24.com|rtl.de|rumba.fi|runescape.com|rustih.ru|sanwacompany.co.jp|saraiva.com.br|saturn.at|savethechildren.it|scan.netsecurity.ne.jp|sciencesetavenir.fr|scotsman.com|soranews24.com|soundguys.com|soundi.fi|spektrum.de|sport-wear.com.ua|sport1.de|sportmaster.ru|spyder7.com|stage.parco.jp|stressless.com|subscribe.greenbuildingadvisor.com|superesportes.com.br|support.brother.com|support.creative.com|swarajyamag.com|swb.de|talent.lowes.com|talouselama.fi|teddyfood.com|tekniikkatalous.fi|telia.no|theretrofitsource.com|tilt.fi|tivi.fi|tn.com.ar|topper.com.br|toyota-forklifts.se|trademe.co.nz|tradera.com|trendencias.com|trendenciashombre.com|tribuna.com|tugatech.com.pt|tumi.com|tv-asahi.co.jp|type.jp|uclabruins.com|unieuro.it|uniqlo.com|upc.pl|upwork.com|uqr.to|veho.fi|vidaextra.com|video.repubblica.it|vip.de|vitonica.com|viviennewestwood-tokyo.com|vox.de|vtvgo.vn|wamiz.com|wowma.jp|www.kauppalehti.fi|www.nicovideo.jp|www.uusisuomi.fi|xatakamovil.com|xxl.se|ymobile.jp|youpouch.com|zakzak.co.jp|zennioptical.com|zf1.tohoku-epco.co.jp|zinio.com|zive.cz|zozo.jp
+@@||googletagmanager.com/gtm.js$domain=3djuegosguias.com|3djuegospc.com|acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|animeanime.jp|anond.hatelabo.jp|applesfera.com|aruba.it|arvopaperi.fi|atptour.com|autobild.de|autorevue.cz|axeptio.eu|backcountry.com|bbcgoodfood.com|benesse-style-care.co.jp|besplatka.ua|beterbed.nl|betten.de|binglee.com.au|book.impress.co.jp|bsa-whitelabel.com|bunte.de|bybit.com|bybitglobal.com|carcareplus.jp|carhartt-wip.com|casa.it|ccleaner.com|cdek.ru|cdon.fi|chipotle.com|chronopost.fr|cinemacafe.net|clickup.com|cmoa.jp|como.fi|complex.com|compradiccion.com|computerbild.de|coolermaster.com|costco.co.jp|crello.com|cyclestyle.net|cyclingnews.com|cypress.io|dazeddigital.com|dengekionline.com|dholic.co.jp|directoalpaladar.com|dlsite.com|dmv.ca.gov|doodle.com|dropps.com|e15.cz|easternbank.com|edwardjones.com|elnuevodia.com|enmotive.com|episodi.fi|eprice.it|ergotron.com|espinof.com|euronics.it|expressvpn.com|fandom.com|feex.co.il|festoolusa.com|finanzen.at|finanzen.ch|finanzen.net|flytap.com|focus.de|formula1.com|fortress.com.hk|fortune.com|freenet-funk.de|fum.fi|gamebusiness.jp|gamespark.jp|genbeta.com|glamusha.ru|gorillamind.com|grandhood.dk|gravitydefyer.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|hatenacorp.jp|headlightrevolution.com|herculesstands.com|hobbyhall.fi|hostingvergelijker.nl|houseofbilocca.com|idealo.at|idealo.de|iexprofs.nl|iltalehti.fi|independent.co.uk|inferno.fi|inside-games.jp|insiderstore.com.br|iphoneitalia.com|jalan.net|jn.pt|journaldunet.com|jreastmall.com|junonline.jp|kakuyomu.jp|karriere.at|kedronparkhotel.com.au|komputronik.pl|konami.com|la7.it|larousse.fr|lastampa.it|lecker.de|level.travel|lift.co.za|linternaute.com|lippu.fi|luko.eu|m1.com|mainichi.jp|makitani.net|mangaseek.net|mcgeeandco.com|mediamarkt.nl|mediuutiset.fi|mercell.com|meritonsuites.com.au|mikrobitti.fi|mirapodo.de|mobilmania.cz|montcopa.org|mycar-life.com|mysmartprice.com|nap-camp.com|netcombo.com.br|newscafe.ne.jp|nflgamepass.com|nielsendodgechryslerjeepram.com|nihontsushin.com|nordvpn.com|nourison.com|oakandfort.com|odia.ig.com.br|oetker-shop.de|okwave.jp|olx.ro|onlineshop.ocn.ne.jp|papajohns.com|pccomponentes.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|poprosa.com|post.ch|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|radiko.jp|radio-canada.ca|radiorur.de|rbbtoday.com|reanimal.jp|resemom.jp|response.jp|rocketnews24.com|rtl.de|rumba.fi|runescape.com|rustih.ru|sanwacompany.co.jp|saraiva.com.br|saturn.at|savethechildren.it|scan.netsecurity.ne.jp|sciencesetavenir.fr|scotsman.com|soranews24.com|soundguys.com|soundi.fi|spektrum.de|sport-wear.com.ua|sport1.de|sportmaster.ru|spyder7.com|stage.parco.jp|stressless.com|subscribe.greenbuildingadvisor.com|superesportes.com.br|support.brother.com|support.creative.com|swarajyamag.com|swb.de|talent.lowes.com|talouselama.fi|teddyfood.com|tekniikkatalous.fi|telia.no|theretrofitsource.com|tilt.fi|tivi.fi|tn.com.ar|topper.com.br|toyota-forklifts.se|trademe.co.nz|tradera.com|trendencias.com|trendenciashombre.com|tribuna.com|tugatech.com.pt|tumi.com|tv-asahi.co.jp|type.jp|uclabruins.com|unieuro.it|uniqlo.com|upc.pl|upwork.com|uqr.to|veho.fi|vidaextra.com|video.repubblica.it|vip.de|vitonica.com|viviennewestwood-tokyo.com|vox.de|vtvgo.vn|wamiz.com|wowma.jp|www.kauppalehti.fi|www.nicovideo.jp|www.uusisuomi.fi|xatakamovil.com|xxl.se|ymobile.jp|youpouch.com|zakzak.co.jp|zennioptical.com|zf1.tohoku-epco.co.jp|zinio.com|zive.cz|zozo.jp
 @@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|carnesvizzera.ch|cmoa.jp|enmotive.com|healthrangerstore.com|hobbyhall.fi|infoconso-multimedia.fr|jackbox.tv|k2radio.com|koel.com|kowb1290.com|ligtv.com.tr|meritonsuites.com.au|nabortu.ru|news.gamme.com.tw|novatv.bg|papajohns.com|poiskstroek.ru|rzd.ru|saturn.at|schweizerfleisch.ch|skaties.lv|stressless.com|teddyfood.com|tracking.narvar.com|tradera.com|tribuna.com|truwin.com|tuasaude.com|tv3play.no|unicef.de|viandesuisse.ch|vox.de|westernunion.com|worldsbiggestpacman.com|xxl.se
 @@||googletagmanager.com/gtag/js$domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|cmoa.jp|devclass.com|dholic.co.jp|ejgiftcards.com|enmotive.com|factory.pixiv.net|game.anymanager.io|herculesstands.com|honeystinger.com|hostingvergelijker.nl|inforesist.org|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|modehasen.de|montcopa.org|nihontsushin.com|oko.sh|panflix.com.br|papajohns.com|radiosarajevo.ba|rintraccialamiaspedizione.it|schwab.com|starblast.io|timparty.tim.it|toptal.com|virginplus.ca|winefolly.com|winhappy.com|xl-bygg.no|zf1.tohoku-epco.co.jp
 @@||googleoptimize.com/optimize.js$domain=binglee.com.au|grasshopper.com|in.bookmyshow.com|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
