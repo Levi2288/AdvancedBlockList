@@ -6064,6 +6064,7 @@ omni.soundestlink.com$image
 ||analytics.bitrix.info^
 ||analytics.carambo.la^
 ||analytics.carbaselive.com^
+||analytics.cdn112.com^
 ||analytics.chegg.com^
 ||analytics.cincopa.com^
 ||analytics.clic2buy.com^
@@ -7542,6 +7543,7 @@ omni.soundestlink.com$image
 ||privacy-center.org^*/events
 ||privacy.outdoorsg.com^
 ||processor.asccommunications.com^
+||prod.benchmarkemail.com/tracker.bundle.js
 ||prod.ew.srp.navigacloud.com^
 ||prod.fennec.atp.fox^
 ||propps.com/v1/referrer/
@@ -9490,6 +9492,7 @@ omni.soundestlink.com$image
 ||tracking3.vnncdn.net^
 ||za.zdn.vn^
 ||zalo.me/v3/w/_zaf.gif
+||0123movie.net/cdn-cgi/trace
 ||123rf.com/apicore-index/traffic_log
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
@@ -10064,7 +10067,6 @@ omni.soundestlink.com$image
 ||internal-analytics.odoo.com^
 ||internetslang.com/jass/
 ||intg.snapchat.com^
-||intuitcdn.net/analytics/
 ||intuitvisitorid.api.intuit.com^
 ||invisionapp.com/analytics-api/
 ||iono.fm/tracking?
@@ -10250,6 +10252,7 @@ omni.soundestlink.com$image
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
 ||no9pldds1lmn3.soundcloud.com^
+||noblocktape.com/stat/
 ||noodle.backmarket.io^
 ||nordstrom.com/api/cake/
 ||nordstrom.com/api/cupcake/
@@ -10321,6 +10324,7 @@ omni.soundestlink.com$image
 ||play.google.com/log
 ||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
+||playvideohd.com/cdn-cgi/trace
 ||plenty.vidio.com^
 ||plushd.bio/cdn-cgi/trace
 ||pm.dailykos.com^
@@ -113952,6 +113956,7 @@ abmail.info.amaro.com
 abmail.peak.net
 ab.oney.es
 ab.perfumesclub.com
+absentairport.com
 ac9kpxbans1l.staging.unstoppabledomains.com
 academics.academicsuperstore.com
 a.careangel.com
@@ -114008,6 +114013,7 @@ adat.origo.hu
 adat.travelo.hu
 adat.veol.hu
 adat.videa.hu
+addictedattention.com
 adebis0508.brain-sleep.com
 adebis.ahjikan-shop.com
 adebis.aij.co.jp
@@ -114086,6 +114092,7 @@ affiliate.tripact.jp
 a.foxs.pt
 africa.edm.globalsources.com
 af.shozankan-shop.com
+aftermathbrother.com
 a.getemoji.me
 agexpo.americanexpress.com
 aggelakia.openapp.link
@@ -114213,6 +114220,7 @@ analytics.recamov.com
 analyticssec.overwolf.com
 analytics.shopncaasports.com
 analytics.shorte.st
+analytics.shorthand.com
 analytics.silktide.com
 analytics.skinit.com
 analytics.sportfishingmag.com
@@ -114625,6 +114633,7 @@ awuapj.landwatch.com
 axentis.arclogics.com
 axp.avaya.com
 ayu.hasdukmerahputih.com
+azuremystique.com
 b0.yahoo.co.jp
 b1tow9h4erpw.anur.polymerdev.com
 b536mpmxoqxa.www.themoneytizer.com
@@ -114633,6 +114642,7 @@ baby.camsex.eu.org
 baccarat.abzorbagames.com
 backoffice.verintsystemsinc.com
 badgeboat.com
+balloonbelieve.com
 b.allsecur.nl
 bank.svb.com
 b.arenum.games
@@ -114690,6 +114700,7 @@ bigbtmbvdzda.freelancer.taxmachine.be
 bi.irisdating.com
 bikini.hasdukmerahputih.com
 bikini.indonesiya.com
+billowybelief.com
 bint.openapp.link
 bio.chups.co
 bit.aridjaya.com
@@ -114853,6 +114864,7 @@ brc.englishtimes.cc
 brc.hellotalk.com
 brcicar.eccocar.com
 brclickrent.eccocar.com
+breakerror.com
 breakthrough.kronos.com
 breasycarrental.eccocar.com
 b.redbrickhealth.com
@@ -114914,8 +114926,10 @@ buasmk.earthshoes.com
 bubblebedroom.com
 buildingknife.com
 bulgariarestaurant.openapp.link
+bumpydevelopment.com
 buoypinger-app.sapsailing.com
 bup.bankofamerica.com
+burntwist.com
 bushesbag.com
 businessaffiliate.americanexpress.com
 businessmaking.progress.com
@@ -114976,6 +114990,7 @@ careers.coniferhealth.com
 carelesshat.com
 care.southeasthealth.org
 care.stlukes-stl.com
+carloforward.com
 carrierservices-business.vodafone.com
 cars.smartfleetaustralia.com.au
 cartkitten.com
@@ -115004,12 +115019,14 @@ cdl.lvsafe.io
 cdn.net.elogia.net
 cdnral.com
 cdrive.compellent.com
+celestialspectra.com
 cfa.fidelity.com
 cfb.8it.me
 cf.campagnes-france.com
 cfcpee.lascana.ch
 c.fingerprint.com
 cfxsss.deerberg.de
+chalkoil.com
 channel.cummins.com
 channelportal.netsuite.com
 chargecracker.com
@@ -115035,6 +115052,7 @@ cksfgh.jaycar.com.au
 clammychicken.com
 clanker-events.squarespace.com
 clarice.streema.com
+cleanhaircut.com
 clear.wallapop.com
 click.devemails.skechers.com
 click.moselo.com
@@ -115091,6 +115109,7 @@ cntxtfl.com
 cnxddc.lodenfrey.com
 cogxmr.travelplanet.pl
 col.casa.it
+coldbalance.com
 colgui.vidaxl.pt
 collaborate.blackboard.com
 collect.alphastream.io
@@ -115236,6 +115255,7 @@ cookies.siemens-healthineers.com
 cookies.wpcarey.com
 cooking-app.lkk.com
 coop.vmware.com
+cordcopper.com
 corporate.americanexpress.com
 corporatecards.americanexpress.com
 corporate.interfaceflor.com
@@ -115303,6 +115323,7 @@ c-t.topya.com
 ctx.citiservi.es
 cuddlycake.com
 cufroa.aboutyou.be
+culturedcamera.com
 curvedhoney.com
 curvycord.com
 cushiondrum.com
@@ -115446,6 +115467,7 @@ data.web.doitbest.com
 data.welcome.realmadrid.com
 data.your.hestaformercy.com.au
 dax.yle.fi
+dazzlingbook.com
 dbhsejcg-meetup-com.cdnjs.network
 dbj.quebecregion.com
 dc.bluecoat.com
@@ -115575,6 +115597,7 @@ directlink.aridjaya.com
 directlink.hasdukmerahputih.com
 directlink.indonesiya.com
 direfuldesk.com
+disagreeabledrop.com
 discover.jll.com
 discover.perceptivesoftware.fr
 discover.pharmaignite.com
@@ -115698,6 +115721,7 @@ dx.flmxxx.me
 dx.thermo.com
 dx.thermofisher.com
 dyqebg.aboutyou.hr
+dysfunctionalcellar.com
 dyzmpx.speedway.fr
 dzuthv.fahrrad-xxl.de
 dzwqfq.alpitour.it
@@ -115749,6 +115773,7 @@ ebis.umulin-lab.com
 ebis.yumeyakata.com
 ebnpqi.carrefourlocation.fr
 ecctjf.leroymerlin.com.br
+echoinghaven.com
 ec.thredup.com
 e.darpro-solutions.com
 edge.bigbrothercanada.ca
@@ -115885,6 +115910,7 @@ email.staging-link.flipgive.com
 emailtest.trustmeimawebsite.com
 email-tw.americanexpress.com
 email-yesmail.branch.rocks
+embermosaic.com
 emb.soothe.com
 em-email.thermofisher.com
 e.metarouter.io
@@ -115892,6 +115918,8 @@ emm.us.puma.com
 emrdnt.sumaity.com
 ems-a8net-tracking.easy-myshop.jp
 ems.youku.com
+enchantedskyline.com
+enchantingbear.com
 encuestas.billeteramango.com
 endljp.pariteni.bg
 endljp.vesti.bg
@@ -115936,6 +115964,7 @@ errorreports.couponcabin.com
 es-es.siemensplmevents.com
 es-mktg.vodafone.com
 et.educationdynamics.com
+etherealripple.com
 etl.springbot.com
 etop.ro
 etoqel.nordicnest.de
@@ -115979,6 +116008,7 @@ event.raise3d.cn
 events.auth.gid.ru
 events.bendigotafe.edu.au
 events.blackboard.com
+events.elev.io
 events.elliemae.com
 events.engage.cebglobal.com
 events.executiveboard.com
@@ -116058,6 +116088,7 @@ feedback.nslsc-csnpe.ca
 feedme.use-beez.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
+fenix.walkerllaw.org
 fetch.gethuan.com
 fewjuice.com
 ffe390afd658c19dcbf707e0597b846d.de
@@ -116077,6 +116108,7 @@ fishing.daigostudio.com
 fjemeg.drim.es
 fkanei.madura.fr
 fkupm8697t19.eyevolution.de
+flowersornament.com
 flowerycreature.com
 floweryfact.com
 flow.kiloutou.fr
@@ -116327,6 +116359,7 @@ gjljde.kathmandu.co.nz
 gkxaay.tontarellishop.com
 gleamingcow.com
 gli9.inseec-bs.com
+glitteringbrook.com
 globaleloqua.americanexpress.com
 globalsolutions.risk.lexisnexis.com
 gnh2.destinia.lv
@@ -116444,6 +116477,7 @@ go.lanemove.com
 go.lawly.app
 go.lbb.in
 go.l-com.com
+goldfishgrowth.com
 go.leaf.fm
 go.letspepapp.com
 go.lexuscompletesubscription.com
@@ -116610,6 +116644,7 @@ gtm.wise.com
 guardeddirection.com
 guardian-app.hotdoc.com.au
 guelvp.1111.com.tw
+guessdetail.com
 guest.vistage.com
 guidecent.com
 guitarlearning.deplike.com
@@ -116645,6 +116680,7 @@ heartbreakingmind.com
 hello.bpost2.be
 hello.ola.app
 hello.wellocution.com
+helpflame.com
 hemahi5.inthere.link
 herpes2.pa-ruit.jp
 heuida.shopafrm.com
@@ -117907,6 +117943,7 @@ lokalwerben.t-online.de
 longingtrees.com
 loopcybersec.com
 looseloaf.com
+lopsidedleather.com
 l.orna.me
 losslace.com
 lotte.myomee.com
@@ -118434,6 +118471,7 @@ marketing.ynsecureserver.net
 marketing.yoobi.nl
 marketing.zencos.com
 marketing.zinniawealth.com
+marketspiders.com
 markkinointi.kespro.com
 marrow.roundsapp.org
 marsh.actonservice.com
@@ -118928,6 +118966,7 @@ monitoring.iraiser.eu
 montok.indonesiya.com
 moodlerooms.blackboard.com
 moody.actonsoftware.com
+moorshoes.com
 more.govwin.com
 moreinfo.onnowdigital.com
 moreinfo.powerpro360.com
@@ -119270,6 +119309,7 @@ ordbng.extra.com.br
 organizations.stratfor.com
 origin-smetrics.go365.com
 origin.www.images.2.forms.healthcare.philips.com
+orionember.com
 orionmarketing.actonservice.com
 orlen-app.wwwash.com
 oscs.palazzolasvegas.com
@@ -119421,6 +119461,7 @@ ph.thenextweb.com
 phyins.actonservice.com
 p.ianmjones.com
 picarro.actonservice.com
+piespower.com
 pimpoint.inriver.com
 pine.clk.click
 ping.fastsimon.com
@@ -119537,6 +119578,8 @@ posgrados.unisabana.edu.co
 posgrados-unisabana-edu-co-1207474081.p04.elqsandbox.com
 possibilities.theajinetwork.com
 potatoinvention.com
+powderjourney.com
+powerfulcopper.com
 power.viggo.com
 pqciix.busuu.com
 pqlmae.lamaisonduchocolat.co.jp
@@ -119610,6 +119653,7 @@ providentcrm.actonservice.com
 psbiaf.converse.com
 psfcnf.ochsnersport.ch
 psilikaki.openapp.link
+p.skimresources.com
 ps.pmu.fr
 psssaraki.openapp.link
 pstats.cloudpal.app
@@ -119688,6 +119732,7 @@ qtycwy.modivo.cz
 qualitas-app.hotdoc.com.au
 quality.bedrockquartz.com
 quantum.actonservice.com
+quantumlagoon.com
 query.petametrics.com
 questintegrity.actonservice.com
 questionableobservation.com
@@ -119695,6 +119740,7 @@ questtest.epoise.com
 quick.openapp.link
 quillkick.com
 quinceimaging.actonservice.com
+quixoticnebula.com
 qvenxs.cash-piscines.com
 qveyyi.clarivate.com
 qvmucs.abluestore.com
@@ -119955,6 +120001,7 @@ saa.dyson.vn
 saametrics.vaisala.com
 saa.pluto.tv
 saa.smithsonianchannel.com
+sableloss.com
 sa.chdist.com
 sadbelytics.munichre.com
 sadbmetrics.huelva24.com
@@ -119981,6 +120028,7 @@ sal.milanoo.com
 salto.freeto.jp
 samc.buero-zueri.ch
 samc.swisscanto.com
+samesticks.com
 samia.net.anwalt.de
 samt.frankly.ch
 samt.swisscanto.com
@@ -120197,6 +120245,7 @@ secure.visionary-enterprise-ingenuity.com
 secure.visionary-enterprise-wisdom.com
 securityins.actonservice.com
 security.solutions.jci.com
+sedatebun.com
 sedgwickpooling.sedgwick.com
 see.hasdukmerahputih.com
 seek.uwa.edu.au
@@ -120265,6 +120314,8 @@ seniorliving.wyndemerelcs.com
 sensors.balluff.com
 sensorsmile.com
 sentiment.icis.com
+seraphichorizon.com
+serenecascade.com
 serioussuit.com
 serpentshampoo.com
 service.bechtle.com
@@ -121777,7 +121828,6 @@ somn.wholesalepartysupplies.com
 som.ringcentral.com
 som.sears.com
 sonar6.xy.fbcdn.net.iberostar.com
-sonar.viously.com
 s-onetag.com
 soneticscorp.actonservice.com
 so.opentable.co.uk
@@ -121810,6 +121860,7 @@ spock.domjtalbot.codes
 spookyskate.com
 spread.epoolers.com
 sp.tinymce.com
+spurioussquirrel.com
 sp.welcometothejungle.com
 sp.wvoil.com
 spytsg.horti.jp
@@ -122465,6 +122516,7 @@ stat.wolterskluwer.pt
 stayaction.com
 stay.lottehotel.com
 std.o.rxlist.com
+stealsteel.com
 steepsister.com
 stentel.actonservice.com
 stereos2.crutchfield.com
@@ -122472,6 +122524,7 @@ s.testneedle.co.uk
 stg-bnc-papago.naver.com
 s.thebigfamily.app
 stingsquirrel.com
+stingycrush.com
 stliom.vidaxl.cz
 st.mazdausa.com
 st.newyorklife.com
@@ -122495,6 +122548,7 @@ stretchsquirrel.com
 strikenurse.usnursing.com
 s.tritoninfosec.com
 strivesquirrel.com
+strokesystem.com
 sts.authramp.com
 st.sheebamagazine.com
 sts.tour-europe.org
@@ -122519,6 +122573,7 @@ success.mgmt3d.com
 sucmetrics.unicredit.de
 sufetv.chefuniforms.com
 sugarfriction.com
+suggestionbridge.com
 summary.instaread.co
 summit.edm.globalsources.com
 super8-link.mysuki.io
@@ -122783,6 +122838,7 @@ thialfi.net.anwalt.de
 thingstaste.com
 t.hmwy.io
 t.hokiesports.com
+thoughtlessknot.com
 thraka.openapp.link
 thrombus.net.anwalt.de
 thtk.temu.com
@@ -124006,6 +124062,7 @@ vdrebz.kathmandu.com.au
 vd-test.net.anwalt.de
 vdtpuw.yellowoctopus.com.au
 vedznh.cumhuriyet.com.tr
+velvetnova.com
 vengefulgrass.com
 veosfi.woonexpress.nl
 veqvek.ctvnews.ca
@@ -124027,6 +124084,7 @@ vgo.vegaoo.com
 vhmewg.edreams.fr
 vhrbxb.vidaxl.nl
 vi.adviso.ca
+victoriousrequest.com
 video-metrics.ellentube.com
 videos.indonesiya.com
 video.sp.gmossp-sp.jp
