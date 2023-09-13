@@ -779,6 +779,7 @@ omni.soundestlink.com$image
 ||anametrix.net^$third-party
 ||angelfishstats.com^$third-party
 ||angorch-cdr7.com^$third-party
+||anonymised.io^$third-party
 ||anrdoezrs.net^$third-party
 ||answerbook.com^$third-party
 ||answerscloud.com^$third-party
@@ -1664,6 +1665,7 @@ omni.soundestlink.com$image
 ||infoprodata.com^$third-party
 ||informz.net^$third-party
 ||ingage.tech^$third-party
+||ingest-lr.com^$third-party
 ||inimbus.com.au^$third-party
 ||innertrends.com^$third-party
 ||innovateads.com^$third-party
@@ -9826,6 +9828,7 @@ omni.soundestlink.com$image
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
 ||dtag.breadfinancial.com^
+||dtksoft.com/ajax/log^
 ||dubz.co/analytics/
 ||duckduckgo.com/t/
 ||dumpster.cam4.com^
@@ -29196,7 +29199,7 @@ arketing.indianadunes.com^
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com|rubex.efilecabinet.net
-@@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
+@@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||jumbe.zaius.com/v2/zaius.gif?$domain=subscriptions.management
 @@||kameleoon.eu/kameleoon.js$script,domain=buttercloth.com
@@ -114173,6 +114176,7 @@ analytics-beacon.p.uliza.jp
 analytics.bgr.com
 analytics.blackboard.com
 analytics.carbaselive.com
+analytics.cdn112.com
 analytics.chattarize.de
 analytics.clic2buy.com
 analytics-consent-manager-v2-prod.azureedge.net
