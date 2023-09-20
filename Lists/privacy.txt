@@ -2267,6 +2267,7 @@ omni.soundestlink.com$image
 ||posst.co^$third-party
 ||postaffiliatepro.com^$third-party
 ||prchecker.info^$third-party
+||prebidmanager.com^$third-party
 ||precisioncounter.com^$third-party
 ||predicta.net^$third-party
 ||predictiveresponse.net^$third-party
@@ -5570,6 +5571,7 @@ omni.soundestlink.com$image
 ||ad-fam.com^$third-party
 ||ad-track.jp^$third-party
 ||ad2iction.com^$third-party
+||adapf.com^$third-party
 ||adgainersolutions.com^$third-party
 ||adgocoo.com^$third-party
 ||admatrix.jp^$third-party
@@ -5585,6 +5587,7 @@ omni.soundestlink.com$image
 ||bigmining.com^$third-party
 ||blogranking.net^$third-party
 ||canem-auris.com^$third-party
+||caprofitx.com^$third-party
 ||catsys.jp^$third-party
 ||cetlog.jp^$third-party
 ||cheqzone.com^$third-party
@@ -9423,6 +9426,7 @@ omni.soundestlink.com$image
 ||tracking.gpm-rtv.ru^
 ||tracking.retailrocket.net^
 ||traktor.ru^*/counter.php?
+||uc.xddi.ru^
 ||ulogin.ru/js/stats.js
 ||upstats.yadro.ru^
 ||uptolike.com/widgets/*/imp?
@@ -9588,6 +9592,7 @@ omni.soundestlink.com$image
 ||analytics-api.dvdfab.
 ||analytics-proxy.springboard.com^
 ||analytics-tracking.meetup.com^
+||analytics-wcms.joins.net^
 ||analytics-zone-1.api.leadfamly.com^
 ||analytics.academy.com^
 ||analytics.adfreetime.com^
@@ -28205,6 +28210,7 @@ arketing.indianadunes.com^
 ||baidu.com/kan/api/ipLocation
 ||baidu.com^*/ps_default.gif?
 ||banana.le.com^
+||bc.qunar.com^
 ||beacon.qq.com^
 ||cherry.le.com^
 ||clewm.net/public/cli_analytics.js$domain=cli.im
@@ -114256,6 +114262,7 @@ analytics-tracking.meetup.com
 analytics.uwindsor.ca
 analytics.wavebox.io
 analytics.wayland.app
+analytics-wcms.joins.net
 analytics.weldonowen.com
 analytics.wetfish.com.au
 analytics.whostheboss.co.uk
@@ -114574,6 +114581,7 @@ ar.interiordefine.com
 art.b.inhaabit.com
 artis.indonesiya.com
 artpainting.indonesiya.com
+as3.io
 a.sami.se
 as.balluff.com
 a.sbnw.in
@@ -114659,6 +114667,7 @@ azuremystique.com
 b0.yahoo.co.jp
 b1tow9h4erpw.anur.polymerdev.com
 b536mpmxoqxa.www.themoneytizer.com
+b629.electronicdesign.com
 b73c.pandasuite.io
 baby.camsex.eu.org
 baccarat.abzorbagames.com
@@ -116110,7 +116119,6 @@ feedback.nslsc-csnpe.ca
 feedme.use-beez.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
-fenix.walkerllaw.org
 fetch.gethuan.com
 fewjuice.com
 ffe390afd658c19dcbf707e0597b846d.de
@@ -118695,6 +118703,7 @@ metrics.borgatapoker.com
 metrics.bose.co.jp
 metrics.bostonscientific.com
 metrics.camperboerse.com
+metrics.camsoda.com
 metrics.care.com
 metrics.cartoonnetworkla.com
 metrics.cosmeticsdesign-europe.com
@@ -122676,6 +122685,7 @@ tag.digops.sincro.io
 tagger.opecloud.com
 tag.imagino.com
 tag.lexer.io
+tags.dxmdp.com
 tags.esri.com
 tag.statshop.fr
 tala.net.anwalt.de
@@ -123226,6 +123236,7 @@ tracking.sabic.com
 tracking.sailgp.com
 tracking.sciex.com
 tracking.seakeeper.com
+tracking.server.bytecon.com
 tracking.shl.com
 tracking.smartbets.com
 tracking.softwareadvice.com
@@ -123987,6 +123998,7 @@ ucaas.avaya.com
 uchiyama.net.anwalt.de
 ucmetrics.unicreditbanca.it
 ucmetrics.unicredit.it
+uc.xddi.ru
 udgrbq.malwarebytes.com
 udmmdl.dudalina.com.br
 udrvvx.kabum.com.br
@@ -124191,6 +124203,7 @@ wa.eonline.com
 wa.essent.nl
 wafoub.graindemalice.fr
 wa.gifts.com
+walkerllaw.org
 wallet.chain.com
 wa.postnl.nl
 wa.proflowers.com
