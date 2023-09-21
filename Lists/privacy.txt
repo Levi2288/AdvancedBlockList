@@ -273,6 +273,7 @@ omni.soundestlink.com$image
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
+||byspotify.com^
 ||cadsuta.net^
 ||captcha-display.com^
 ||cbdatatracker.com^
@@ -373,6 +374,7 @@ omni.soundestlink.com$image
 ||gbqofs.com^
 ||geoedge.be^
 ||geotargetly-api-*.com^
+||glamipixel.com^
 ||glimr.io^
 ||glookup.info^
 ||go-mpulse.net^
@@ -793,6 +795,7 @@ omni.soundestlink.com$image
 ||apolloprogram.io^$third-party
 ||appboycdn.com^$third-party
 ||appcast.io^$third-party
+||appdynamics.com^$third-party
 ||appn.center^$third-party
 ||aprtn.com^$third-party
 ||aprtx.com^$third-party
@@ -1337,6 +1340,7 @@ omni.soundestlink.com$image
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||everestjs.net^$third-party
+||evergage.com^$third-party
 ||evisitanalyst.com^$third-party
 ||evorra.net^$third-party
 ||evyy.net^$third-party
@@ -5749,6 +5753,7 @@ omni.soundestlink.com$image
 ||percycle.com^$third-party
 ||pmweb.com.br^$third-party
 ||premiumads.com.br^$third-party
+||premiumprogrammatic.com.br^$third-party
 ||retargeter.com.br^$third-party
 ||sambaads.com^$third-party
 ||shoptarget.com.br^$third-party
@@ -5756,6 +5761,7 @@ omni.soundestlink.com$image
 ||tailtarget.com^$third-party
 ||trugaze.io^$third-party
 ||voxus.com.br^$third-party
+||widgets.solutions^$third-party
 ||2222.ro^$third-party
 ||2parale.ro^$third-party
 ||2performant.com^$third-party
@@ -6203,7 +6209,6 @@ omni.soundestlink.com$image
 ||app.opmnstr.com/v2/geolocate/
 ||app.posthog.com/static/array.js
 ||app.yesware.com/t/$third-party
-||appdynamics.com/geo/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
 ||apple.com/mw/v1/reportAnalytics
@@ -8960,6 +8965,7 @@ omni.soundestlink.com$image
 ||tracking.vid4u.org^
 ||a.centrum.cz^
 ||bisko.mall.tv^
+||c.seznam.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
 ||h.seznam.cz/hit/
@@ -9509,7 +9515,6 @@ omni.soundestlink.com$image
 ||tracking3.vnncdn.net^
 ||za.zdn.vn^
 ||zalo.me/v3/w/_zaf.gif
-||0123movie.net/cdn-cgi/trace
 ||123rf.com/apicore-index/traffic_log
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
@@ -9921,6 +9926,7 @@ omni.soundestlink.com$image
 ||fathom.app.silverbeak.com^
 ||fathom.status.im^
 ||fathom.tdvm.net^
+||fbo-statistics-collector-tc.is.flippingbook.com^
 ||fc2.com/ana/analyzer.php
 ||fc2.com/ana/processor.php?
 ||fc2.com/counter_img.php?
@@ -10164,6 +10170,7 @@ omni.soundestlink.com$image
 ||log.klook.com^
 ||log.quora.com^
 ||log.snapdeal.com^
+||log.v.ssp.yahoo.com^
 ||log.webnovel.com^
 ||logger.nerdwallet.com^
 ||logging.api.intuit.com^
@@ -112233,6 +112240,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  urj6.iberojet.es
  usa.pgbrands.com
  us.chantelle-com.eulerian.net
+ user-registration.nl3.vip.prod.criteo.com
  us-plz-as19750.anchors.atlas.ripe.net
  us-qas-as19750.anchors.atlas.ripe.net
  ut.actonsoftware.com
