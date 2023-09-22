@@ -6704,6 +6704,7 @@ omni.soundestlink.com$image
 ||dugout.co/das2.js
 ||dw.com.com^$script
 ||dx.mountain.com^
+||dynamic.ziftsolutions.com^
 ||dynamicyield.com/batch?
 ||dynamicyield.com/clog
 ||dynamicyield.com/dpx?
@@ -9518,6 +9519,7 @@ omni.soundestlink.com$image
 ||123rf.com/apicore-index/traffic_log
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
+||4shared.com/js/d1VisitsCounter.4min.js
 ||9gag.com/event/
 ||9gag.com/track/
 ||a-reporting.nytimes.com^
@@ -9760,6 +9762,7 @@ omni.soundestlink.com$image
 ||collect.banggood.com^
 ||collect.hollisterco.com^
 ||collect.reagroupdata.com.au^
+||collect.stepstone.co.uk^
 ||collect.thunder-io.com^
 ||collections-api.realestate.com.au^
 ||collector-px0py5pczn.octopart.com^
@@ -10600,6 +10603,7 @@ omni.soundestlink.com$image
 ||tags.aljazeera.com^
 ||tags.johnlewis.com^
 ||tags.news.com.au^$script
+||tags.stepstone.com^
 ||tahoe.com/imp
 ||taiwanplus.com/api/video/startVideo
 ||tao.barstoolsports.com^
@@ -10659,6 +10663,9 @@ omni.soundestlink.com$image
 ||top.gg/api/auctions/i
 ||top.wn.com^
 ||totalcsgo.com/ctrack/
+||totaljobs.com/analytics/
+||totaljobs.com/chatbot/webhook/analytics
+||totaljobs.com/chatbot/webhook/logger
 ||touch.myntra.com^
 ||toyota.com/analytics/
 ||tpcs.payu.in/pixelwithcookie.gif$domain=hindustantimes.com
@@ -10752,6 +10759,7 @@ omni.soundestlink.com$image
 ||vizcloud.co/ping/
 ||vk.com/js/lib/px.js
 ||vortex.hulu.com^
+||vrbo.com/edap/elo/v1/event/beacon
 ||vrbo.com/serp/api/metrics
 ||vsco.co/api/cantor/track
 ||w3-reporting.reddit.com^
@@ -10954,6 +10962,7 @@ omni.soundestlink.com$image
 ||foodpanda.ro/lJuB4eTB/init.js
 ||foodpanda.sg/lJuB4eTB/init.js
 ||freepeople.com/tN88Q85M/init.js
+||groceries.asda.com/px/PX1UGLZTko/init.js
 ||hotpads.com/xOR1K5b6/init.js
 ||iherb.com/VtidNbtC/init.js
 ||internships.com/oGckki0e/init.js
@@ -112240,6 +112249,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  urj6.iberojet.es
  usa.pgbrands.com
  us.chantelle-com.eulerian.net
+ user-registration.fr3.vip.prod.criteo.com
  user-registration.nl3.vip.prod.criteo.com
  us-plz-as19750.anchors.atlas.ripe.net
  us-qas-as19750.anchors.atlas.ripe.net
