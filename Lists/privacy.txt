@@ -6417,6 +6417,7 @@ omni.soundestlink.com$image
 ||clearspring.com/at/
 ||clearspring.com/t/
 ||clerk.io/static/clerk.js
+||clevertap-prod.com^$third-party
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clickchatsold.com/d0/
@@ -6633,6 +6634,7 @@ omni.soundestlink.com$image
 ||d1snv67wdds0p2.cloudfront.net/tracker/
 ||d1tbj6eaenapdy.cloudfront.net^
 ||d2fuc4clr7gvcn.cloudfront.net/track.js
+||d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js
 ||d2wa5sea6guof0.cloudfront.net^
 ||dadi.technology^$third-party
 ||dash.getsitecontrol.com^
@@ -6714,6 +6716,7 @@ omni.soundestlink.com$image
 ||e-activist.com^*/broadcast.record.message.open.do?
 ||e-merchant.com/^*/edr.js$third-party
 ||e.ebidtech.com/cv/
+||e.htplayground.com^
 ||e.metarouter.io^
 ||ea.youmaker.com^
 ||early-birds.fr/tracker/
@@ -7625,6 +7628,7 @@ omni.soundestlink.com$image
 ||rebelmouse.com/pharos/
 ||recart.com/tracking/
 ||recipefy.net/analytics.js
+||recs.richrelevance.com/rrserver/api/engage/trackExperienceEvent?
 ||recs.shareaholic.com^
 ||recurly.com/js/v1/events
 ||redditsave.com/api/event
@@ -8702,6 +8706,7 @@ omni.soundestlink.com$image
 ||skoom.de/gratis-counter/
 ||somquery.sqrt-5041.de/tv/tracking-event
 ||sp.data.funkedigital.de^
+||spark.cloud.funkedigital.de/agnes.js
 ||spox.com/pub/js/track.js
 ||ss4w.de/counter.php?
 ||stat.clichehosting.de^
@@ -9285,6 +9290,7 @@ omni.soundestlink.com$image
 ||trc.gpcdn.pl^
 ||wymiana.org/stat/
 ||youlead.pl/st?browserid
+||7gra.us/path-tracker-js/
 ||ad-tracker-api.luizalabs.com^
 ||analytics-coletor-site.ojc.com.br^
 ||analytics-stamp.confi.com.vc^
@@ -9670,6 +9676,7 @@ omni.soundestlink.com$image
 ||banggood.com/collectException
 ||bangkokpost.com/hits/
 ||barnes.send.cm^
+||barrons.com/cookies/pixel.gif
 ||bat.maydream.com^
 ||bats.video.yahoo.com^
 ||bcbits.com/bundle/bundle/1/analytics-$domain=bandcamp.com
@@ -9969,6 +9976,7 @@ omni.soundestlink.com$image
 ||fresnel-events.vimeocdn.com^
 ||ft.com/ingest?
 ||fullscreen.nz/v1/tracking/$domain=threenow.co.nz
+||fusevideo.io/api/event
 ||g.ign.com^
 ||g.mashable.com^
 ||g.pcmag.com^
@@ -10753,6 +10761,7 @@ omni.soundestlink.com$image
 ||vagrantup.com/api/auth/_log
 ||vanityfair.com/user-context?referrer
 ||views.arabnews.com^
+||views.asura.gg^
 ||vimeo.com/ablincoln/
 ||vimeocdn.com/js_opt/logging_combined.min.js
 ||visualstudio.com/v2/track
@@ -25794,7 +25803,6 @@ arketing.indianadunes.com^
 ||c917.pandasuite.io^
 ||caapp.levi.com^
 ||cakep.indonesiya.com^
-||calculator.maplesoft.com^
 ||campaigns.impactive.io^
 ||card.pingpro.com^
 ||cartoon.hardalist.com^
@@ -115000,6 +115008,7 @@ bxumze.chieftain.com
 bykwtf.victoriassecret.ae
 by.mywd.com
 b.ysh.io
+byspotify.com
 b.zedge.me
 c4c9.pandasuite.io
 c917.pandasuite.io
@@ -115179,6 +115188,7 @@ collector-videoplayer.5centscdn.net
 collector.wawlabs.com
 collect.reagroupdata.com.au
 collect.rebelmouse.io
+collect.stepstone.co.uk
 collect.thunder-io.com
 college.marketingcube.com.au
 com.102.122.207.net
@@ -115346,6 +115356,7 @@ crrm.onjoyri.de
 cryo.socialblade.com
 crypto.egghead.link
 cs2113sbeda.hokto-onlineshop.jp
+c.seznam.cz
 cs.nakanohito.jp
 csr11-i.net.anwalt.de
 csr12stats.net.anwalt.de
@@ -115769,6 +115780,7 @@ d.xapcard.com
 dx.flmxxx.me
 dx.thermo.com
 dx.thermofisher.com
+dynamic.ziftsolutions.com
 dyqebg.aboutyou.hr
 dysfunctionalcellar.com
 dyzmpx.speedway.fr
@@ -116126,6 +116138,7 @@ familypractice-app.hotdoc.com.au
 farsnails.com
 fast.icars.cc
 fb.echovisuals.com
+fbo-statistics-collector-tc.is.flippingbook.com
 fd.bawag.at
 fdixsh.platypusshoes.com.au
 fdkeip.azafashions.com
@@ -116405,6 +116418,7 @@ ginmon.efscle.com
 givevacation.com
 gjljde.kathmandu.co.nz
 gkxaay.tontarellishop.com
+glamipixel.com
 gleamingcow.com
 gli9.inseec-bs.com
 glitteringbrook.com
@@ -117988,6 +118002,7 @@ log.rhythmtowers.com
 logstash-3.radio-canada.ca
 logs.theccaa.com
 logtail.com
+log.v.ssp.yahoo.com
 log.zdnet.co.kr
 lokalwerben.t-online.de
 longingtrees.com
@@ -122705,6 +122720,7 @@ tag.imagino.com
 tag.lexer.io
 tags.dxmdp.com
 tags.esri.com
+tags.stepstone.com
 tag.statshop.fr
 tala.net.anwalt.de
 talent.aonunited.com
@@ -124151,6 +124167,7 @@ viewer.pandasuite.io
 view.fujitv.co.jp
 view.metlspan.com
 view.nucorbuildingsystems.com
+views.asura.gg
 virgin.hasdukmerahputih.com
 virtualvincent.com
 visit.campermate.com
