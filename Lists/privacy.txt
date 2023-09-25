@@ -10297,6 +10297,7 @@ omni.soundestlink.com$image
 ||no9pldds1lmn3.soundcloud.com^
 ||noblocktape.com/stat/
 ||noodle.backmarket.io^
+||nordace.com/track.js
 ||nordstrom.com/api/cake/
 ||nordstrom.com/api/cupcake/
 ||norton.com/service/norton/head?
@@ -10492,9 +10493,11 @@ omni.soundestlink.com$image
 ||slideshare.net/frontend_tracking/
 ||slipstream.skyscanner.net^
 ||smallpdf.com/build/track-js.js
+||smartlink-api.amuse.io/api/analytics/
 ||smassets.net/assets/anonweb/anonweb-click-
 ||smetrics.couponcabin.com^
 ||smetrics.ralphlauren.com^
+||smutty.com/ajax/trcking/
 ||snapchat.com/web/metrics
 ||solidtorrents.to/ping
 ||solvusoft.com^*/scripts/visitor.js
@@ -28980,6 +28983,7 @@ arketing.indianadunes.com^
 ||horizon-track.globo.com^
 ||matt.mercadolibre.
 ||mercadolibre.com/tracks^
+||mundodesconocido.com/tracker/
 ||pixel.europapress.net^
 ||px-intl.ucweb.com^
 ||rvv.emol.com^
@@ -29627,6 +29631,7 @@ arketing.indianadunes.com^
 @@||polfan.pl/app/vendor/fingerprint2.min.js$~third-party
 @@||pushpushgo.com/js/$script,domain=centrumriviera.pl
 @@||sascdn.com/tag/$script,domain=filmweb.pl
+@@||smog.moja-ostroleka.pl/mapa/sensorsdata.json$~third-party
 @@||staty.portalradiowy.pl/wstats/$script,third-party
 @@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
