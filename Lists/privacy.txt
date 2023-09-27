@@ -1041,7 +1041,6 @@ omni.soundestlink.com$image
 ||clickcease.com^$third-party
 ||clickclick.net^$third-party
 ||clickdensity.com^$third-party
-||clickdimensions.com^$third-party
 ||clickening.com^$third-party
 ||clickferret.com^$third-party
 ||clickguard.com^$third-party
@@ -6421,6 +6420,7 @@ omni.soundestlink.com$image
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clickchatsold.com/d0/
+||clickdimensions.com/ts.js
 ||clicker.com^*pageurl$third-party
 ||clickfunnels.com/assets/pushcrew.js$third-party
 ||clickfunnels.com/cf.js
@@ -9765,6 +9765,7 @@ omni.soundestlink.com$image
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
+||cnt.xhamster.com^
 ||codecademy.com/analytics/
 ||coincheckup.com/report_events/
 ||cointelegraph.com/pixel?
@@ -9775,7 +9776,6 @@ omni.soundestlink.com$image
 ||collect.reagroupdata.com.au^
 ||collect.stepstone.co.uk^
 ||collect.thunder-io.com^
-||collections-api.realestate.com.au^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
 ||collector.fiverr.com^
@@ -10416,6 +10416,7 @@ omni.soundestlink.com$image
 ||ranker.com/api/tracking/comscore
 ||rankhit.china.com^
 ||ras.yahoo.com^
+||rbc.ua/enghits/
 ||realestate.com.au^*/p.js
 ||realitytvworld.com/images/pixel.gif
 ||reddit.com/static/pixel.png$image
@@ -29028,6 +29029,7 @@ arketing.indianadunes.com^
 ||iys.org.tr/mti-popts.js
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^
+||tracker.blutv.com^
 |http://r.i.ua^
 |https://r.i.ua^
 ||at.ua/stat/
