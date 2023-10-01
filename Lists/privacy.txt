@@ -236,6 +236,7 @@ omni.soundestlink.com$image
 ||acsbapp.com^
 ||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^
 ||adcontroll.com^
+||admaxium.com^
 ||adnext.co^
 ||adrtx.net^
 ||adscore.com^
@@ -526,6 +527,7 @@ omni.soundestlink.com$image
 ||takingbackjuly.com^
 ||targetemsecure.blob.core.windows.net^
 ||tatpek.com^
+||techpump.com^
 ||test.vast^
 ||testingmetriksbre.ru^
 ||the-ozone-project.com^
@@ -550,6 +552,7 @@ omni.soundestlink.com$image
 ||tw.cx^
 ||tzegilo.com^
 ||ugdturner.com^
+||uidapi.com^
 ||uqd.io^
 ||ustat.info^
 ||venusrevival.com^
@@ -2474,6 +2477,7 @@ omni.soundestlink.com$image
 ||s3s-main.net^$third-party
 ||s7target.ru^$third-party
 ||safe-click.net^$third-party
+||safeanalytics.net^$third-party
 ||sageanalyst.net^$third-party
 ||sailthru.com^$third-party
 ||salecycle.com^$third-party
@@ -5638,6 +5642,7 @@ omni.soundestlink.com$image
 ||logly.co.jp^$third-party
 ||macromill.com^$third-party
 ||medipartner.jp^$third-party
+||mobadme.jp^$third-party
 ||mobylog.jp^$third-party
 ||moshimo.com^$third-party
 ||msgs.jp^$third-party
@@ -6348,6 +6353,7 @@ omni.soundestlink.com$image
 ||bs.yandex.ru^
 ||bucklemail.com/a/$image
 ||bufferapp.com/wf/open?upn=$third-party
+||burstcloud.co/jwe?
 ||bytedance.com/pixel/
 ||byteoversea.com/captcha/report
 ||byteoversea.com/monitor_browser/
@@ -6555,6 +6561,7 @@ omni.soundestlink.com$image
 ||connext-cdn.azureedge.net^
 ||consensu.org/?log=
 ||consensu.org/geoip
+||consentmanager.net/delivery/info/$third-party
 ||console.uxlens.com^
 ||contactatonce.com/GetAgentStatusImage.aspx?
 ||contactatonce.com/VisitorContext.aspx?
@@ -7969,6 +7976,7 @@ omni.soundestlink.com$image
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
+||terabox.com/api/analytics?
 ||terabox.fun/api/analytics
 ||terabox.fun/api/getsyscfg?*web_share_ads_adsterra_config
 ||th.bing.com/th/*&riu=$image,third-party
@@ -9315,6 +9323,7 @@ omni.soundestlink.com$image
 ||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
 ||statig.com.br/pub/setCookie.js?
+||statistic.audima.co^
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
 ||terra.com.br/metrics/
@@ -9607,6 +9616,7 @@ omni.soundestlink.com$image
 ||ampltd2.medal.tv^
 ||analyselog.dx.com^
 ||analytics-api.dvdfab.
+||analytics-batch.blitz.gg^
 ||analytics-proxy.springboard.com^
 ||analytics-tracking.meetup.com^
 ||analytics-wcms.joins.net^
@@ -10136,6 +10146,7 @@ omni.soundestlink.com$image
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
+||kemono.party/api/event
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -10627,6 +10638,7 @@ omni.soundestlink.com$image
 ||tahoe.com/imp
 ||taiwanplus.com/api/video/startVideo
 ||tao.barstoolsports.com^
+||tapeblocker.com/stat/
 ||tapewithadblock.com/stat/
 ||tapewithadblock.org/stat/
 ||target.nationwide.com^
@@ -25437,7 +25449,6 @@ arketing.indianadunes.com^
 ||access.iprolive.com^
 ||access2.ipro.net^
 ||accuratecraneplan-test.inthere.link^
-||acesse.tc.com.br^
 ||acro.egghead.link^
 ||act.wynk.in^
 ||activation.depop.com^
@@ -26302,7 +26313,6 @@ arketing.indianadunes.com^
 ||get.schoolbuddy.app^
 ||get.seedly.sg^
 ||get.sidekick.health^
-||get.smart-guide.org^
 ||get.snapask.com^
 ||get.somontreal.ca^
 ||get.speaky.com^
@@ -28051,6 +28061,8 @@ arketing.indianadunes.com^
 ||t.wayfair.de^
 ||tagm.eduscho.at^
 ||tarnkappe.info^$ping
+||teltarif.de/scripts/fb.js
+||teltarif.de/scripts/ttt.js
 ||teltarif.de/ttt.go?
 ||tgw.gmx.ch^
 ||tgw.gmx.net^
@@ -29698,6 +29710,7 @@ arketing.indianadunes.com^
 @@||cdn.segmentify.com^$script,domain=gratis.com
 @@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr
 @@||gemius.pl/gplayer.js$domain=tsn.ua
+@@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||uaprom.net/image/blank.gif?$image
 @@||netcoresmartech.com/smartechclient.js$domain=cgv.vn
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orga-0001.a-msedge.net
@@ -114043,7 +114056,6 @@ ac-ebis.usen-pos.com
 ac-ebis.usen-service.com
 ac-ebis.usen-store.com
 a.centrum.cz
-acesse.tc.com.br
 ac.geechs-job.com
 a.conferencecall.com
 acq-au.americanexpress.com
@@ -114118,6 +114130,7 @@ ad.jibunde-esute.com
 ad.kirara-support.jp
 adl.bankofthewest.com
 adl.kkguan.com
+admaxium.com
 admin.academyforconsciousleadership.net
 administrator.pnclassaction.com
 admin.smartgroup.com.au
@@ -116129,7 +116142,6 @@ experience.rsm.com.au
 experiences.cibc.com
 experiments.sparanoid.net
 expertdecking.inthere.link
-explore.agilent.com
 explore.att.com
 explore.broncos.com.au
 explore.epsilon.com
@@ -119022,6 +119034,7 @@ m.navi.com
 mnrddc.journeys.com
 m.nxtgn.us
 moa.mediaoutcast.com
+mobildev.in
 mobileapps.stryker.com
 mobile.aspensnowmass.com
 mobile.btgpactual.com
@@ -119846,6 +119859,7 @@ randstad.epoise.com
 randstadtest.epoise.com
 rangeplayground.com
 rank.xn--cosme-5c4djcw662edgyc.com
+r.apkpure.net
 rasabenito.indonesiya.com
 ras.yahoo.com
 r.atlasearth.com
@@ -122179,6 +122193,7 @@ stategg.cdngeek.com
 stat.i3.dmm.com
 static.fengkongcloud.com
 static.osalta.eu
+statistic.audima.co
 statistic.jac-systeme.de
 statistics.streamdav.com
 stat.juridicas.com
@@ -122820,6 +122835,7 @@ techgifts.tradeshow.globalsources.com
 technical.magnalytix.com
 technologyadvice.actonservice.com
 technology.informaengage.com
+techpump.com
 techservices.trapptechnology.com
 t.ecomms.origin.com.au
 t.ecupirates.com
