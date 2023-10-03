@@ -300,6 +300,7 @@ omni.soundestlink.com$image
 ||cybba.solutions^
 ||czx5eyk0exbhwp43ya.biz^
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
+||dataofpages.com^
 ||datatechonert.com^
 ||demdex.net^
 ||digi-ping.com^
@@ -572,6 +573,7 @@ omni.soundestlink.com$image
 ||wmgroup.us^
 ||woodpeckerlog.com^
 ||yardianalytics.com^
+||yndhi.com^
 ||yottlyscript.com^
 ||youborafds01.com^
 ||youboranqs01.com^
@@ -8020,6 +8022,7 @@ omni.soundestlink.com$image
 ||tr.webantenna.info^
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||traccoon.intellectsoft.net^
+||trace.swaven.com^
 ||track-dark-bz.b-cdn.net^
 ||track.360playvid.info^
 ||track.91app.io^
@@ -8179,6 +8182,7 @@ omni.soundestlink.com$image
 ||trk.clinch.co^
 ||trk.storyly.io^
 ||trk.techtarget.com^
+||trk2-wtb.swaven.com^
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
@@ -28313,6 +28317,7 @@ arketing.indianadunes.com^
 ||log2.sina.cn^
 ||logs.51cto.com^
 ||logtake.weidian.com^
+||m.diyibanzhu.buzz/17mb/script/
 ||mail.qq.com/cgi-bin/getinvestigate?
 ||map.baidu.com/newmap_test/static/common/images/transparent.gif
 ||metric.huya.com^
@@ -28457,6 +28462,7 @@ arketing.indianadunes.com^
 ||zz.bdstatic.com^
 ||avaz.ba/update/hits/
 ||jutarnji.hr/template/js/eph_analytics.js
+||cc.dalten.cz^
 ||jslog.post.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
 ||report.novinky.cz^
@@ -114251,6 +114257,7 @@ analytics.adobe.ly
 analytics.algolia.com
 analytics.andrewsmith.com.au
 analytics.angelina-fieber.com
+analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
 analytics.bgr.com
 analytics.blackboard.com
@@ -114270,6 +114277,7 @@ analytics.firstbankcard.com
 analytics.firstnational.com
 analytics.floridatravellife.com
 analytics.fnni.com
+analytics.gamesdrive.net
 analytics.geoutletstore.com
 analytics.gestore.com
 analytics.gewaterheater.com
@@ -115039,7 +115047,6 @@ bxumze.chieftain.com
 bykwtf.victoriassecret.ae
 by.mywd.com
 b.ysh.io
-byspotify.com
 b.zedge.me
 c4c9.pandasuite.io
 c917.pandasuite.io
@@ -116406,7 +116413,6 @@ get.sakay.ph
 get.schoolbuddy.app
 get.seedly.sg
 get.sidekick.health
-get.smart-guide.org
 get.snapask.com
 get.somontreal.ca
 get.speaky.com
@@ -119571,6 +119577,7 @@ pitatisisminis.openapp.link
 pixel2.realclever.com
 pixel.archipro.co.nz
 pixel.barion.com
+pixel.byspotify.com
 pixel.ionos.com
 pixel.ionos.de
 pixel.poptok.com
@@ -124092,6 +124099,7 @@ uglwov.logic-immo.com
 ugzbsu.klimaworld.com
 uhd5nn09mgml.fort-shop.kiev.ua
 uh.nakanohito.jp
+uidapi.com
 uinpmz.iichi.com
 ui.service.belboon.com
 uiwock.epantofi.ro
