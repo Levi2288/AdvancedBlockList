@@ -255,4 +255,5 @@ www.linkedin.com
 static.xx.fbcdn.net
 www.behance.net
 encrypted-tbn0.gstatic.com
+js.stripe.com// Discord
 js.stripe.com
