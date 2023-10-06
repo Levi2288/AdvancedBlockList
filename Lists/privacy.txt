@@ -3087,7 +3087,6 @@ omni.soundestlink.com$image
 ||withcubed.com^$third-party
 ||wizaly.com^$third-party
 ||wmcdp.io^$third-party
-||wogaa.sg^$third-party
 ||womtp.com^$third-party
 ||woopra-ns.com^$third-party
 ||woopra.com^$third-party
@@ -8321,6 +8320,7 @@ omni.soundestlink.com$image
 ||witbee.com^*/collect
 ||wl-pixel.index.digital^
 ||wn.com/count.js
+||wogaa.sg/scripts/wogaa.js
 ||wondershare.es/jslibs/track.js
 ||wordmonetize.com^$third-party
 ||wordpress.com/geo/
@@ -116111,6 +116111,7 @@ event1.thermoscientific.com
 event.boozallen.com
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
+eventexistence.com
 event.grassicpas.com
 event.ortec.com
 eventos.cihac.com
