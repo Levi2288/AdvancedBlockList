@@ -7754,6 +7754,7 @@ omni.soundestlink.com$image
 ||shorthand.com/analytics/
 ||showstopped.com/owa/log.php
 ||showstopped.com/owa/modules/base/dist/owa.tracker.js
+||shrtfly.vip/js/tag.js
 ||sinajs.cn/open/analytics/
 ||sitebooster.com/sb/wix/p?$third-party
 ||sitefinity.com/collect/
@@ -10896,6 +10897,7 @@ omni.soundestlink.com$image
 ://track.opentable.
 ://www.vinted.*/relay/events
 ||akamaihd.net^$image,domain=globalnews.ca|nycgo.com|stcatharinesstandard.ca
+||edge-client^$script,domain=barrons.com
 ||jeremiahlee.com/fanboynz.js
 ||hubspot.com/collected-forms/$xmlhttprequest,domain=confection.io
 ||s3.amazonaws.com/downloads.mailchimp.com/$script,domain=confection.io
@@ -102738,6 +102740,15 @@ zy16eoat1w.com sanalytics.spark.co.nz
  ilsecoloxixitalia01.wt-eu02.net
  ilsole24oreitalia01.wt-eu02.net
  iluz.keepcool.fr
+ im2.etr.im
+ im2.eulerian.biz
+ im2.eulerian.com
+ im2.eulerian.co.uk
+ im2.eulerian.eu
+ im2.eulerian.fr
+ im2.eulerian.net
+ im2.eulerian.uk
+ im2.eurelian.com
  imap.a.shortest-route.com
  imap.cainus.teradatadmc.com
  imap.c.shortest-route.com
