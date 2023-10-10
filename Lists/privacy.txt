@@ -4835,6 +4835,7 @@ omni.soundestlink.com$image
 ||superficialspring.com^
 ||superficialsquare.com^
 ||supervisegoldfish.com^
+||suspectmark.com^
 ||suspendseed.com^
 ||swankysquare.com^
 ||sweepsheep.com^
@@ -29505,6 +29506,7 @@ arketing.indianadunes.com^
 @@||omtrdc.net/b/ss/$image,domain=britishairways.com|halifax-online.co.uk
 @@||omtrdc.net/rest/$xmlhttprequest
 @@||heatmap.it^$domain=heatmap.com|heatmap.it|heatmap.me|heatmap.org
+@@||komas19.xyz/cdn-cgi/apps/$script,~third-party
 @@||adconsole.ch/api/ws-businessclick/*/data.json$domain=finanzen.ch
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
@@ -115224,6 +115226,7 @@ cname-ade.shachihata.biz
 cname.gladis.jp
 cname.mitsuihome.co.jp
 cname.nikkei-cnbc.co.jp
+c.newyorker.com
 cn-go.experian.com
 cn.mywd.com
 cnpxwl.cheapcaribbean.com
@@ -119839,6 +119842,7 @@ qa-go.ebat.es
 qal0.destinia.gr
 qamnyl.bever.nl
 qbl4.ecetech.fr
+qc.newyorker.com
 qc.qualicocommunitieswinnipeg.com
 qc.vogue.com
 qerpks.rollei.de
@@ -120232,6 +120236,7 @@ sc.actonservice.com
 scalematrix.actonservice.com
 scanner-link.covve.com
 scaredfarm.com
+scaredsong.com
 sc.doctorwho.tv
 schlesingerassociates.actonservice.com
 sc.icarly.com
