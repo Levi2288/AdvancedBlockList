@@ -3873,6 +3873,7 @@ omni.soundestlink.com$image
 ||defectivesun.com^
 ||defiantrice.com^
 ||delegatediscussion.com^
+||delicatecascade.com^
 ||delicateducks.com^
 ||delightfulhour.com^
 ||desertedbreath.com^
@@ -5001,6 +5002,7 @@ omni.soundestlink.com$image
 ||whiskyqueue.com^
 ||whisperingbadge.com^
 ||whisperingcrib.com^
+||whisperingsummit.com^
 ||whispermeeting.com^
 ||wigglygeese.com^
 ||wigglyindustry.com^
@@ -10214,6 +10216,7 @@ omni.soundestlink.com$image
 ||log.v.ssp.yahoo.com^
 ||log.webnovel.com^
 ||logger.nerdwallet.com^
+||logger007.cam4.com^
 ||logging.api.intuit.com^
 ||loglady.kiwi.com^
 ||logs.hotstar.com^
@@ -124703,9 +124706,9 @@ ztrack.online
 zuidema.actonservice.com
 zxrnfc.drinco.jp
 zz.bdstatic.com[Adblock Plus 1.1]
-||delicatecascade.com^
-||whisperingsummit.com^
+||d2r1yp2w7bby2u.cloudfront.net^
 ||^$third-party,domain=53.com|ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.ca|equifax.com|globo.com|gumtree.com|kleinanzeigen.de|lendup.com|mbna.ca|rusneb.ru|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com|whatleaks.com
+@@||sc.youmaker.com/site/article/count?
  1-cl0ud.com
  1-creative-1.com
  1000mercis.com
@@ -171368,4 +171371,8 @@ zy16eoat1w.com sanalytics.spark.co.nz
  zusatzleistungen01.wt-eu02.net
  zy33.smallable.com
  zyq2.destinia.sk# Easyprivacy, parsed and mirrored by https://firebog.net
+delicatecascade.com
+logger007.cam4.com
+suspectmark.com
+whisperingsummit.com
 zz.bdstatic.com
