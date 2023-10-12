@@ -4207,6 +4207,7 @@ omni.soundestlink.com$image
 ||jimny.pro^
 ||joblessdrum.com^
 ||joyoussurprise.com^
+||jubilantcanyon.com^
 ||justicejudo.com^
 ||k54nw.pw^
 ||kitesquirrel.com^
@@ -4463,6 +4464,7 @@ omni.soundestlink.com$image
 ||proudprose.com^
 ||psychedelicarithmetic.com^
 ||psychedelicchess.com^
+||pubimgs.com^
 ||puffyloss.com^
 ||puffypaste.com^
 ||puffypull.com^
@@ -5002,6 +5004,7 @@ omni.soundestlink.com$image
 ||whirlwealth.com^
 ||whiskyqueue.com^
 ||whisperingbadge.com^
+||whisperingcascade.com^
 ||whisperingcrib.com^
 ||whisperingsummit.com^
 ||whispermeeting.com^
