@@ -2268,6 +2268,7 @@ omni.soundestlink.com$image
 ||pointomatic.com^$third-party
 ||polarbyte.com^$third-party
 ||polarcdn-pentos.com^$third-party
+||pop6serve.com^$third-party
 ||popsample.com^$third-party
 ||popt.in^$third-party,domain=~poptin.com
 ||populr.me^$third-party
@@ -3731,6 +3732,7 @@ omni.soundestlink.com$image
 ||cautiouscredit.com^
 ||cavecurtain.com^
 ||cdnral.com^
+||ceciliavenus.com^
 ||celestialspectra.com^
 ||chairscrack.com^
 ||chalkoil.com^
@@ -3859,6 +3861,7 @@ omni.soundestlink.com$image
 ||dashingdirt.com^
 ||dashingdrop.com^
 ||dashingsweater.com^
+||daughterstone.com^
 ||dazzlingbook.com^
 ||deadpanmarble.com^
 ||deadpantruck.com^
@@ -4796,6 +4799,7 @@ omni.soundestlink.com$image
 ||stickysheet.com^
 ||stiffgame.com^
 ||stiffstem.com^
+||stimulatingsneeze.com^
 ||stingsquirrel.com^
 ||stingycrush.com^
 ||stockingsneeze.com^
@@ -5923,6 +5927,7 @@ omni.soundestlink.com$image
 ||pocitadlo.sk^$third-party
 ||toplist.sk^$third-party
 ||24log.es^$third-party
+||agency360.io^$third-party
 ||botize.com^$third-party
 ||ccrtvi.com^$third-party
 ||certifica.com^$third-party
@@ -6260,6 +6265,7 @@ omni.soundestlink.com$image
 ||ati-host.net/event?
 ||atlassian.net/rest/collectors/$third-party
 ||atom-data.io/session/latest/track.html?$third-party
+||attn.tv/impression?
 ||attn.tv^*/dtag.js
 ||attributiontrackingga.googlecode.com^
 ||auctiva.com/Default.aspx?query
@@ -6279,6 +6285,7 @@ omni.soundestlink.com$image
 ||awe.sm/conversions/
 ||aweber.com/form/displays.htm?$image
 ||awesome.section.io^
+||awswaf.com^*/report
 ||awswaf.com^*/telemetry
 ||ax.babe.today^
 ||axislogger.appspot.com^
@@ -6463,6 +6470,7 @@ omni.soundestlink.com$image
 ||client.tahono.com^$third-party
 ||clinch.co/a_js/client_pixels/
 ||clipsyndicate.com/cs_api/cliplog?
+||clixtell.com/track.js
 ||cloudapp.net/l/
 ||clouderrorreporting.googleapis.com^
 ||cloudflare-quic.com/cdn-cgi/trace
@@ -6922,6 +6930,7 @@ omni.soundestlink.com$image
 ||fs-client-logger.herokuapp.com^
 ||ftimg.net/js/log.js?
 ||ftm.fluencyinc.co^
+||fudge.ai/metrics?
 ||future-fie-assets.co.uk^
 ||future-price.co.uk^
 ||futurecdn.net/bordeaux.js$xmlhttprequest
@@ -7192,6 +7201,7 @@ omni.soundestlink.com$image
 ||levelaccess.net/analytics/
 ||lhinsights.com/collect?
 ||libcdnjs.com/api/event
+||libs.platform.californiatimes.com/meteringjs/
 ||licdn.com/*.gif?rnd=
 ||licensing.bitmovin.com/impression
 ||lift.acquia.com^
@@ -7339,6 +7349,7 @@ omni.soundestlink.com$image
 ||metrics.userguiding.com^
 ||metrika.cdn112.com^
 ||metrix.emagister.com^
+||mgmlcdn.com/stats/
 ||mikeneko.apollo.moe/js/script.js
 ||minutemediacdn.com/campaign-manager-client/
 ||mircheigeshoa.com/prod/smi/fp.min.js
@@ -7425,6 +7436,7 @@ omni.soundestlink.com$image
 ||nojscontainer.pepperjam.com^$third-party
 ||nol.yahoo.com^
 ||nova.dice.net^
+||nr.static.mmcdn.com^
 ||ns-cdn.com^*/ns_vmtag.js
 ||ns.rvmkitt.com^
 ||nude.hu/html/track.js
@@ -7432,6 +7444,7 @@ omni.soundestlink.com$image
 ||o.aolcdn.com/js/mg1.js
 ||observer.ip-label.net^
 ||ocmail1.in/rtw/$image
+||octaneai.com^*/utrk
 ||octopart-analytics.com^$third-party
 ||oda.markitondemand.com^
 ||odnaknopka.ru/stat.js
@@ -8198,6 +8211,7 @@ omni.soundestlink.com$image
 ||trickyrock.com/redirect.aspx?pid=*&bid=$subdocument,third-party
 ||triggers.wfxtriggers.com^
 ||trinitymedia.ai/api/collect?
+||triplewhale-pixel.web.app^
 ||tritondigital.com/ondemand/impression?
 ||trk.clinch.co^
 ||trk.storyly.io^
@@ -10658,6 +10672,7 @@ omni.soundestlink.com$image
 ||strtpe.link/stat/
 ||stubhub.com/a/icph
 ||swarm.video/stats/
+||szrpr.raen.com^
 ||t.3hentai.net^
 ||t.9gag.com^
 ||t.airasia.com^
@@ -28228,6 +28243,7 @@ arketing.indianadunes.com^
 ||insights.decathlon.net^
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
+||kwgs.letudiant.fr^
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-sentry/lc-sentry.js
 ||ldlc.com/V4px/js/ldlcmachine.js
@@ -28257,6 +28273,7 @@ arketing.indianadunes.com^
 ||res.paruvendu.fr^
 ||rts.ch^*/boreas_b01.js
 ||s5.charliehebdo.fr^
+||serv.letudiant.fr^
 ||shemsfm.net/ar/setStats/
 ||shemsfm.net/fr/setStats/
 ||shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
@@ -28356,6 +28373,7 @@ arketing.indianadunes.com^
 ||h5log.zongheng.com^
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
+||huaxiang.eastmoney.com^
 ||hujiang.com/v2/log
 ||i-cable.com/ci/tracking/
 ||i-tm.com.tw/api/itm-tracker.js$domain=pixnet.net
@@ -28981,6 +28999,7 @@ arketing.indianadunes.com^
 ||cosmo.ru/*/.js?i=*&r=
 ||counter.drom.ru^
 ||counter.sibnet.ru^
+||cpa.hh.ru^
 ||cs42.pikabu.ru^
 ||cvt1.sibnet.ru^
 ||data.glamour.ru^
