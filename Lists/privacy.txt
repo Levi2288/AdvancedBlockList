@@ -1889,6 +1889,7 @@ omni.soundestlink.com$image
 ||lr-in.com^$third-party
 ||lr-ingest.com^$third-party
 ||lr-ingest.io^$third-party
+||lr-intake.com^$third-party
 ||lsfinteractive.com^$third-party
 ||lucidel.com^$third-party
 ||luckyorange.com^$third-party
@@ -4986,6 +4987,7 @@ omni.soundestlink.com$image
 ||verdantanswer.com^
 ||verifyvegetable.com^
 ||verseballs.com^
+||vibranthaven.com^
 ||victoriousrequest.com^
 ||virgoplato.com^
 ||virtualvincent.com^
@@ -6914,6 +6916,7 @@ omni.soundestlink.com$image
 ||fog.pixual.co^
 ||followistic.com/widget/stat/
 ||footballmedia.com/tracking/
+||forethought.ai/workflow/tracking-event
 ||forms.aweber.com^*/displays.htm?id=
 ||formstack.com/forms/analytics.php
 ||formstack.com/forms/js/*/analytics_
@@ -9764,6 +9767,7 @@ omni.soundestlink.com$image
 ||beacon.shutterfly.com^
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
+||beforeitsnews.com/core/ajax/counter/count.php^
 ||behance.net/log
 ||behance.net/v2/logs
 ||bfp.capitalone.com^
@@ -10608,6 +10612,7 @@ omni.soundestlink.com$image
 ||speed.cloudflare.com/__log
 ||sportsmansguide.com/scripts/vendor/at_
 ||spotifycdn.com/cdn/js/retargeting-pixels-
+||spt.ahram.org.eg^
 ||squarespace.com/api/1/performance/
 ||squirrel.malaynahocker.com^
 ||srchoffer.com/tracking/
@@ -29375,7 +29380,7 @@ arketing.indianadunes.com^
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
 @@||ezodn.com/cmp/gvl.json$xmlhttprequest
-@@||fast.fonts.net/jsapi/core/mt.js$script,domain=eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
+@@||fast.fonts.net/jsapi/core/mt.js$script,domain=bkmedical.com|eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
 @@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
 @@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||firebase.google.com/docs/analytics/$~third-party
