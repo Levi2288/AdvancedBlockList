@@ -7093,6 +7093,7 @@ omni.soundestlink.com$image
 ||impdesk.com/smartpix/
 ||impel.io/releases/analytics/
 ||impress.vcita.com^
+||impression.clickinc.com^
 ||impressionmedia.cz/statistics/
 ||inbound-analytics.pixlee.co^
 ||incapdns.net/monitor.js
@@ -7414,6 +7415,7 @@ omni.soundestlink.com$image
 ||navlink.com/__utmala.js
 ||nbcudigitaladops.com/hosted/housepix.gif
 ||nbcudigitaladops.com/hosted/util/geo_data.js
+||ncdn22.xyz/cdn-cgi/trace
 ||needle.com/pageload?
 ||needle.com/pageupdate?
 ||neocounter.neoworx-blog-tools.net^
@@ -7744,6 +7746,7 @@ omni.soundestlink.com$image
 ||schemaapp.com/pagecount
 ||schibsted.com/autoTracker
 ||sciencex.com/api/location/
+||scoopy.cdn112.com^
 ||scout.salesloft.com/r?tid=
 ||scout.us2.salesloft.com^$image
 ||scribd.com^*/events
@@ -8977,6 +8980,7 @@ omni.soundestlink.com$image
 ||js.letvcdn.com/js/*/stats/
 ||js.static.m1905.cn/pingd.js
 ||log.hiiir.com^
+||log.qvb.qcloud.com^
 ||log.tagtic.cn^
 ||mcs.zijieapi.com^
 ||mlt01.com/cmp.htm$third-party
@@ -9023,6 +9027,7 @@ omni.soundestlink.com$image
 ||track.storm.mg^
 ||track.tomwx.net^
 ||track.unidata.ai^
+||tracker-00.qvb.qcloud.com^
 ||tracking.cat898.com^
 ||trail.71baomu.com^
 ||union.360.cn/1899.js
@@ -9822,6 +9827,7 @@ omni.soundestlink.com$image
 ||change.org/api-proxy/-/et
 ||change.org/api-proxy/-/event_tracker
 ||channel.io^*/events
+||chatfuel.com/cf-analytics/
 ||chatroll.com/t.gif
 ||chickadvisor.com/js/detect.min.js
 ||cidrap.umn.edu/core/modules/statistics
@@ -10478,6 +10484,7 @@ omni.soundestlink.com$image
 ||priceline.com/pws/v1/ace/impression/
 ||priceline.com/svcs/mkt/tag/
 ||princetonreview.com/logging/
+||prisma.io/gastats.js
 ||priv.gc.ca/m/m.js
 ||privacy-api.9gag.com^
 ||privacyfriendly.netlify.app^
@@ -10669,6 +10676,7 @@ omni.soundestlink.com$image
 ||streamadblocker.store/stat/
 ||streamadblocker.xyz/stat/
 ||streamlabs.com/web/data/ping
+||streamnoads.com/stat/
 ||streamstats.prd.dlive.tv^
 ||streamta.pe/stat/
 ||streamta.site/stat/
@@ -10926,6 +10934,7 @@ omni.soundestlink.com$image
 ||wstats.e-wok.tv^
 ||xero.com/api/events/
 ||xfinity.com/event/
+||xhamster.com/api/$ping
 ||xhamsterlive.com/pixel/
 ||xhcdn.com/js/*.track.min.js
 ||xing.com/logjam/
@@ -28634,8 +28643,7 @@ arketing.indianadunes.com^
 ||track.pexi.nl^
 ||tracking.voordeeluitjes.nl^
 ||tvgids.nl/collect
-||tweakers.net/x/build/wedonttrack.
-||tweakers.net/x/scripts/min/os1a2z.js
+||tweakers.nl/track/
 ||txrx.bol.com^
 ||u299.libelle-lekker.be^
 ||vinted.nl/relay/events
@@ -115270,6 +115278,7 @@ cdl.booksy.com
 cdl.lvsafe.io
 cdn.net.elogia.net
 cdnral.com
+cdp.yna.co.kr
 cdrive.compellent.com
 ceciliavenus.com
 celestialspectra.com
@@ -118794,6 +118803,7 @@ mcacry.trendhim.it
 mcdmetrics2.aaa.com
 mchtna.fashionplus.co.kr
 mcs.us.tiktokv.com
+mcs.zijieapi.com
 m.d11.io
 m.da-gym.co.kr
 mdm.hibinobi-mandom.jp
@@ -119256,6 +119266,7 @@ monitor.azure.com
 monitor-frontend-collector.a.bybit-aws.com
 monitoring.iraiser.eu
 montok.indonesiya.com
+mon.zijieapi.com
 moodlerooms.blackboard.com
 moody.actonsoftware.com
 moorshoes.com
@@ -119734,6 +119745,7 @@ perawan.indonesiya.com
 perf.af.funneldrivers.com
 pergeroni.openapp.link
 permission.au.actonservice.com
+perr.hola.org
 personal.sonicwall.com
 petal.calyxflowers.com
 pet-recycling.husky.ca
@@ -119988,6 +120000,7 @@ pvoheg.bubbleroom.se
 pvrugd.nieruchomosci-online.pl
 pv.sohu.com
 pxbnou.ig.com.br
+px.dmp.zaloapp.com
 px-intl.ucweb.com
 px.srvcs.tumblr.com
 pymbay.kinguin.net
@@ -120137,6 +120150,7 @@ remp.nv.ua
 renting.aldautomotive.es
 rent.mgrc.com
 reply.osv.com
+report.botm.transparentedge.io
 reporting-api.gannettinnovation.com
 reporting.autographapp.me
 reports.hibu.com
@@ -120219,6 +120233,7 @@ r.morons.us
 rmp4.destinia.uy
 rnnstu.rentbeforeowning.com
 rnybul.gismeteo.lv
+ro.aiwan4399.com
 robotflowermobile.com
 rochelle.wantsext.me
 rollbar.actonservice.com
@@ -120240,6 +120255,7 @@ rs.adpinfo.com
 rslgzz.lance.com.br
 rstat.rockmostbet.com
 rsx.afterpay.com
+rt.cdnmedia.tv
 rtc.multiscreensite.com
 rtds.progressive.com
 rtg-adroute.focas.jp
@@ -120331,6 +120347,7 @@ sa.lesselectionsskoda.fr
 sales.virtualpbx.com
 sal.milanoo.com
 salto.freeto.jp
+saluton.cizion.com
 samc.buero-zueri.ch
 samc.swisscanto.com
 samesticks.com
@@ -122168,6 +122185,7 @@ spmaeu.gumtree.com.au
 spock.domjtalbot.codes
 spookyskate.com
 spread.epoolers.com
+spt.ahram.org.eg
 sp.tinymce.com
 spurioussquirrel.com
 sp.welcometothejungle.com
@@ -122373,6 +122391,7 @@ sswmetrics.ethiopianairlines.com
 sswmetrics.firstair.ca
 sswmetrics.omanair.com
 st-a8.tscubic.com
+st-a.cdp.asia
 stageapplink.reki.tv
 staging-go.getsquire.com
 staging-link.docyt.com
@@ -123183,6 +123202,7 @@ titomacia.net.anwalt.de
 t.itsehoitoapteekki.fi
 tittendestages.net.anwalt.de
 t.iuhoosiers.com
+tj.img4399.com
 t.jmusports.com
 tk.agrizone.net
 tk.airfrance.am
@@ -124422,6 +124442,7 @@ vgo.vegaoo.com
 vhmewg.edreams.fr
 vhrbxb.vidaxl.nl
 vi.adviso.ca
+vibranthaven.com
 victoriousrequest.com
 video-metrics.ellentube.com
 videos.indonesiya.com
@@ -124584,6 +124605,7 @@ website-usage.b2bendix.com
 web.slimjoy.cz
 web.slim-joy.de
 webstat.garanti.com.tr
+webstat.qiumibao.com
 webstats.garanti.com.tr
 web.tamaris.com
 webt.aqipa.com
@@ -124870,6 +124892,7 @@ z737.thestar.com
 zahlen.olereissmann.de
 zahn.net.anwalt.de
 za.qeeq.com
+za.zalo.me
 zcjemo.alwaysfashion.com
 zdcjts.asics.com
 zds.net.anwalt.de
