@@ -51,10 +51,13 @@
 ://analytics.*/pageview/
 ://beacon.*/track
 ://blue.*/script.js
+://client.rum.
 ://collect.*/pageview
 ://collector.*/event
+://elqtrk.
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtrack.*/dye
+://insights-collector.
 ://internal-matomo.
 ://lightning.*/launch/
 ://matomo.$domain=~matomo.org
@@ -194,6 +197,7 @@
 .tripadvisor.com/MptUrl?$image
 .tripadvisor.com/q/$image
 .umusic-online.com^*/o.gif
+.useinsider.com/pixel?$image
 .warehousefashion.com/warehouse/e/$image
 .webex.com/q/
 .wix.com/_api/ping/
@@ -234,6 +238,7 @@ omni.soundestlink.com$image
 ||adstk.io^
 ||adultium.com^
 ||agkn.com^
+||agma-analytics.de^
 ||allvideometrika.com^
 ||alpha1trk.com^
 ||altopd.com^
@@ -414,6 +419,7 @@ omni.soundestlink.com$image
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
+||maxepv.com^
 ||maxtrafixx.tech^
 ||mb-tracking.com^
 ||mcangelus.com^
@@ -680,7 +686,7 @@ omni.soundestlink.com$image
 ||admantx.com^$third-party
 ||admaster.com.cn^$third-party
 ||admetric.io^$third-party
-||adobedtm.com^$third-party,domain=~adobe.com
+||adobedtm.com^$third-party,domain=~adobe.com|~costco.com
 ||adobetag.com^$third-party
 ||adobetarget.com^$third-party
 ||adoftheyear.com^$third-party
@@ -1494,7 +1500,6 @@ omni.soundestlink.com$image
 ||getclicky.com^$third-party
 ||getconversion.net^$third-party
 ||getdrip.com^$third-party
-||getelevar.com^$third-party
 ||getfreebl.com^$third-party
 ||getlasso.co^$third-party
 ||getpublica.com^$third-party
@@ -1564,6 +1569,7 @@ omni.soundestlink.com$image
 ||haveamint.com^$third-party
 ||hbwrapper.com^$third-party
 ||heapanalytics.com^$third-party
+||heatmap.com^$third-party
 ||heatmap.it^$third-party
 ||heatmap.services^$third-party
 ||hellosherpa.com^$third-party
@@ -1836,6 +1842,7 @@ omni.soundestlink.com$image
 ||letterboxtrail.com^$third-party
 ||levexis.com^$third-party
 ||lexity.com^$third-party
+||lfeeder.com^$third-party
 ||lfov.net^$third-party
 ||linezing.com^$third-party
 ||linkconnector.com^$third-party
@@ -2105,6 +2112,7 @@ omni.soundestlink.com$image
 ||nstracking.com^$third-party
 ||nuconomy.com^$third-party
 ||nuggad.net^$third-party
+||nullitics.com^$third-party
 ||nuloox.com^$third-party
 ||numerino.cz^$third-party
 ||nyltx.com^$third-party
@@ -2272,6 +2280,7 @@ omni.soundestlink.com$image
 ||portfold.com^$third-party
 ||posst.co^$third-party
 ||postaffiliatepro.com^$third-party
+||posthog.com^$third-party
 ||prchecker.info^$third-party
 ||prebidmanager.com^$third-party
 ||precisioncounter.com^$third-party
@@ -5756,6 +5765,7 @@ omni.soundestlink.com$image
 ||stat.4u.pl^$third-party
 ||stat.pl^$third-party
 ||tagcdn.com^$third-party
+||trafficscanner.pl^$third-party
 ||volvelle.tech^$third-party
 ||way2traffic.com^$third-party
 ||ad5track.com^$third-party
@@ -6461,6 +6471,7 @@ omni.soundestlink.com$image
 ||clickiocdn.com/utr/
 ||clicks.dealer.com^
 ||clicks.tyuwq.com^
+||clicktalecdn.sslcs.cdngc.net^
 ||clickthru.lefbc.com^$third-party
 ||clicktime.symantec.com^$script,third-party
 ||clicktracker.iscan.nl^
@@ -6544,6 +6555,7 @@ omni.soundestlink.com$image
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.alphastream.io^
+||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
 ||collect.igodigital.com^
 ||collect.iteam-dress.com^
@@ -6850,6 +6862,7 @@ omni.soundestlink.com$image
 ||ex.co/content/monetization/legacy-pixels/
 ||exacttarget.com^$~subdocument,third-party
 ||excite.ie/?click_in=
+||exitgames.com/photon/m/?ping
 ||exitintel.com/log/$third-party
 ||expedia.com/static/default/default/scripts/siteAnalytics.js
 ||expedia.com/vaclog/
@@ -6978,6 +6991,7 @@ omni.soundestlink.com$image
 ||geoip.nekudo.com^
 ||geolocation.outreach.com^
 ||geoservice.curse.com^
+||getelevar.com/shops/*/events.js
 ||getglue.com^*/count?
 ||getkudos.me/a?$image
 ||getmetrical.com/storagesync
@@ -7050,6 +7064,7 @@ omni.soundestlink.com$image
 ||highwebmedia.com/CACHE/js/output.92c98302d256.js
 ||hit.mybestpro.com^
 ||hits.dealer.com^
+||hits.getelevar.com^
 ||hits.informer.com^
 ||hktracker.hankookilbo.com^
 ||hm.baidu.com^$third-party
@@ -7070,6 +7085,7 @@ omni.soundestlink.com$image
 ||hubspot.com/tracking/
 ||hubspot.com/usage-logging/
 ||hushforms.com/visitorid?
+||hydro-ma-proxy.akamaized.net^
 ||hypercomments.com/widget/*/analytics.html
 ||i.compendium.com^
 ||i.s-microsoft.com/wedcs/ms.js
@@ -7175,6 +7191,7 @@ omni.soundestlink.com$image
 ||klarnaservices.com/v1/osm-client-script/
 ||klarnaservices.com^$image,third-party
 ||klaviyo.com/onsite/js/sentry.
+||klaviyo.com/onsite/track-analytics?
 ||klickly.com/track
 ||kmib.co.kr/ref/
 ||kochava.com/track/$third-party
@@ -7368,6 +7385,7 @@ omni.soundestlink.com$image
 ||moco.yukata.dev/get/$image,third-party
 ||modules.ooyala.com^*/analytics-
 ||mon.domdog.io^
+||monitor-api.blackcrow.ai^
 ||monitor-frontend-collector.a.bybit-aws.com^
 ||monitor.azure.com^
 ||monitoring.iraiser.eu^
@@ -7880,6 +7898,7 @@ omni.soundestlink.com$image
 ||stats.mpthemes.net^
 ||stats.nebula.fi^
 ||stats.netbopdev.co.uk^
+||stats.netdriven.com^
 ||stats.olark.com^
 ||stats.ozwebsites.biz^
 ||stats.phoenix-widget.com^
@@ -8098,6 +8117,7 @@ omni.soundestlink.com$image
 ||track.td3x.com^
 ||track.uc.cn^
 ||track.untd.com^
+||track.uppromote.com^
 ||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
@@ -8140,6 +8160,7 @@ omni.soundestlink.com$image
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking-api.hotmart.com^
 ||tracking-api.mangopulse.net^
+||tracking-na.hawksearch.com^
 ||tracking.adalyser.com^
 ||tracking.ads.global-fashion-group.com^
 ||tracking.aegpresents.com^
@@ -8383,6 +8404,7 @@ omni.soundestlink.com$image
 ||x.babe.today^
 ||x.disq.us^
 ||x.weather.com^
+||xp2023-pix.s3.amazonaws.com^
 ||yahoo.co.jp/js/s_retargeting.js
 ||yahoo.com/sync/casale/
 ||yandex.*/data?referrer=
@@ -8885,6 +8907,7 @@ omni.soundestlink.com$image
 ||stats-dc1.frz.io^
 ||stats-factory.digitregroup.io^
 ||stats.ipmgroup.be^
+||stats.macg.io^
 ||stats.tipser.com^
 ||t.360.audion.fm^
 ||t.ofsys.com^
@@ -9096,6 +9119,7 @@ omni.soundestlink.com$image
 ||tags.op-palvelut.fi^
 ||vine.eu/track/
 ||links.boom.ge^
+||analytics.skroutz.gr^
 ||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ||walla.co.il/stats/
@@ -9322,6 +9346,7 @@ omni.soundestlink.com$image
 ||logs-partners.coupang.com^
 ||megadata.co.kr^
 ||mtag.mman.kr^
+||naver.com/mcollector/
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||recobell.io/rest/logs?
@@ -9454,6 +9479,7 @@ omni.soundestlink.com$image
 ||inforotor.net/rotor/
 ||ip.up66.ru^
 ||izhevskinfo.ru/count/
+||k50.ru/tracker/
 ||karelia.info/counter/
 ||kraken.rambler.ru^
 ||kvartirant.ru/counter.php?
@@ -9577,6 +9603,7 @@ omni.soundestlink.com$image
 ||aftonbladet.se/blogportal/view/statistics?$third-party
 ||collector.schibsted.io^
 ||eniro.com/pixel/
+||evt-api.ntm.eu^
 ||vizzit.se^$third-party
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
@@ -9774,6 +9801,7 @@ omni.soundestlink.com$image
 ||beacon.shutterfly.com^
 ||beacon.walmart.com^
 ||beacon.wikia-services.com^
+||bearblog.dev/hit/
 ||beforeitsnews.com/core/ajax/counter/count.php^
 ||behance.net/log
 ||behance.net/v2/logs
@@ -9825,6 +9853,7 @@ omni.soundestlink.com$image
 ||carsandbids.com/a/p
 ||cbc.ca/g/stats/
 ||centerblog.net/stats.js
+||ch3ngl0rd.com/hit/
 ||change.org/api-proxy/-/bandit/pull
 ||change.org/api-proxy/-/et
 ||change.org/api-proxy/-/event_tracker
@@ -9889,8 +9918,7 @@ omni.soundestlink.com$image
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
-||coomer.party/api/event
-||coomer.su/api/event
+||coomer.su/api/v1/event
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||coursehero.com/v1/data-tracking
@@ -9954,6 +9982,7 @@ omni.soundestlink.com$image
 ||dropbox.com/jse
 ||dropbox.com/log/
 ||dropbox.com/log_
+||dropbox.com/prompt/log_impression?
 ||drudgereport.com/204.png
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
@@ -9998,6 +10027,7 @@ omni.soundestlink.com$image
 ||eurogamer-uk.eurogamer.net^
 ||event-api.reverb.com^
 ||event-collector.moviesanywhere.com^
+||event.platform.tunein.com^
 ||eventlog.jackpot.de^
 ||events-prod.autolist.com^
 ||events-tracker.deliveroo.net^
@@ -10163,6 +10193,7 @@ omni.soundestlink.com$image
 ||hqq.to/cdn-cgi/trace
 ||hqq.tv/cdn-cgi/trace
 ||html5games.com/event/
+||huggingface.co/js/script.js
 ||hulkshare.com/ajax/tracker.php
 ||hulu.com/metricsconfig
 ||hypebeast.com/firebase-messaging-sw.js
@@ -10232,8 +10263,7 @@ omni.soundestlink.com$image
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
-||kemono.party/api/event
-||kemono.su/api/event
+||kemono.su/api/v1/event
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -10273,6 +10303,7 @@ omni.soundestlink.com$image
 ||littlebigsnake.com/event?
 ||livehdcams.com/api/events
 ||livehdcams.com/api/metrics
+||livejournal.com/ljcounter/
 ||livejournal.com/log?
 ||liveperson.net/hc/*/?visitor=
 ||lnkd.in/li/track
@@ -10831,6 +10862,7 @@ omni.soundestlink.com$image
 ||tradingview.com/ping
 ||treatment.grammarly.com^
 ||tredir.go.com^
+||tripadvisor.*/BALinkImpressionTracking/
 ||tripadvisor.*/CookiePingback?
 ||tripadvisor.*/GARecord^
 ||tripadvisor.*/MetricsAjax
@@ -10889,6 +10921,7 @@ omni.soundestlink.com$image
 ||video.mobile.yahoo.com/log|$xmlhttprequest
 ||views.arabnews.com^
 ||views.asura.gg^
+||views.asurascans.com^
 ||vimeo.com/ablincoln/
 ||vimeocdn.com/js_opt/logging_combined.min.js
 ||visualstudio.com/v2/track
@@ -28276,6 +28309,7 @@ arketing.indianadunes.com^
 ||hits.porn.fr^
 ||hlms.ecologie.gouv.fr^
 ||ianimes.org/img/tracker.gif
+||igen.fr/modules/statistics/statistics.php
 ||insights.decathlon.net^
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
@@ -28601,6 +28635,7 @@ arketing.indianadunes.com^
 ||2dehands.be/px/
 ||aa.hwigroup.com^$domain=hardware.info
 ||analytics.rambla.be^
+||api.rtl.nl/monitoring/
 ||bc34.wijnvoordeel.nl^
 ||bol.com/tracking/
 ||businessinsider.nl^*/tr.php
@@ -29330,6 +29365,7 @@ arketing.indianadunes.com^
 @@||c.lytics.io/api/tag/$script,domain=time.com
 @@||c.paypal.com/da/r/fb.js$script
 @@||c.webtrends-optimize.com/acs/$script,domain=tvlicensing.co.uk
+@@||canadacomputers.com/templates/ccnew/assets/js/jquery.browser-fingerprint-$~third-party
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdn-net.com/cc.js
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
@@ -29424,6 +29460,7 @@ arketing.indianadunes.com^
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||ipv4.seeip.org/jsonip$domain=empire-streaming.app
+@@||join.southerncross.co.nz/quote/_assets/js/sx/app/helpers/gtm.js
 @@||js-agent.newrelic.com^$domain=alliantcreditunion.com|giftcards.com|kapwing.com
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
@@ -29589,9 +29626,11 @@ arketing.indianadunes.com^
 @@||weightwatchers.com/optimizelyjs/$script,~third-party
 @@||where2getit.com/traderjoes/rest/clicktrack?$domain=traderjoes.com
 @@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
+@@||wpfc.ml/b.gif$image,domain=holybooks.com
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||www.ups.com/WebTracking/processInputRequest
 @@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
+@@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
 @@||zoominfo.com/c/amplitude-js$script,~third-party
 @@||amplitude.com/libs/$script,domain=elconfidencial.com|kink.com|pdfexpert.com|xe.com
@@ -29791,7 +29830,6 @@ arketing.indianadunes.com^
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
 @@||townwork.net/js/AppMeasurement.js$~third-party
 @@||treasuredata.com^$script,domain=skincare-univ.com
-@@||twicli.neocat.jp/plugins/geomap.js
 @@||twitter.com/oct.js$domain=jp.square-enix.com
 @@||type.jp/common/js/clicktag.js
 @@||ukw.jp^*/?cbk=$script,domain=system5.jp
@@ -95194,6 +95232,7 @@ affiliatescout.com
 affiliatetracking.com
 affiliatetracking.net
 affiliation-france.com
+affinity.net
 affiz.net
 afftracking.justanswer.com
 afilio.com.br
@@ -96526,6 +96565,7 @@ supertop100.com
 surf-traffic.com
 surfmusik-adserver.de
 swan-swan-goose.com
+swashapp.io
 swiftad.com
 sync.richaudience.com
 t.insigit.com
@@ -96671,6 +96711,7 @@ vericlick.com
 vertadnet.com
 verticalmass.com
 vervewireless.com
+veve.com
 vibrantmedia.com
 victory.cnn.com
 video-stats.video.google.com
@@ -96778,7 +96819,9 @@ zm232.com
 zmedia.com
 zumodemarketing.com
 zxxds.net
-zy16eoat1w.com sanalytics.spark.co.nz
+zy16eoat1w.com
+adstransparency.google.com
+moloco.com sanalytics.spark.co.nz
  analytics.metro.com.kz
  smetrics.airbank.cz
  smetrics.moneta.cz
@@ -114239,6 +114282,7 @@ acq-jp.americanexpress.com
 acro.egghead.link
 act.firstdata.com
 activity.fiverr.com
+activity-flow.vtex.com
 activity.wisepops.com
 acton.brightspeed.com
 act.wynk.in
@@ -114485,6 +114529,7 @@ analytics.shorte.st
 analytics.shorthand.com
 analytics.silktide.com
 analytics.skinit.com
+analytics.skroutz.gr
 analytics.sportfishingmag.com
 analytics.spun.com.br
 analytics-ssl.allconnect.com
@@ -115390,6 +115435,7 @@ coldbalance.com
 colgui.vidaxl.pt
 collaborate.blackboard.com
 collect.alphastream.io
+collect.bannercrowd.net
 collect.chaordicsystems.com
 collect.ezidox.com
 collect.hollisterco.com
@@ -116296,9 +116342,11 @@ event-collector.prd.data.s.joyn.de
 eventexistence.com
 event.grassicpas.com
 event.hackle.io
+eventlog.chatlead.com
 event.ortec.com
 eventos.cihac.com
 eventos.usj.es
+event.platform.tunein.com
 event.raise3d.cn
 events2.www.edenfantasys.com
 events.auth.gid.ru
@@ -116323,12 +116371,14 @@ events.prd.api.max.com
 events.ricoh.ch
 events.splunk.com
 events.squarespace.com
+events.storifyme.com
 events.tafensw.edu.au
 events.ubembed.com
 events.verticurl.com
 event.thermoscientific.cn
 evivdj.novasol.fi
 ev.stellarlabs.ai
+evt-api.ntm.eu
 eworfe.babyartikel.de
 exchangedetail.com
 exchange.happ.social
@@ -116384,6 +116434,7 @@ feedback.nslsc-csnpe.ca
 feedme.use-beez.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
+femetrics.grammarly.io
 fetch.gethuan.com
 fewjuice.com
 ffe390afd658c19dcbf707e0597b846d.de
@@ -116968,6 +117019,7 @@ hchlqx.ghbass.com
 hcmhqb.radpowerbikes.ca
 hczvwi.soldejaneiro.com
 hdxdhu.zumnorde.de
+headydegree.com
 healflowers.com
 health.atlanticgeneral.org
 healthcare.mcgladrey.com
@@ -116990,6 +117042,7 @@ hipizza.openapp.link
 hi.syllable.ai
 hit.interia.pl
 hits.cyberdrop.me
+hits.getelevar.com
 hits.letras.mus.br
 hiuplq.soccer24.com
 hlms.ecologie.gouv.fr
@@ -118797,6 +118850,7 @@ matrix.elecle.bike
 mat.socy.es
 matsubun.matsubun.com
 matt.mercadolivre.com.br
+maxepv.com
 maxtrafixx.tech
 mbelia.underarmour.co.uk
 m.bell.ca
@@ -119277,6 +119331,7 @@ moldex.actonservice.com
 m.olympia.it
 money.clerkie.io
 monicaatron.com
+monitor-api.blackcrow.ai
 monitor.azure.com
 monitor-frontend-collector.a.bybit-aws.com
 monitoring.iraiser.eu
@@ -122438,6 +122493,7 @@ static.fengkongcloud.com
 static.osalta.eu
 statistic.audima.co
 statistic.jac-systeme.de
+statisticplatform.com
 statisticsplatform.com
 statistics.streamdav.com
 stat.juridicas.com
@@ -122669,6 +122725,7 @@ stats.literaturkreis.online
 stats.localmetravel.com
 stats.lorempdf.com
 stats.lostandfound.io
+stats.macg.io
 stats.madethis.gallery
 stats.magarantie5ans.fr
 stats.makerr.market
@@ -123097,6 +123154,7 @@ te.helline.fr
 tekvox.actonservice.com
 telamoncom.actonservice.com
 telegraph.prd.api.max.com
+telemetry.vtex.com
 telem.sre.gopuff.com
 telephoneapparatus.com
 telsmith.actonservice.com
@@ -123529,6 +123587,7 @@ tracking.mtn.co.za
 tracking.my.hq.com
 tracking.myregus.com
 tracking.myspacesworks.com
+tracking-na.hawksearch.com
 tracking.nasdaq.com
 tracking.netsuite.com
 tracking.newyorklifeinvestments.com
@@ -123630,6 +123689,7 @@ track.storm.mg
 track.tappx.com
 track.tom.com
 track.unidata.ai
+track.uppromote.com
 track-v4.ipadpresence.com
 trackv-test.esearchvision.com
 track.workframe.com
@@ -124873,6 +124933,7 @@ xfobuc.serenaandlily.com
 xfyxtg.buyautoparts.com
 xgatpk.latosttravellink.se
 x.gldn.io
+xp2023-pix.s3.amazonaws.com
 xseedwealth.actonservice.com
 xuc.monteleone.fr
 xvantage.ingrammicro.com
