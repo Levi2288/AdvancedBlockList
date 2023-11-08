@@ -263,6 +263,7 @@ omni.soundestlink.com$image
 ||bydst.com^
 ||cadsuta.net^
 ||captcha-display.com^
+||catsunrunjam.com^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
 ||ciqtracking.com^
@@ -681,6 +682,7 @@ omni.soundestlink.com$image
 ||admaster.com.cn^$third-party
 ||admetric.io^$third-party
 ||adobedtm.com^$third-party,domain=~adobe.com|~costco.com
+||adoberesources.net^$third-party,domain=~adobe.com
 ||adobetag.com^$third-party
 ||adobetarget.com^$third-party
 ||adoftheyear.com^$third-party
@@ -1306,6 +1308,7 @@ omni.soundestlink.com$image
 ||ensighten.com^$third-party
 ||enticelabs.com^$third-party
 ||entravision.com^$third-party
+||envoke.com^$third-party
 ||eolcdn.com^$third-party
 ||ep4p.com^$third-party
 ||eperfectdata.com^$third-party
@@ -4022,6 +4025,7 @@ omni.soundestlink.com$image
 ||finalizeforce.com^
 ||financefear.com^
 ||firstfrogs.com^
+||firsttexture.com^
 ||flakyfeast.com^
 ||flimsycircle.com^
 ||flimsythought.com^
@@ -4417,6 +4421,7 @@ omni.soundestlink.com$image
 ||placidperson.com^
 ||plainplayground.com^
 ||plainrequest.com^
+||planebasin.com^
 ||planesorder.com^
 ||plantdigestion.com^
 ||plantpotato.com^
@@ -4769,6 +4774,7 @@ omni.soundestlink.com$image
 ||squealingturn.com^
 ||squeamishspot.com^
 ||squirrelhands.com^
+||stakingbasket.com^
 ||stakingscrew.com^
 ||stakingslope.com^
 ||stakingsmile.com^
@@ -4872,6 +4878,7 @@ omni.soundestlink.com$image
 ||tastesnake.com^
 ||tawdryson.com^
 ||tdzvm.pw^
+||tearfulglass.com^
 ||tediousticket.com^
 ||tedioustooth.com^
 ||teenytinycellar.com^
@@ -6677,6 +6684,7 @@ omni.soundestlink.com$image
 ||d2fuc4clr7gvcn.cloudfront.net/track.js
 ||d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js
 ||d2wa5sea6guof0.cloudfront.net^
+||d3vebqdofhigrn.cloudfront.net^
 ||dadi.technology^$third-party
 ||dash.getsitecontrol.com^
 ||dashboard.nowdialogue.com/api/events/
@@ -6732,6 +6740,7 @@ omni.soundestlink.com$image
 ||dmcdn.net/behavior/
 ||dmdentertainment.com^*/video_debug.gif?
 ||dmdt.io/collect
+||dnnapi.com/analytics/
 ||domodomain.com^*/ddsense.aspx?
 ||doppiocdn.com/healthcheck
 ||doppiocdn.org/healthcheck
@@ -8508,6 +8517,7 @@ omni.soundestlink.com$image
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
+||d2zue0pgsssbc6.cloudfront.net^
 ||d31bfnnwekbny6.cloudfront.net/customers/
 ||d31y97ze264gaa.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
@@ -9837,6 +9847,7 @@ omni.soundestlink.com$image
 ||c.paypal.com^$script
 ||c.thredup.com^
 ||c.vogue.com^
+||c.wired.com^
 ||c.wort-suche.com^
 ||c.xbox.com^
 ||c.ypcdn.com^$domain=yellowpages.com
@@ -10223,6 +10234,7 @@ omni.soundestlink.com$image
 ||ingest.make.rvohealth.com^
 ||ingress.linktr.ee^
 ||inq.com/tagserver/logging/logline
+||insideevs.com/analytics.js
 ||instagram.com/ajax/bz
 ||instructables.com/counter
 ||intent.cmo.com.au^
@@ -10533,6 +10545,7 @@ omni.soundestlink.com$image
 ||pxl.indeed.com^
 ||qc.newyorker.com^
 ||qc.vogue.com^
+||qc.wired.com^
 ||qm.redbull.com^
 ||quibids.com/marketing/pixels/
 ||quickmeme.com/tracker/
@@ -10943,6 +10956,7 @@ omni.soundestlink.com$image
 ||walmart.ca/api/home-page/logger
 ||walmart.ca/api/landing-page/beacon-logger
 ||walmartimages.com/dfw/4ff9c6c9-d9a0/$domain=walmart.com
+||wattpad.com/js/tracker/app.
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
 ||web.whatsapp.com/wam
@@ -29903,6 +29917,7 @@ arketing.indianadunes.com^
 @@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
 @@||elconfidencial.com^*/AnalyticsEvent.js
 @@||elconfidencial.com^*/EventTracker.js
+@@||groupbycloud.com/gb-tracker-client-3.min.js$domain=officedepot.co.cr
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
 @@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
