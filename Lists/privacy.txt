@@ -7,7 +7,9 @@
 .com/dc.gif?
 .com/g.gif?
 .com/log/?
+.com/stats.aspx?
 .com/track?$~object
+.com/vtrack|
 .content_tracking.js
 .de/h.gif?
 .de/l.gif?
@@ -3884,6 +3886,7 @@ omni.soundestlink.com$image
 ||delicatecascade.com^
 ||delicateducks.com^
 ||delightfulhour.com^
+||dependenttrip.com^
 ||desertedbreath.com^
 ||desertedrat.com^
 ||desirebucket.com^
@@ -4934,6 +4937,7 @@ omni.soundestlink.com$image
 ||torpidtongue.com^
 ||torpidtoothpaste.com^
 ||toweringrun.com^
+||tradetooth.com^
 ||tranquilside.com^
 ||translateoatmeal.com^
 ||trappush.com^
@@ -10901,7 +10905,6 @@ omni.soundestlink.com$image
 ||uber.com/_events
 ||uber.com/_track
 ||uber.com/careers/apply/_log
-||ubereats.com/_events
 ||ubereats.com/_track
 ||ubuyanalytics.ubuy.com^
 ||ucoz.com/stat/
