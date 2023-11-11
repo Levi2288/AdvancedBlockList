@@ -9,7 +9,6 @@
 .com/log/?
 .com/stats.aspx?
 .com/track?$~object
-.com/vtrack|
 .content_tracking.js
 .de/h.gif?
 .de/l.gif?
@@ -88,6 +87,7 @@
 ?statify_referrer=
 ?type=page&event=
 ?type=pageview&
+.com/vtrack
 .acemlna.com/Prod/link-tracker?$image
 .acemlnb.com/Prod/link-tracker?$image
 .alcmpn.com/
@@ -3607,6 +3607,7 @@ omni.soundestlink.com$image
 ||awesomeattack.com^
 ||awzbijw.com^
 ||axiomaticalley.com^
+||axiomaticanger.com^
 ||azuremystique.com^
 ||badgeboat.com^
 ||bagbeam.com^
@@ -3885,6 +3886,7 @@ omni.soundestlink.com$image
 ||delegatediscussion.com^
 ||delicatecascade.com^
 ||delicateducks.com^
+||deliciousducks.com^
 ||delightfulhour.com^
 ||dependenttrip.com^
 ||desertedbreath.com^
@@ -4029,6 +4031,7 @@ omni.soundestlink.com$image
 ||firstfrogs.com^
 ||firsttexture.com^
 ||flakyfeast.com^
+||flameuncle.com^
 ||flimsycircle.com^
 ||flimsythought.com^
 ||flockflame.com^
@@ -4388,6 +4391,7 @@ omni.soundestlink.com$image
 ||panickypancake.com^
 ||panoramicbutter.com^
 ||paradoxfactor.com^
+||parallelbulb.com^
 ||parcelcreature.com^
 ||parchedangle.com^
 ||parchedsofa.com^
@@ -4520,6 +4524,7 @@ omni.soundestlink.com$image
 ||readingopera.com^
 ||readymoon.com^
 ||readysnails.com^
+||realizedoor.com^
 ||realizerecess.com^
 ||realizevacation.com^
 ||rebelhen.com^
@@ -4553,6 +4558,7 @@ omni.soundestlink.com$image
 ||rhetoricalveil.com^
 ||rhymezebra.com^
 ||rhythmmoney.com^
+||rhythmrule.com^
 ||richreceipt.com^
 ||richstring.com^
 ||righteouscrayon.com^
@@ -115890,6 +115896,7 @@ demo.gomi.do
 demojobsapp.epoise.com
 de.mywd.com
 depeliculah.indonesiya.com
+dependenttrip.com
 descargar.billeteramango.com
 de.sharpmarketing.eu
 des.me.coact.org.au
@@ -115929,7 +115936,6 @@ dialogue.mazda.gr
 dialogue.mazda.rs
 diana.hasdukmerahputih.com
 differentcoat.com
-digianalytics.airtel.in
 digi-ping.com
 digital.acutx.org
 digital.aptaracorp.com
@@ -123731,6 +123737,7 @@ track.workframe.com
 tr.actiflip.devisdirect.com
 tr.actualites.reseau-lcd.org
 tr.actu.reunica.com
+tradetooth.com
 tr.afpa.espmp-cufr.net
 tr.ag2rlamondiale.fr
 tr.agefiseminaires.com
