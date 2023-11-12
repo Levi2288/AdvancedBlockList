@@ -260,6 +260,7 @@ omni.soundestlink.com$image
 ||briskpelican.io^
 ||brontops.com^
 ||brsrvr.com^
+||btdmp.com^
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
@@ -2650,6 +2651,7 @@ omni.soundestlink.com$image
 ||sol-data.com^$third-party
 ||solosegment.com^$third-party
 ||sometrics.com^$third-party
+||sooqr.com^$third-party
 ||sophi.io^$third-party
 ||sophus3.com^$third-party
 ||soska.us^$third-party
@@ -6612,6 +6614,7 @@ omni.soundestlink.com$image
 ||consensu.org/geoip
 ||consentmanager.net/delivery/info/$third-party
 ||console.uxlens.com^
+||constellation.networknmedia.com/cdn-cgi/trace
 ||contactatonce.com/GetAgentStatusImage.aspx?
 ||contactatonce.com/VisitorContext.aspx?
 ||container.pepperjam.com^$third-party
@@ -9568,6 +9571,7 @@ omni.soundestlink.com$image
 ||wl-analytics.tsp.li^
 ||xn--e1aaipcdgnfsn.su^*/counter.php
 ||yandeg.ru/count/
+||yandex.net/expjs/latest/exp.js
 ||yandex.ru/metrika/
 ||zahodi-ka.ru/ic/index_cnt.fcgi?
 ||zahodi-ka.ru^*/schet.cgi?
@@ -10984,6 +10988,7 @@ omni.soundestlink.com$image
 ||wikimonde.com/matom.js
 ||wikipedia.org/beacon/
 ||windy.com/sedlina/ga/
+||wish.com/api/analytics/
 ||wiztube.xyz/cdn-cgi/trace
 ||wnyc.org/analytics/
 ||wolfram.com/common/javascript/analytics.js
@@ -29100,6 +29105,7 @@ arketing.indianadunes.com^
 ||counter.drom.ru^
 ||counter.sibnet.ru^
 ||cpa.hh.ru^
+||credistory.ru/api/v1/LiveMetrics/
 ||cs42.pikabu.ru^
 ||cvt1.sibnet.ru^
 ||data.glamour.ru^
@@ -29610,6 +29616,7 @@ arketing.indianadunes.com^
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.cloud.coveo.com/coveo.analytics.js/$domain=cabelas.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
+@@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.sports.bellmedia.ca^$domain=tsn.ca
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
@@ -29774,6 +29781,7 @@ arketing.indianadunes.com^
 @@||3voor12.vpro.nl^*/streamsense.min.js$~third-party
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||marketingautomation.services^$script,domain=leeuwerik.nl
+@@||tag.aticdn.net/piano-analytics.js$script,domain=boerzoektvrouw.kro-ncrv.nl
 @@||analytics-sdk.yle.fi/yle-analytics.min.js$~third-party
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 @@||amazonaws.com/static.madlan.co.il/*/heatmap.json?$xmlhttprequest
