@@ -116419,6 +116419,7 @@ events.nuance.com
 events.paramount.tech
 event.spektare.com
 events.prd.api.max.com
+eventsproxy.gargantuan.futureplc.com
 events.ricoh.ch
 events.splunk.com
 events.squarespace.com
@@ -118081,7 +118082,6 @@ link.mangoapp.com.py
 link.mark.app
 link.mbtihell.com
 link.medibuddy.app
-link.medium.com
 link.metronaut.app
 link.meumulti.com.br
 link-mind.alan.com
@@ -120191,6 +120191,7 @@ qygxrh.vandykes.com
 qzu5.carrefour-banque.fr
 racemanager-app.sapsailing.com
 rac.ruutu.fi
+radiateprose.com
 radiometer.actonservice.com
 rainyzinc.com
 rake.11st.co.kr
@@ -124569,6 +124570,7 @@ vercel-vitals.axiom.co
 verify.spin.app
 verify.test.spin.app
 verizon-branch.locationlabs.com
+vfghe.com
 vfgte.com
 vfmahn.slevomat.cz
 vfo4.carrefour-banque.fr
