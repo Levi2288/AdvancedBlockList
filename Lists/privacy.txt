@@ -555,6 +555,7 @@ omni.soundestlink.com$image
 ||ustat.info^
 ||venture-365-inspired.com^
 ||venusrevival.com^
+||vfghe.com^
 ||vfgte.com^
 ||videoplayerhub.com^
 ||vkanalytics.net^
@@ -1200,6 +1201,7 @@ omni.soundestlink.com$image
 ||dc-storm.com^$third-party
 ||dcmn.com^$third-party
 ||ddm.io^$third-party
+||debugbear.com^$third-party
 ||decdna.net^$third-party
 ||decibelinsight.net^$third-party
 ||decideinteractive.com^$third-party
@@ -6870,6 +6872,7 @@ omni.soundestlink.com$image
 ||events.ubembed.com^
 ||events.whisk.com^
 ||events.yourcx.io^
+||eventsproxy.gargantuan.futureplc.com^
 ||eveonline.com/redir.asp$third-party
 ||evergage.com/beacon/
 ||everyaction.com/v1/Track/
@@ -8281,6 +8284,7 @@ omni.soundestlink.com$image
 ||twitter.com/jot.html
 ||twitter.com/oct.js
 ||twitter.com/scribe/
+||typeform.com/*/insights/events^
 ||uadblocker.com/pixel1.php?$third-party
 ||uc.cn/collect?
 ||ucounter.ucoz.net^
@@ -27160,7 +27164,6 @@ arketing.indianadunes.com^
 ||link.marketing.churchomeglobal.org^
 ||link.mbtihell.com^
 ||link.medibuddy.app^
-||link.medium.com^
 ||link.metronaut.app^
 ||link.meumulti.com.br^
 ||link.mindsetapp.com^
