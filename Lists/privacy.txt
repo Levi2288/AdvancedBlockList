@@ -242,6 +242,7 @@ omni.soundestlink.com$image
 ||apeagle.io^
 ||apenterprise.io^
 ||apxl.io^
+||arttrk.com^
 ||as3.io^
 ||awmonitor.com^
 ||ayc0zsm69431gfebd.info^
@@ -492,6 +493,7 @@ omni.soundestlink.com$image
 ||rlcdn.com^
 ||robotflowermobile.com^
 ||rtactivate.com^
+||rumt-sg.com^
 ||s-onetag.com^
 ||salsify-ecdn.com^
 ||sbgsodufuosmmvsdf.info^
@@ -1388,6 +1390,7 @@ omni.soundestlink.com$image
 ||fiksu.com^$third-party
 ||filitrac.com^$third-party
 ||finalid.com^$third-party
+||finalyticsdata.com^$third-party
 ||find-ip-address.org^$third-party
 ||fireworkanalytics.com^$third-party
 ||firstpromoter.com^$third-party
@@ -3219,7 +3222,6 @@ omni.soundestlink.com$image
 ||master-push.net^$third-party
 ||misrepush.com^$third-party
 ||moengage.com^$third-party
-||mp3vizor.com^$third-party
 ||mypush.online^$third-party
 ||najva.com^$third-party
 ||nativesubscribe.pro^$third-party
@@ -4472,6 +4474,7 @@ omni.soundestlink.com$image
 ||pricklyjourney.com^
 ||pricklypies.com^
 ||pricklyplastic.com^
+||pricklypollution.com^
 ||printerplasma.com^
 ||producecopy.com^
 ||producepickle.com^
@@ -7265,6 +7268,7 @@ omni.soundestlink.com$image
 ||linkwithin.com/pixel.png
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
+||listen.audiohook.com/*/pixel.png
 ||listrakbi.com/activity/
 ||listrakbi.com/api/ActivityEvents/
 ||lit.connatix.com^
@@ -7998,6 +8002,7 @@ omni.soundestlink.com$image
 ||t.clic2buy.com^
 ||t.dgm-au.com^$third-party
 ||t.enuygun.com^
+||t.ghostboard.io^
 ||t.id.net/log
 ||t.irtyc.com^
 ||t.jobsyn.org^
@@ -9712,12 +9717,14 @@ omni.soundestlink.com$image
 ||aerlingus.com/ahktqsewxjhguuxe.js
 ||affiliates.vpn.ht^
 ||agoda.net/v2/track
+||aim.cloudflare.com/__log
 ||airtable.com/internal/
 ||airtel.in/analytics/pixel?
 ||aiv-delivery.net/Events/
 ||aiv-delivery.net/v1/ReportEvent
 ||akamaihd.net/paay6hyr.gif?
 ||alb.reddit.com^
+||algolia.net/1/isalive?
 ||alicdn.com/AWSC/et/
 ||aliexpress.com/ts?
 ||alipay.com/web/bi.do?ref=
@@ -9987,6 +9994,7 @@ omni.soundestlink.com$image
 ||delta.com/datacollect
 ||deovr.com/api_logs/
 ||dev.to/fallback_activity_recorder
+||developer.mozilla.org/submit/
 ||dhl.com/g8Dj6P8TAg/
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
 ||digg.com/library/tracker.js
@@ -10015,6 +10023,7 @@ omni.soundestlink.com$image
 ||dtag.breadfinancial.com^
 ||dtksoft.com/ajax/log^
 ||dubz.co/analytics/
+||dubz.live/analytics/
 ||duckduckgo.com/t/
 ||dumpster.cam4.com^
 ||e.used.ca/event
@@ -10220,6 +10229,7 @@ omni.soundestlink.com$image
 ||hqq.to/cdn-cgi/trace
 ||hqq.tv/cdn-cgi/trace
 ||html5games.com/event/
+||htrace.wetvinfo.com^
 ||huggingface.co/js/script.js
 ||hulkshare.com/ajax/tracker.php
 ||hulu.com/metricsconfig
@@ -10811,6 +10821,7 @@ omni.soundestlink.com$image
 ||telegraph.prd.api.max.com^
 ||telem.sre.gopuff.com^
 ||telemetry.adobe.io^
+||telemetry.algolia.com^
 ||telemetry.api.playstation.com^
 ||telemetry.firez.one^
 ||telemetry.tradingview.com^
@@ -29834,6 +29845,7 @@ arketing.indianadunes.com^
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
 @@||ev.tpocdm.com^$xmlhttprequest,domain=wowma.jp
 @@||gamerch.com/s3-assets/library/js/fingerprint2.min.js?$script,~third-party
+@@||geolocation-db.com/json/$domain=admanager.line.biz
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
 @@||googletagservices.com/tag/js/gpt.js$domain=fukuishimbun.co.jp
