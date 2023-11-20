@@ -199,6 +199,7 @@
 .zippingcare.com/beacon/$image
 ://2ip.*/member_photo/$third-party
 ://email.*/e/o/
+://email.*/o/$image
 ://parcel-api.delivery-status.*/open/$image
 ://t.order.*/r/?id=$image
 img.promio-connect.com$image
@@ -4068,6 +4069,7 @@ omni.soundestlink.com$image
 ||fumblingform.com^
 ||fumblingselection.com^
 ||functionalcrown.com^
+||functionalfeather.com^
 ||funnyairplane.com^
 ||furryfork.com^
 ||furryhorses.com^
@@ -29384,6 +29386,7 @@ arketing.indianadunes.com^
 @@||answers.ros.org/m/default/media/images/$image,~third-party
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api-js.datadome.co/js/$domain=sso.garena.com
+@@||api-mg2.db-ip.com^$xmlhttprequest,domain=journal-news.com
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
 @@||api.enthusiastgaming.net^$xmlhttprequest,domain=diep.io
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
@@ -116195,6 +116198,7 @@ edge.staging.fullstory.com
 edge.sterlingcapital.com
 edge.teletoonplus.ca
 edge.truist.com
+ed-sys.net
 educationlink.clear360.com
 education.ricoh.ch
 education.ricoh.fr
@@ -116360,6 +116364,7 @@ epcdko.forevernew.com.au
 epimetheus.navigator.web.de
 epoisepreptest.epoise.com
 ep.regis.edu
+epsilondelta.co
 eq-beacon.stream.co.jp
 eqclicks.movember.com
 eqingl.ivet.bg
@@ -119665,6 +119670,7 @@ oikckw.scarosso.com
 oikwky.wa-jp.com
 oit4.destinia.com.br
 oj.brothercloud.com
+oldfashionedoffer.com
 olroyk.ardene.com
 om.abritel.fr
 omadi.actonservice.com
@@ -123221,6 +123227,7 @@ t.cubuffs.com
 td.airdroid.com
 t.dawsoncreekeventscentre.com
 tdbnom.madeleine.de
+t.deepnote.com
 td.emails.domain.com.au
 tds1.vivabox.be
 teamhodges.hodgesualumniandfriends.com
@@ -124361,6 +124368,7 @@ tr.think.lvmh.fr
 tr.tns.harmonie-mutuelle.fr
 tr.tourisme.visit-lanarbonnaise.com
 tr.tpe.harmonie-mutuelle.fr
+truculentrate.com
 truefaced.actonservice.com
 tr.uk.katun.com
 tr.unaoffertaalgiorno.com
