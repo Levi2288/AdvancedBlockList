@@ -28335,6 +28335,7 @@ arketing.indianadunes.com^
 ||aliasdmc.fr/js/general_sts.js
 ||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
+||analytics.clubic.com^
 ||api.odysee.com/locale/get
 ||api.tacotax.fr/v2/amplitude_trackers
 ||batiactu.com/cap_
@@ -28342,6 +28343,7 @@ arketing.indianadunes.com^
 ||boingtv.fr/track_view
 ||cdtm.cdiscount.com^
 ||cesu.urssaf.fr/clm10
+||clubic.com/tview
 ||compteur.developpez.com^
 ||courrierinternational.com/*&vtag=
 ||dd.leboncoin.fr^
@@ -28653,6 +28655,7 @@ arketing.indianadunes.com^
 ||wanmei.com/public/js/stat.js
 ||weather.com.cn/a1.js
 ||webstat.kuwo.cn^
+||weibo.cn/h5logs/
 ||weibo.com/aj/log/
 ||weiyun.com/cgi-bin/tianshu_report
 ||weiyun.com/proxy/domain/boss.qzone.qq.com/fcg-bin/fcg_rep_strategy?
@@ -116633,6 +116636,7 @@ ftwo-receiver.autohome.com.cn
 fufbgj.pazzo.com.tw
 fullerton-app.hotdoc.com.au
 fulmar.net.anwalt.de
+functionalfeather.com
 fun.indonesiya.com
 funnelserv.systems
 fuooms.aetrex.com
@@ -119333,6 +119337,7 @@ microfocus.qm-g.com
 microlearning.att.com
 micro.workplaceinvesting.fidelity.com
 midas.chase.com
+mi.grubhub.com
 mil.millsproducts.com
 milsoft.actonservice.com
 minerva.healthcentral.com
@@ -123194,6 +123199,7 @@ t.antalis.pt
 t.antalis.ro
 tao.barstoolsports.com
 tap.carling.com
+taplytics-umami.grubhub.com
 target.connect.nicklaushealth.org
 targetemsecure.blob.core.windows.net
 targeting.focas.jp
