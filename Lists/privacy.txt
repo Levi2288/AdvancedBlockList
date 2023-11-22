@@ -2986,6 +2986,7 @@ omni.soundestlink.com$image
 ||verticalsearchworks.com^$third-party
 ||vertster.com^$third-party
 ||video.oms.eu^$third-party
+||videoamp.com^$third-party
 ||videos.oms.eu^$third-party
 ||videostat.com^$third-party
 ||vilynx.com^$third-party
@@ -10420,6 +10421,7 @@ omni.soundestlink.com$image
 ||mewe.com/ubk4jrxn.js
 ||mi.academy.com/p/js/1.js
 ||mi.dickssportinggoods.com/p/js/1.js
+||mi.grubhub.com^
 ||miao.baidu.com^
 ||midas.chase.com^
 ||mixpanel-proxy.ted.com^
@@ -10819,6 +10821,7 @@ omni.soundestlink.com$image
 ||tapeblocker.com/stat/
 ||tapewithadblock.com/stat/
 ||tapewithadblock.org/stat/
+||taplytics-umami.grubhub.com^
 ||target.nationwide.com^
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
@@ -11209,6 +11212,7 @@ omni.soundestlink.com$image
 ||samsclub.com/px/PXsLC3j22K/init.js
 ||seattlepi.com/413gkwMT/init.js
 ||seekingalpha.com/xgCxM9By/init.js
+||sensor.grubhub.com/O97ybH4J/init.js
 ||sfgate.com/413gkwMT/init.js
 ||shiekh.com/iJ55yhVs/init.js
 ||shoebacca.com/YaRJwC0q/init.js
@@ -29805,6 +29809,7 @@ arketing.indianadunes.com^
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
+@@||spoc.sydtrafik.dk/CherwellPortal/dist/app/common/analytics/Analytics.js$~third-party
 @@||3voor12.vpro.nl^*/streamsense.min.js$~third-party
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||marketingautomation.services^$script,domain=leeuwerik.nl
