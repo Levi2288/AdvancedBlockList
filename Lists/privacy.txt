@@ -3530,9 +3530,11 @@ omni.soundestlink.com$image
 ||absurdwater.com^
 ||acceptableauthority.com^
 ||achieverknee.com^
+||acidicstraw.com^
 ||acidpigs.com^
 ||acousticsapparel.com^
 ||acquireattention.com^
+||acridangle.com^
 ||acridtwist.com^
 ||actoramusement.com^
 ||actuallysheep.com^
@@ -3547,6 +3549,7 @@ omni.soundestlink.com$image
 ||advertisementafterthought.com^
 ||afraidlanguage.com^
 ||aftermathbrother.com^
+||agreeablearch.com^
 ||agreeablestew.com^
 ||agreeabletouch.com^
 ||aheadday.com^
@@ -3593,6 +3596,7 @@ omni.soundestlink.com$image
 ||arithmeticadjustment.com^
 ||arizonapuzzle.com^
 ||aromamirror.com^
+||aspiringapples.com^
 ||aspiringattempt.com^
 ||astonishingfood.com^
 ||attractionapples.com^
@@ -3605,6 +3609,7 @@ omni.soundestlink.com$image
 ||automaticairplane.com^
 ||automaticflock.com^
 ||automaticside.com^
+||automaticturkey.com^
 ||availablerest.com^
 ||avalonalbum.com^
 ||averageactivity.com^
@@ -3619,11 +3624,13 @@ omni.soundestlink.com$image
 ||azuremystique.com^
 ||badgeboat.com^
 ||bagbeam.com^
+||baitbaseball.com^
 ||balancemailbox.com^
 ||balloonbelieve.com^
 ||balloonbit.com^
 ||balloontexture.com^
 ||bandborder.com^
+||barbarousbase.com^
 ||barbarousnerve.com^
 ||baseballbone.com^
 ||basketballbelieve.com^
@@ -3747,6 +3754,7 @@ omni.soundestlink.com$image
 ||cdnral.com^
 ||ceciliavenus.com^
 ||celestialspectra.com^
+||chaireggnog.com^
 ||chairscrack.com^
 ||chairsdonkey.com^
 ||chalkoil.com^
@@ -3781,6 +3789,7 @@ omni.soundestlink.com$image
 ||cloisteredcurve.com^
 ||cloisteredhydrant.com^
 ||closedcows.com^
+||closefriction.com^
 ||cloudsdestruction.com^
 ||clovercabbage.com^
 ||clumsycar.com^
@@ -3840,6 +3849,7 @@ omni.soundestlink.com$image
 ||cratecamera.com^
 ||crawlclocks.com^
 ||crayoncompetition.com^
+||creatorcherry.com^
 ||creditcreature.com^
 ||crimsonmeadow.com^
 ||critictruck.com^
@@ -3998,6 +4008,7 @@ omni.soundestlink.com$image
 ||enormousearth.com^
 ||enormousfoot.com^
 ||entertainingeyes.com^
+||entertainskin.com^
 ||enthusiasticdad.com^
 ||enthusiasticring.com^
 ||enviousshape.com^
@@ -4016,6 +4027,7 @@ omni.soundestlink.com$image
 ||expansioneggnog.com^
 ||experienceeggs.com^
 ||extractobservation.com^
+||exuberantedge.com^
 ||exuberanteyes.com^
 ||exuberantsoda.com^
 ||exultantdrop.com^
@@ -4025,6 +4037,7 @@ omni.soundestlink.com$image
 ||fadewaves.com^
 ||faintflag.com^
 ||fairfeeling.com^
+||fairiesbranch.com^
 ||fallaciousfifth.com^
 ||falsefeet.com^
 ||falseframe.com^
@@ -4072,6 +4085,7 @@ omni.soundestlink.com$image
 ||foregoingfowl.com^
 ||foretellfifth.com^
 ||forgetfulflowers.com^
+||forgetfulsnail.com^
 ||fortunatemark.com^
 ||fourarithmetic.com^
 ||fourfork.com^
@@ -4108,6 +4122,7 @@ omni.soundestlink.com$image
 ||gammamaximum.com^
 ||gaudybeginner.com^
 ||generalprose.com^
+||gentlemoonlight.com^
 ||giddycoat.com^
 ||giftedglue.com^
 ||giftedthumb.com^
@@ -4126,6 +4141,7 @@ omni.soundestlink.com$image
 ||gorgeousedge.com^
 ||gorgeousground.com^
 ||gracefulsock.com^
+||grainmass.com^
 ||grandfatherguitar.com^
 ||grandiosefire.com^
 ||grandioseguide.com^
@@ -4149,24 +4165,29 @@ omni.soundestlink.com$image
 ||guiltlessbasketball.com^
 ||guitargrandmother.com^
 ||gulliblecamp.com^
+||gulliblegrip.com^
 ||gullibleguitar.com^
 ||h78xb.pw^
 ||habitualhumor.com^
+||hallowedinvention.com^
 ||haltingbadge.com^
 ||haltingdivision.com^
 ||haltinggold.com^
 ||hammerhearing.com^
 ||handleteeth.com^
+||handnorth.com^
 ||handsomehose.com^
 ||handsomeindustry.com^
 ||handsomelyhealth.com^
 ||handsomeyam.com^
 ||handyfield.com^
 ||handyfireman.com^
+||haplessland.com^
 ||happenhistory.com^
 ||harborcaption.com^
 ||harborcub.com^
 ||hardtofindmilk.com^
+||harmonywing.com^
 ||hatefulrequest.com^
 ||hauntlist.com^
 ||headydegree.com^
@@ -4197,6 +4218,7 @@ omni.soundestlink.com$image
 ||hoplaugh.com^
 ||hosenews.com^
 ||hospitablehall.com^
+||hospitablehat.com^
 ||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
@@ -4209,6 +4231,7 @@ omni.soundestlink.com$image
 ||i9w8p.pw^
 ||icebergindigo.com^
 ||illfatedsnail.com^
+||illinvention.com^
 ||illustriousoatmeal.com^
 ||immensehoney.com^
 ||imminentshake.com^
@@ -4279,6 +4302,7 @@ omni.soundestlink.com$image
 ||levelbehavior.com^
 ||liftedknowledge.com^
 ||lightcushion.com^
+||lightenafterthought.com^
 ||literatelight.com^
 ||livelumber.com^
 ||livelylaugh.com^
@@ -4333,9 +4357,11 @@ omni.soundestlink.com$image
 ||mediatescarf.com^
 ||medusasailor.com^
 ||mellowbike.com^
+||mellowmailbox.com^
 ||melodicminute.com^
 ||meltmilk.com^
 ||memopilot.com^
+||memorizeline.com^
 ||memorizeneck.com^
 ||memorycobweb.com^
 ||mentorsticks.com^
@@ -4370,6 +4396,7 @@ omni.soundestlink.com$image
 ||mundanepollution.com^
 ||murkymeeting.com^
 ||muteknife.com^
+||mutemailbox.com^
 ||muterange.com^
 ||mysteriousmonth.com^
 ||nappyattack.com^
@@ -4660,6 +4687,7 @@ omni.soundestlink.com$image
 ||scaredsong.com^
 ||scaredstory.com^
 ||scaredswing.com^
+||scarefowl.com^
 ||scarfsmash.com^
 ||scarfthought.com^
 ||scatteredheat.com^
@@ -4694,6 +4722,7 @@ omni.soundestlink.com$image
 ||sensorsmile.com^
 ||separateshow.com^
 ||separatesilver.com^
+||separatesort.com^
 ||seraphichorizon.com^
 ||serendipityecho.com^
 ||serenecascade.com^
@@ -4708,6 +4737,7 @@ omni.soundestlink.com$image
 ||shakytaste.com^
 ||shallowblade.com^
 ||shallowsmile.com^
+||shapecomb.com^
 ||sharppatch.com^
 ||sheltercellar.com^
 ||shesubscriptions.com^
@@ -4826,6 +4856,7 @@ omni.soundestlink.com$image
 ||spottedsnow.com^
 ||springaftermath.com^
 ||springsister.com^
+||springsnails.com^
 ||spuriousbase.com^
 ||spurioussquirrel.com^
 ||spurioussteam.com^
@@ -4897,6 +4928,7 @@ omni.soundestlink.com$image
 ||stupendoussnow.com^
 ||stupidscene.com^
 ||stupidsnake.com^
+||sturdysnail.com^
 ||subsequentsand.com^
 ||subsequentstew.com^
 ||subsequentswim.com^
@@ -4936,6 +4968,7 @@ omni.soundestlink.com$image
 ||talltouch.com^
 ||tangibleteam.com^
 ||tangyamount.com^
+||tangycover.com^
 ||tarttendency.com^
 ||tastefulsongs.com^
 ||tastelesstoes.com^
@@ -5038,6 +5071,7 @@ omni.soundestlink.com$image
 ||uncoveredexpert.com^
 ||understoodocean.com^
 ||unequalbrake.com^
+||unequaltrail.com^
 ||unevenstring.com^
 ||unifyaddition.com^
 ||uninterestedquarter.com^
@@ -5050,6 +5084,7 @@ omni.soundestlink.com$image
 ||unusedstone.com^
 ||unusualtitle.com^
 ||unwieldyhealth.com^
+||unwieldyimpulse.com^
 ||unwieldyplastic.com^
 ||unwrittenspot.com^
 ||uppitytime.com^
@@ -5091,6 +5126,7 @@ omni.soundestlink.com$image
 ||wellgroomedbat.com^
 ||wellgroomedhydrant.com^
 ||wellmadefrog.com^
+||whimsicalgrove.com^
 ||whineattempt.com^
 ||whirlwealth.com^
 ||whiskyqueue.com^
@@ -6343,6 +6379,7 @@ omni.soundestlink.com$image
 ||appspot.com/events.js
 ||appspot.com/stats?
 ||appspot.com/take?
+||appspot.com/track-analytics-event
 ||arc.pub/clavis/training/events
 ||arclk.net/trax?
 ||arcpublishing.com/beacon
@@ -10088,6 +10125,7 @@ omni.soundestlink.com$image
 ||ebay.com/delstats/
 ||ebay.com/gh/dfpsvc?
 ||ebay.com^*/customer_image_service?
+||ebaystatic.com^*tracking/configuration.js
 ||ec.thredup.com^
 ||edge.staging.fullstory.com^
 ||edisound.com/api/p/stats
@@ -11214,6 +11252,7 @@ omni.soundestlink.com$image
 ||zion.qbo.intuit.com^
 ||anthropologie.com/XgWM9nuH/init.js
 ||apartmenttherapy.com/jAYekY18/init.js
+||asda.com/px/PX1UGLZTko/init.js
 ||auctionzip.com/eKtvxkQ2/init.js
 ||b.px-cdn.net/api/v1/PXrf8vapwA/
 ||bathandbodyworks.com/lsXlyYa5/init.js
@@ -11230,6 +11269,7 @@ omni.soundestlink.com$image
 ||carters.com/0F3091f3/init.js
 ||couchsurfing.com/bEcn7fQX/init.js
 ||crunchbase.com/rw7M6iAV/init.js
+||discount.hk-hotel.com/QUkd4lO9/init.js
 ||drupal.org/VnPBBfwe/init.js
 ||fiverr.com/px/client/PXK3bezZfO/main.min.js
 ||flixcart.com/px/gNtTli3A/init.js
@@ -11260,6 +11300,7 @@ omni.soundestlink.com$image
 ||priceline.com/9aTjSd0n/init.js
 ||ralphlauren.com^*/init.js
 ||realtor.com/rdc_user_check/init.js
+||sams.com.mx/px/PX87wpO5aK/init.js
 ||samsclub.com/px/PXsLC3j22K/init.js
 ||seattlepi.com/413gkwMT/init.js
 ||seekingalpha.com/xgCxM9By/init.js
@@ -11280,7 +11321,11 @@ omni.soundestlink.com$image
 ||tumi.com/4i06uv8M/init.js
 ||walmart.ca/px/PXnp9B16Cq/init.js
 ||walmart.com/px/PXu6b0qd2S/init.js
+||walmartcanada.ca/px/PXcfrcFEfA/init.js
+||walmartcareerswithamission.com/px/PXcfrcFEfA/init.js
+||walmartethics.com/px/PXcfrcFEfA/init.js
 ||walmartpetrx.com/1Ct9c6G3/init.js
+||walmartrealty.com/px/PXcfrcFEfA/init.js
 ||wfla.com/CvbtpUrj/init.js
 ||whois.com/js/gtmDataLayer.js
 ||wine-searcher.com/K6S8okp3/init.js
@@ -29478,6 +29523,7 @@ arketing.indianadunes.com^
 @@||canadacomputers.com/templates/ccnew/assets/js/jquery.browser-fingerprint-$~third-party
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdn-net.com/cc.js
+@@||cdn.cquotient.com/js/$domain=fender.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||cdn.mxpnl.com/libs/$script,domain=get.pumpkin.care
@@ -29530,6 +29576,7 @@ arketing.indianadunes.com^
 @@||driverfix.com^*/index_src.php?tracking=$~third-party
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
+@@||e.cquotient.com/recs/$script,domain=fender.com
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js$script,~third-party
@@ -29695,7 +29742,7 @@ arketing.indianadunes.com^
 @@||spark.co.nz/content/*/utag.sync.js$domain=skinny.co.nz
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
-@@||src.litix.io/videojs/*/videojs-mux.js$domain=plus.nasa.gov
+@@||src.litix.io/videojs/*/videojs-mux.js
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
 @@||startribune.com/analytics-assets/sitecatalyst/appmeasurement.js$~third-party
 @@||statcounter.com/css/packed/statcounter-$stylesheet,~third-party
@@ -116535,6 +116582,7 @@ events.ubembed.com
 events.verticurl.com
 event.thermoscientific.cn
 evivdj.novasol.fi
+evs.icy-lake.kickstarter.com
 ev.stellarlabs.ai
 evt-api.ntm.eu
 eworfe.babyartikel.de
@@ -120092,6 +120140,7 @@ plausible.veszelovszki.com
 plausible.yalepaprika.com
 plaus.outpost.pub
 plaus.pentserv.com
+play.adtonos.com
 playbook.convio.com
 play.fanslide.com
 play.rheo.tv
@@ -122353,7 +122402,6 @@ snowman.odencat.com
 snptrk.com
 so8.hyatt.com
 soapfighters.com
-soapps.net
 soapsmoke.com
 so.blue.ch
 so.bluecinema.ch
