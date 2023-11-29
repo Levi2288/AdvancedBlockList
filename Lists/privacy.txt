@@ -9235,7 +9235,6 @@ omni.soundestlink.com$image
 ||tags.op-palvelut.fi^
 ||vine.eu/track/
 ||links.boom.ge^
-||analytics.skroutz.gr^
 ||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ||walla.co.il/stats/
@@ -10285,6 +10284,7 @@ omni.soundestlink.com$image
 ||goodreads.com/metrics_logging_batched
 ||goodreads.com/report_metric
 ||goodreads.com/track/
+||google.com/ads/measurement/
 ||google.com/dssw.js
 ||google.com/images/phd/px.gif
 ||google.com/log?
@@ -10829,6 +10829,7 @@ omni.soundestlink.com$image
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
+||stats.codeur.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
 ||stats.ibtimes.co.in^
@@ -29789,6 +29790,7 @@ arketing.indianadunes.com^
 @@||wpfc.ml/b.gif$image,domain=holybooks.com
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||www.ups.com/WebTracking/processInputRequest
+@@||wwwcache.wral.com/presentation/v3/scripts/providers/analytics/ga.js$~third-party
 @@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
 @@||xfinity.com/stream/js/api/fingerprint.js$~third-party
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
@@ -114450,9 +114452,11 @@ ac-ebis.usen-service.com
 ac-ebis.usen-store.com
 a.centrum.cz
 ac.geechs-job.com
+acidicstraw.com
 a.conferencecall.com
 acq-au.americanexpress.com
 acq-jp.americanexpress.com
+acridangle.com
 acro.egghead.link
 act.firstdata.com
 activity.fiverr.com
@@ -114575,6 +114579,7 @@ a.getemoji.me
 agexpo.americanexpress.com
 aggelakia.openapp.link
 agma-analytics.de
+agreeablearch.com
 ahachi.dietnavi.com
 a.hellowork.com
 ahhmkt.anhua.com.cn
@@ -114708,7 +114713,6 @@ analytics.shorte.st
 analytics.shorthand.com
 analytics.silktide.com
 analytics.skinit.com
-analytics.skroutz.gr
 analytics.sportfishingmag.com
 analytics.spun.com.br
 analytics-ssl.allconnect.com
@@ -115056,6 +115060,7 @@ a.smetrics.sovereign.com
 a.sodra.com
 aspa8.ozmall.co.jp
 asp.hachipp119.com
+aspiringapples.com
 a.spv.se
 assets.instacart.com
 assets.mikeroulston.com
@@ -115100,6 +115105,7 @@ aurum.tirto.id
 aus.amexforbusiness.com.au
 authsmtp.happ.social
 autoimmunity.thermo.com
+automaticturkey.com
 automotive.balluff.com
 automotive-business.vodafone.com
 autostow-test.inthere.link
@@ -115137,9 +115143,11 @@ baby.camsex.eu.org
 baccarat.abzorbagames.com
 backoffice.verintsystemsinc.com
 badgeboat.com
+baitbaseball.com
 balloonbelieve.com
 b.allsecur.nl
 bank.svb.com
+barbarousbase.com
 b.arenum.games
 barnes.send.cm
 baseballbone.com
@@ -115529,6 +115537,7 @@ cf.campagnes-france.com
 cfcpee.lascana.ch
 c.fingerprint.com
 cfxsss.deerberg.de
+chaireggnog.com
 chairsdonkey.com
 chalkoil.com
 channel.cummins.com
@@ -115589,6 +115598,7 @@ clnbze.echodnia.eu
 clnbze.naszemiasto.pl
 cloisteredcurve.com
 c.lolamarket.com
+closefriction.com
 cloudhosting-business.vodafone.com
 cloud.webtrack.online
 clovercabbage.com
@@ -115801,6 +115811,7 @@ cqsecshf4rd9.www.tracktheta.com
 cqubdd.thisismoney.co.uk
 crashchance.com
 create.encoreglobal.com
+creatorcherry.com
 creditcreature.com
 c.refun.do
 crepemania.openapp.link
@@ -116483,6 +116494,7 @@ enquiry.marketingcube.com.au
 enterprise.dnb.ca
 enterpriseintegration.aspiresys.com
 enterprises.proximus.be
+entertainskin.com
 envato.market
 eokdol.flaconi.at
 eolvci.olx.ro
@@ -116609,6 +116621,7 @@ explore.epsilon.com
 explore.firstnet.com
 exprealty377.myre.io
 extractobservation.com
+exuberantedge.com
 exultantdrop.com
 eymiwj.cancan.ro
 eyypxz.canifa.com
@@ -116624,6 +116637,7 @@ f928.pandasuite.io
 f.a23.in
 fahmta.metoffice.gov.uk
 fahmta.racefans.net
+fairiesbranch.com
 fal2.carrefour-banque.fr
 familydoctor-app.hotdoc.com.au
 familypractice-app.hotdoc.com.au
@@ -116678,6 +116692,7 @@ food.pentonmarketingsvcs.com
 foodsafetyandhygiene.inthere.link
 foodsafetyandhygiene-test.inthere.link
 foretellfifth.com
+forgetfulsnail.com
 form.fusesource.com
 form.heroes.jobs
 forms2.vistage.com
@@ -116793,6 +116808,7 @@ gcxiyx.inspireuplift.com
 gdg.gardnerdenver.com
 gear.echovisuals.com
 generalprose.com
+gentlemoonlight.com
 geo.brobible.com
 geo.gorillanation.com
 geoip.apps.avada.io
@@ -117188,6 +117204,7 @@ gpplus-app.hotdoc.com.au
 gpsqnl.delsey.com
 gr.a23.in
 grado.ufv.es
+grainmass.com
 grandfatherguitar.com
 grandiosefire.com
 grayoranges.com
@@ -117211,6 +117228,7 @@ guessdetail.com
 guest.vistage.com
 guidecent.com
 guitarlearning.deplike.com
+gulliblegrip.com
 gurgle.spiceworks.com
 guwuym.barneys.co.jp
 gvfbpo.diafer.com.br
@@ -117221,11 +117239,15 @@ gxyojn.underarmour.fr
 gyradiko.openapp.link
 gyydua.dakine.com
 gyzwcl.sconto.cz
+hallowedinvention.com
 haltingdivision.com
+handnorth.com
 handsomehose.com
 handsomeyam.com
+haplessland.com
 harborcaption.com
 harman.epoise.com
+harmonywing.com
 harpra-companion.harvinar.com
 harpra-companion-test.harvinar.com
 hasslefree.redwingshoes.com
@@ -117272,6 +117294,7 @@ hopeful.coh.org
 horizon.globo.com
 horizon-track.globo.com
 hospitablehall.com
+hospitablehat.com
 hospitality.redbull.racing
 host.roxiapp.com
 hothydrant.com
@@ -117340,6 +117363,7 @@ i.lf360.co
 ilfmju.right-on.co.jp
 i.livexyz.com
 ilkk97e98lvg.www.sidsplumbing.ie
+illinvention.com
 image.deginvest.de
 image.kfw-formularsammlung.de
 image.kfw-ipex-bank.de
@@ -118041,6 +118065,7 @@ lieudetravail.ricoh.fr
 lifestyle.tradeshow.globalsources.com
 lift.acquia.com
 liftedknowledge.com
+lightenafterthought.com
 l.imax.com
 lincoln-financial.lfd.com
 link.1800contacts.com
@@ -119206,12 +119231,14 @@ me.glamhive.com
 meinauto.hdd-dienste.de
 mellamanjorge.net.anwalt.de
 mellowbike.com
+mellowmailbox.com
 meltmilk.com
 members.atomcomplete.com
 membership.mortonarb.org
 members.simplicity.coop
 member.usenix.org
 memelq.acs.org
+memorizeline.com
 mentorsticks.com
 m.equinoxplus.com
 mercadeo.promerica.fi.cr
@@ -119618,6 +119645,7 @@ mtrcs.shopzilla.com
 mujjrh.stylenanda.com
 muppvq.cocooncenter.co.uk
 muteknife.com
+mutemailbox.com
 muterange.com
 m.varagesale.com
 mvc.shopjapan.co.jp
@@ -120736,6 +120764,7 @@ scalematrix.actonservice.com
 scanner-link.covve.com
 scaredfarm.com
 scaredsong.com
+scarefowl.com
 sc.doctorwho.tv
 schlesingerassociates.actonservice.com
 sc.icarly.com
@@ -120958,6 +120987,7 @@ seniorliving.wyndemerelcs.com
 sensors.balluff.com
 sensorsmile.com
 sentiment.icis.com
+separatesort.com
 seraphichorizon.com
 serendipityecho.com
 serenecascade.com
@@ -120991,6 +121021,7 @@ s.goat.com
 sgstats.com
 shadeship.com
 shakyseat.com
+shapecomb.com
 share.1stphorm.app
 share1.stubmed.net
 share2.360vuz.com
@@ -122508,6 +122539,7 @@ spmaeu.gumtree.com.au
 spock.domjtalbot.codes
 spookyskate.com
 spread.epoolers.com
+springsnails.com
 spt.ahram.org.eg
 sp.tinymce.com
 spurioussquirrel.com
@@ -122813,6 +122845,7 @@ stats.celcom.com.my
 stats.changeoil.ca
 stats.clavisaurea.xyz
 stats.coachinghive.com
+stats.codeur.com
 stats.codis.io
 stats.coldbox.org
 statscollector-1.agora.io
@@ -123224,6 +123257,7 @@ studentadvantage.actonservice.com
 studio.joinsalut.com
 study.jcu.edu.au
 study.vu.edu.au
+sturdysnail.com
 su1.les-suites.ca
 sub.ecd.bookoffonline.co.jp
 submit.info.shutterstock.com
@@ -123331,6 +123365,7 @@ tally.bizanalyst.in
 tamedbc.roska.fr
 tamus.net.anwalt.de
 tangyamount.com
+tangycover.com
 t.antalisabitek.com
 t.antalis.be
 t.antalisbolivia.com
@@ -124700,9 +124735,11 @@ unablehope.com
 unaccountablepie.com
 unadvisedengine.com
 unbecominglamp.com
+unequaltrail.com
 universal.shakaguide.com
 unm.emol.com
 unsubscribe.email.verizon.com
+unwieldyimpulse.com
 unwieldyplastic.com
 unyzea.aboutyou.sk
 uolwbz.heine.de
@@ -124995,6 +125032,7 @@ we-love-privacy.humane.club
 wevbgr.vidaxl.it
 wgyapq.stormberg.com
 whale3.io
+whimsicalgrove.com
 wh.ipaddress.com
 whisperingcascade.com
 whisperingsummit.com
