@@ -1321,7 +1321,6 @@ omni.soundestlink.com$image
 ||ensighten.com^$third-party
 ||enticelabs.com^$third-party
 ||entravision.com^$third-party
-||envoke.com^$third-party
 ||eolcdn.com^$third-party
 ||ep4p.com^$third-party
 ||eperfectdata.com^$third-party
@@ -3717,6 +3716,7 @@ omni.soundestlink.com$image
 ||butterbulb.com^
 ||butterburst.com^
 ||buttonladybug.com^
+||cabledemand.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
 ||calculatorcamera.com^
@@ -4024,6 +4024,7 @@ omni.soundestlink.com$image
 ||exchangedetail.com^
 ||excitingtub.com^
 ||exclusivebrass.com^
+||exhibitsneeze.com^
 ||expansioneggnog.com^
 ||experienceeggs.com^
 ||extractobservation.com^
@@ -4119,6 +4120,7 @@ omni.soundestlink.com$image
 ||fuzzyerror.com^
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
+||fvl1f.pw^
 ||gammamaximum.com^
 ||gaudybeginner.com^
 ||generalprose.com^
@@ -4288,6 +4290,7 @@ omni.soundestlink.com$image
 ||lameletters.com^
 ||lamplow.com^
 ||languagelake.com^
+||largebrass.com^
 ||laughablecopper.com^
 ||laughablelizards.com^
 ||laughcloth.com^
@@ -4511,6 +4514,7 @@ omni.soundestlink.com$image
 ||pointlessprofit.com^
 ||pointlessrifle.com^
 ||poisedpig.com^
+||polarismagnet.com^
 ||politegoldfish.com^
 ||politeplanes.com^
 ||politicalporter.com^
@@ -4697,6 +4701,7 @@ omni.soundestlink.com$image
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
 ||scintillatingspace.com^
+||scissorsstatement.com^
 ||scrapesleep.com^
 ||scratchsofa.com^
 ||screechingfurniture.com^
@@ -4962,6 +4967,7 @@ omni.soundestlink.com$image
 ||swordgoose.com^
 ||symbolizebeast.com^
 ||synonymousrule.com^
+||synonymoussticks.com^
 ||synthesizespoon.com^
 ||systemizecoat.com^
 ||talentedsteel.com^
@@ -5040,6 +5046,7 @@ omni.soundestlink.com$image
 ||translateoatmeal.com^
 ||trappush.com^
 ||trapteaching.com^
+||traytouch.com^
 ||treadbun.com^
 ||tremendousearthquake.com^
 ||tremendousplastic.com^
@@ -5109,6 +5116,7 @@ omni.soundestlink.com$image
 ||voicevegetable.com^
 ||volatileprofit.com^
 ||volatilerainstorm.com^
+||volatilevessel.com^
 ||voraciousgrip.com^
 ||voyagepotato.com^
 ||vq1qi.pw^
@@ -7012,6 +7020,7 @@ omni.soundestlink.com$image
 ||felix.data.tm-awx.com/pageConfig
 ||felix.data.tm-awx.com/pageview
 ||filament-stats.herokuapp.com^
+||files.envoke.com^*/adt_nvk_tracking.js
 ||filesonic.com/referral/$third-party
 ||fingerprinter-production.herokuapp.com^
 ||fiorenetwork.com/aparatvast/log.php?
@@ -10837,6 +10846,7 @@ omni.soundestlink.com$image
 ||stats.justpaste.it^
 ||stats.newsweek.com^
 ||stats.pstream.net^
+||stats.qwant.com^
 ||stats.sandberg.world^
 ||stats.searchftps.net^
 ||stats.suenicholls.com^
@@ -29032,6 +29042,7 @@ arketing.indianadunes.com^
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
 ||fensi.plus^*/tracking/
+||game-i.daa.jp/skin/analytics.php
 ||gizmodo.jp/api/SurveyCountCollection?
 ||goo.ne.jp^*/vltracedmd.js
 ||hatarako.net/api/recommend/analyze_logger
