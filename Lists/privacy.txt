@@ -5108,6 +5108,7 @@ omni.soundestlink.com$image
 ||verifyvegetable.com^
 ||verseballs.com^
 ||vibranthaven.com^
+||vibrantsundown.com^
 ||victoriousrequest.com^
 ||virgoplato.com^
 ||virtualvincent.com^
@@ -11031,6 +11032,7 @@ omni.soundestlink.com$image
 ||tumblr.com/pop/js/modern/sentry-
 ||tumblr.com/services/bblog
 ||tunein.com/api/v1/log/
+||turbobit.*/js/analytics/
 ||tweakers.net/ajax/$ping
 ||twitter.com/1.1/attribution
 ||twitter.com/1.1/jot
