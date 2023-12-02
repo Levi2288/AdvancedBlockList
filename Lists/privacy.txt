@@ -6546,6 +6546,7 @@ omni.soundestlink.com$image
 ||cc.swiftype.com^
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
+||cdn-ds.com/analytics/
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.usefathom.com^
 ||cdnjs.work/metrics.js
@@ -7126,6 +7127,7 @@ omni.soundestlink.com$image
 ||gleam.io^$script,third-party
 ||global.ssl.fastly.net/native/
 ||gml-grp.com^*&affid=$subdocument,third-party
+||go.activengage.com^
 ||go.com/capmon/GetDE/?
 ||go.techtarget.com^$image,xmlhttprequest
 ||go.toutapp.com^$third-party
@@ -11298,6 +11300,7 @@ omni.soundestlink.com$image
 ||freepeople.com/tN88Q85M/init.js
 ||groceries.asda.com/px/PX1UGLZTko/init.js
 ||hotpads.com/xOR1K5b6/init.js
+||houstonchronicle.com/413gkwMT/init.js
 ||iherb.com/VtidNbtC/init.js
 ||internships.com/oGckki0e/init.js
 ||jimmyjohns.com/Abo2Yc8X/init.js
@@ -115477,6 +115480,7 @@ b.zedge.me
 c4c9.pandasuite.io
 c917.pandasuite.io
 caapp.levi.com
+cabledemand.com
 ca.connect.finning.com
 cakep.indonesiya.com
 calibration.ni.com
@@ -116618,6 +116622,7 @@ exchange.happ.social
 excitingtub.com
 exdmarketing.smu.edu.sg
 exhibition.edm.globalsources.com
+exhibitsneeze.com
 exitachieve.myre.io
 experience.amp.co.nz
 experience.asb.co.nz
@@ -116798,6 +116803,7 @@ future.jcu.edu.au
 future.uwindsor.ca
 futuristicframe.com
 fuzzyerror.com
+fvl1f.pw
 fxyvcz.thecompanystore.com
 fywfld.fjellsport.no
 fyznhp8inq9x.jaywilsonwebsolutions.com
@@ -118025,6 +118031,7 @@ lapescheria.openapp.link
 l.apna.co
 lapstour.quickbytegames.com
 lapwkd.feelgood-shop.com
+largebrass.com
 l.audibook.si
 launch.aella.app
 launch.meetsaturn.com
@@ -120218,6 +120225,7 @@ pod.spoti.fi
 poeticpackage.com
 pointdigestion.com
 pointlessprofit.com
+polarismagnet.com
 polhvf.bootbarn.com
 politeplanes.com
 politicalporter.com
@@ -120786,6 +120794,7 @@ sc.infor.com
 sc.infor.jp
 sci.quickbooks.com
 scispg.smu.edu.sg
+scissorsstatement.com
 s.clientes.construrama.com
 sc.nicktoons.co.uk
 s.columbiathreadneedle.co.uk
@@ -123096,6 +123105,7 @@ stats.pubfind.io
 stats.qawl.app
 stats.qovery.com
 stats.quicksilvercre.com
+stats.qwant.com
 stats.radio-canada.ca
 stats.rcinet.ca
 stats.reactshowcase.com
@@ -123347,6 +123357,7 @@ sxjfhh.visaliatimesdelta.com
 sxwxswg8z1xe.www.arnowebtv.com
 symbio.actonservice.com
 synapse-da.actonservice.com
+synonymoussticks.com
 sysmon.kakaku.com
 szkbyo.zkai.co.jp
 szrpr.raen.com
@@ -124069,6 +124080,7 @@ travel.cruisesforless.com
 travel.ec-ovc.com
 travel.x.unikoom.com
 traxex.gannettdigital.com
+traytouch.com
 tr.bati-partner.be
 tr.bati-partners.be
 tr.bern.espmp-nifr.net
@@ -124843,6 +124855,7 @@ vhmewg.edreams.fr
 vhrbxb.vidaxl.nl
 vi.adviso.ca
 vibranthaven.com
+vibrantsundown.com
 victoriousrequest.com
 video-metrics.ellentube.com
 videos.indonesiya.com
@@ -124882,6 +124895,7 @@ voice.thewealthadvisor.com
 vois.vodafone.com
 volatileprofit.com
 volatilerainstorm.com
+volatilevessel.com
 voroud.wine.com.br
 votejoe.outvote.io
 vote.speaqapp.com
