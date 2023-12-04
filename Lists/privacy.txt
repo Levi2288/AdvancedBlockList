@@ -36,6 +36,7 @@
 .svc/?tracking_id=
 .v4.analytics.
 ://a869.
+://analytics-cdn.
 ://analytics.*/collect
 ://analytics.*/event
 ://analytics.*/hits/
@@ -7428,6 +7429,7 @@ omni.soundestlink.com$image
 ||lycos.com/hb.js
 ||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
+||magento-recs-sdk.adobe.net^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
 ||mail.ru/dstat?
@@ -7904,6 +7906,7 @@ omni.soundestlink.com$image
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^
 ||searchcompletion.com/BannerHandler.ashx
+||secure-stats.pingdom.com^
 ||secure.ed4.net/GSI/$third-party
 ||secure.ifbyphone.com^$third-party
 ||secure.merchantadvantage.com^
@@ -8697,6 +8700,7 @@ omni.soundestlink.com$image
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
+||dtxtngytz5im1.cloudfront.net^
 ||dtym7iokkjlif.cloudfront.net/dough/
 ||du4rq1xqh3i1k.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
@@ -29103,6 +29107,7 @@ arketing.indianadunes.com^
 ||retty.me/gen204.php
 ||retty.me/javascripts/common/logging.js
 ||revive-chat.io/js/tracking-min.js
+||rtm-tracking.zozo.jp^
 ||sankei.co.jp/js/analytics/
 ||scinable.net/access?
 ||scis.tbs.co.jp^
