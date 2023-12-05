@@ -536,6 +536,7 @@ omni.soundestlink.com$image
 ||techpump.com^
 ||test.vast^
 ||testingmetriksbre.ru^
+||thatmonkeybites3.com^
 ||the-ozone-project.com^
 ||thefontzone.com^
 ||tkrconnector.com^
@@ -5316,6 +5317,7 @@ omni.soundestlink.com$image
 ||lddt.de^$third-party
 ||leserservice-tracking.de^$third-party
 ||link-empfehlen24.de^$third-party
+||listrakbi.com^$third-party
 ||lokalleads-cci.com^$third-party
 ||losecounter.de^$third-party
 ||lumitos.com^$third-party
@@ -6112,6 +6114,7 @@ omni.soundestlink.com$image
 ||sayyac.net^$third-party
 ||sitetistik.com^$third-party
 ||sortext.com^$third-party
+||tagon.co^$third-party
 ||visilabs.net^$third-party
 ||webservis.gen.tr^$third-party
 ||webtemsilcisi.com^$third-party
@@ -9018,6 +9021,7 @@ omni.soundestlink.com$image
 ||events.newsroom.bi^
 ||events.sk.ht^
 ||free.fr/services/compteur_page.php?
+||houston.advgo.net^
 ||humanoid.fr/register-impression?
 ||i-services.net^*/compteur.php?
 ||img-static.com/CERISE.gif?
@@ -11160,6 +11164,7 @@ omni.soundestlink.com$image
 ||yahoo.com/_td_api/beacon/
 ||yahoo.com/beacon/
 ||yahoo.com/beacon?
+||yahoo.com/pageview?
 ||yahoo.net/pixel.gif
 ||yandex.*/clck/$~ping
 ||yandex.*/count/
@@ -11297,6 +11302,7 @@ omni.soundestlink.com$image
 ||booktopia.com.au/Ns7aBMIv/init.js
 ||brownsshoes.com/IZ/2tcS0qiG/init.js
 ||build.com/2Ztkihy4/init.js
+||calm.com/api/12Xk43jk/init.js
 ||calvinklein.us/n8ANl15k/init.js
 ||carbon38.com/A44kxi5a/init.js
 ||careermatch.com/oGckki0e/init.js
@@ -11332,6 +11338,7 @@ omni.soundestlink.com$image
 ||ktla.com/CvbtpUrj/init.js
 ||lancome-usa.com/IZ/PXq99AlOxk/init.js
 ||madlan.co.il/o4wPDYYd/init.js
+||newsnationnow.com/yZuPxxW0/init.js
 ||nyxcosmetics.com/IZ/PXLZNv2dn4/init.js
 ||octopart.com/kdRQnL15/init.js
 ||oshkosh.com/0F3091f3/init.js
@@ -28270,6 +28277,7 @@ arketing.indianadunes.com^
 ||z.inlist.com^
 ||zelle.odencat.com^
 ||zombieslayer.kano.link^
+||20min.ch/ana/
 ||agnes.waz.de^
 ||analytics.adliners.de^
 ||analytics.daasrv.net^
@@ -28283,6 +28291,7 @@ arketing.indianadunes.com^
 ||basicthinking.de/stats/
 ||behave.sn.at^
 ||berliner-stadtplan.com/t.gif
+||bilder11.markt.de^
 ||braunschweiger-zeitung.de/stats/
 ||buzzfeed.at/bi/bootstrap/
 ||buzzfeed.de/bi/bootstrap/
@@ -28292,6 +28301,7 @@ arketing.indianadunes.com^
 ||chefkoch.de/tracking/
 ||click.alternate.de^
 ||cmp2.channelpartner.de^
+||cnt.wetteronline.de^
 ||comparis.ch/comparis/Tracking/
 ||computerbase.de/api2/$ping,xmlhttprequest
 ||computerbase.de/nlytcz
@@ -29603,6 +29613,8 @@ arketing.indianadunes.com^
 @@||content.gap.com/fp/tags.js$script,domain=oldnavy.gap.com
 @@||coremetrics.com*/eluminate.js
 @@||coxbusiness.com/R136/assets/newrelic/newrelic.js$~third-party
+@@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/app-measurement.html$xmlhttprequest
+@@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/visitor-api.html$xmlhttprequest
 @@||cqcounter.com^$domain=cqcounter.com
 @@||cults3d.com/packs/js/quantcast-$~third-party
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
@@ -114725,6 +114737,7 @@ analytics.gewaterheater.com
 analytics.gooogol.com
 analytics.hambleden-capital.com
 analytics.hollywoodlife.com
+analytics.idfnet.net
 analytics.jazel.net
 analytics.kellyservices.com
 analytics.kkb.com.tr
@@ -114732,6 +114745,7 @@ analytics.klickly.com
 analytics.kongregate.io
 analytics.kooapp.com
 analytics.lasegunda.ecn.cl
+analytics.lemoolah.com
 analytics.littlekingdesigns.com
 analytics.logsss.com
 analytics.maikel.pro
@@ -116301,6 +116315,7 @@ dspx.tv
 d-staging.groc.press
 ds.webprojectslab.com
 d.tv-asahi.co.jp
+dtxtngytz5im1.cloudfront.net
 dustydime.com
 dustyhammer.com
 d.whoscall.com
@@ -116366,6 +116381,7 @@ ebis.yumeyakata.com
 ebnpqi.carrefourlocation.fr
 ecctjf.leroymerlin.com.br
 echoinghaven.com
+ecn-ldr.de
 ec.thredup.com
 e.darpro-solutions.com
 edge.bigbrothercanada.ca
@@ -116984,6 +117000,7 @@ gli9.inseec-bs.com
 glitteringbrook.com
 globaleloqua.americanexpress.com
 globalsolutions.risk.lexisnexis.com
+g.newtimes.com
 gnh2.destinia.lv
 gn.informaengage.com
 gnreyt.toom.de
@@ -116993,6 +117010,7 @@ go.4010.ru
 go.4sq.com
 go5.global.toshiba
 go.accessbybmw.com
+go.activengage.com
 go.advisorgroup.com
 go.ali-cle.org
 go.app.sharekey.com
@@ -118669,6 +118687,7 @@ m5yw219v6r.app.koinly.io
 macmorin.net.anwalt.de
 m.aecrimecentral.com
 m.aetv.com
+magento-recs-sdk.adobe.net
 magic.freetrade.io
 ma.hitachi-systems.com
 ma.hmhco.com
@@ -119555,6 +119574,7 @@ mit.dslbank.de
 mitel.qm-g.com
 m.itime.app
 mitour.de
+mitself.net
 mitt.3.se
 mittencattle.com
 mix-omniture.rbs.com
@@ -120654,6 +120674,7 @@ rtc.multiscreensite.com
 rtds.progressive.com
 rtg-adroute.focas.jp
 rtgdispatcher-test.inthere.link
+rtm-tracking.zozo.jp
 rum.perfops.net
 rumstat.cdnvideo.ru
 rumt-sg.com
@@ -120794,6 +120815,7 @@ sandbox-elq.keysight.com
 sanl.footlocker.co.nz
 sanl.footlocker.hk
 sanl.footlocker.kr
+sapphire-api.target.com
 sa.skoda.fr
 satarget.npubank.com.au
 satgt.grafana.com
@@ -120947,6 +120969,7 @@ secure.smart-enterprise-acumen.com
 secure.smartenterprisewisdom.com
 secure.sonosite.com
 securestats.cafepress.com
+secure-stats.pingdom.com
 securetags.esri-portugal.pt
 securetags.esri.ro
 securetags.geotecnologias.com
@@ -121183,6 +121206,7 @@ simg.ontargetjobs.com
 simg.yemeksepeti.com
 simple.siegelgale.com
 simscale.actonservice.com
+simulateswing.com
 sincereseashore.com
 sinkbooks.com
 s.innoq.com
@@ -124816,6 +124840,7 @@ url6013.qa-app11-sendgrid.branch.rocks
 url.ultimax.cf
 urxbvw.tui.nl
 u.salony.com
+usaoptimizedby.increasingly.co
 us.appbackupapi.micloud.xiaomi.net.iberostar.com
 us-central1-markuphero.cloudfunctions.net
 use.fvr.to
