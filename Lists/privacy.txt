@@ -264,7 +264,6 @@ omni.soundestlink.com$image
 ||briskpelican.io^
 ||brontops.com^
 ||brsrvr.com^
-||btdmp.com^
 ||btloader.com^
 ||bx-cloud.com^
 ||bydst.com^
@@ -8261,6 +8260,7 @@ omni.soundestlink.com$image
 ||track.99acres.com^
 ||track.atgstores.com^$third-party
 ||track.bannedcelebs.com^
+||track.btdmp.com^
 ||track.coherentpath.com^
 ||track.contently.com^
 ||track.cordial.io^
@@ -10108,7 +10108,7 @@ omni.soundestlink.com$image
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
-||coomer.su/api/v1/%D0%B5vent
+||coomer.su/api/v1/gevent
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||counter.darkreader.app^
@@ -10464,7 +10464,7 @@ omni.soundestlink.com$image
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
-||kemono.su/api/v1/%D0%B5vent
+||kemono.su/api/v1/gevent
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -29898,7 +29898,7 @@ arketing.indianadunes.com^
 @@||googleoptimize.com/optimize.js$domain=binglee.com.au|grasshopper.com|in.bookmyshow.com|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at|teddyfood.com|xxl.se
 @@||google-analytics.com/ga.js$domain=meritonsuites.com.au
-@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|podcasty.seznam.cz|roomster.com|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|poweredbycovermore.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|tatacliq.com|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com|wowway.net
 @@||adobedtm.com^*-libraryCode_source.min.js$domain=doda.jp
 @@||adobedtm.com^*_source.min.js$domain=ally.com|americanexpress.com|as.com|backcountry.com|crave.ca|disneyplus.disney.co.jp|hilton.com|hl.co.uk|homedepot.ca|kroger.com|mora.jp|nbarizona.com|pnc.com|tatacliq.com|telus.com
@@ -114539,6 +114539,7 @@ access.iprolive.com
 access.ipro.net
 access.sunpower.com
 acc-link-ccontact.focuscura.com
+accurateanimal.com
 accuratecraneplan-test.inthere.link
 accwww9.53kf.com
 ac-ebis-uhome.usen.com
@@ -114838,6 +114839,7 @@ anesthesia.roundsapp.org
 angebote.plex.com
 angel.hasdukmerahputih.com
 anneliese.scale.at
+annoyingclover.com
 anonstat.pw
 an.sny.tv
 ans.yesnetwork.com
@@ -115243,6 +115245,7 @@ backoffice.verintsystemsinc.com
 badgeboat.com
 baitbaseball.com
 balloonbelieve.com
+ballsbanana.com
 b.allsecur.nl
 bank.svb.com
 barbarousbase.com
@@ -115268,6 +115271,7 @@ beacon.klm.com
 beacon.sftoaa.com
 beam.telex.hu
 beamvolcano.com
+beancontrol.com
 bears.daigostudio.com
 beat.yourtv.jp
 beer2s.millerbrewing.com
@@ -115365,6 +115369,7 @@ bot.asksyllable.com
 botb.rtl2.de
 bot.stackbots.com
 bot.streaktrivia.com
+boundlessargument.com
 boundlessbrake.com
 boundlessveil.com
 boutique.ricoh.fr
@@ -115381,6 +115386,7 @@ bqacmp.vidaxl.no
 bractivacar.eccocar.com
 br.adpinfo.com
 brainlands.stonefalcon.com
+brainybasin.com
 brainynut.com
 branch2.udl.io
 branch.365soup.bibsolution.net
@@ -115520,7 +115526,6 @@ bsytzb.hago.kr
 btaenrolment.americanexpress.at
 bt.astadia.com
 b.tate.it
-btdmp.com
 b.thechive.com
 b.thechivery.com
 b.tienda.com
@@ -115756,6 +115761,7 @@ collect.thunder-io.com
 college.marketingcube.com.au
 com.102.122.207.net
 combativecar.com
+combcattle.com
 commerce.bing.com
 commercial.equifax.com
 commercial.inform.equifax.com
@@ -115957,6 +115963,7 @@ cuddlycake.com
 cufroa.aboutyou.be
 culturedcamera.com
 culturedfeather.com
+cumbersomecarpenter.com
 curvedhoney.com
 curvycord.com
 cushiondrum.com
@@ -116567,6 +116574,7 @@ email.staging-link.flipgive.com
 emailtest.trustmeimawebsite.com
 email-tw.americanexpress.com
 email-yesmail.branch.rocks
+embellishedmeadow.com
 embermosaic.com
 emb.soothe.com
 em-email.thermofisher.com
@@ -116581,6 +116589,7 @@ encuestas.billeteramango.com
 endljp.pariteni.bg
 endljp.vesti.bg
 endo.dentsply.com
+endurablebulb.com
 engage.avalara.com
 engage.build.com
 engage.dow.com
@@ -116599,6 +116608,7 @@ enterprise.dnb.ca
 enterpriseintegration.aspiresys.com
 enterprises.proximus.be
 entertainskin.com
+enthusiastictemper.com
 envato.market
 eokdol.flaconi.at
 eolvci.olx.ro
@@ -116753,6 +116763,7 @@ fbo-statistics-collector-tc.is.flippingbook.com
 fd.bawag.at
 fdixsh.platypusshoes.com.au
 fdkeip.azafashions.com
+fearfulfear.com
 fearfulmint.com
 fec1.optimhome.com
 feedback.aon.com
@@ -116787,6 +116798,7 @@ flameuncle.com
 flowersornament.com
 flowerycreature.com
 flow.kiloutou.fr
+flutteringfireman.com
 fma7.aegon.es
 fmjgtp.dentalspeed.com
 fmqidg.letras.com
@@ -117338,6 +117350,7 @@ guidecent.com
 guitarlearning.deplike.com
 gulliblegrip.com
 gurgle.spiceworks.com
+gustygrandmother.com
 guwuym.barneys.co.jp
 gvfbpo.diafer.com.br
 gvmomuqjv1.swyftx.com
@@ -118662,6 +118675,7 @@ logtail.com
 log.v.ssp.yahoo.com
 log.zdnet.co.kr
 lokalwerben.t-online.de
+lonelyflavor.com
 longingtrees.com
 loopcybersec.com
 looseloaf.com
@@ -119196,6 +119210,7 @@ marketing.zencos.com
 marketing.zinniawealth.com
 marketspiders.com
 markkinointi.kespro.com
+marriedmailbox.com
 marrow.roundsapp.org
 marsh.actonservice.com
 marsupial.roleup.com
@@ -119610,6 +119625,7 @@ mi.grubhub.com
 mil.millsproducts.com
 milsoft.actonservice.com
 minerva.healthcentral.com
+minuteburst.com
 m.ioicommunity.com.my
 mirabelanalytics.com
 missionhq.astadia.com
@@ -119800,6 +119816,7 @@ n4kb43cl2bsw.creatordrop.com
 naanalle.pl
 nadelle.wantsext.me
 na.groupondata.com
+naivestatement.com
 nanthealth.actonservice.com
 nappyneck.com
 narc-dc.actonservice.com
@@ -120147,6 +120164,7 @@ parallelbulb.com
 paramedicexam.quantresear.ch
 pardko.pricerunner.com
 parentapp.byjus.com
+parentpicture.com
 partenaireslld.temsys.fr
 partnerapp.kravein.com.au
 partnerapp.urbanclap.com
@@ -120180,6 +120198,8 @@ pcnphysio-com.ca-eulerian.net
 pc.personalcreations.com
 pd.bppeloqua.com
 pds.auction.co.kr
+peacefullimit.com
+pedromister.com
 peiq.services
 p.ejs.dev
 perawan.indonesiya.com
@@ -120506,6 +120526,7 @@ quillkick.com
 quinceimaging.actonservice.com
 quirkysugar.com
 quixoticnebula.com
+quizzicalpartner.com
 qvenxs.cash-piscines.com
 qveyyi.clarivate.com
 qvmucs.abluestore.com
@@ -120866,6 +120887,7 @@ sapphire-api.target.com
 sa.skoda.fr
 satarget.npubank.com.au
 satgt.grafana.com
+satisfyingshirt.com
 sat.soluall.net
 sats.spiegel.de
 save.salary.com.au
@@ -120880,6 +120902,7 @@ scalematrix.actonservice.com
 scanner-link.covve.com
 scaredfarm.com
 scaredsong.com
+scaredstomach.com
 scarefowl.com
 sc.doctorwho.tv
 schlesingerassociates.actonservice.com
@@ -120924,6 +120947,7 @@ search.anonymous.ads.brave.com
 seashoreturn.com
 seb.sharpmarketing.eu
 seclore.actonservice.com
+secondhandfall.com
 secretivesheep.com
 secretivestick.com
 secure1.desjardinsgeneralinsurance.com
@@ -121139,6 +121163,7 @@ s.goat.com
 sgstats.com
 shadeship.com
 shakyseat.com
+shamerain.com
 shapecomb.com
 share.1stphorm.app
 share1.stubmed.net
@@ -122515,6 +122540,7 @@ smjydg.cartersoshkosh.ca
 smkt.edm.globalsources.com
 smobile.wotif.com
 smodus.nike.com
+smoggysongs.com
 smon.activate.cz
 smon.congress.gov
 smon.loc.gov
@@ -123360,6 +123386,7 @@ strack.cricketworldcupstore.com
 strangeclocks.com
 strangersponge.com
 stream.9now.com.au
+streetsort.com
 stretchsneeze.com
 stretchsquirrel.com
 strikenurse.usnursing.com
@@ -123676,6 +123703,7 @@ t.hmwy.io
 t.hokiesports.com
 thoughtlessknot.com
 thraka.openapp.link
+thrivecover.com
 thrombus.net.anwalt.de
 thtk.temu.com
 thumbs.net.anwalt.de
@@ -123842,6 +123870,7 @@ track.abrdnifn.com
 track.americansongwriter.com
 track.auckland.ac.nz
 track.bestbuy.ca
+track.btdmp.com
 track.connectwise.com
 track.craudia.com
 track.dark.bz
@@ -124787,6 +124816,8 @@ tw.cx
 tweetdeck.net.anwalt.de
 t.whartoncenter.com
 twistairclub.net.anwalt.de
+twistloss.com
+twistsweater.com
 twiz.wizaly.co.uk
 tw.spiriteq.com
 t.wsucougars.com
@@ -124855,6 +124886,7 @@ uk.proilm.com
 um.contentstudio.io
 umrvmb.net.anwalt.de
 unablehope.com
+unaccountablecreator.com
 unaccountablepie.com
 unadvisedengine.com
 unbecominglamp.com
@@ -124985,6 +125017,7 @@ vkxyjj.g2a.com
 vl037.net.anwalt.de
 vmjdpk.repairclinic.com
 vmsxzx.buienradar.nl
+vmundanepollution.com
 vnlvxi.vivastreet.co.uk
 vnzwxk.e-bebek.com
 voeux2020.wearemip.com
@@ -125417,6 +125450,7 @@ zds.net.anwalt.de
 zdx5.destinia.pe
 zelle.odencat.com
 zenedge.actonservice.com
+zestywire.com
 zfctrack.net
 zimadifirenze.net.anwalt.de
 z.inlist.com
