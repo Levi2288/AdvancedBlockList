@@ -65,6 +65,7 @@
 ://tracker.*/pageview
 ://tracking.*/beacon/
 ://tracking.*/event
+://tracking.*/tracking.js
 ?[AQB]&ndh=1&t=
 ?act=counter&
 ?action=event&
@@ -3586,6 +3587,7 @@ omni.soundestlink.com$image
 ||ambitiousagreement.com^
 ||ambitiousanimal.com^
 ||amethystzenith.com^
+||amuckafternoon.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
@@ -5929,6 +5931,7 @@ omni.soundestlink.com$image
 ||logger.co.kr^$third-party
 ||oevery.com^$third-party
 ||rainbownine.net^$third-party
+||smlog.co.kr^$third-party
 ||tenping.kr^$third-party
 ||cms.lv^$third-party
 ||mcloudglobal.com^$third-party
@@ -6714,7 +6717,6 @@ omni.soundestlink.com$image
 ||cloudfront.net/code/keen-2.1.0-min.js
 ||cloudfront.net/dough/*/recipe.js
 ||cloudfront.net/esf.js
-||cloudfront.net/events
 ||cloudfront.net/i?v=
 ||cloudfront.net/js/ca.js
 ||cloudfront.net/js/reach.js
@@ -7022,6 +7024,7 @@ omni.soundestlink.com$image
 ||etl.springbot.com^
 ||etoro.com/tradesmonitor/
 ||eu-mobile.events.data.microsoft.com^
+||ev.moneymade.io^
 ||ev.stellarlabs.ai^
 ||event-api.contactatonce.com^
 ||event-api.rdstation.com.br^
@@ -9299,6 +9302,7 @@ omni.soundestlink.com$image
 ||track.unidata.ai^
 ||tracker-00.qvb.qcloud.com^
 ||tracking.cat898.com^
+||tracklog.58.com^
 ||trail.71baomu.com^
 ||union.360.cn/1899.js
 ||videostats.kakao.com^
@@ -9596,6 +9600,7 @@ omni.soundestlink.com$image
 ||naver.com/mcollector/
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
+||pxl.retaku.net^
 ||recobell.io/rest/logs?
 ||saluton.cizion.com^
 ||sas.nsm-corp.com^
@@ -10058,6 +10063,7 @@ omni.soundestlink.com$image
 ||beforeitsnews.com/core/ajax/counter/count.php^
 ||behance.net/log
 ||behance.net/v2/logs
+||bestbuy.com/~assets/bby/_js/ext/optmzly/
 ||bfp.capitalone.com^
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bi.banggood.com^
@@ -10236,12 +10242,14 @@ omni.soundestlink.com$image
 ||drop.com/impressionsBeacon
 ||drop.com/statBeacon
 ||dropbox.com/2/client_metrics
+||dropbox.com/2/ml_platform/log_predictions_events
 ||dropbox.com/2/pap_event_logging
 ||dropbox.com/alternate_
 ||dropbox.com/jse
 ||dropbox.com/log/
-||dropbox.com/log_
+||dropbox.com/log_js_sw_data
 ||dropbox.com/prompt/log_impression?
+||dropbox.com/unity_connection_log
 ||drudgereport.com/204.png
 ||drugs.com/api/logger/
 ||drugs.com/img/pixel.gif
@@ -11142,6 +11150,8 @@ omni.soundestlink.com$image
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
+||tracking.epicgames.com^
+||tracking.fortnite.com^
 ||tracking.hsn.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
@@ -11228,6 +11238,7 @@ omni.soundestlink.com$image
 ||waaw.ac/cdn-cgi/trace
 ||waaw.to/cdn-cgi/trace
 ||waaw1.tv/cdn-cgi/trace
+||waitrose.com/gDaVC7/
 ||wal.wolfram.com^
 ||walmart.ca/api/bsp/logger
 ||walmart.ca/api/home-page/logger
@@ -28417,6 +28428,7 @@ arketing.indianadunes.com^
 ||cpx.golem.de^
 ||cpxl.golem.de^
 ||d.rp-online.de^
+||dasoertliche.de/js/liwAnalytics.js
 ||data.sportdeutschland.tv^
 ||dd.betano.com^
 ||dein-plan.de/t.gif
@@ -29779,7 +29791,6 @@ arketing.indianadunes.com^
 @@||ikea.com^*/analyticsEvent.$script,~third-party
 @@||imgur.com/min/px.js$~third-party
 @@||indeed.com/rpc/log/myjobs/$~third-party
-@@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||ipv4.seeip.org/jsonip$domain=empire-streaming.app
@@ -29980,6 +29991,7 @@ arketing.indianadunes.com^
 @@||imrworldwide.com/novms/js/2/ggc$script,domain=9now.com.au|adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|espn.com|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|la7.it|news-mail.com.au|news.com.au|noosanews.com.au|ntnews.com.au|sky.it|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|townsvillebulletin.com.au|tvnow.de|video.corriere.it|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|corriereadriatico.it|couriermail.com.au|dailyexaminer.com.au|fanpage.it|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ipswichadvertiser.com.au|la7.it|last.fm|leggo.it|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|quotidianodipuglia.it|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|enmasse.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|screwfix.com|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
+@@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
 @@||ci-mpsnare.iovation.com/snare.js$domain=equifax.ca
 @@||tag.aticdn.net^$script,domain=gouv.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=absa.co.za|att.com|pnc.com|vodafone.it
@@ -30091,7 +30103,6 @@ arketing.indianadunes.com^
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
 @@||trc.taboola.com/inncoil/log/3/available$subdocument,domain=inn.co.il
-@@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||adobedtm.com^*/AppMeasurement.min.js$script,domain=sky.it
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
 @@||analytics.edgekey.net/config/beacon-$xmlhttprequest,domain=raiplay.it
@@ -99965,6 +99976,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  bi.avalere.com
  bidder.7xbid.com
  bidder.am5.vip.prod.criteo.com
+ bidder.as.criteo.com
  bidder.criteo.com
  bidder.da1.vip.prod.criteo.com
  bidder.fr3.vip.prod.criteo.com
@@ -103122,6 +103134,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  greenweez.eulerian.net
  greenweez-uk.eulerian.net
  greetz01.wt-eu02.net
+ grid.bidswitch.net
  groupe-fsc-com.eulerian.net
  groupevents.sixflags.com
  groupsales.sixflags.com
@@ -114792,15 +114805,18 @@ amahami.net.anwalt.de
 amandi.openapp.link
 ama.quarks.de
 ama.wdrmaus.de
+ambiguousafternoon.com
 ambiguousdinosaurs.com
 ambitiousanimal.com
 a.mercuriurval.com
 americasbrandperformancesupport.hilton.com
+amethystzenith.com
 a.micorp.com
 amo.myoyster.mx
 ampltd2.medal.tv
 am.siemensplmevents.com
 ams.lelong.com.my
+amuckafternoon.com
 a.munters.com.au
 a.munters.com.mx
 a.munters.es
@@ -115242,6 +115258,7 @@ asssyy.icook.tw
 astage.dailynumber.app
 ast-en.adp.ca
 ast-fr.adp.ca
+astonishingair.com
 astonishingfood.com
 astral.nicovideo.jp
 asttcp.vatera.hu
@@ -115262,7 +115279,6 @@ a.topya.com
 a.transportgruppen.se
 a.trivita.com
 a-t.topya.com
-attractionapples.com
 aud.banque-france.fr
 audio-ak-spotify-com.akamaized.net.iberostar.com
 audit.qiuwen.net.cn
@@ -115440,6 +115456,7 @@ bot.asksyllable.com
 botb.rtl2.de
 bot.stackbots.com
 bot.streaktrivia.com
+boundarybusiness.com
 boundlessargument.com
 boundlessbrake.com
 boundlessveil.com
@@ -115612,6 +115629,7 @@ bulgariarestaurant.openapp.link
 bumpydevelopment.com
 buoypinger-app.sapsailing.com
 bup.bankofamerica.com
+burlywhistle.com
 burntwist.com
 bushesbag.com
 businessaffiliate.americanexpress.com
@@ -115719,6 +115737,7 @@ cfxsss.deerberg.de
 chaireggnog.com
 chairsdonkey.com
 chalkoil.com
+changeablecats.com
 channel.cummins.com
 channelportal.netsuite.com
 chargecracker.com
@@ -115835,6 +115854,7 @@ collect.rebelmouse.io
 collect.stepstone.co.uk
 collect.thunder-io.com
 college.marketingcube.com.au
+colossalcry.com
 com.102.122.207.net
 combativecar.com
 combcattle.com
@@ -115962,6 +115982,7 @@ cookies.siemens-healthineers.com
 cookies.wpcarey.com
 cooking-app.lkk.com
 coop.vmware.com
+coralreverie.com
 cordcopper.com
 corporate.americanexpress.com
 corporatecards.americanexpress.com
@@ -116660,6 +116681,7 @@ embermosaic.com
 emb.soothe.com
 em-email.thermofisher.com
 e.metarouter.io
+eminentbubble.com
 eminentend.com
 emm.us.puma.com
 emrdnt.sumaity.com
@@ -116667,6 +116689,8 @@ ems-a8net-tracking.easy-myshop.jp
 ems.youku.com
 enchantedskyline.com
 enchantingbear.com
+enchantingvalley.com
+encouragingthread.com
 encuestas.billeteramango.com
 endljp.pariteni.bg
 endljp.vesti.bg
@@ -116682,6 +116706,7 @@ engage.siriusdecisions.com
 engage.tines.com
 engage.unisa.edu.au
 engage.uq.edu.au
+engineergrape.com
 engineertrick.com
 engine.traceparts.com
 enormousfoot.com
@@ -116744,7 +116769,6 @@ eureka-app.eurekaplatform.org
 eusdbk.philosophyofficial.com
 eu.sharpmarketing.eu
 evadav.indonesiya.com
-evaluatestream.com
 e.vcty.co
 event1.thermofisher.com
 event1.thermoscientific.com
@@ -116790,6 +116814,7 @@ events.ubembed.com
 events.verticurl.com
 event.thermoscientific.cn
 evivdj.novasol.fi
+ev.moneymade.io
 evs.icy-lake.kickstarter.com
 ev.stellarlabs.ai
 evt-api.ntm.eu
@@ -116850,6 +116875,7 @@ fdixsh.platypusshoes.com.au
 fdkeip.azafashions.com
 fearfulfear.com
 fearfulmint.com
+featherstage.com
 fec1.optimhome.com
 feedback.aon.com
 feedback.campbellmetal.com
@@ -116860,6 +116886,7 @@ feldman.net.anwalt.de
 femetrics.grammarly.io
 fetch.gethuan.com
 fewjuice.com
+fewkittens.com
 ffe390afd658c19dcbf707e0597b846d.de
 ffuodj.lanebryant.com
 ffyvsn.evisu.com
@@ -116889,6 +116916,7 @@ fmjgtp.dentalspeed.com
 fmqidg.letras.com
 foamypain.com
 fokbrd.impo.ch
+followborder.com
 food.informaengage.com
 food.pentonmarketingsvcs.com
 foodsafetyandhygiene.inthere.link
@@ -116958,6 +116986,7 @@ franticroof.com
 fraudandcyberawareness.safeguard.hsbc.com
 freabell.achilles-webshop.com
 freezingbuilding.com
+frequentflesh.com
 friendlycrayon.com
 friendlyfold.com
 friends.hyll.com
@@ -117013,6 +117042,7 @@ gcxiyx.inspireuplift.com
 gdg.gardnerdenver.com
 gear.echovisuals.com
 generalprose.com
+generateoffice.com
 gentlemoonlight.com
 geo.brobible.com
 geo.gorillanation.com
@@ -117133,6 +117163,7 @@ get.yellw.co
 get.yomobile.com
 get.yugengamers.com
 gflpvq.rufflebutts.com
+giantsvessel.com
 gif1.gifi.fr
 ginmon.efscle.com
 givevacation.com
@@ -117506,7 +117537,6 @@ hospitablehall.com
 hospitablehat.com
 hospitality.redbull.racing
 host.roxiapp.com
-hothydrant.com
 houston.advgo.net
 hovpn.net.shop.com.mm
 hphtjv.orellfuessli.ch
@@ -120033,6 +120063,7 @@ nsc.ulsterbank.co.uk
 nsc.ulsterbank.ie
 nsm.tr.netsalesmedia.pl
 nturnm.unisport.dk
+numberlessring.com
 numbers.monthlyphotos.com
 numerousnest.com
 nums.upscale.app
@@ -120152,7 +120183,6 @@ open.wynk.in
 operationchicken.com
 operationnail.com
 opportunityfund.actonservice.com
-oppositeparcel.com
 opticca.actonservice.com
 optimeeze.appspot.com
 optimisation.coop.co.uk
@@ -120247,6 +120277,7 @@ pages.uchicagomedicine.org
 pages.uila.com
 page.thalesgroup.com
 paginaseloqua.unisabana.edu.co
+pailpatch.com
 painstakingpickle.com
 paintersusainc.actonservice.com
 paintpear.com
@@ -120301,6 +120332,7 @@ peiq.services
 p.ejs.dev
 perawan.indonesiya.com
 perf.af.funneldrivers.com
+performance-logger.minted.com
 pergeroni.openapp.link
 permission.au.actonservice.com
 perr.hola.org
@@ -120468,7 +120500,6 @@ preferences.deloitte.ca
 preferences.marketone.com
 premiumapp.byjus.com
 prenesi-mojm.mercator.si
-presentbedroom.com
 priceypies.com
 pricklyjourney.com
 pricklypies.com
@@ -120552,6 +120583,7 @@ pubstr.acspubs.org
 pubstr.chemrxiv.org
 pumlmb.netcologne.de
 pumpedpancake.com
+pumpedpurpose.com
 pu.pretunique.fr
 purple.mongodb.com
 purpletalk.actonservice.com
@@ -120562,6 +120594,7 @@ purpose.maxizoo.be
 purpose.maxizoo.fr
 purpose.maxizoo.ie
 purpose.maxizoo.pl
+purposepipe.com
 push-sdk.net
 pushypipe.com
 p.viennaandbailey.co.nz
@@ -120571,6 +120604,7 @@ pv.sohu.com
 pxbnou.ig.com.br
 px.dmp.zaloapp.com
 px-intl.ucweb.com
+pxl.retaku.net
 px.srvcs.tumblr.com
 pymbay.kinguin.net
 pywiia.lfmall.co.kr
@@ -120651,6 +120685,7 @@ rangeplayground.com
 rank.xn--cosme-5c4djcw662edgyc.com
 r.apkpure.net
 rasabenito.indonesiya.com
+raspyteam.com
 ras.yahoo.com
 r.atlasearth.com
 rba-screen.healthsafe-id.com
@@ -120798,6 +120833,7 @@ r.guggy.com
 rh1a.granions.fr
 rh.adp.ca
 rhahvac.actonservice.com
+rhetoricalactivity.com
 rhetoricaltoes.com
 rhinowebgroup.actonservice.com
 rhl.net.anwalt.de
@@ -120924,6 +120960,7 @@ saec-metrics.base.be
 saec-metrics.telenet.be
 sa.fchp.org
 safepass.citizen.com
+saffronrefuge.com
 sailinsight20-app.sapsailing.com
 sailinsight-app.sapsailing.com
 saleslists.inform.equifax.com
@@ -121001,7 +121038,7 @@ sc2metrics.exacttarget.com
 sc.actonservice.com
 scalematrix.actonservice.com
 scanner-link.covve.com
-scaredfarm.com
+scarcecard.com
 scaredsong.com
 scaredstomach.com
 scarefowl.com
@@ -121380,7 +121417,6 @@ simg.yemeksepeti.com
 simple.siegelgale.com
 simscale.actonservice.com
 simulateswing.com
-sincereseashore.com
 sinkbooks.com
 s.innoq.com
 site.att.com
@@ -122674,10 +122710,12 @@ snalytics.allianz-travel.com.hk
 snalytics.travelinsurance.ca
 snapshotapp.progressive.com
 snd.freshstartnews.com
+sneakwind.com
 s.nextblock.sg
 sniffer.nitro-production.otto.boreus.de
 sniffer.nitro-test-extern.otto.boreus.de
 snowman.odencat.com
+snowplowjs.darwin.cx
 snptrk.com
 so8.hyatt.com
 soapfighters.com
@@ -122758,6 +122796,7 @@ sonar6.xy.fbcdn.net.iberostar.com
 s-onetag.com
 soneticscorp.actonservice.com
 so.opentable.co.uk
+soothingglade.com
 sordidstation.com
 soresidewalk.com
 sosintl.actonservice.com
@@ -122792,10 +122831,12 @@ spread.epoolers.com
 springsnails.com
 spt.ahram.org.eg
 sp.tinymce.com
+spuriousair.com
 spurioussquirrel.com
 sp.welcometothejungle.com
 sp.wvoil.com
 spytsg.horti.jp
+squalidscrew.com
 sr59t7wbx5.claricelin.com
 s.repguard.uk
 srglobal.actonservice.com
@@ -123469,6 +123510,7 @@ stentel.actonservice.com
 stepcattle.com
 stereos2.crutchfield.com
 s.testneedle.co.uk
+stewedge.com
 stg-bnc-papago.naver.com
 s.thebigfamily.app
 stimulatingsneeze.com
@@ -123729,6 +123771,7 @@ te.sieh-an.at
 test2.majelan.com
 test.actonservice.com
 test-ad.mens-lucia.com
+testadmiral.com
 test-app.getgifted.com
 test-applink.batterii.com
 test-app.payk.com.au
@@ -123921,7 +123964,6 @@ tnincvf1d1jl.de.themoneytizer.com
 tnz3.carrefour-banque.fr
 to.4sq.com
 to.5mins.ai
-toadtexture.com
 to.card.com
 to.degree.plus
 to.golfn.app
@@ -124100,6 +124142,7 @@ tracking.fcmtravel.com
 tracking.fdbhealth.com
 tracking.fdbhealth.co.uk
 tracking.flowofwork.adp.com
+tracking.fortnite.com
 tracking.ftitechnology.com
 tracking.gartner.com
 tracking.gelia.com
@@ -124238,6 +124281,7 @@ track.invtrusts.co.uk
 track.ivia.com
 track.lesmills.com
 track.list-finder.jp
+tracklog.58.com
 track.mentor.com
 track.murray-income.co.uk
 track.myli.io
@@ -124282,6 +124326,8 @@ tr.alex.espmp-agfr.net
 tr.allianz-trade.com
 t.ramblinwreck.com
 tr.animations.alticemedia.com
+tranquilamulet.com
+tranquilcanyon.com
 transmapp.com
 transplant.care.uhssa.com
 transportation.external.xerox.com
@@ -125131,7 +125177,6 @@ vkxyjj.g2a.com
 vl037.net.anwalt.de
 vmjdpk.repairclinic.com
 vmsxzx.buienradar.nl
-vmundanepollution.com
 vnlvxi.vivastreet.co.uk
 vnzwxk.e-bebek.com
 voeux2020.wearemip.com
@@ -125531,6 +125576,7 @@ yamstamp.com
 yawxae.footpatrol.com
 yddtah.takingshape.com
 yhnwux.infomoney.com.br
+yieldingwoman.com
 y.ksl.com
 yndhi.com
 yolo.philipbjorge.com
