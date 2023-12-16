@@ -65,7 +65,6 @@
 ://tracker.*/pageview
 ://tracking.*/beacon/
 ://tracking.*/event
-://tracking.*/tracking.js
 ?[AQB]&ndh=1&t=
 ?act=counter&
 ?action=event&
@@ -11150,8 +11149,6 @@ omni.soundestlink.com$image
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
-||tracking.epicgames.com^
-||tracking.fortnite.com^
 ||tracking.hsn.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
