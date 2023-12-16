@@ -1594,6 +1594,7 @@ omni.soundestlink.com$image
 ||hiconversion.com^$third-party
 ||hif.to^$third-party
 ||higherengine.com^$third-party
+||highlight.run^$third-party
 ||highmetrics.com^$third-party
 ||hira-meki.jp^$third-party
 ||histats.com^$third-party
@@ -6470,9 +6471,7 @@ omni.soundestlink.com$image
 ||app.carnow.com/dealers/track_visitor
 ||app.link/_r?$script,third-party
 ||app.opmnstr.com/v2/geolocate/
-||app.posthog.com/e/?compression=
-||app.posthog.com/e/?ip=
-||app.posthog.com/static/array.js
+||app.posthog.com^$script,xmlhttprequest
 ||app.yesware.com/t/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
@@ -8522,6 +8521,7 @@ omni.soundestlink.com$image
 ||userway.org/api/seo-widget/
 ||userway.org/api/v1/stats
 ||utils.global-e.com/set?
+||utt.pm/utm/
 ||v-h.tv/pixel/
 ||v.shopify.com^
 ||va.tawk.to/log
@@ -22251,7 +22251,6 @@ arketing.indianadunes.com^
 ||go.morningstar.com^
 ||go.navepoint.com^
 ||go.netwitness.com^
-||go.oracle.com^
 ||go.petrelocation.com^
 ||go.protools.emerson.com^
 ||go.psentertainment.com^
