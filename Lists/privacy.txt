@@ -219,6 +219,7 @@ omni.soundestlink.com$image
 ||31daa5lnq.de^
 ||34.215.155.61^
 ||3gl.net^
+||4251.tech^
 ||44.228.85.26^
 ||520886.xyz^
 ||a1webstrategy.com^
@@ -2144,21 +2145,15 @@ omni.soundestlink.com$image
 ||ojrq.net^$third-party
 ||okt.to^$third-party
 ||oktopost.com^$third-party
-||omarsys.com^$third-party
 ||ometria.com^$third-party
 ||omguk.com^$third-party
 ||omkt.co^$third-party
 ||omniconvert.com^$third-party
-||omtvxcle.com^$third-party
 ||onaudience.com^$third-party
 ||ondu.ru^$third-party
 ||onefeed.co.uk^$third-party
-||oneimpress.io^$third-party
 ||onelink.me^$image,script,third-party
 ||onestat.com^$third-party
-||onetag-sys.com^$third-party
-||onetag.io^$third-party
-||ongsono.com^$third-party
 ||oniad.com^$third-party
 ||online-metrix.net^$third-party
 ||onlinepbx.ru^$third-party
@@ -6534,6 +6529,7 @@ omni.soundestlink.com$image
 ||azureedge.net/javascripts/Tracking.
 ||azureedge.net/track
 ||azureedge.net^*/fnix.js
+||azurewaf.microsoft.com/event?
 ||azurewebsites.net/api/views?
 ||azurewebsites.net/TrackView/
 ||azurewebsites.net^*/telemetry.js
@@ -8276,6 +8272,7 @@ omni.soundestlink.com$image
 ||terabox.com/api/analytics?
 ||terabox.fun/api/analytics
 ||terabox.fun/api/getsyscfg?*web_share_ads_adsterra_config
+||test.takedwn.ws^
 ||th.bing.com/th/*&riu=$image,third-party
 ||the-group.net/aether/
 ||themesltd.com/online-users-counter/$third-party
@@ -10207,6 +10204,7 @@ omni.soundestlink.com$image
 ||darkreader.org/elements/backers-
 ||data.allstate.com^
 ||data.guide.photobucket.com^
+||data.torry.io^
 ||data.webullfintech.com/event/
 ||data.younow.com^
 ||datadoghq.com/assets/dd-browser-logs-rum.js
@@ -11022,6 +11020,7 @@ omni.soundestlink.com$image
 ||strtapewithadblock.xyz/stat/
 ||strtpe.link/stat/
 ||stubhub.com/a/icph
+||suaurl.com/adblock/js/smarttag.js
 ||swarm.video/stats/
 ||szrpr.raen.com^
 ||t.3hentai.net^
@@ -11058,6 +11057,7 @@ omni.soundestlink.com$image
 ||tahoe.com/imp
 ||taiwanplus.com/api/video/startVideo
 ||tao.barstoolsports.com^
+||tapeantiads.com/stat/
 ||tapeblocker.com/stat/
 ||tapenoads.com/stat/
 ||tapewithadblock.com/stat/
@@ -29307,6 +29307,7 @@ arketing.indianadunes.com^
 ||uts.auction.co.kr^
 ||utsssl.auction.co.kr^
 ||wcs.naver.com^
+||weblog.coupang.com^
 ||weblog.eseoul.go.kr^
 ||weblog2.eseoul.go.kr^
 ||ytn.co.kr/_comm/ylog.php?
