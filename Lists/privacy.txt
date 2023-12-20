@@ -10140,6 +10140,7 @@ omni.soundestlink.com$image
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
+||cmpworker.dotesports.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
@@ -99981,6 +99982,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  bidder.as.criteo.com
  bidder.criteo.com
  bidder.da1.vip.prod.criteo.com
+ bidder.eu.criteo.com
  bidder.fr3.vip.prod.criteo.com
  bidder.jp2.vip.prod.criteo.com
  bidder.nl3.vip.prod.criteo.com
@@ -103136,6 +103138,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  greenweez.eulerian.net
  greenweez-uk.eulerian.net
  greetz01.wt-eu02.net
+ grid.bidswitch.net
  groupe-fsc-com.eulerian.net
  groupevents.sixflags.com
  groupsales.sixflags.com
