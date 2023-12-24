@@ -2755,6 +2755,7 @@ omni.soundestlink.com$image
 ||sumome.com^$third-party
 ||sundaysky.com^$third-party
 ||supercounters.com^$third-party
+||superspeedapp.com^$third-party
 ||superstats.com^$third-party
 ||surefire.link^$third-party
 ||surfcounters.com^$third-party
@@ -6235,6 +6236,7 @@ omni.soundestlink.com$image
 ||1worldsync.com/log?
 ||216.18.176.4/logger/
 ||360buyimg.com/jdf/1.0.0/unit/log/
+||3j0pw4ed7uac-a.akamaihd.net^
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
 ||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com/sa7d76sa/
@@ -7259,6 +7261,7 @@ omni.soundestlink.com$image
 ||gowatchit.com^*/tracking/
 ||grabnetworks.com/beacons/
 ||grabnetworks.com/ping?
+||grafana.net/collect/
 ||graphcomment.com/api/thread/*/stats
 ||green-griffin-860.appspot.com^
 ||gsp1.baidu.com^
@@ -9136,6 +9139,7 @@ omni.soundestlink.com$image
 ||core.unit-sense.net^
 ||da-kolkoz.com/da-top/track/
 ||devtribu.fr/t.php?
+||dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws^
 ||e-pagerank.fr/bouton.gif?$third-party
 ||e.viously.com^
 ||early-birds.fr/events/
