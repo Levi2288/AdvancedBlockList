@@ -4238,6 +4238,7 @@ omni.soundestlink.com$image
 ||handyfield.com^
 ||handyfireman.com^
 ||handyincrease.com^
+||haplesshydrant.com^
 ||haplessland.com^
 ||happenhistory.com^
 ||harborcaption.com^
@@ -5004,6 +5005,7 @@ omni.soundestlink.com$image
 ||storeslope.com^
 ||storesurprise.com^
 ||stormyachiever.com^
+||stormyfold.com^
 ||stoveseashore.com^
 ||straightnest.com^
 ||strangeclocks.com^
@@ -117542,6 +117544,7 @@ haltingdivision.com
 handnorth.com
 handsomehose.com
 handsomeyam.com
+handyincrease.com
 haplessland.com
 harborcaption.com
 harman.epoise.com
@@ -117573,6 +117576,7 @@ herbgreencolumn.com
 herpes2.pa-ruit.jp
 heuida.shopafrm.com
 hf.forevernetworks.com
+highway.cablecar.sph.com.sg
 hi.hipcamp.com
 hi.inhaabit.com
 hipizza.openapp.link
@@ -123601,6 +123605,7 @@ strack.cricketworldcupstore.com
 strangeclocks.com
 strangersponge.com
 stream.9now.com.au
+streams.cablecar.sph.com.sg
 streetsort.com
 stretchsneeze.com
 stretchsquirrel.com
