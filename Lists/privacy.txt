@@ -3539,6 +3539,7 @@ omni.soundestlink.com$image
 ||acceptableauthority.com^
 ||accurateanimal.com^
 ||achieverknee.com^
+||acidicgrip.com^
 ||acidicstraw.com^
 ||acidpigs.com^
 ||acousticsapparel.com^
@@ -3567,6 +3568,7 @@ omni.soundestlink.com$image
 ||ajaralarm.com^
 ||ak0gsh40.com^
 ||alertafterthought.com^
+||alertfaucet.com^
 ||aliasanvil.com^
 ||alikeaddition.com^
 ||alikearm.com^
@@ -3614,6 +3616,7 @@ omni.soundestlink.com$image
 ||aspiringattempt.com^
 ||astonishingair.com^
 ||astonishingfood.com^
+||attractionapples.com^
 ||attractionbanana.com^
 ||attractiveafternoon.com^
 ||attractivecap.com^
@@ -3635,6 +3638,7 @@ omni.soundestlink.com$image
 ||axiomaticanger.com^
 ||azuremystique.com^
 ||badgeboat.com^
+||badgevolcano.com^
 ||bagbeam.com^
 ||baitbaseball.com^
 ||balancemailbox.com^
@@ -3661,6 +3665,7 @@ omni.soundestlink.com$image
 ||beastbeef.com^
 ||beautifulhobbies.com^
 ||bedsberry.com^
+||beetleend.com^
 ||beginnerpancake.com^
 ||begintrain.com^
 ||beneficialbeef.com^
@@ -3790,6 +3795,7 @@ omni.soundestlink.com$image
 ||chemicalcoach.com^
 ||chemicalsnake.com^
 ||cherriescare.com^
+||cherriescloud.com^
 ||chesscherry.com^
 ||chesscolor.com^
 ||chewcoat.com^
@@ -3833,9 +3839,11 @@ omni.soundestlink.com$image
 ||combbit.com^
 ||combcattle.com^
 ||combclover.com^
+||combcompetition.com^
 ||comfortablecheese.com^
 ||commonalmanac.com^
 ||commonswing.com^
+||companyparcel.com^
 ||comparereaction.com^
 ||competitionbeetle.com^
 ||compiledoctor.com^
@@ -3844,6 +3852,7 @@ omni.soundestlink.com$image
 ||conceptualizereading.com^
 ||concernedchickens.com^
 ||concernedcondition.com^
+||condemnedcomb.com^
 ||conditionchange.com^
 ||conditioncrush.com^
 ||confesschairs.com^
@@ -3908,6 +3917,8 @@ omni.soundestlink.com$image
 ||cutecushion.com^
 ||cutepopcorn.com^
 ||cuteturkey.com^
+||dailydivision.com^
+||damagedadvice.com^
 ||damageddistance.com^
 ||damagedroll.com^
 ||damdoor.com^
@@ -4019,6 +4030,7 @@ omni.soundestlink.com$image
 ||elderlyinsect.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
+||elegantboulevard.com^
 ||elephantqueue.com^
 ||embellishedmeadow.com^
 ||embermosaic.com^
@@ -4056,6 +4068,7 @@ omni.soundestlink.com$image
 ||erraticreaction.com^
 ||etherealripple.com^
 ||evaluateend.com^
+||evaluatestream.com^
 ||evanescentedge.com^
 ||eventexistence.com^
 ||exampleshake.com^
@@ -4199,6 +4212,7 @@ omni.soundestlink.com$image
 ||grandiosefire.com^
 ||grandioseguide.com^
 ||grandmotherunit.com^
+||grapeopinion.com^
 ||grayoranges.com^
 ||grayreceipt.com^
 ||greasegarden.com^
@@ -4306,6 +4320,7 @@ omni.soundestlink.com$image
 ||inconclusiveaction.com^
 ||infamousstream.com^
 ||informengine.com^
+||innatecomb.com^
 ||innocentinvention.com^
 ||innocentwax.com^
 ||inputicicle.com^
@@ -4333,6 +4348,7 @@ omni.soundestlink.com$image
 ||jubilantcanyon.com^
 ||justicejudo.com^
 ||k54nw.pw^
+||kaputquill.com^
 ||kitesquirrel.com^
 ||kittyaction.com^
 ||knitstamp.com^
@@ -4394,6 +4410,7 @@ omni.soundestlink.com$image
 ||makeshiftmine.com^
 ||maliciousmusic.com^
 ||maniacalappliance.com^
+||marblediscussion.com^
 ||markedcrayon.com^
 ||markedmeasure.com^
 ||markedpail.com^
@@ -4414,6 +4431,7 @@ omni.soundestlink.com$image
 ||meadowlullaby.com^
 ||measlymiddle.com^
 ||measurecaption.com^
+||measurefoot.com^
 ||meatydime.com^
 ||meddleplant.com^
 ||mediatescarf.com^
@@ -4506,6 +4524,7 @@ omni.soundestlink.com$image
 ||oppositeoperation.com^
 ||optimallimit.com^
 ||orangeoperation.com^
+||organizationdogs.com^
 ||orionember.com^
 ||outstandingsnails.com^
 ||ovalweek.com^
@@ -4709,6 +4728,8 @@ omni.soundestlink.com$image
 ||resonantrock.com^
 ||respectrain.com^
 ||restrainstorm.com^
+||restructureinvention.com^
+||retrievemint.com^
 ||rhetoricalactivity.com^
 ||rhetoricalloss.com^
 ||rhetoricaltoes.com^
@@ -4814,6 +4835,7 @@ omni.soundestlink.com$image
 ||serenecascade.com^
 ||serioussuit.com^
 ||serpentshampoo.com^
+||settleshoes.com^
 ||shadeship.com^
 ||shaggytank.com^
 ||shakegoldfish.com^
@@ -4861,6 +4883,7 @@ omni.soundestlink.com$image
 ||sizesidewalk.com^
 ||skillfuldrop.com^
 ||skillfulsock.com^
+||skisofa.com^
 ||slaysweater.com^
 ||sleepcartoon.com^
 ||slimopinion.com^
@@ -4962,6 +4985,7 @@ omni.soundestlink.com$image
 ||squirrelhands.com^
 ||stakingbasket.com^
 ||stakingscrew.com^
+||stakingshock.com^
 ||stakingslope.com^
 ||stakingsmile.com^
 ||staleseat.com^
@@ -4988,6 +5012,7 @@ omni.soundestlink.com$image
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
 ||stewedge.com^
+||stewspiders.com^
 ||stickssheep.com^
 ||stickysheet.com^
 ||stiffgame.com^
@@ -5058,6 +5083,7 @@ omni.soundestlink.com$image
 ||sweepsheep.com^
 ||sweetslope.com^
 ||swellstocking.com^
+||swelteringsleep.com^
 ||swelteringsmile.com^
 ||swimslope.com^
 ||swingslip.com^
@@ -5212,6 +5238,7 @@ omni.soundestlink.com$image
 ||vibranthaven.com^
 ||vibrantsundown.com^
 ||victoriousrequest.com^
+||violetreading.com^
 ||virgoplato.com^
 ||virtualvincent.com^
 ||vivaciousveil.com^
@@ -5225,12 +5252,14 @@ omni.soundestlink.com$image
 ||vq1qi.pw^
 ||waggishpig.com^
 ||wakefulcook.com^
+||wantingwindow.com^
 ||warmafterthought.com^
 ||warmquiver.com^
 ||warnwing.com^
 ||waryfog.com^
 ||washbanana.com^
 ||wateryvan.com^
+||waterywave.com^
 ||wearbasin.com^
 ||wearywater.com^
 ||wellgroomedapparel.com^
@@ -5423,6 +5452,7 @@ omni.soundestlink.com$image
 ||lumitos.com^$third-party
 ||mairdumont.com^$third-party
 ||marketing-page.de^$third-party
+||matelso.de^$third-party
 ||mateti.net^$third-party
 ||md-nx.com^$third-party
 ||meetrics.net^$third-party
@@ -6595,6 +6625,7 @@ omni.soundestlink.com$image
 ||beacon2.indieclick.com^
 ||beacons.mediamelon.com^
 ||beam.mjhlifesciences.com^
+||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
 ||behavior.tongdun.net^
 ||bento.agoda.com^
@@ -6648,6 +6679,7 @@ omni.soundestlink.com$image
 ||cache2.delvenetworks.com^
 ||cahf4eed.mooo.com^
 ||californiatimes.com/privacy/$image
+||calltrack.co^
 ||calltrk.com/companies/
 ||camel.headfarming.com^
 ||canada.com/js/analytics/
@@ -7532,6 +7564,7 @@ omni.soundestlink.com$image
 ||logs-api.shoprunner.com^
 ||logs.animaapp.com^
 ||logs.datadoghq.com^$third-party
+||logs.mezmo.com^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.viadata.store^
@@ -8531,6 +8564,7 @@ omni.soundestlink.com$image
 ||uadblocker.com/pixel1.php?$third-party
 ||uc.cn/collect?
 ||ucounter.ucoz.net^
+||ucoz.net/stat/
 ||uhit.eu/id/$third-party
 ||uid.mediacorp.sg^
 ||uim.tifbs.net^
@@ -10798,6 +10832,7 @@ omni.soundestlink.com$image
 ||perr.hola.org^
 ||petametrics.com^$domain=meidastouch.com
 ||pf.newegg.com^
+||pftk.temu.com^
 ||ph.thenextweb.com^
 ||phonearena.com/_track.php
 ||pikbest.com/?m=Stats&
@@ -11501,6 +11536,7 @@ omni.soundestlink.com$image
 ||ktla.com/CvbtpUrj/init.js
 ||lancome-usa.com/IZ/PXq99AlOxk/init.js
 ||madlan.co.il/o4wPDYYd/init.js
+||mysanantonio.com/413gkwMT/init.js
 ||newsnationnow.com/yZuPxxW0/init.js
 ||nyxcosmetics.com/IZ/PXLZNv2dn4/init.js
 ||octopart.com/kdRQnL15/init.js
@@ -11529,6 +11565,7 @@ omni.soundestlink.com$image
 ||sweetwater.com/p2TBVNJZ/init.js
 ||thehill.com/6zcfGH4h/init.js
 ||therealreal.com/ev56mY37/init.js
+||timesunion.com/413gkwMT/init.js
 ||tumi.com/4i06uv8M/init.js
 ||walmart.ca/px/PXnp9B16Cq/init.js
 ||walmart.com/px/PXu6b0qd2S/init.js
@@ -29028,6 +29065,7 @@ arketing.indianadunes.com^
 ||npo-data.nl/tags/tag.min.js
 ||npo.nl/tag/atinternet/
 ||pcmweb.nl/track/
+||pg.totaaltv.nl/api/metrics
 ||pipeline.rd.nl^$~script
 ||r.kleertjes.com^
 ||rtl.nl/system/track/
@@ -29441,6 +29479,7 @@ arketing.indianadunes.com^
 ||2gis.ru/_/metrics
 ||3dnews.ru/track
 ||4pda.ru/stat/
+||a.mts.ru^
 ||a.pikabu.ru^
 ||ad.mail.ru/static/sync-loader.js
 ||ad7.bigmir.net^
@@ -29485,6 +29524,7 @@ arketing.indianadunes.com^
 ||mail.ru/count/
 ||metrika.kontur.ru^
 ||mirtesen.ru/js/ms.js
+||mts.ru/fe-api/logger
 ||mytoys.ru/ka_z.jpg?
 ||ngs.ru/s/
 ||odnoklassniki.ru/dk?cmd=videoStatNew
@@ -30093,6 +30133,7 @@ arketing.indianadunes.com^
 @@||kameleoon.eu/kameleoon.js$domain=welt.de
 @@||kameleoon.io/geolocation^$domain=welt.de
 @@||kameleoon.io/ip^$domain=welt.de
+@@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
 @@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
 @@||script-at.iocnt.net/iam.js$domain=oe24.at
@@ -103183,6 +103224,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  greenweez.eulerian.net
  greenweez-uk.eulerian.net
  greetz01.wt-eu02.net
+ grid.bidswitch.net
  groupe-fsc-com.eulerian.net
  groupevents.sixflags.com
  groupsales.sixflags.com
@@ -114680,6 +114722,7 @@ ac-ebis.usen-service.com
 ac-ebis.usen-store.com
 a.centrum.cz
 ac.geechs-job.com
+acidicgrip.com
 acidicstraw.com
 a.conferencecall.com
 acq-au.americanexpress.com
@@ -114830,6 +114873,7 @@ al.airtel.in
 alapita.openapp.link
 albanychicago.advancedtech.com
 ald.aldautomotive.be
+alertfaucet.com
 alertsatwork.americanexpress.com
 alerts.ironmountain.com
 alerts.wolterskluwerfs.com
@@ -114866,6 +114910,7 @@ amo.myoyster.mx
 ampltd2.medal.tv
 am.siemensplmevents.com
 ams.lelong.com.my
+a.mts.ru
 amuckafternoon.com
 a.munters.com.au
 a.munters.com.mx
@@ -115331,6 +115376,7 @@ a.topya.com
 a.transportgruppen.se
 a.trivita.com
 a-t.topya.com
+attractionapples.com
 aud.banque-france.fr
 audio-ak-spotify-com.akamaized.net.iberostar.com
 audit.qiuwen.net.cn
@@ -115381,6 +115427,7 @@ baby.camsex.eu.org
 baccarat.abzorbagames.com
 backoffice.verintsystemsinc.com
 badgeboat.com
+badgevolcano.com
 baitbaseball.com
 balloonbelieve.com
 ballsbanana.com
@@ -115407,12 +115454,14 @@ beaconcdn.qq.com
 beacon.dropbox.com
 beacon.klm.com
 beacon.sftoaa.com
+beamanalytics.b-cdn.net
 beam.telex.hu
 beamvolcano.com
 beancontrol.com
 bears.daigostudio.com
 beat.yourtv.jp
 beer2s.millerbrewing.com
+beetleend.com
 be-go.experian.com
 behavior.tongdun.net
 beneficios.davivienda.sv
@@ -115714,6 +115763,7 @@ cakep.indonesiya.com
 cakesdrum.com
 calculatingchannel.com
 calibration.ni.com
+calltrack.co
 campaign.amadeus.com
 campaign.fr.mazda.be
 campaign.mazda.lu
@@ -115800,6 +115850,7 @@ chat.forddirectdealers.com
 chef.getmenoo.com
 chef.newtrina.com
 chelsea.clicks.hqo.co
+cherriescloud.com
 childlikeexample.com
 chivalrouscord.com
 choose.adelaide.edu.au
@@ -115914,6 +115965,7 @@ colossalcry.com
 com.102.122.207.net
 combativecar.com
 combcattle.com
+combcompetition.com
 commerce.bing.com
 commercial.equifax.com
 commercial.inform.equifax.com
@@ -115935,6 +115987,7 @@ communications.embarcadero.com
 communications.parcours.fr
 communications.ultraedit.com
 community.fusesource.com
+companyparcel.com
 comparereaction.com
 compiledoctor.com
 compliance.coniferhealth.com
@@ -115945,6 +115998,7 @@ comunicaciones.paginasamarillas.es
 comunicaciones.pymas.com.co
 comunicacion.usj.es
 concernedchickens.com
+condemnedcomb.com
 confiant-integrations.global.ssl.fastly.net
 confiant-integrations.net
 confirm.aon.com
@@ -116197,6 +116251,8 @@ d3vebqdofhigrn.cloudfront.net
 d6ek.pandasuite.io
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 da.hornbach.be
+dailydivision.com
+damagedadvice.com
 damagedroll.com
 dangerouswinter.com
 da.rabobank.nl
@@ -116632,6 +116688,7 @@ elderlybean.com
 e-learning.brainshark.com
 electronics.edm.globalsources.com
 e.legalstart.fr
+elegantboulevard.com
 elia.thermofisher.com
 elinks.dice.com
 elink.serasaexperian.com.br
@@ -116829,6 +116886,7 @@ eureka-app.eurekaplatform.org
 eusdbk.philosophyofficial.com
 eu.sharpmarketing.eu
 evadav.indonesiya.com
+evaluatestream.com
 e.vcty.co
 event1.thermofisher.com
 event1.thermoscientific.com
@@ -117505,6 +117563,7 @@ grado.ufv.es
 grainmass.com
 grandfatherguitar.com
 grandiosefire.com
+grapeopinion.com
 grayoranges.com
 gr-business.vodafone.com
 grn.openapp.link
@@ -117545,6 +117604,7 @@ handnorth.com
 handsomehose.com
 handsomeyam.com
 handyincrease.com
+haplesshydrant.com
 haplessland.com
 harborcaption.com
 harman.epoise.com
@@ -118084,6 +118144,7 @@ inhalt.bild.de
 inhouse.link.snapfeet.io
 in.invitd.us
 inmuzp.popsockets.com
+innatecomb.com
 innovation.leeind.com
 innovation.m5.net
 innovations.luxaflex.com.au
@@ -118258,6 +118319,7 @@ k1usj3j6p706.dev.app.fika.community
 k50.rtl2.de
 k5app.byjus.com
 kaladyaudiology.ericksonbuilt.com
+kaputquill.com
 k.brandalley.be
 k.brandalley.es
 k.brandalley.fr
@@ -118853,6 +118915,7 @@ log.qvb.qcloud.com
 log.rabobank.nl
 log.recommend.nicovideo.jp
 log.rhythmtowers.com
+logs.mezmo.com
 logstash-3.radio-canada.ca
 logs.theccaa.com
 logtail.com
@@ -118954,6 +119017,7 @@ m.alto.com
 mama.hasdukmerahputih.com
 mapp.biryanibykilo.com
 map.rockwellautomation.com
+marblediscussion.com
 ma.revideco.se
 marketing1.leica-microsystems.com
 marketing2.absolutelybryce.com
@@ -119505,6 +119569,7 @@ mdxhon.allhomes.com.au
 meadowlullaby.com
 meanwellaustralia.actonservice.com
 measlymiddle.com
+measurefoot.com
 mec.hilton.com
 med.aerochambervhc.com
 med.androderm.com
@@ -120260,6 +120325,7 @@ oqidne.itaka.pl
 oracletechnology.arrow.com
 orbis.actonservice.com
 ordbng.extra.com.br
+organizationdogs.com
 organizations.stratfor.com
 origin-smetrics.go365.com
 origin.www.images.2.forms.healthcare.philips.com
@@ -120407,6 +120473,7 @@ petal.calyxflowers.com
 pet-recycling.husky.ca
 pe.txbe.at
 pf.a23.in
+pftk.temu.com
 p.fusevideo.net
 pgs.farmprogress.com
 phadia.thermo.com
@@ -120888,7 +120955,9 @@ ressources.lsa.fr
 ressources.usine-digitale.com
 ressources.usine-nouvelle.com
 restrainstorm.com
+restructureinvention.com
 rethink.adp.com
+retrievemint.com
 reuniondepadres.unisabana.edu.co
 revgroup.actonservice.com
 rewards-sg.greateasternlife.com
@@ -121351,6 +121420,7 @@ services.cmacgm-group.com
 servicing.unitedautocredit.net
 serv.letudiant.fr
 setonhill.actonservice.com
+settleshoes.com
 seyfwl.bryk.pl
 seyfwl.maxmodels.pl
 seyfwl.okazjum.pl
@@ -121502,6 +121572,7 @@ sk-batteryimport.m-shop.me
 s.kidori.com
 skillshouse.actonservice.com
 skincheckwa-app.hotdoc.com.au
+skisofa.com
 sk-sanasport.m-shop.me
 slackb.com
 slashnext.actonservice.com
@@ -123114,6 +123185,7 @@ staging-pt.ispot.tv
 staging-refer.rooam.co
 staging.refer.wagr.us
 stakingbasket.com
+stakingshock.com
 stampknot.com
 st.anastasija.lt
 stanburns.actonservice.com
@@ -123578,6 +123650,7 @@ stepcattle.com
 stereos2.crutchfield.com
 s.testneedle.co.uk
 stewedge.com
+stewspiders.com
 stg-bnc-papago.naver.com
 s.thebigfamily.app
 stimulatingsneeze.com
@@ -123598,6 +123671,7 @@ stopstomach.com
 stopthink.onefamilyadviser.com
 storea8tracking.alc.co.jp
 store.esquirrel.at
+stormyfold.com
 st.picshuffle.com
 strack.aetnafeds.com
 strack.concur.com.sg
@@ -123688,6 +123762,7 @@ swa.t-mobile.nl
 s.wayfair.com
 swebanalytics.panoramafirm.pl
 s.webkilde.dk
+swelteringsleep.com
 swelteringsmile.com
 s.wheels.ca
 swingslip.com
@@ -125229,6 +125304,7 @@ view.metlspan.com
 view.nucorbuildingsystems.com
 views.asura.gg
 views.asurascans.com
+violetreading.com
 virgin.hasdukmerahputih.com
 virtualvincent.com
 visit.campermate.com
@@ -125305,6 +125381,7 @@ wa.gifts.com
 wa.gymboree.com
 walkerllaw.org
 wallet.chain.com
+wantingwindow.com
 wa.pjplace.com
 wa.postnl.nl
 wa.proflowers.com
@@ -125321,6 +125398,7 @@ was.vodafone.nl
 watch.jawwy.tv
 watch.stctv.com
 watch.vipa.me
+waterywave.com
 wa.t-mobile.nl
 wats.gogoinflight.com
 wave.getonthewave.com
