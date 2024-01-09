@@ -258,3 +258,4 @@ encrypted-tbn0.gstatic.com
 js.stripe.com
 android-appboot.netflix.com
 web.facebook.com
+cdn.fbsbx.com // used by facebook & messenger for voice messages and sometimes pictures
