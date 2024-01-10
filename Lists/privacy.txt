@@ -472,6 +472,7 @@ omni.soundestlink.com$image
 ||plausiblecdn.co^
 ||procroanalytics.com^
 ||progmxs.com^
+||pushvisit.xyz^
 ||pzapi-ij.com^
 ||pzapi-kg.com^
 ||pzimff.com^
@@ -4623,6 +4624,7 @@ omni.soundestlink.com$image
 ||scratchsofa.com^
 ||screechingfurniture.com^
 ||screechingslip.com^
+||screechingstocking.com^
 ||screechingstove.com^
 ||scribblestring.com^
 ||scrollservice.com^
@@ -5117,6 +5119,7 @@ omni.soundestlink.com$image
 ||youthfulnoise.com^
 ||zbwp6ghm.com^
 ||zealousfield.com^
+||zephyrlabyrinth.com^
 ||zestycrime.com^
 ||zestywire.com^
 ||zipperxray.com^
