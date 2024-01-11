@@ -10145,6 +10145,7 @@ omni.soundestlink.com$image
 ||clp-mms.cloudpro.co.uk^
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
+||cmp.vg.no^*/metrics/
 ||cmpworker.dotesports.com^
 ||cmpworker.primagames.com^
 ||cnt.hd21.com^
@@ -11398,7 +11399,6 @@ omni.soundestlink.com$image
 ||dii.bankaust.com.au^
 ||eventbus.intuit.com^
 ||f775.thehour.com^
-||foxnews.com/static/isa/app/lib/afpid.js
 ||h353.ncadvertiser.com^
 ||h559.stamfordadvocate.com^
 ||halifax-online.co.uk/scripts/16c9d93d/
@@ -126121,6 +126121,7 @@ analytics.tntdram.com
 analytics.tnt-tv.com
 analytics-tracking.meetup.com
 analytics.uwindsor.ca
+analytics.vixcloud.co
 analytics.wavebox.io
 analytics.wayland.app
 analytics-wcms.joins.net
@@ -129553,6 +129554,7 @@ eventsink.api.redbee.live
 events.interface.com
 events.issmarketintelligence.com
 events.kangan.edu.au
+events.limango.com
 events.marketingcube.com.au
 events.mbrl.ae
 events.mcgladrey.com
@@ -132007,6 +132009,7 @@ jzoxch.menswearhouse.com
 k1usj3j6p706.dev.app.fika.community
 k50.rtl2.de
 k5app.byjus.com
+k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 kaladyaudiology.ericksonbuilt.com
 kalwub.mizuho-re.co.jp
 kamchatka-io.traveler.today
@@ -132272,7 +132275,7 @@ link.3dbear.io
 link.abandonedmonkey.codes
 link-acceptance.alan.com
 link.adhdinsight.com
-link.ag.fanlink.clubmanagergame.com
+link.ag.fan
 link-app.agvisorpro.com
 link-app-dev.agvisorpro.com
 link-app-preprod.agvisorpro.com
@@ -132283,6 +132286,7 @@ link-be.alan.com
 link-beta.qonto.co
 link-ccontact.focuscura.com
 link.clickipo.com
+link.clubmanagergame.com
 link.cluno.com
 link.cofyz.com
 link.collectivebenefits.com
@@ -136238,6 +136242,7 @@ p.iforge.app
 pimpoint.inriver.com
 pine.clk.click
 ping.fastsimon.com
+ping.hashnode.com
 ping.hedlund.xyz
 ping.resoluteoil.com
 piq4.inseec.education
@@ -136555,6 +136560,7 @@ purpose.maxizoo.fr
 purpose.maxizoo.ie
 purpose.maxizoo.pl
 purposepipe.com
+pushvisit.xyz
 pushypipe.com
 puzzle.spiriteq.com
 p.viennaandbailey.co.nz
@@ -137267,6 +137273,7 @@ scp.deltadentalwa.com
 scrapesleep.com
 sc.rbos.com
 sc.rbs.com
+screechingstocking.com
 sc.restplatzboerse.de
 sc.rhapsody.com
 scribblestring.com
@@ -144072,6 +144079,7 @@ zds.net.anwalt.de
 zdx5.destinia.pe
 zelle.odencat.com
 zenedge.actonservice.com
+zephyrlabyrinth.com
 zestywire.com
 zfctrack.net
 zftces.hoiku-job.net
