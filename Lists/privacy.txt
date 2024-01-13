@@ -10190,7 +10190,7 @@ omni.soundestlink.com$image
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
-||coomer.su/api/v1/tryagain
+||coomer.su/api/v1/andagain
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||counter.darkreader.app^
@@ -10550,7 +10550,7 @@ omni.soundestlink.com$image
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
-||kemono.su/api/v1/tryagain
+||kemono.su/api/v1/andagain
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -130576,6 +130576,7 @@ gyradiko.openapp.link
 gyvzjp.conradelektronik.dk
 gyydua.dakine.com
 gyzwcl.sconto.cz
+halcyoncanyon.com
 hallowedinvention.com
 haltingdivision.com
 hanadev.branch.rocks
@@ -132848,6 +132849,7 @@ logging.pw.adn.cloud
 login.e-ticket.co.jp
 loginvsi.actonservice.com
 logistics.coyote.com
+log.kinolights.com
 log.klook.com
 loglady.kiwi.com
 log-lb.skyperfectv.co.jp
@@ -137116,6 +137118,7 @@ samc.swisscanto.com
 samesticks.com
 samia.net.anwalt.de
 sam.manager-magazin.de
+samplesamba.com
 samt.frankly.ch
 samt.swisscanto.com
 samt.zkb.ch
