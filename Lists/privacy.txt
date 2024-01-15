@@ -3505,6 +3505,7 @@ omni.soundestlink.com$image
 ||bikesboard.com^
 ||billowybead.com^
 ||billowybelief.com^
+||birthdaybelief.com^
 ||bitterbear.com^
 ||blackbrake.com^
 ||bleachbubble.com^
@@ -4407,6 +4408,7 @@ omni.soundestlink.com$image
 ||piquantstove.com^
 ||pizzasnut.com^
 ||placeframe.com^
+||placidactivity.com^
 ||placidperson.com^
 ||plainplayground.com^
 ||plainrequest.com^
@@ -4637,6 +4639,7 @@ omni.soundestlink.com$image
 ||screechingslip.com^
 ||screechingstocking.com^
 ||screechingstove.com^
+||scribbleson.com^
 ||scribblestring.com^
 ||scrollservice.com^
 ||scrubswim.com^
@@ -4735,6 +4738,7 @@ omni.soundestlink.com$image
 ||smoggysnakes.com^
 ||smoggysongs.com^
 ||smoggystation.com^
+||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
 ||snakeslang.com^
@@ -113455,7 +113459,6 @@ zy16eoat1w.com sanalytics.spark.co.nz
  greenweez.eulerian.net
  greenweez-uk.eulerian.net
  greetz01.wt-eu02.net
- grid.bidswitch.net
  groupe-fsc-com.eulerian.net
  groupevents.sixflags.com
  groupsales.sixflags.com
