@@ -7623,6 +7623,7 @@ omni.soundestlink.com$image
 ||monorail-edge.shopifysvc.com^
 ||mormont.gamer-network.net^
 ||movementventures.com/_uid.gif
+||mowplayer.com/media/statistics/
 ||mozilla.org/page/*/open.gif$third-party
 ||mql5.com/st?
 ||mql5.com/tr?
@@ -7637,6 +7638,7 @@ omni.soundestlink.com$image
 ||msecnd.net/scripts/b/ai.
 ||msecnd.net/scripts/jsll-
 ||mshcdn.com/assets/metrics-
+||mssdk.tiktokw.us/web/report?
 ||msvdn.net/api/v2/heartbeat/
 ||mts.mansion.com^$third-party
 ||mtvnservices.com/aria/projectX/
@@ -7958,6 +7960,7 @@ omni.soundestlink.com$image
 ||ria.ru/counter?
 ||richrelevance.com/rrserver/tracking?
 ||rltd.io/tags/
+||roadster.com/roadster_dealer_analytics
 ||rodale.com/ga/
 ||route.com/collect
 ||routeapp.io/route-analytics/
@@ -9184,6 +9187,7 @@ omni.soundestlink.com$image
 ||tracking.kdata.fr^
 ||tracking.lqm.io^
 ||tracking.netvigie.com^
+||tracking.voxeus.com^
 ||trjs.mediafin.be/loader/trmfn-loader.js
 ||trk.a-dsp.com^
 ||trk.adbutter.net^
@@ -9838,6 +9842,7 @@ omni.soundestlink.com$image
 ||analitica.webrpp.com^
 ||analytics.lasegunda.ecn.cl^
 ||analytics.neoogilvy.uy^
+||bpt.webedia-group.com^
 ||citiservi.es/adstrack?
 ||collector-videoplayer.5centscdn.net^
 ||contadores.miarroba.com^
@@ -10010,6 +10015,7 @@ omni.soundestlink.com$image
 ||analytics.kaggle.io^
 ||analytics.kooapp.com^
 ||analytics.makeitmeme.com^
+||analytics.maxroll.gg^
 ||analytics.ml.homedepot.ca^
 ||analytics.mouthshut.com^
 ||analytics.nike.com^
@@ -10203,7 +10209,7 @@ omni.soundestlink.com$image
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
-||coomer.su/api/v1/andagain
+||coomer.su/api/v1/YourRetardAssBrokeActualSiteFunctionality-
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||counter.darkreader.app^
@@ -10563,7 +10569,7 @@ omni.soundestlink.com$image
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
-||kemono.su/api/v1/andagain
+||kemono.su/api/v1/YourRetardAssBrokeActualSiteFunctionality-
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -38864,6 +38870,7 @@ omni.soundestlink.com$image
 ||pstt.mtb-news.de^
 ||px.derstandard.at^
 ||pxc.otto.de^
+||redaktionstest.net/cdn/$ping
 ||rem-track.bild.de^
 ||responder.wt.heise.de^
 ||ricardo.ch/api/browser-statistics/
@@ -39008,6 +39015,7 @@ omni.soundestlink.com$image
 ||kwgs.letudiant.fr^
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-sentry/lc-sentry.js
+||laposte.fr/cdp/events?
 ||ldlc.com/V4px/js/ldlcmachine.js
 ||leboncoin.fr/rav-monitoring/
 ||lecho.be/fb2?
@@ -39839,6 +39847,7 @@ omni.soundestlink.com$image
 ||rutube.ru/counters.html?
 ||rutube.ru/dbg/player_stat?
 ||seedr.ru^*/stats/
+||servernews.ru/track?
 ||sibnet.ru/counter.php?
 ||ssp.rambler.ru^
 ||start.ru/logger/
@@ -113459,6 +113468,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  greenweez.eulerian.net
  greenweez-uk.eulerian.net
  greetz01.wt-eu02.net
+ grid.bidswitch.net
  groupe-fsc-com.eulerian.net
  groupevents.sixflags.com
  groupsales.sixflags.com
@@ -126105,6 +126115,7 @@ analytics.makeitmeme.com
 analytics.martinandosa.com
 analytics.martin-fieber.de
 analytics.mattmcadams.com
+analytics.maxroll.gg
 analytics.ml.homedepot.ca
 analytics.multithread.studio
 analyticsnarc.ro.ing.net
@@ -127349,6 +127360,7 @@ bint.openapp.link
 bioanalyticalmarketing.eurofins-info.com
 bio.chups.co
 biophysicsgroup.actonservice.com
+birthdaybelief.com
 bison.actonservice.com
 biworldwide.actonservice.com
 biz.coface.com
@@ -128002,6 +128014,7 @@ comtelitalia.alcatel-lucent.com
 comunicaciones.daviviendacorredores.com
 comunicaciones.pymas.com.co
 comviewcorp.actonservice.com
+concernedchange.com
 concernedchickens.com
 condemnedcomb.com
 conference.all-energy.com.au
@@ -128658,6 +128671,7 @@ deeplink.xeropan.com
 deep.plant.chat
 deep.souk.com.br
 deerbeginner.com
+defeatedbadge.com
 defygravity.convio.com
 delete.atea.fi
 delete-me-2.branchcustom.xyz
@@ -136292,6 +136306,7 @@ pkg.balluff.com
 pkiawn.konvy.com
 pkmvjx.my-store.ch
 pktytp.membershop.lv
+placidactivity.com
 plan.devbyexample.com
 planebasin.com
 plans.ceteraretirement.com
@@ -137296,6 +137311,7 @@ sc.rbs.com
 screechingstocking.com
 sc.restplatzboerse.de
 sc.rhapsody.com
+scribbleson.com
 scribblestring.com
 scrippsfoodnetnew.foodnetwork.com
 scrippshgtvnew.hgtv.com
