@@ -46,6 +46,7 @@
 ://beacon.*/track
 ://blue.*/script.js
 ://client.rum.
+://cmpworker.
 ://collect.*/pageview
 ://collector.*/event
 ://elqtrk.
@@ -10167,8 +10168,6 @@ omni.soundestlink.com$image
 ||cm-mms.coachmag.co.uk^
 ||cm.nordvpn.com^
 ||cmp.vg.no^*/metrics/
-||cmpworker.dotesports.com^
-||cmpworker.primagames.com^
 ||cnt.hd21.com^
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
@@ -40422,6 +40421,7 @@ omni.soundestlink.com$image
 @@||statics.zcool.com.cn/track/sensors.$script,~third-party
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
 @@||1gr.cz/js/dtm/cache/satelliteLib-$domain=idnes.cz
+@@||creditas.cz/cb/public/assets/SmartTag-$script,~third-party
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
@@ -113471,7 +113471,6 @@ zy16eoat1w.com sanalytics.spark.co.nz
  greenweez.eulerian.net
  greenweez-uk.eulerian.net
  greetz01.wt-eu02.net
- grid.bidswitch.net
  groupe-fsc-com.eulerian.net
  groupevents.sixflags.com
  groupsales.sixflags.com
