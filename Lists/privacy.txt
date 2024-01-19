@@ -770,6 +770,7 @@ omni.soundestlink.com$image
 ||analyticschecker.com^$third-party
 ||analyticson.com^$third-party
 ||analyticswizard.com^$third-party
+||analyzee.io^$third-party
 ||analyzz.com^$third-party
 ||anametrix.com^$third-party
 ||anametrix.net^$third-party
@@ -3442,11 +3443,11 @@ omni.soundestlink.com$image
 ||arithmeticadjustment.com^
 ||arizonapuzzle.com^
 ||aromamirror.com^
+||arrivegrowth.com^
 ||aspiringapples.com^
 ||aspiringattempt.com^
 ||astonishingair.com^
 ||astonishingfood.com^
-||attractionapples.com^
 ||attractionbanana.com^
 ||attractiveafternoon.com^
 ||attractivecap.com^
@@ -3895,7 +3896,6 @@ omni.soundestlink.com$image
 ||erraticreaction.com^
 ||etherealripple.com^
 ||evaluateend.com^
-||evaluatestream.com^
 ||evanescentedge.com^
 ||eventexistence.com^
 ||exampleshake.com^
@@ -3956,7 +3956,6 @@ omni.soundestlink.com$image
 ||flameuncle.com^
 ||flimsycircle.com^
 ||flimsythought.com^
-||flockflame.com^
 ||floodprincipal.com^
 ||flowersornament.com^
 ||flowerstreatment.com^
@@ -4118,6 +4117,7 @@ omni.soundestlink.com$image
 ||hosenews.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
+||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
 ||hurtgrape.com^
@@ -4740,7 +4740,6 @@ omni.soundestlink.com$image
 ||smoggysnakes.com^
 ||smoggysongs.com^
 ||smoggystation.com^
-||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
 ||snakeslang.com^
@@ -40331,7 +40330,7 @@ omni.soundestlink.com$image
 @@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|ssrn.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|backcountry.com|ceair.com|conad.it|costco.com|dhl.de|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|sony.jp|tatacliq.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
 @@||adobedtm.com/extensions/$domain=antena3.com|apple.com|atresmedia.com|atresplayer.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|lasexta.com|telus.com|verizon.com
-@@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com
+@@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com|uphold.com
 @@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tn.com.ar|wsj.com
 @@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|wpb.shueisha.co.jp|wsj.com
 @@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|wsj.com
