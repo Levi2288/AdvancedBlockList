@@ -4315,6 +4315,7 @@ omni.soundestlink.com$image
 ||nappyattack.com^
 ||nappyneck.com^
 ||neatshade.com^
+||nebulousripple.com^
 ||necessarywax.com^
 ||needlessnorth.com^
 ||needyneedle.com^
@@ -10209,7 +10210,6 @@ omni.soundestlink.com$image
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
-||coomer.su/api/v1/YourRetardAssBrokeActualSiteFunctionality-
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
 ||counter.darkreader.app^
@@ -10569,7 +10569,6 @@ omni.soundestlink.com$image
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
-||kemono.su/api/v1/YourRetardAssBrokeActualSiteFunctionality-
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -19610,7 +19609,7 @@ omni.soundestlink.com$image
 ||smetrics.sun.com^
 ||smetrics.suncorp.co.nz^
 ||smetrics.suncorp.com.au^
-||smetrics.suncorpbank.com.au||smetrics.viabcp.com^
+||smetrics.suncorpbank.com.au^
 ||smetrics.sunflowerhealthplan.com^
 ||smetrics.sunglasshut.com^
 ||smetrics.sunlife.ca^
@@ -19760,6 +19759,7 @@ omni.soundestlink.com$image
 ||smetrics.us.levi.com^
 ||smetrics.us.playstation.com^
 ||smetrics.vermontcountrystore.com^
+||smetrics.viabcp.com^
 ||smetrics.viega.at^
 ||smetrics.viega.be^
 ||smetrics.viega.com^
