@@ -6312,6 +6312,7 @@ omni.soundestlink.com$image
 ||ampproject.org/preconnect.gif
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
+||analyse.lnearn.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
@@ -7944,7 +7945,6 @@ omni.soundestlink.com$image
 ||redfast.com/ping/
 ||reelevant.dev/tracker
 ||reevoo.com/track_url/
-||refer.ccbill.com^
 ||refer.wordpress.com^
 ||referrer.disqus.com^
 ||reflow.tv/pixels/
@@ -8380,6 +8380,7 @@ omni.soundestlink.com$image
 ||track.vscash.com^
 ||track.yfret.com^
 ||track.yieldsoftware.com^
+||trackdesk.com/tracking.js
 ||tracker-dot-optimeeze.appspot.com^
 ||tracker.affirm.com^
 ||tracker.arc.io^
@@ -8561,6 +8562,7 @@ omni.soundestlink.com$image
 ||ventunotech.com/beacon/
 ||venturify.at/pixel/
 ||vercel-vitals.axiom.co^
+||verify.lnearn.com^
 ||vidazoo.com/aggregate?
 ||vidazoo.com/event/
 ||video-ad-stats.googlesyndication.com^
@@ -9917,6 +9919,7 @@ omni.soundestlink.com$image
 ||za.zalo.me^
 ||za.zdn.vn^
 ||zalo.me/v3/w/_zaf.gif
+||1024tera.com/api/analytics?
 ||123rf.com/apicore-index/traffic_log
 ||342251b-beta.perplexity.ai/api/$xmlhttprequest
 ||40svintageporn.com/hit
@@ -11032,6 +11035,7 @@ omni.soundestlink.com$image
 ||stats2.mytuner.mobi^
 ||stayz.com.au/cl/data/omgpixel.json
 ||strcloud.in/stat/
+||streamadblocker.cc/stat/
 ||streamadblocker.com/stat/
 ||streamadblocker.store/stat/
 ||streamadblocker.xyz/stat/
@@ -39910,6 +39914,7 @@ omni.soundestlink.com$image
 ||analytics.redlink.com.ar^
 ||audiencies.ccma.cat^
 ||bankinter.com/res/img/documento_cargado.gif?
+||caixabank.es/util/pixel.png?
 ||caliente.mx/integration-scripts/tracking.min.js
 ||coletor.terra.com^
 ||compare.easyviajar.com^
@@ -126150,6 +126155,7 @@ analytics-nssl.bradyid.com
 analytics.onlinehomeretail.co.uk
 analytics.ooyala.com
 analytics.oyorooms.com
+analytics.pangle-ads.com
 analytics.phn.com
 analytics.plumbworld.co.uk
 analytics.pollardwater.com
