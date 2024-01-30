@@ -419,6 +419,7 @@ omni.soundestlink.com$image
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
+||mathilde-ads.com^
 ||maxepv.com^
 ||maxtrafixx.tech^
 ||mb-tracking.com^
@@ -2162,6 +2163,7 @@ omni.soundestlink.com$image
 ||outbid.io^$third-party
 ||outboundlink.me^$third-party
 ||overstat.com^$third-party
+||overtracking.com^$third-party
 ||owltrack.com^$third-party
 ||ownpage.fr^$third-party
 ||ox-bio.com^$third-party
@@ -7874,6 +7876,7 @@ omni.soundestlink.com$image
 ||plausibleio.workers.dev^$third-party
 ||play.adtonos.com^
 ||play.ht/views/
+||player-metrics.instaread.co^
 ||player.ooyala.com/errors/report?
 ||playtomic.com/Tracker/
 ||plista.com/activity
@@ -9644,13 +9647,16 @@ omni.soundestlink.com$image
 ||x9.shinobi.jp^
 ||yahoo.co.jp/js/retargeting.js
 ||acelogger.heraldcorp.com^
+||assets.datarize.ai^
 ||cafe24.com/cfa.js
 ||cafe24.com/weblog.js
 ||cm-exchange.toast.com^
+||dtr-onsite-feed.datarize.ai^
 ||event.hackle.io^
 ||log.adplex.co.kr^
 ||log.cizion.com^
 ||log.mofa.go.kr^
+||log.pipeline.datarize.io^
 ||log.targetpush.co.kr^
 ||logger.bzu.kr^
 ||logs-partners.coupang.com^
@@ -9660,6 +9666,7 @@ omni.soundestlink.com$image
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||pxl.retaku.net^
+||realtime-profiling.datarize.ai^
 ||recobell.io/rest/logs?
 ||saluton.cizion.com^
 ||sas.nsm-corp.com^
@@ -11576,6 +11583,7 @@ omni.soundestlink.com$image
 ||simon.com/46SCNLxs/init.js
 ||skechers.com/dL6GOSf9/init.js
 ||skiphop.com/0F3091f3/init.js
+||skyscanner.*/rf8vapwA/init.js
 ||snipesusa.com/6XNN2xkk/init.js
 ||spirit.com/kp4CLSb5/init.js
 ||ssense.com/58Asv359/init.js
@@ -39552,9 +39560,7 @@ omni.soundestlink.com$image
 ||paginegialle.it/cgi-bin/jimpres.cgi?
 ||paginegialle.it/engagement.js
 ||ppcdn.it/iol/tracklib.3.js
-||raiplay.it/hit-service/
 ||raiplay.it/tracking/
-||raiplaysound.it/hit-service/
 ||repstatic.it^*/nielsen_static_mapping_repubblica_
 ||sa.sky.it^
 ||seat.it/cgi-bin/getcod.cgi?
@@ -39733,6 +39739,7 @@ omni.soundestlink.com$image
 ||stat.tiara.kakao.com^
 ||stat.tiara.tistory.com^
 ||stat.wanted.jobs^
+||t*.daumcdn.net/adfit/static/kp.js
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^
@@ -125758,6 +125765,7 @@ acc-link-ccontact.focuscura.com
 accountancy.bppeloqua.com
 accounting.frbservices.org
 accurateanimal.com
+accuratecoal.com
 accuride.actonservice.com
 accutrain.actonservice.com
 accuzip.actonservice.com
@@ -126101,6 +126109,7 @@ amusedbucket.com
 anaconda.net.anwalt.de
 ana.e-ticket.co.jp
 analitik.bik.gov.tr
+analyse.lnearn.com
 analys.live
 analytic.americanfunds.com
 analytic.capitalgroup.com
@@ -127091,6 +127100,7 @@ ast-en.adp.ca
 ast-fr.adp.ca
 astonishingair.com
 astonishingfood.com
+astrallullaby.com
 astral.nicovideo.jp
 astromed.actonservice.com
 asttcp.vatera.hu
@@ -127450,6 +127460,7 @@ bleedlight.com
 blesspizzas.com
 blink.checkworkrights.com.au
 blinks.outcomes4me.com
+blissfulcrescendo.com
 blmjbp.casamundo.pl
 blockchain.actonservice.com
 blog.b2lead.com
@@ -127614,6 +127625,7 @@ breakerror.com
 breakthrough.kronos.com
 breasycarrental.eccocar.com
 b.redbrickhealth.com
+breezygrove.com
 brespark.eccocar.com
 brevnet.eccocar.com
 brfeneval.eccocar.com
@@ -127795,7 +127807,6 @@ candidate.response.ingenovishealth.com
 candy.sees.com
 capping.sirius.press
 capplanllc.actonservice.com
-captcha-display.com
 capture.norm0care.com
 car-a8.tabirai.net
 caradonna.actonservice.com
@@ -128229,6 +128240,7 @@ contractor-app.buildforce.com
 contracts.mhainc.com
 controlcola.com
 controlexpenses.adp.ca
+controlhall.com
 convead.io
 convention.interfaceflor.com
 converge.headuplabs.com
@@ -128352,6 +128364,7 @@ cttest.branch.rocks
 ctx.citiservi.es
 cucaido.abphotos.link
 cuddlycake.com
+cuddlylunchroom.com
 cueohf.forumactif.com
 cufroa.aboutyou.be
 culliganwaterco.actonservice.com
@@ -128693,6 +128706,7 @@ dealerrelations.cargurus.com
 dealersuccess.drivedominion.com
 dealfastfood.openapp.link
 debjpy.globoshoes.com
+debonairseashore.com
 debonairtree.com
 debug-r.rover.com
 de-de.siemensplmevents.com
@@ -129416,7 +129430,6 @@ email-vero.branch.rocks
 email.voices.com
 email.vollrathco.com
 email-yesmail.branch.rocks
-emam
 emarketing.moveo.com
 embellishedmeadow.com
 embermosaic.com
@@ -129518,6 +129531,7 @@ engineertrick.com
 engine.traceparts.com
 eniac.net.jumia.com.gh
 e.nicklauschildrens.org
+enigmaticvoyage.com
 enormousfoot.com
 enquiry.marketingcube.com.au
 enrolldi.glic.com
@@ -129777,6 +129791,7 @@ fek1.fnactickets.com
 feldman.net.anwalt.de
 femetrics.grammarly.io
 ferias.usj.es
+fertilefeeling.com
 fespzx.sfr.fr
 festo.actonservice.com
 fetch.gethuan.com
@@ -130192,6 +130207,7 @@ global.zenprise.com
 glue.evansadhesive.com
 glxmao.eterna.de
 glzsji.nordman.ru
+gmetrics.getbeamer.com
 gmmhlk.techstar.ro
 gmrhzf.wolfermans.com
 gms.greatschools.org
@@ -132202,6 +132218,7 @@ kxmrwu.ibarakinews.jp
 kyloepartners.actonservice.com
 kyszhn.qvc.jp
 kzsisc.3.dk
+laboredlight.com
 laboredlocket.com
 labs.verticurl.com
 lacevj.potagercity.fr
@@ -133112,10 +133129,12 @@ l.umba.com
 lumberrule.com
 lumenera.actonservice.com
 luminati.io
+luminoussculptor.com
 lumtjt.plumbingonline.ca
 lunchroomlock.com
 l.unfy.ai
 l.urban.com.au
+lustroushaven.com
 luumhi.whatonearthcatalog.com
 l.uvcr.me
 luwzem.skala.nl
@@ -134473,6 +134492,7 @@ me.glamhive.com
 meinauto.hdd-dienste.de
 mellamanjorge.net.anwalt.de
 mellowbike.com
+mellowhush.com
 mellowmailbox.com
 meltmilk.com
 member-app.rightwayhealthcare.com
@@ -135762,6 +135782,7 @@ nnqyed.laredoute.be
 nnvoia.closetworld.com
 nocaadobefpc.optus.com.au
 nocturnalloom.com
+nocturnalmystique.com
 noeyeon.click
 noeyeon.com
 nom.familysearch.org
@@ -136130,6 +136151,7 @@ ouk7.grantalexander.com
 our.sunshinecoast.qld.gov.au
 ou.shutterfly.com
 outdoor.theres.co
+outgoinggiraffe.com
 outreach.allmy-data.com
 outreach.connectednation.org
 outreach.semaconnect.com
@@ -136816,6 +136838,7 @@ realsolutions.americanexpress.it
 realsolutions.americanexpress.se
 realtimely.io
 reaonq.xn--hdks770u8f0a8dvzft.net
+rebelclover.com
 rebelhen.com
 rebelswing.com
 rec.banggood.com
@@ -136854,6 +136877,7 @@ referral-ca.mixtiles.com
 referral.mixtiles.com
 referral.moonglabs.com
 referral.rvappstudio.c.appwinit.com
+reflectivestatement.com
 ref.mybb.id
 refwkk.omnicalculator.com
 reg.enterpriseconnect.com
@@ -137824,6 +137848,7 @@ shortener.np6.com
 short.isdev.info
 showcase.inhaabit.com
 show.decorex.com
+shydinosaurs.com
 sickflock.com
 sig.igmarkets.com
 sig.nadex.com
@@ -141971,6 +141996,7 @@ tr.actu.reunica.com
 tradeshow.edm.globalsources.com
 tradetooth.com
 tr.adhesion.ircom-laverriere.com
+traffic.wdc.center
 tr.afpa.espmp-cufr.net
 tr.ag2rlamondiale.fr
 tr.agefiseminaires.com
@@ -143135,6 +143161,7 @@ veosfi.woonexpress.nl
 veqvek.ctvnews.ca
 veqvek.tsn.ca
 vercel-vitals.axiom.co
+verify.lnearn.com
 verify.spin.app
 verify.test.spin.app
 verizon-branch.locationlabs.com
@@ -143322,6 +143349,7 @@ watch.stctv.com
 watch.vipa.me
 water.tetrapak.com
 waterywave.com
+waterywrist.com
 wa.t-mobile.nl
 wats.gogoinflight.com
 wave.getonthewave.com
@@ -143518,7 +143546,6 @@ welcome.item24.kr
 welcome.item24.mx
 welcome.item24.nl
 welcome.item24.pl
-welcome..org
 welcome.patientmatters.com
 welcome.qualicoliving.com
 welcome.visitthelandmark.com
@@ -143612,6 +143639,7 @@ wqudcv.finnishdesignshop.com
 wrhv.education.gouv.fr
 wrkbha.lyst.de
 wrlnvt.pepita.hu
+wrongwound.com
 wrvueo.mollis.ru
 ws3.smartp.com
 wsandco.actonservice.com
@@ -144189,6 +144217,7 @@ zds.net.anwalt.de
 zdx5.destinia.pe
 zelle.odencat.com
 zenedge.actonservice.com
+zephyrcatalyst.com
 zephyrlabyrinth.com
 zestywire.com
 zfctrack.net
