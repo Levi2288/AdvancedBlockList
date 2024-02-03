@@ -6355,6 +6355,7 @@ omni.soundestlink.com$image
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics.30m.com^
+||analytics.adobe.io^
 ||analytics.agoda.com^
 ||analytics.aimtell.com^
 ||analytics.algolia.com^
@@ -6934,6 +6935,7 @@ omni.soundestlink.com$image
 ||d1snv67wdds0p2.cloudfront.net/tracker/
 ||d1tbj6eaenapdy.cloudfront.net^
 ||d2fuc4clr7gvcn.cloudfront.net/track.js
+||d2pt12ct4kmq21.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js
 ||d2wa5sea6guof0.cloudfront.net^
 ||d3vebqdofhigrn.cloudfront.net^
@@ -8988,6 +8990,7 @@ omni.soundestlink.com$image
 ||advantage.digitalsunray.com^
 ||aftonbladet.se/trafikfonden/
 ||agitos.de/content/track?
+||analytics.agenedia.com^
 ||analytics.audionow.de^
 ||analytics.cnd-motionmedia.de^$third-party
 ||analytics.gameforge.de^
@@ -9894,6 +9897,7 @@ omni.soundestlink.com$image
 ||bpt.webedia-group.com^
 ||citiservi.es/adstrack?
 ||collector-videoplayer.5centscdn.net^
+||contador.biobiochile.cl^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
 ||creatives.sunmedia.tv^
@@ -10484,6 +10488,7 @@ omni.soundestlink.com$image
 ||getpocket.com/web-client-api/braze
 ||getpocket.com/web-utilities/public/static/te.js
 ||gettyimages.*/pulse$ping
+||gg.vevor.com^
 ||ghacks.net/statics/px.gif
 ||github.com/_private/browser/stats
 ||github.dev/diagnostic?
@@ -10962,6 +10967,7 @@ omni.soundestlink.com$image
 ||run.app/events$domain=imgur.com
 ||rv.modanisa.com^$script
 ||rvo-cohesion.healthline.com^
+||s.gofile.io^
 ||s.infogram.com^
 ||s.wayfair.com^
 ||saa.insideedition.com^
@@ -11141,6 +11147,7 @@ omni.soundestlink.com$image
 ||tahoe.com/imp
 ||taiwanplus.com/api/video/startVideo
 ||tao.barstoolsports.com^
+||tapeadsenjoyer.com/stat/
 ||tapeantiads.com/stat/
 ||tapeblocker.com/stat/
 ||tapenoads.com/stat/
@@ -11444,6 +11451,7 @@ omni.soundestlink.com$image
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
 ||content22.citibank.com.sg^$script
+||content22.citibankonline.com^
 ||content22.online.citi.com^
 ||customer.homedepot.com^$script
 ||drfdisvc.walmart.com^
@@ -11531,6 +11539,7 @@ omni.soundestlink.com$image
 ||belk.com/0iiey9LM/init.js
 ||bhphotovideo.com/3D8mkYG1/init.js
 ||bloomberg.com/8FCGYgk4/init.js
+||bm.paypal.com/spd3TxHV/init.js
 ||booking.com/87sduif98q3rijax
 ||booktopia.com.au/Ns7aBMIv/init.js
 ||brownsshoes.com/IZ/2tcS0qiG/init.js
@@ -39978,6 +39987,7 @@ omni.soundestlink.com$image
 ||mundodesconocido.com/tracker/
 ||pixel.europapress.net^
 ||px-intl.ucweb.com^
+||realtime.bbcl.cl^
 ||rvv.emol.com^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
@@ -126127,7 +126137,9 @@ analytics1.vdo.ai
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
 analytics.adliners.de
+analytics.adobe.io
 analytics.adobe.ly
+analytics.agenedia.com
 analytics.airindierberger.fi
 analytics.algolia.com
 analytics.andrewsmith.com.au
@@ -128209,8 +128221,10 @@ contacto.lecleire.com.gt
 contact.regus.com
 contact.spacesworks.com
 contactus.53.com
+contador.biobiochile.cl
 content22.bmo.com
 content22.citibank.com.au
+content22.citibankonline.com
 content22.online.citi.com
 content.4teamwork.ch
 content.accelalpha.com
@@ -128467,6 +128481,7 @@ d1tbj6eaenapdy.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d2ef20sk9hi1u3.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
+d2pt12ct4kmq21.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zue0pgsssbc6.cloudfront.net
@@ -130187,6 +130202,7 @@ gf7t.cheques-cadeaux-culturels.fr
 g-fallback.whatsapp.net.iberostar.com
 gflpvq.rufflebutts.com
 g.getsimpler.me
+gg.vevor.com
 ghd.vsee.me
 ghnwss.fmsstores.gr
 ghp.adp.ca
@@ -136854,6 +136870,7 @@ realogicinc.actonservice.com
 realsolutions.americanexpress.fr
 realsolutions.americanexpress.it
 realsolutions.americanexpress.se
+realtime.bbcl.cl
 realtimely.io
 realtime-profiling.datarize.ai
 reaonq.xn--hdks770u8f0a8dvzft.net
@@ -137749,6 +137766,7 @@ sgforex.americanexpress.com
 sg.lucanet.com
 sgms.greatschools.org
 s.goat.com
+s.gofile.io
 sgsb.aba.com
 sgstats.com
 shadeship.com
