@@ -240,6 +240,7 @@ omni.soundestlink.com$image
 ||altopd.com^
 ||analys.live^
 ||analysis.fi^
+||analyt.ir^
 ||anonstat.pw^
 ||apeagle.io^
 ||apenterprise.io^
@@ -2390,6 +2391,7 @@ omni.soundestlink.com$image
 ||sayutracking.co.uk^$third-party
 ||sbbanalytics.com^$third-party
 ||scaledb.com^$third-party
+||scarf.sh^$third-party
 ||sciencerevenue.com^$third-party
 ||scorecardresearch.com^$third-party
 ||scoutanalytics.net^$third-party
@@ -2560,6 +2562,7 @@ omni.soundestlink.com$image
 ||ssm.codes^$third-party
 ||star-cntr-5.com^$third-party
 ||stat-track.com^$third-party
+||stat.re^$third-party
 ||stat.social^$third-party
 ||stat24.com^$third-party
 ||statcounter.com^$third-party
@@ -3315,7 +3318,6 @@ omni.soundestlink.com$image
 ||ppcprotect.com^$third-party
 ||push4site.com^$third-party
 ||ravelin.net^$third-party
-||sabavision.com^$third-party
 ||simility.com^$third-party
 ||spideraf.com^$third-party
 ||123-counter.de^$third-party
@@ -5135,7 +5137,6 @@ omni.soundestlink.com$image
 ||flashstats.libsyn.com^
 ||flex.msn.com/mstag/
 ||flipp.com/beacons
-||flippback.com/m/config
 ||flix360.com/beat?
 ||flixcar.com/*/tracking/
 ||flixcar.com/gvid
@@ -5742,6 +5743,7 @@ omni.soundestlink.com$image
 ||p.typekit.net^
 ||p.yotpo.com^
 ||p0.com/1x1
+||paddle.com/paddle/assets/images/health-check.gif?
 ||paddle.com^*/analytics.js
 ||page-events-ustats.udemy.com^
 ||pagecloud.com/event
@@ -7493,6 +7495,7 @@ omni.soundestlink.com$image
 ||panda.kasika.io^
 ||pia.jp/akam/$script
 ||pia.jp/images/pt.gif$image
+||ping.paidy.com^
 ||popin.cc/iframe/piuid.html
 ||popin.cc/js/pixel.js
 ||popin.cc/PopinService/Logs/
@@ -8191,7 +8194,7 @@ omni.soundestlink.com$image
 ||deovr.com/api_logs/
 ||dev.to/fallback_activity_recorder
 ||developer.mozilla.org/submit/
-||df.infra.shopee.ph^
+||df.infra.shopee.
 ||dhl.com/g8Dj6P8TAg/
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
 ||digg.com/library/tracker.js
@@ -8204,6 +8207,7 @@ omni.soundestlink.com$image
 ||docs.github.com/events
 ||domainit.com/scripts/track.js
 ||dominos.co.uk/qRgAwS/
+||dot.nonolive.com^
 ||dotesports.com/sp.js
 ||dp.shoprunner.com^
 ||drop.com/impressionsBeacon
@@ -9120,6 +9124,7 @@ omni.soundestlink.com$image
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
+||tracking.game8.co^
 ||tracking.hsn.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
@@ -9158,8 +9163,10 @@ omni.soundestlink.com$image
 ||uber.com/_events
 ||uber.com/_track
 ||uber.com/careers/apply/_log
+||ubereats.com/_errors
+||ubereats.com/_events
 ||ubereats.com/_track
-||ubt.tracking.shopee.ph^
+||ubt.tracking.shopee.
 ||ubuyanalytics.ubuy.com^
 ||ucoz.com/stat/
 ||ucweb.com/collect/
@@ -9254,6 +9261,7 @@ omni.soundestlink.com$image
 ||xnxx.com/picserror/
 ||xvideos.com/picserror/
 ||xxf.mobi/hit
+||ya.ru/clck/
 ||yahoo.com/_td_api/beacon/
 ||yahoo.com/beacon/
 ||yahoo.com/beacon?
@@ -44295,6 +44303,7 @@ omni.soundestlink.com$image
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
 ||fensi.plus^*/tracking/
+||fspark-ap.com/ft/analytics_log
 ||g123.jp/stats?
 ||game-i.daa.jp/skin/analytics.php
 ||gizmodo.jp/api/SurveyCountCollection?
@@ -44429,6 +44438,11 @@ omni.soundestlink.com$image
 ||stats.proff.no^
 ||tdep.hema.nl/main.js
 ||vg.no/stats/
+||abadis.ir/ajaxcmd/setvisit/
+||abadis.ir/ajaxcmd/stat/
+||aparat.com/gogol/
+||namnak.com/act/stats.json
+||namnak.com/ga.js
 |http://x.o2.pl^
 ||analytics.gazeta.pl^
 ||collect.state.centrum24.pl^
