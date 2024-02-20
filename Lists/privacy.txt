@@ -504,6 +504,7 @@ omni.soundestlink.com$image
 ||stat.ovh^
 ||statisticplatform.com^
 ||statisticsplatform.com^
+||stats.rip^
 ||summerhamster.com^
 ||superpointlesshamsters.com^
 ||t13.io^
@@ -6439,6 +6440,7 @@ omni.soundestlink.com$image
 ||tracking.wisepops.com^
 ||tracking1.brandmentions.com^
 ||tracking2.channeladvisor.com^
+||trackingapi.trendemon.com/api/events/pageview?
 ||trackjs.com/agent/$script,third-party
 ||trackjs.com/releases/current/tracker.js
 ||trackjs.com/usage.gif?
@@ -7353,7 +7355,7 @@ omni.soundestlink.com$image
 ||indiatimes.com/pixel?
 ||tvid.in/log/
 ||mediaquark.com/tracker.js
-||tracker.oval.id^
+||oval.id/tracker/
 ||alice.it/cnt/
 ||analytics.competitoor.com^
 ||analytics.eikondigital.it^
@@ -9148,6 +9150,7 @@ omni.soundestlink.com$image
 ||tripadvisor.*/wm/record
 ||tripcdn.com/bee/collect$domain=trip.com
 ||trivago.com/tracking/
+||trk.decido.io^
 ||trk.tirto.id^
 ||trumba.com/et.aspx?
 ||trx3.famousfix.com^
@@ -44372,6 +44375,7 @@ omni.soundestlink.com$image
 ||tekoki-fuzoku-joho.com/js/ALinkPrepare_
 ||tower.jp/bundle/beacon
 ||track.buyma.com^
+||tracking.ai.rakuten.co.jp^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^
 ||travel.co.jp/js/analysis.js
