@@ -4665,6 +4665,7 @@ omni.soundestlink.com$image
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-ds.com/analytics/
+||cdn.one.store/xdomain_cookie.html
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.usefathom.com^
 ||cdnjs.work/metrics.js
@@ -7352,6 +7353,7 @@ omni.soundestlink.com$image
 ||indiatimes.com/pixel?
 ||tvid.in/log/
 ||mediaquark.com/tracker.js
+||tracker.oval.id^
 ||alice.it/cnt/
 ||analytics.competitoor.com^
 ||analytics.eikondigital.it^
@@ -44449,6 +44451,7 @@ omni.soundestlink.com$image
 ||data.nrk.no^
 ||nrk.no^*/stats/
 ||stats.proff.no^
+||stm.komplett.no^
 ||tdep.hema.nl/main.js
 ||vg.no/stats/
 ||abadis.ir/ajaxcmd/setvisit/
@@ -45080,6 +45083,7 @@ omni.soundestlink.com$image
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
 @@||ci-mpsnare.iovation.com/snare.js$domain=equifax.ca
 @@||tag.aticdn.net^$script,domain=gouv.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
+@@||cdn.optimizely.com/public/*.json/tag.js$domain=mobile.de
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=absa.co.za|att.com|pnc.com|vodafone.it
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=bankofamerica.com|hsbc.co.uk|samsung.com|sony.jp|vmware.com
 @@||gs.statcounter.com/chart.php$script,third-party
@@ -45273,6 +45277,7 @@ omni.soundestlink.com$image
 @@||motika.com.mk/wp-content/plugins/ajax-hits-counter/display-hits.rapid.php$~third-party
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||hvemder.no/js/hitcount.min.js$~third-party
+@@||komplett.no/gtm.js$script,~third-party
 @@||gemius.pl/gstream.js
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
 @@||hit.interia.pl/iwa_core$script,~third-party
@@ -131048,6 +131053,7 @@ analytics.brickaward.com
 analyticsbusiness.ing.ro
 analytics.carbaselive.com
 analytics.cartoonnetworkindia.com
+analytics.castel.jp
 analytics.ceu.com
 analytics.chattarize.de
 analytics.clic2buy.com
@@ -131067,6 +131073,7 @@ analytics.disney.go.com
 analytics.egernsund.com
 analytics.egernsund.de
 analyticsehnwe.servicebus.windows.net
+analytics.eip.telegraph.co.uk
 analytics.emol.com
 analytics.ericafischerphotography.com
 analytics.evo.co.uk
@@ -136679,6 +136686,7 @@ gsols.edm.globalsources.com
 gspjom.3balls.com
 g.staging.pathsha.re
 gsupplyair.carte-gr.total.fr
+gtm.diamond.jp
 gtm.wise.com
 gtzpic.opodo.co.uk
 guardian-app.hotdoc.com.au
@@ -149599,6 +149607,7 @@ stmetrics.bbva.com.co
 stmetrics.bbva.es
 stmetrics.bbva.mx
 stmetrics.bbva.pe
+stm.komplett.no
 stms.newline53.com
 st.newyorklife.com
 st.newyorklifeinvestments.com
@@ -150735,6 +150744,7 @@ tracker.incite-group.com
 tracker.insurancenexus.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
+tracker.oval.id
 tracker.prom.ua
 tracker.psjhealth.org
 tracker.ranker.com
@@ -153205,6 +153215,7 @@ wsgddl.deporvillage.it
 wsnrfb.modlily.com
 ws-pro-origin-pull.kwai.net.iberostar.com
 ws-pro-pull.kwai.net.iberostar.com
+wstats.slashed.cloud
 wsuqzu.armani.com
 wsytyz.tts.ru
 wszwgs.cocopanda.fi
