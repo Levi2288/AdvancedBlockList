@@ -399,6 +399,7 @@ omni.soundestlink.com$image
 ||k5a.io^
 ||krxd.net^
 ||kspotson.de^
+||ldgnrtn.com^
 ||ldnlyap.com^
 ||leadhit.io^
 ||liveyield.com^
@@ -7831,6 +7832,8 @@ omni.soundestlink.com$image
 ||collector.schibsted.io^
 ||eniro.com/pixel/
 ||evt-api.ntm.eu^
+||impression-tracker-service-5eimuebuhq-lz.a.run.app^
+||pji.nu/libs/pjpixel/
 ||vizzit.se^$third-party
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
@@ -8204,6 +8207,7 @@ omni.soundestlink.com$image
 ||dev.to/fallback_activity_recorder
 ||developer.mozilla.org/submit/
 ||df.infra.shopee.
+||df.infra.sz.shopee.
 ||dhl.com/g8Dj6P8TAg/
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
 ||digg.com/library/tracker.js
@@ -43714,6 +43718,8 @@ omni.soundestlink.com$image
 ||analytics.allovoisins.com^
 ||analytics.clubic.com^
 ||api.odysee.com/locale/get
+||api.ouedkniss.com/health/
+||api.ouedkniss.com^*&xTrackId=
 ||api.tacotax.fr/v2/amplitude_trackers
 ||batiactu.com/cap_
 ||bmly.impots.gouv.fr^
@@ -44686,6 +44692,7 @@ omni.soundestlink.com$image
 ||ai.idg.se^
 ||ax.idg.se^
 ||blocket.se/js/trafikfonden.js
+||bonmed.se/monitoring?
 ||falkenbergtorget.se/sc.gif?
 ||fusion.bonniertidskrifter.se^
 ||gx.idg.se^
@@ -45085,6 +45092,7 @@ omni.soundestlink.com$image
 @@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
 @@||ci-mpsnare.iovation.com/snare.js$domain=equifax.ca
+@@||lightning.cnn.com^$script,domain=wfmz.com
 @@||tag.aticdn.net^$script,domain=gouv.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
 @@||cdn.optimizely.com/public/*.json/tag.js$domain=mobile.de
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=absa.co.za|att.com|pnc.com|vodafone.it
@@ -137551,6 +137559,7 @@ impact.carmeuse.com
 impact-dm.actonservice.com
 impact.go.economist.com
 impression.clickinc.com
+impression-tracker-service-5eimuebuhq-lz.a.run.app
 in-business.vodafone.com
 incisive.actonservice.com
 incs.get-go.com
@@ -139249,7 +139258,6 @@ link.newspicks.us
 link.nextaveapp.com
 link.nextlevelsports.com
 link.nilclub.com
-link.nubank.com.br
 link.nutty.chat
 link.olympya.com
 link.omghi.co
@@ -149385,6 +149393,7 @@ stats.reto.tv
 stats.revitfamily.app
 stats.rideinpeace.ie
 stats.rightourhistoryhawaii.com
+stats.rip
 stats.robotika.ax
 stats.rocketbeans.tv
 stats.roderickduenas.com
@@ -150747,7 +150756,6 @@ tracker.incite-group.com
 tracker.insurancenexus.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
-tracker.oval.id
 tracker.prom.ua
 tracker.psjhealth.org
 tracker.ranker.com
@@ -150819,6 +150827,7 @@ tracking.adp-iat.adp.com
 tracking.adpinfo.com
 tracking.agora.io
 tracking.aifsabroad.com
+tracking.ai.rakuten.co.jp
 tracking.air-worldwide.com
 tracking.almax.com
 tracking.almirallmed.es
@@ -151785,6 +151794,7 @@ trk.daimlertruck.com
 trk.darkreading.com
 trk.datacenterknowledge.com
 trk.datacenterworld.com
+trk.decido.io
 trk.delma.hu
 trk.delma.ro
 trk.delphiquest.com
