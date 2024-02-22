@@ -476,6 +476,7 @@ omni.soundestlink.com$image
 ||rapidpanda.io^
 ||rapidzebra.io^
 ||realtimely.io^
+||reportic.app^
 ||rezync.com^
 ||rfpx1.com^
 ||rkdms.com^
@@ -5227,6 +5228,7 @@ omni.soundestlink.com$image
 ||glam.com^*/log.act?
 ||gleam.io/seen?
 ||gleam.io^$script,third-party
+||global.localizecdn.com/api/lib/*.gif?
 ||global.ssl.fastly.net/native/
 ||gml-grp.com^*&affid=$subdocument,third-party
 ||go.activengage.com^
@@ -6664,6 +6666,7 @@ omni.soundestlink.com$image
 ||zynga.com/track/
 ||adsdk.yandex.ru^
 ||analytics-api.samsunghealthcn.com^
+||analytics.b2.ai^
 ||analytics.mobile.yandex.net^
 ||analytics.samsungknox.com^
 ||app.chat.xiaomi.net^$third-party
