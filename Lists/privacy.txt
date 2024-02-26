@@ -527,6 +527,7 @@ omni.soundestlink.com$image
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
+||trkapi.impact.com^
 ||trkbc.com^
 ||trkn.us^
 ||tru.am^
@@ -6065,6 +6066,7 @@ omni.soundestlink.com$image
 ||soccer.ru/counter/
 ||socialannex.com/c-sale-track/$script
 ||solutions.invocacdn.com^
+||soundestlink.com/rest/forms/v2/track/
 ||soundestlink.com/REST/forms/v2/track/view?
 ||sourceforge.net/tracker/$~xmlhttprequest
 ||sp-wukong-tracker.b-cdn.net^
@@ -8017,6 +8019,7 @@ omni.soundestlink.com$image
 ||app.box.com/gen204
 ||appanalysis.banggood.com^
 ||archive.org/includes/analytics.js
+||armedangels.com/javascript/script.js
 ||arttrk.com/pixel/
 ||as.coinbase.com/metrics
 ||atrack.allposters.com^
@@ -43733,7 +43736,6 @@ omni.soundestlink.com$image
 ||analytics.allovoisins.com^
 ||analytics.clubic.com^
 ||api.odysee.com/locale/get
-||api.ouedkniss.com/health/
 ||api.ouedkniss.com^*&xTrackId=
 ||api.tacotax.fr/v2/amplitude_trackers
 ||batiactu.com/cap_
