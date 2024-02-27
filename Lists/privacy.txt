@@ -1652,6 +1652,7 @@ omni.soundestlink.com$image
 ||intervigil.com^$third-party
 ||investingchannel.com^$third-party
 ||invitemedia.com^$third-party
+||invitereferrals.com^$third-party
 ||invoc.us^$third-party
 ||invoca.net^$third-party
 ||invoca.solutions^$third-party
@@ -6674,7 +6675,6 @@ omni.soundestlink.com$image
 ||zynga.com/track/
 ||adsdk.yandex.ru^
 ||analytics-api.samsunghealthcn.com^
-||analytics.b2.ai^
 ||analytics.mobile.yandex.net^
 ||analytics.samsungknox.com^
 ||app.chat.xiaomi.net^$third-party
@@ -8179,6 +8179,7 @@ omni.soundestlink.com$image
 ||counter.darkreader.app^
 ||coursehero.com/v1/data-tracking
 ||coursera.org/eventing
+||cpb.esprit.*/91405.js
 ||cpt.itv.com^
 ||crayfish.thingelstad.com^
 ||creately.com/static/js/creately-analytics-
@@ -8329,6 +8330,7 @@ omni.soundestlink.com$image
 ||fansedge.com/api/track
 ||fansshare.com/t.gif
 ||faphouse.com/collector/
+||faro-collector-prod-*.grafana.net^
 ||fathom.app.silverbeak.com^
 ||fathom.tdvm.net^
 ||fbo-statistics-collector-tc.is.flippingbook.com^
@@ -44810,7 +44812,7 @@ omni.soundestlink.com$image
 @@||builder.lift.acquia.com/lift.js$script,domain=edwardjones.com
 @@||c.lytics.io/api/tag/$script,domain=time.com
 @@||c.paypal.com/da/r/fb.js$script
-@@||c.webtrends-optimize.com/acs/$script,domain=tvlicensing.co.uk
+@@||c.webtrends-optimize.com/acs/$image,script,domain=tvlicensing.co.uk
 @@||canadacomputers.com/templates/ccnew/assets/js/jquery.browser-fingerprint-$~third-party
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdn-net.com/cc.js
@@ -45215,6 +45217,7 @@ omni.soundestlink.com$image
 @@||spoc.sydtrafik.dk/CherwellPortal/dist/app/common/analytics/Analytics.js$~third-party
 @@||3voor12.vpro.nl^*/streamsense.min.js$~third-party
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
+@@||gdh.postcodeloterij.nl/gdltm.js$domain=vriendenloterij.nl
 @@||marketingautomation.services^$script,domain=leeuwerik.nl
 @@||tag.aticdn.net/piano-analytics.js$script,domain=boerzoektvrouw.kro-ncrv.nl
 @@||analytics-sdk.yle.fi/yle-analytics.min.js$~third-party
@@ -131036,6 +131039,7 @@ amimon.actonservice.com
 aminks.underarmour.com.tr
 amo.myoyster.mx
 ampltd2.medal.tv
+ampltd.medal.tv
 am.siemensplmevents.com
 ams.lelong.com.my
 ams.oraclecloud.com
@@ -143878,6 +143882,7 @@ paynewest.actonservice.com
 pay.truemoney.me
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
+pbjs-stream.bydata.com
 pbm-email.rightwayhealthcare.com
 pbox.photobox.at
 pbstats.jpmorgan.com
@@ -151754,6 +151759,7 @@ trk.altis.com.gr
 trk.americancityandcounty.com
 tr.kang.espmp-cufr.net
 trk.anthology.com
+trkapi.impact.com
 trk.appliedintelligence.live
 trk.arozone.cn
 trk.arozone.com
@@ -152727,6 +152733,7 @@ vhmjci.edreams.co.uk
 vhpabx.herffjones.com
 vhrbxb.vidaxl.nl
 vi.adviso.ca
+video-analytics-api.cloudinary.com
 video.bzfd.it
 video.funnelbox.com
 videos.adp.ca
