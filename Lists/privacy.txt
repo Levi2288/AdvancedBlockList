@@ -7010,6 +7010,7 @@ omni.soundestlink.com$image
 ||onlyfree.de^*/counterservice/
 ||orbidder.otto.de^
 ||ottogroup.media/ogm.nitro.
+||owen.prolitteris.ch^
 ||pixel.poptok.com^
 ||plausible.ams.to^
 ||plista.com/getuid?
@@ -7621,6 +7622,7 @@ omni.soundestlink.com$image
 ||webgozar.ir/c.aspx*&t=counter
 ||analytics.ceneo.pl^
 ||analytics.greensender.pl^$third-party
+||ar1.aza.io^
 ||cafenews.pl/mpl/static/static.js?
 ||cmp.dreamlab.pl^
 ||dsg.interia.pl^
@@ -8405,6 +8407,7 @@ omni.soundestlink.com$image
 ||gettyimages.*/pulse$ping
 ||gg.vevor.com^
 ||ghacks.net/statics/px.gif
+||girlsofdesire.org/images/girlsofdesire.org/analytics.js
 ||github.com/_private/browser/stats
 ||github.dev/diagnostic?
 ||glassdoor.*/geb/events/
@@ -44995,6 +44998,7 @@ omni.soundestlink.com$image
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
 @@||pub.pixels.ai/prebid_standard.js$script,domain=standard.co.uk
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
+@@||qm.redbullracing.com/gtm.js$~third-party
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
 @@||realclearpolitics.com/esm/assets/js/admiral.js$~third-party
 @@||realclearpolitics.com/esm/assets/js/analytics/chartbeat.js$~third-party
