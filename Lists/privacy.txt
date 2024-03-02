@@ -44393,6 +44393,7 @@ omni.soundestlink.com$image
 ||rec1.smt.docomo.ne.jp/bcn_access_log/
 ||recv-entry.tbs.co.jp^
 ||recv-jnn.tbs.co.jp^
+||recv.tbs.co.jp^
 ||retty.me/gen204.php
 ||retty.me/javascripts/common/logging.js
 ||revico.jp/providejs/revico_tracking.js
@@ -44400,7 +44401,6 @@ omni.soundestlink.com$image
 ||rtm-tracking.zozo.jp^
 ||sankei.co.jp/js/analytics/
 ||scinable.net/access?
-||scis.tbs.co.jp^
 ||seesaawiki.jp/img/rainman.gif?
 ||so-zou.jp/js/ga.js
 ||stats.nhk.or.jp^
@@ -131066,6 +131066,7 @@ a.munters.us
 anaconda.net.anwalt.de
 ana.e-ticket.co.jp
 analitik.bik.gov.tr
+analysis.aws.locondo.jp
 analys.live
 analytic.americanfunds.com
 analytic.capitalgroup.com
@@ -138399,6 +138400,7 @@ ip.lovely-app.com
 ipn-app.hotdoc.com.au
 i.poker2u.app
 i.pokerbros.net
+i.posthog.com
 iptmih.hifi-regler.de
 ipummv.pharao24.de
 ip.up66.ru
@@ -141546,6 +141548,7 @@ meeting.nuance.com
 meetings.gaylordhotels.com
 meet.intercall.com
 meet.westuc.com
+megatron.igraal.com
 me.glamhive.com
 meinauto.hdd-dienste.de
 mellamanjorge.net.anwalt.de
@@ -144550,6 +144553,7 @@ recruiting.dukekunshan.edu.cn
 recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
+recv.tbs.co.jp
 redbooks.actonservice.com
 redclassic.actonservice.com
 redditstream.arborapps.io
