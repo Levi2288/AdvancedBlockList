@@ -8021,6 +8021,7 @@ omni.soundestlink.com$image
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
 ||api.privacyguides.net^
+||api.takealot.com^$ping
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
@@ -8216,6 +8217,7 @@ omni.soundestlink.com$image
 ||dcf.espn.com/privacy/
 ||dd.auspost.com.au^
 ||dd.nytimes.com^
+||ddome-tag.blablacar.com^
 ||dealnews.com/lw/ul.php
 ||deepl.com/web/statistics
 ||deepnote.com/api/track
@@ -8455,6 +8457,7 @@ omni.soundestlink.com$image
 ||health-metrics-api.setapp.com^
 ||healthline.com/api/metrics
 ||heap.drop.com^
+||hellopeter.com/api/consumer-tracking/
 ||hilton.com/zJbufaUX/
 ||hindustantimes.com/res/images/one-pixel.png
 ||hlogger.heraldcorp.com^
@@ -44965,6 +44968,7 @@ omni.soundestlink.com$image
 @@||munchkin.marketo.net/munchkin.js$domain=st.com|telus.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
 @@||mxpnl.com^$domain=mixpanel.com
+@@||my.goabode.com/assets/js/fp2.min.js$script,~third-party
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
 @@||nationwide.com/myaccount/includes/images/x.gif$~third-party
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
