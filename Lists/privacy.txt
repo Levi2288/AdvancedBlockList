@@ -282,6 +282,7 @@ omni.soundestlink.com$image
 ||cntxtfl.com^
 ||confiant-integrations.net^
 ||convead.io^
+||conversationalsdevelopment.nl^
 ||convertlink.com^
 ||cpx.to^
 ||crwdcntrl.net^
@@ -402,6 +403,7 @@ omni.soundestlink.com$image
 ||ldgnrtn.com^
 ||ldnlyap.com^
 ||leadhit.io^
+||lemonpi.io^
 ||liveyield.com^
 ||lltrck.com^
 ||lmepbq.com^
@@ -4207,6 +4209,7 @@ omni.soundestlink.com$image
 ||intrastats.com^$third-party
 ||mabaya.com^$third-party
 ||micodigo.com^$third-party
+||propelbon.com^$third-party
 ||protecmedia.com^$third-party
 ||socy.es^$third-party
 ||adsettings.com^$third-party
@@ -5710,6 +5713,7 @@ omni.soundestlink.com$image
 ||o.aolcdn.com/js/mg1.js
 ||observer.ip-label.net^
 ||ocmail1.in/rtw/$image
+||oct8ne.com/Visitor/
 ||octaneai.com^*/utrk
 ||octopart-analytics.com^$third-party
 ||oda.markitondemand.com^
@@ -6781,6 +6785,7 @@ omni.soundestlink.com$image
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
 ||d3nn82uaxijpm6.cloudfront.net/8f96b1247cf4359f8fec.js
+||d3or5d0jdz94or.cloudfront.net^
 ||d3pi0tys5sdysl.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3qxef4rp70elm.cloudfront.net/m.js
@@ -7335,6 +7340,7 @@ omni.soundestlink.com$image
 ||statistics.jfmedier.dk^
 ||trckr.nordiskemedier.dk^
 ||wee.dk/modules/$third-party
+||adcalls.nl^$third-party
 ||adult-trade.nl/lo/track.php
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
@@ -7830,7 +7836,7 @@ omni.soundestlink.com$image
 ||madrid.report.botm.transparentedge.io^
 ||mat.socy.es^
 ||mdstrm.com/js/lib/streammetrics.js
-||mtm.qdqmedia.com^
+||mtm.qdqmedia.com
 ||pub.servidoresge.com^
 ||recogerconsentimiento.com/consent/
 ||rt.cdnmedia.tv^
