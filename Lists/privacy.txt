@@ -44395,6 +44395,7 @@ omni.soundestlink.com$image
 ||rakuten.co.jp/gw.js
 ||rat.rakuten.co.jp^
 ||rdsig.yahoo.co.jp^$image
+||rebuyengine.com/api/*/analytics/event/
 ||rec1.smt.docomo.ne.jp/bcn_access_log/
 ||recv-entry.tbs.co.jp^
 ||recv-jnn.tbs.co.jp^
@@ -44886,7 +44887,7 @@ omni.soundestlink.com$image
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
 @@||ec.europa.eu/eurostat/databrowser/assets/analytics/piwik.js$script,~third-party
-@@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|bestbuy.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
+@@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|ba.com|bestbuy.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/code/$script
 @@||ensighten.com^*/scode/$script,domain=norton.com
 @@||ensighten.com^*/serverComponent.php?$script
@@ -45154,7 +45155,7 @@ omni.soundestlink.com$image
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
 @@||wwwimage-tve.cbsstatic.com^
 @@||omns.americanexpress.com/b/ss/
-@@||omtrdc.net/b/ss/$image,domain=britishairways.com|halifax-online.co.uk
+@@||omtrdc.net/b/ss/$image,domain=ba.com|britishairways.com|halifax-online.co.uk
 @@||omtrdc.net/rest/$xmlhttprequest
 @@||heatmap.it^$domain=heatmap.com|heatmap.it|heatmap.me|heatmap.org
 @@||komas19.xyz/cdn-cgi/apps/$script,~third-party
@@ -134232,6 +134233,7 @@ ddlcvm.clas.style
 dd.leboncoin.fr
 ddmfrg.modivo.bg
 dd.nytimes.com
+ddome-tag.blablacar.com
 ddsndt.azubiyo.de
 dealerrelations.cargurus.com
 dealersuccess.drivedominion.com
@@ -144215,6 +144217,7 @@ prism.pablonouvelle.com
 prism.singapouring.com
 prismtest.epoise.com
 prism.tramclockmunich.com
+privateapi.click
 private.cervicalcancer-risk.com
 privateclient.hubinternational.com
 prkvlr.camper.com
