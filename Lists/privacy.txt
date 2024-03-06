@@ -5939,6 +5939,7 @@ omni.soundestlink.com$image
 ||realm.hearst3pcc.com^
 ||rebelmouse.com/pharos/
 ||recart.com/tracking/
+||receive.wmcdp.io^
 ||recipefy.net/analytics.js
 ||recs.richrelevance.com/rrserver/api/engage/trackExperienceEvent?
 ||recs.shareaholic.com^
@@ -8311,6 +8312,7 @@ omni.soundestlink.com$image
 ||eurogamer-uk.eurogamer.net^
 ||event-api.reverb.com^
 ||event-collector.moviesanywhere.com^
+||event-router.olympics.com^
 ||event.platform.tunein.com^
 ||eventlog.jackpot.de^
 ||events-prod.autolist.com^
@@ -8743,6 +8745,7 @@ omni.soundestlink.com$image
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
 ||okx.com/jsstat/sb?
+||olympics.com/ddna-event-router/ddna-analytics.js
 ||online-umwandeln.de/analytics.js
 ||ontraport.com/opt_assets/static/js/logging.js
 ||opendesktop.org/l/fp
@@ -133656,6 +133659,7 @@ convead.io
 convention.interfaceflor.com
 converge.headuplabs.com
 convergentdental.actonservice.com
+conversationalsdevelopment.nl
 convertlink.com
 conveyor.lewcoinc.com
 convision.davivienda.com
@@ -133912,6 +133916,7 @@ d2zue0pgsssbc6.cloudfront.net
 d34r8q7sht0t9k.cloudfront.net
 d3gi6isrskhoq.cloudfront.net
 d3lqotgbn3npr.cloudfront.net
+d3or5d0jdz94or.cloudfront.net
 d3pi0tys5sdysl.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
 d6ek.pandasuite.io
@@ -135479,6 +135484,7 @@ eventos.ubmmexico.com
 eventos.usj.es
 event.platform.tunein.com
 event.raise3d.cn
+event-router.olympics.com
 events2.www.edenfantasys.com
 events.accuity.com
 events.auth.gid.ru
@@ -138929,6 +138935,7 @@ lednews.powerint.com
 l.e.domain.com.au
 leecompany.actonservice.com
 legalhold.ediscovery.com
+lemonpi.io
 lenpmh.francoisesaget.com
 lets-dev.irl.com
 lets.go.haymarketmedicalnetwork.com
@@ -144562,6 +144569,7 @@ realtimely.io
 realtime-profiling.datarize.ai
 reaonq.xn--hdks770u8f0a8dvzft.net
 rec.banggood.com
+receive.wmcdp.io
 recoverypoint.actonservice.com
 recruit.go.apprenticeshipcommunity.com.au
 recruiting.dukekunshan.edu.cn
