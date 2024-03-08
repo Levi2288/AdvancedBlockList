@@ -5146,6 +5146,7 @@ omni.soundestlink.com$image
 ||feedblitz.com/imp?$third-party
 ||feedblitz.com^*.gif?$third-party
 ||feedify.net/thirdparty/json/track/
+||feliz.data.tm-awx.com^
 ||filament-stats.herokuapp.com^
 ||files.envoke.com^*_nvk_tracking.js
 ||filesonic.com/referral/$third-party
