@@ -44463,6 +44463,7 @@ omni.soundestlink.com$image
 ||jdsports.co.kr/collect.php
 ||kyson.kakao.com^
 ||l.m.naver.com^
+||ljc.coupang.com^
 ||log.etoday.co.kr^
 ||log.kinolights.com^
 ||log.zdnet.co.kr^
@@ -132722,6 +132723,7 @@ bluecore-email.branch.rocks
 blueinfo.marugroup.net
 bluelp.2ask.blue.com.hk
 bluemountains.actonservice.com
+blue.nbc4i.com
 blueoyster.click
 blue-rocket.actonservice.com
 bluvue.actonservice.com
@@ -135464,6 +135466,7 @@ eurotax-sk.autovistagroup.com
 eurotaxsrbija-si.autovistagroup.com
 eusdbk.philosophyofficial.com
 eu.sharpmarketing.eu
+eval.privateapi.click
 e.vcty.co
 evenement.ricoh.fr
 event1.thermofisher.com
@@ -135670,6 +135673,7 @@ feedback.nslsc-csnpe.ca
 feedme.use-beez.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
+feliz.data.tm-awx.com
 femetrics.grammarly.io
 ferias.usj.es
 fespzx.sfr.fr
@@ -144234,7 +144238,6 @@ prism.pablonouvelle.com
 prism.singapouring.com
 prismtest.epoise.com
 prism.tramclockmunich.com
-privateapi.click
 private.cervicalcancer-risk.com
 privateclient.hubinternational.com
 prkvlr.camper.com
