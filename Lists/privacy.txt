@@ -8486,6 +8486,7 @@ omni.soundestlink.com$image
 ||hotstar.com/v1/identify
 ||hotstar.com/v1/track
 ||houzz.com/hsc/aetrk/
+||houzz.com/j/ajax/client-error-light?
 ||houzz.com/js/log?
 ||hqq.ac/cdn-cgi/trace
 ||hqq.to/cdn-cgi/trace
@@ -8564,6 +8565,7 @@ omni.soundestlink.com$image
 ||kayak.*/vestigo/measure
 ||kbb.com/pixall/
 ||kck.st/web/track
+||kgoma.com/v1/stat/
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -8719,6 +8721,7 @@ omni.soundestlink.com$image
 ||neowin.net/ws/$websocket
 ||net.haier.com^
 ||netflix.com/msl/playapi/cadmium/logblob/
+||netu.ac/cdn-cgi/trace
 ||netuplayer.top/cdn-cgi/trace
 ||netusia.xyz/cdn-cgi/trace
 ||newegg.com/amber3/tracking
@@ -44379,6 +44382,7 @@ omni.soundestlink.com$image
 ||goo.ne.jp^*/vltracedmd.js
 ||gtm.diamond.jp^
 ||hatarako.net/api/recommend/analyze_logger
+||hatena.ne.jp/api/log?
 ||i2i.jp/bin/
 ||img.syosetu.org/js/c_
 ||j1.ax.xrea.com^
@@ -136015,6 +136019,7 @@ getconnected.infor.com
 get.cryptocontrol.io
 get.dctaxi.com
 get.deplike.com
+getdeviceinf.com
 get-dev.mastersapp.com
 getdev.payso.ca
 get.diamanti.com
