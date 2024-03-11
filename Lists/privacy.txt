@@ -44465,7 +44465,6 @@ omni.soundestlink.com$image
 ||jdsports.co.kr/collect.php
 ||kyson.kakao.com^
 ||l.m.naver.com^
-||ljc.coupang.com^
 ||log.etoday.co.kr^
 ||log.kinolights.com^
 ||log.zdnet.co.kr^
@@ -45262,6 +45261,7 @@ omni.soundestlink.com$image
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=eloan.co.il
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
 @@||trc.taboola.com/inncoil/log/3/available$subdocument,domain=inn.co.il
+@@||kozkutak.hu/getdata.php?v*=pageview$~third-party
 @@||adobedtm.com^*/AppMeasurement.min.js$script,domain=sky.it
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
 @@||analytics.edgekey.net/config/beacon-$xmlhttprequest,domain=raiplay.it
