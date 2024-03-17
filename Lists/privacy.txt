@@ -285,7 +285,6 @@ omni.soundestlink.com$image
 ||cntxtfl.com^
 ||confiant-integrations.net^
 ||convead.io^
-||conversationalsdevelopment.nl^
 ||convertlink.com^
 ||cpx.to^
 ||crwdcntrl.net^
@@ -4498,6 +4497,7 @@ omni.soundestlink.com$image
 ||api.bit.ly/*/clicks?$third-party
 ||api.blink.net/a/
 ||api.collarity.com/cws/*http
+||api.country.is^$third-party
 ||api.iris.tv/update
 ||api.wipmania.com^
 ||apibaza.com/pixel/
@@ -6097,6 +6097,7 @@ omni.soundestlink.com$image
 ||spindl.link/events
 ||spiral.world/events/
 ||splunkcloud.com/services/collector/
+||spot.im/v1.0.0/conversation/realtime/read
 ||spotpass.com/api/log
 ||spread.ly^*/statistics.php
 ||spresso.com/pim/public/events
@@ -8059,6 +8060,7 @@ omni.soundestlink.com$image
 ||b629.electronicdesign.com^
 ||ba-bamail.com/handlers/stats.ashx
 ||backcountry.com/api/log
+||backend.academy.cs.cmu.edu/api/v0/track/
 ||baidu.com/static/h.gif
 ||baidu.com^*/mwb2.gif?
 ||baidu.com^*/wb.gif?
@@ -8287,6 +8289,7 @@ omni.soundestlink.com$image
 ||dubz.live/analytics/
 ||duckduckgo.com/t/
 ||dumpster.cam4.com^
+||e.quizlet.com^
 ||e.used.ca/event
 ||e.zg-api.com/event$domain=zillow.com
 ||e2ma.net/track/
@@ -8302,6 +8305,7 @@ omni.soundestlink.com$image
 ||eharmony.co.uk/bd/
 ||eighten-bloc-party.thebrowser.company/script.js
 ||ejlytics.editorji.com^
+||el.quizlet.com^
 ||elitesingles.com/cs/tp.png?
 ||embed.reddit.com/svc/shreddit
 ||engagefront.meteomedia.com^
