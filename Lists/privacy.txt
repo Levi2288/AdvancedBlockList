@@ -8481,6 +8481,7 @@ omni.soundestlink.com$image
 ||gumtree.com.au/tracking/
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
+||hacksplaining.com/track
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
 ||health-metrics-api.setapp.com^
@@ -9194,6 +9195,7 @@ omni.soundestlink.com$image
 ||track.netzero.net^
 ||track.sodapdf.com^
 ||track.thesaurus.com^
+||track.ttsave.app^
 ||track.ultimate-guitar.com^
 ||tracker.affiliate.iqbroker.com^
 ||tracker.nbcuas.com^
@@ -39445,7 +39447,6 @@ omni.soundestlink.com$image
 ||9b55.pandasuite.io^
 ||9bdb.pandasuite.io^
 ||9kvnwwkj.pandasuite.io^
-||_tcp.academyofconsciousleadership.net^
 ||a-t.topya.com^
 ||a.a23.in^
 ||a.careangel.com^
