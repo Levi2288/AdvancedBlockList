@@ -7497,6 +7497,7 @@ omni.soundestlink.com$image
 ||bvr.ast.snva.jp^
 ||bvr.snva.jp^
 ||c-rings.net^$script,third-party
+||cdn.ad-platform.jmty.jp^
 ||clipkit.co/clipkit_assets/beacon-
 ||cloudfunctions.net/trackEvent
 ||cnobi.jp^*/js/imp.
@@ -131127,6 +131128,7 @@ analytics1.dillards.com
 analytics1.vdo.ai
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
+analytics.3c5.com
 analytics.adliners.de
 analytics.adobe.io
 analytics.adobe.ly
@@ -133699,7 +133701,6 @@ convead.io
 convention.interfaceflor.com
 converge.headuplabs.com
 convergentdental.actonservice.com
-conversationalsdevelopment.nl
 convertlink.com
 conveyor.lewcoinc.com
 convision.davivienda.com
@@ -135063,6 +135064,7 @@ elqtrk.rsmus.com
 elqtrkstg.intel.com
 elqtrk.thailand.intel.com
 elqtrk.tw.morningstar.com
+el.quizlet.com
 elqview2.uclahealth.org
 elqview.kofax.com
 elqview.kofax.de
@@ -135425,6 +135427,7 @@ eqs.intuit.com
 eqtrack.americashomeplace.com
 equippo.actonservice.com
 equity.e2g.com
+e.quizlet.com
 eq.userneeds.com
 eqvioe.polihome.gr
 era.easyvoyage.com
@@ -151443,6 +151446,7 @@ track.storm.mg
 track.tappx.com
 track-test.workframe.com
 track.tom.com
+track.ttsave.app
 track.unidata.ai
 track.uppromote.com
 track-v4.ipadpresence.com
