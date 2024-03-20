@@ -5191,6 +5191,7 @@ omni.soundestlink.com$image
 ||freehostedscripts.net^*.php?site=*&s=*&h=$third-party
 ||fresh.inlinkz.com^$third-party
 ||frog.editorx.com^
+||frontend-logger.flippback.com/api/logging
 ||fs-client-logger.herokuapp.com^
 ||ftimg.net/js/log.js?
 ||ftm.fluencyinc.co^
@@ -8224,6 +8225,7 @@ omni.soundestlink.com$image
 ||cvs.com/tnadstlinj.js
 ||cwt.citywire.info^
 ||d.skk.moe^
+||d401.dollartree.com^
 ||dailymail.co.uk/geo/
 ||dailymail.co.uk/rta2/
 ||dailymotion.com/logger/
@@ -8266,6 +8268,7 @@ omni.soundestlink.com$image
 ||dls-account.di.atlas.samsung.com^
 ||dmtgvn.com/wrapper/js/common-engine.js$domain=rt.com
 ||docs.github.com/events
+||dollartree.com/ccstoreui/*/analytics/
 ||domainit.com/scripts/track.js
 ||dominos.co.uk/qRgAwS/
 ||dot.nonolive.com^
@@ -8351,6 +8354,7 @@ omni.soundestlink.com$image
 ||evs.icy-lake.kickstarter.com^
 ||evs.sgmt.loom.com^$script
 ||expedia.*/cl/
+||experiences.wyng.com/api/*/event-api/events
 ||expressvpn.com/__px.gif?
 ||exr-mms.expertreviews.co.uk^
 ||extendoffice.com/analytics.js
@@ -8361,6 +8365,7 @@ omni.soundestlink.com$image
 ||facebook.com/ajax/*logging.
 ||facebook.com/ajax/mtouch_perf_page_load_timings/
 ||facebook.com/ajax/qm/
+||familydollar.com/ccstoreui/*/analytics/
 ||fanatics.com/api/track
 ||fancentro.com/lapi/statisticWriter/
 ||fancentro.com/trck-
@@ -8472,6 +8477,7 @@ omni.soundestlink.com$image
 ||google.com/log?
 ||gotie.tunein.com^
 ||grabify.link/api/js
+||grgnsht.nzxt.com^
 ||groove.so/unlocker.js
 ||groupon.com/analytic/
 ||groupondata.com/tracky
@@ -8482,6 +8488,7 @@ omni.soundestlink.com$image
 ||gumtree.com.au/tracking/
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
+||h031.familydollar.com^
 ||hacksplaining.com/track
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
@@ -8591,6 +8598,7 @@ omni.soundestlink.com$image
 ||kohls.com/test_rum_nv?
 ||komoot.*/api/t/event
 ||kompass.com/logAdvertisements
+||kroger.com/clickstream/
 ||kudoslabs.gg/track/
 ||l.usaa.com/e/v1/
 ||lastminute.com/ose/processEvent
@@ -45228,6 +45236,7 @@ omni.soundestlink.com$image
 @@||kameleoon.io/ip^$domain=welt.de
 @@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
+@@||rackcdn.com/stf.js$script,domain=20min.ch
 @@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
 @@||script-at.iocnt.net/iam.js$domain=oe24.at
 @@||showheroes.com/publishertag.js$domain=rollingstone.de
@@ -111004,6 +111013,7 @@ casinotreasure.com
 casterist.info
 cbsi.com
 ccmbg.com
+cdn-f.adsmoloco.com
 cdn.cdmetrix.com
 cdn.freefarcy.com
 cdn.onesignal.com
@@ -111150,6 +111160,7 @@ darceybusselldirect.com
 darrylbi.com
 data.namesakeoscilloscopemarquis.com
 datalogix.com
+dawletry.co.in
 dbbaners.com
 dbbsrv.com
 dealdotcom.com
@@ -111191,6 +111202,7 @@ doubleclick.de
 downloadr.xyz
 dsp.io
 dstillery.com
+dtignite.com
 dtmpub.com
 dynamic.fmpub.net
 e-adimages.scrippsnetworks.com
@@ -111212,6 +111224,7 @@ edaa.eu
 edgeio.com
 effiliation.com
 eiv.baidu.com
+eleniferical.co.in
 elitedollars.com
 elthamely.com
 emap.admedia.net
@@ -111239,6 +111252,7 @@ exchange-it.com
 exchange.bg
 exchangead.com
 exchangeclicksonline.com
+excitiligare.co.in
 exelate.com
 exit76.com
 exitexchange.com
@@ -111628,12 +111642,14 @@ milesdebanners.com
 mixtraffic.com
 mjxads.internet.com
 mlm.de
+mmentorapp.com
 mmismm.com
 mobileads.ru
 mobileiconnect.com
 mochiads.com
 moggattice.com
 moloco.com
+molocoads.com
 money4exit.de
 moneyexpert.com
 moniht.com
@@ -111915,6 +111931,7 @@ realclever.com
 realclix.com
 realmedia-a800.d4p.net
 realtechnetwork.com
+realtimely.io
 record.affiliates.karjalakasino.com
 record.bonniergaming.com
 record.mrwin.com
@@ -111996,6 +112013,7 @@ servedbyadbutler.com
 servethis.com
 sevenhundreded.com
 sf.impact.as
+sfbx.io
 shakesea.com
 sharepointads.com
 sheepwalks.com
@@ -112224,6 +112242,7 @@ undertone.com
 undertonevideo.com
 uneofffredefou.com
 uneoffreparjour.fr
+ungothoritator.com
 unpaireddc.com
 untd.com
 us.a1.yimg.com
@@ -112299,6 +112318,7 @@ whaleads.com
 whenu.com
 whilockmi.com
 whispa.com
+whitclcium.co.in
 wholesaletraffic.info
 widdit.com
 widespace.com
@@ -112308,6 +112328,7 @@ wikia-ads.wikia.com
 window.nixnet.cz
 winningwithcoastal.com
 wintricksbanner.googlepages.com
+winudf.com
 wisepops.com
 witch-counter.de
 wlmarketing.com
@@ -112333,6 +112354,7 @@ y20ads.com
 yab-adimages.s3.amazonaws.com
 yabuka.com
 yaia.com
+yaksgame.com
 yepads.com
 yesads.com
 yesadvertising.com
@@ -133211,6 +133233,7 @@ cdjhcf.hometogo.es
 cdl2.booksy.com
 cdl.booksy.com
 cdl.lvsafe.io
+cdn.ad-platform.jmty.jp
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdp.cifinancial.com
@@ -133960,6 +133983,7 @@ d3lqotgbn3npr.cloudfront.net
 d3or5d0jdz94or.cloudfront.net
 d3pi0tys5sdysl.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
+d401.dollartree.com
 d6ek.pandasuite.io
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 dacocorp.actonservice.com
@@ -136775,6 +136799,7 @@ grc.openapp.link
 greenbeacon.actonservice.com
 greencharge.actonservice.com
 greif.actonservice.com
+grgnsht.nzxt.com
 gr-go.experian.com
 grn.openapp.link
 grofag.hollandandbarrett.ie
@@ -136829,6 +136854,7 @@ gyvzjp.conradelektronik.dk
 gyxtyd.yummicandles.com
 gyydua.dakine.com
 gzbcuy.mamarella.com
+h031.familydollar.com
 h5.analytics.126.net
 halo.actonservice.com
 hambtr.unilife.co.jp
@@ -144611,7 +144637,6 @@ realsolutions.americanexpress.fr
 realsolutions.americanexpress.it
 realsolutions.americanexpress.se
 realtime.bbcl.cl
-realtimely.io
 realtime-profiling.datarize.ai
 reaonq.xn--hdks770u8f0a8dvzft.net
 rec.banggood.com
