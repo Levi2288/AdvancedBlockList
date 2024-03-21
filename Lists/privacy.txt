@@ -5304,6 +5304,7 @@ omni.soundestlink.com$image
 ||helloretail.com/serve/collect/
 ||heraldandtimeslabs.com/sugar.js
 ||heroku.com/?callback=getip$third-party
+||heyday.io/idx/
 ||heyflow.co/pixel/
 ||hi.hellobar.com^
 ||hicloud.com/download/web/dtm.js
@@ -16517,7 +16518,6 @@ omni.soundestlink.com$image
 ||samc.zkb.ch^
 ||samc.zuerilaufcup.ch^
 ||sametrics.finn.no^
-||sams.manager-magazin.de^
 ||sams.spiegel.de^
 ||samt.frankly.ch^
 ||samt.swisscanto.com^
@@ -45236,6 +45236,7 @@ omni.soundestlink.com$image
 @@||kameleoon.io/ip^$domain=welt.de
 @@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
+@@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
 @@||rackcdn.com/stf.js$script,domain=20min.ch
 @@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
 @@||script-at.iocnt.net/iam.js$domain=oe24.at
@@ -45274,6 +45275,7 @@ omni.soundestlink.com$image
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hk.on.cc/js/v4/urchin.js
 @@||iwrite.unipus.cn/js/main/GPT.js$~third-party
+@@||marketing.unionpayintl.com/offer-promote/static/sensorsdata.min.js$script,~third-party
 @@||nobook.com/open-interface/official-sensors.git/$script,~third-party
 @@||statics.zcool.com.cn/track/sensors.$script,~third-party
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
