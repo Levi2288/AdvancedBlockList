@@ -416,6 +416,7 @@ omni.soundestlink.com$image
 ||logtail.com^
 ||loopcybersec.com^
 ||lsdm.co^
+||lyfnh.io^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
 ||mathilde-ads.com^
@@ -1273,7 +1274,6 @@ omni.soundestlink.com$image
 ||engagio.com^$third-party
 ||engine212.com^$third-party
 ||engine64.com^$third-party
-||enhance.com^$third-party
 ||enhencer.com^$third-party
 ||enquisite.com^$third-party
 ||ensighten.com^$third-party
@@ -4589,6 +4589,7 @@ omni.soundestlink.com$image
 ||barium.cheezdev.com^
 ||basis.net/assets/up.js
 ||bat.bing.com^
+||baxter.olx.org^
 ||bazaarvoice.com/sid.gif
 ||bb.itwc.ca/js/cube.js
 ||bc.geocities.
@@ -7841,6 +7842,7 @@ omni.soundestlink.com$image
 ||contador.biobiochile.cl^
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
+||count.sibbo.net^
 ||creatives.sunmedia.tv^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
@@ -8229,6 +8231,7 @@ omni.soundestlink.com$image
 ||cwt.citywire.info^
 ||d.skk.moe^
 ||d401.dollartree.com^
+||dabu.askmediagroup.com^
 ||dailymail.co.uk/geo/
 ||dailymail.co.uk/rta2/
 ||dailymotion.com/logger/
@@ -44604,6 +44607,7 @@ omni.soundestlink.com$image
 ||sapo.*/clk?u=
 ||sapo.pt/Projects/sapoabd/
 ||sinonimos.com.br/hits.php
+||standvirtual.com^$ping
 ||tags.globo.com^
 ||tm.jsuol.com.br^
 ||tm.uol.com.br^
@@ -45167,7 +45171,7 @@ omni.soundestlink.com$image
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at|teddyfood.com|xxl.se
 @@||google-analytics.com/ga.js$domain=meritonsuites.com.au
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|enoteca.co.jp|goodwillfinds.com|samash.com|viajeguanabara.com.br|vitalsource.com|wilsonparking.com.au
-@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=tatamotors.com
 @@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|poweredbycovermore.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|tatacliq.com|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com|wowway.net
 @@||adobedtm.com^*-libraryCode_source.min.js$domain=doda.jp
@@ -141424,6 +141428,7 @@ mckbpe.united-arrows.co.jp
 mckiey.thun.com
 m.communications.ihmvcu.org
 mcrmqv.joiasprime.com.br
+mcs-ie.tiktokw.eu
 mcs.tiktokv.us
 mcs.us.tiktokv.com
 mcs.zijieapi.com
@@ -149834,6 +149839,7 @@ studentadvantage.actonservice.com
 studio.joinsalut.com
 study.jcu.edu.au
 study.vu.edu.au
+sturton-lation.com
 styles.hautelook.com
 su1.les-suites.ca
 sub.ecd.bookoffonline.co.jp
