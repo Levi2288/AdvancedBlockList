@@ -8668,6 +8668,7 @@ omni.soundestlink.com$image
 ||mail.yahoo.com/f/track/
 ||mangadex.org/api/event
 ||mangadex.org/p.js
+||manomano.*/api/v1/sp-tracking/
 ||manua.ls/g/collect?
 ||manua.ls/gtag
 ||mapcarta.com/logs
