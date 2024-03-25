@@ -132661,6 +132661,7 @@ barracuda.carte-gr.total.fr
 basket.mondo.link
 baton.cuetv.online
 battlenet.openapp.link
+baxter.olx.org
 bayshoresystems.actonservice.com
 bbanywhere.links.rosieapp.com
 bbbb.blackboard.com
@@ -133779,6 +133780,7 @@ counter.reddigital.ru
 counter.wikiwiki.jp
 count.gothaer-digital.de
 count-server.sharethis.com
+count.sibbo.net
 covenant.psjhealth.org
 cowhmc.docmorris.de
 coyizl.embracon.com.br
@@ -134000,6 +134002,7 @@ d3vebqdofhigrn.cloudfront.net
 d401.dollartree.com
 d6ek.pandasuite.io
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
+dabu.askmediagroup.com
 dacocorp.actonservice.com
 dadispapi.gmarket.co.kr
 da.freo.nl
@@ -134453,6 +134456,7 @@ dggaenaawxe8z.cloudfront.net
 dg.ptl.irco.com
 d.groc.press
 dgztiz.conrad.se
+dh0c1bz67fuho.cloudfront.net
 dhdaa.duke.edu
 dhmdja.trueprotein.com.au
 dhplma.pontofrio.com.br
@@ -140095,6 +140099,7 @@ lxswqh.oyorooms.com
 lxztgb.musee-pla.com
 lydallpm.actonservice.com
 lyegyo.bluenile.com
+lyfnh.io
 lyfrir.purehockey.com
 lyonsdown.actonservice.com
 l.your.md
@@ -144983,6 +144988,7 @@ rtpmqv.smakon.jp
 rtvision.actonservice.com
 ru-go.experian.com
 rugttt.robinson.com
+rum.corewebvitals.io
 rum.perfops.net
 rumsey.actonservice.com
 rumstat.cdnvideo.ru
