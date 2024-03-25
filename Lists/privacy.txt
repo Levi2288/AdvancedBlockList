@@ -5992,6 +5992,7 @@ omni.soundestlink.com$image
 ||rtxpx-a.akamaihd.net^
 ||rum.azion.com^
 ||rum.azioncdn.net^
+||rum.corewebvitals.io^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
 ||rum.perfops.net^
@@ -6819,6 +6820,7 @@ omni.soundestlink.com$image
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dd6zx4ibq538k.cloudfront.net^
 ||dggaenaawxe8z.cloudfront.net^
+||dh0c1bz67fuho.cloudfront.net^
 ||di2xwvxz1jrvu.cloudfront.net^
 ||dkupaw9ae63a8.cloudfront.net^
 ||dl1d2m8ri9v3j.cloudfront.net^
@@ -8044,6 +8046,7 @@ omni.soundestlink.com$image
 ||api-hotmart-tracking-manager.hotmart.com^
 ||api-js.mixpanel.com^
 ||api-router.kaspersky-labs.com/logger2/metrics/
+||api.audio.com/analytics/event
 ||api.channel.io/*/events
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
@@ -23780,7 +23783,6 @@ omni.soundestlink.com$image
 ||bersondeanstevens.actonservice.com^
 ||bestbuy.actonservice.com^
 ||bestinfo.bluetrustloans.com^
-||beyondmeasure.rigoltech.com^
 ||bgiamericas.actonservice.com^
 ||bi.concordesolutions.com^
 ||bigcustomernetwork.actonservice.com^
