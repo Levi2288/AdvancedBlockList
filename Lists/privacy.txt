@@ -457,6 +457,7 @@ omni.soundestlink.com$image
 ||openfpcdn.io^
 ||oppuz.com^
 ||opti-digital.com^
+||opticksprotection.com^
 ||optistats.ovh^
 ||ostrichesica.com^
 ||p2r14.com^
@@ -1469,7 +1470,6 @@ omni.soundestlink.com$image
 ||getdrip.com^$third-party
 ||getfreebl.com^$third-party
 ||getlasso.co^$third-party
-||getpublica.com^$third-party
 ||getrockerbox.com^$third-party
 ||getsentry.com^$third-party,domain=~sentry.dev|~sentry.io
 ||getsmartcontent.com^$third-party
@@ -4689,6 +4689,7 @@ omni.soundestlink.com$image
 ||carambo.la/logging/
 ||cardinalcommerce.com/prod/log
 ||caspionlog.appspot.com^
+||castify-trk.playitviral.com^
 ||cbsaavideo.com/measurements/
 ||cbsivideo.com/measurements/
 ||cc.swiftype.com^
@@ -4793,7 +4794,6 @@ omni.soundestlink.com$image
 ||cmail19.com/t/$image,third-party
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
-||cmp.datasign.co^
 ||cnetcontent.com/log?
 ||cnevids.com/metrics/
 ||cnnx.io^*/tracker.js
@@ -6511,6 +6511,7 @@ omni.soundestlink.com$image
 ||triplewhale-pixel.web.app^
 ||tritondigital.com/ondemand/impression?
 ||trk.clinch.co^
+||trk.playitviral.com^
 ||trk.storyly.io^
 ||trk.techtarget.com^
 ||trk2-wtb.swaven.com^
@@ -8677,6 +8678,7 @@ omni.soundestlink.com$image
 ||loglady.kiwi.com^
 ||logs.hotstar.com^
 ||logs.naukri.com^
+||logs.netflix.com^
 ||logx.optimizely.com^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lookawoman.com/t/
@@ -8775,6 +8777,7 @@ omni.soundestlink.com$image
 ||neighbourly.co.nz/event-tracking
 ||neowin.net/ws/$websocket
 ||net.haier.com^
+||netflix.com/ichnaea/log
 ||netflix.com/msl/playapi/cadmium/logblob/
 ||netu.ac/cdn-cgi/trace
 ||netuplayer.top/cdn-cgi/trace
@@ -8863,6 +8866,7 @@ omni.soundestlink.com$image
 ||pixel.tuko.co.ke^
 ||pixelzirkus.gameforge.com^
 ||pixiedust.buzzfeed.com^
+||pl.letsblock.it^
 ||planetradio.co.uk/crystal/log
 ||plausible.bots.gg^
 ||plausible.dragonfru.it^
@@ -44426,6 +44430,7 @@ omni.soundestlink.com$image
 ||analyzer2.fc2.com^
 ||anyelse.com/stat^
 ||astat.nikkei.com^
+||astral.nicovideo.jp^
 ||barks.jp/v1/stats
 ||bc.nhk.jp^
 ||beacon.watch.impress.co.jp^
@@ -44481,6 +44486,7 @@ omni.soundestlink.com$image
 ||nhk.or.jp^*/bc.js
 ||nicoad.nicovideo.jp/*/instream/tracking/
 ||nicolive.cdn.nimg.jp/relive/sp/browser-logs.
+||nicolive.cdn.nimg.jp/relive/sp/trackingService.
 ||nicovideo.jp/api/counter/
 ||nikkei.com/.resources/tracking/
 ||nvapi.nicovideo.jp/v1/bandit-machine/
@@ -44505,6 +44511,7 @@ omni.soundestlink.com$image
 ||sankei.co.jp/js/analytics/
 ||scinable.net/access?
 ||seesaawiki.jp/img/rainman.gif?
+||service.webgoto.net/*?wAnalytics
 ||so-zou.jp/js/ga.js
 ||stats.nhk.or.jp^
 ||sy.amebame.com^
@@ -115420,6 +115427,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  cas.par.vip.prod.criteo.com
  cas.sg1.vip.prod.criteo.com
  castorama.eulerian.net
+ cas.us5.vip.prod.criteo.com
  cas.us.criteo.com
  cas.va1.vip.prod.criteo.com
  cat.am5.vip.prod.criteo.com
@@ -118445,6 +118453,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gum.nl3.vip.prod.criteo.com
  gum.par.vip.prod.criteo.com
  gum.sg1.vip.prod.criteo.com
+ gum.us5.vip.prod.criteo.com
  gum.va1.vip.prod.criteo.com
  gundersenhealth.hrm.healthgrades.com
  guq9.vente-unique.it
