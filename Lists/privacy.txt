@@ -511,6 +511,7 @@ omni.soundestlink.com$image
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
+||srmdata-eur.com^
 ||stack-sonar.com^
 ||stat.ovh^
 ||statisticplatform.com^
@@ -114882,6 +114883,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  ads.par.vip.prod.criteo.com
  ads.sg1.vip.prod.criteo.com
  ads.spacenine.biz
+ ads.us5.vip.prod.criteo.com
  ads.us.criteo.com
  ads.va1.vip.prod.criteo.com
  adt.com.102.112.2o7.net
@@ -115460,6 +115462,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  cbsdigitalmedia.hb.omtrdc.net
  cbsd.nl3.vip.prod.criteo.com
  cbsd.par.vip.prod.criteo.com
+ cbsd.us5.vip.prod.criteo.com
  cbsd.va1.vip.prod.criteo.com
  cbs.hb-api.omtrdc.net
  cbsinteractive.hb.omtrdc.net
@@ -117234,6 +117237,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc5.nl3.eu.criteo.com
  gbc5.nl.eu.criteo.com
  gbc5.sg1.as.criteo.com
+ gbc5.us5.us.criteo.com
  gbc5.va.us.criteo.com
  gbc6.da.us.criteo.com
  gbc6.fr3.eu.criteo.com
@@ -128327,6 +128331,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  widget.nl3.vip.prod.criteo.com
  widget.par.vip.prod.criteo.com
  widget.sg1.vip.prod.criteo.com
+ widget.us5.vip.prod.criteo.com
  widget.us.criteo.com
  widget.va1.vip.prod.criteo.com
  wirtschaftskammer01.webtrekk.net
@@ -133291,6 +133296,7 @@ cartoon.hardalist.com
 cascadion.thermo.com
 cascadion.thermofisher.com
 casl.couch-associates.com
+castify-trk.playitviral.com
 cast.net.anwalt.de
 catalogs.printplace.com
 cat.fonecta.fi
@@ -133470,7 +133476,6 @@ cm.informaengage.com
 cm-jp.americanexpress.com
 cmme.actonservice.com
 cm.nordvpn.com
-cmp.datasign.co
 cm.prodo.com
 cmp.telerama.fr
 cmrcustomer.americanexpress.co.uk
@@ -139962,6 +139967,7 @@ log.rabobank.nl
 log.recommend.nicovideo.jp
 log.rhythmtowers.com
 logs.mezmo.com
+logs.netflix.com
 logstash-3.radio-canada.ca
 logs.theccaa.com
 logtail.com
@@ -143841,6 +143847,7 @@ ops.sunpowercorp.com
 opsveda.actonservice.com
 opt.delta.com
 opticca.actonservice.com
+opticksprotection.com
 optifiantsion.carte-gr.total.fr
 optimeeze.appspot.com
 optimisation.coop.co.uk
@@ -144296,6 +144303,7 @@ pl-go.experian.com
 pl.hitthefrontpage.com
 plhwid.evdeeczane.com
 pljuin.lensmode.com
+pl.letsblock.it
 pll.pearlinsurance.com
 pl.mynorthstarapp.com
 p.logbox.io
@@ -148698,6 +148706,7 @@ s.repguard.uk
 sreport.mitsubishicars.com
 srglobal.actonservice.com
 srm4.destinia.co.no
+srmdata-eur.com
 srmdvb.ekohealth.com
 srmy.srglobal.com
 s.rosettastone.com
@@ -152188,6 +152197,7 @@ trk.planta.be
 trk.plantafin.fr
 trk.planta.pt
 trk.plasticstoday.com
+trk.playitviral.com
 trk.powderandbulkshow.com
 trk.powderandbulksolids.com
 trk.powerdms.com
