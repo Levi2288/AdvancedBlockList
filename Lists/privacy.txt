@@ -896,7 +896,6 @@ omni.soundestlink.com$image
 ||bigreal.org^$third-party
 ||bigtracker.com^$third-party
 ||bionicclick.com^$third-party
-||birdeatsbug.com^$third-party
 ||bizible.com^$third-party
 ||bizo.com^$third-party
 ||bizspring.net^$third-party
@@ -2419,6 +2418,7 @@ omni.soundestlink.com$image
 ||scrippscontroller.com^$third-party
 ||scripts21.com^$third-party
 ||scriptshead.com^$third-party
+||sdk.birdeatsbug.com^$third-party
 ||sea-nov-1.com^$third-party
 ||sealmetrics.com^$third-party
 ||searchenginegenie.com^$third-party
@@ -5534,6 +5534,7 @@ omni.soundestlink.com$image
 ||loader.zeroform.com^
 ||location3.com/analytics/
 ||log-*.previewnetworks.com^
+||log-pq.shopfully.cloud^
 ||log.aimtell.com^
 ||log.cookieyes.com^
 ||log.dpa.com^
@@ -8147,6 +8148,7 @@ omni.soundestlink.com$image
 ||buzzfeed.com/destination-sync.html
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
 ||byteoversea.com/monitor_web/
+||c.arstechnica.com^
 ||c.fingerprint.com^
 ||c.newyorker.com^
 ||c.paypal.com^$image,script
@@ -8626,6 +8628,8 @@ omni.soundestlink.com$image
 ||kbb.com/pixall/
 ||kck.st/web/track
 ||kgoma.com/v1/stat/
+||khanacademy.org/api/internal/_analytics/
+||khanacademy.org/api/internal/_bb/
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -8918,6 +8922,7 @@ omni.soundestlink.com$image
 ||pushsquare.com/blank.gif
 ||px.srvcs.tumblr.com^
 ||pxl.indeed.com^
+||qc.arstechnica.com^
 ||qc.newyorker.com^
 ||qc.vogue.com^
 ||qc.wired.com^
@@ -44868,6 +44873,7 @@ omni.soundestlink.com$image
 ||15min.lt/cached/tgif$~third-party
 ||g.delfi.lt/g.js
 ||lrytas.lt/counter/
+||event-tracking.hellohealthgroup.com^
 ||click.vgnett.no^
 ||data.nrk.no^
 ||nrk.no^*/stats/
@@ -45516,7 +45522,7 @@ omni.soundestlink.com$image
 @@||imrworldwide.com/novms/js/2/ggc$script,domain=9now.com.au|adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|espn.com|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|la7.it|news-mail.com.au|news.com.au|noosanews.com.au|ntnews.com.au|sky.it|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|townsvillebulletin.com.au|tvnow.de|video.corriere.it|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|corriereadriatico.it|couriermail.com.au|dailyexaminer.com.au|fanpage.it|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ipswichadvertiser.com.au|la7.it|last.fm|leggo.it|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|quotidianodipuglia.it|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|jbhifi.com.au|login.skype.com|oreillyauto.com|power.fi|princessauto.com|ringcentral.com|screwfix.com|usbank.com|verkkokauppa.com|vitacost.com|westernunion.com
-@@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
+@@||ingest.sentry.io/api/$xmlhttprequest,domain=core.app|orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
 @@||ci-mpsnare.iovation.com/snare.js$domain=equifax.ca
 @@||lightning.cnn.com^$script,domain=wfmz.com
 @@||tag.aticdn.net^$script,domain=gouv.fr|rte.ie|tv5monde.com|uktvplay.co.uk|visaconcierge.eu|yourstory.com
