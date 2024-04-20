@@ -251,6 +251,7 @@ omni.soundestlink.com$image
 ||apenterprise.io^
 ||apxl.io^
 ||as3.io^
+||avads.net^
 ||awmonitor.com^
 ||bfmio.com^
 ||bidgx.com^
@@ -2207,6 +2208,7 @@ omni.soundestlink.com$image
 ||porngraph.com^$third-party
 ||portfold.com^$third-party
 ||posst.co^$third-party
+||pranmcpkx.com^$third-party
 ||prchecker.info^$third-party
 ||prebidmanager.com^$third-party
 ||precisioncounter.com^$third-party
@@ -6420,6 +6422,7 @@ omni.soundestlink.com$image
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
+||tracker.myth.dev^
 ||tracker.myyschool.xyz^
 ||tracker.netklix.com^$script
 ||tracker.nitropay.com^
@@ -6850,6 +6853,7 @@ omni.soundestlink.com$image
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dljnjom9md7c.cloudfront.net/02/zara.js
 ||dn34cbtcv9mef.cloudfront.net^
+||dniyppubkuut7.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnxlgencstz4.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
@@ -7802,6 +7806,7 @@ omni.soundestlink.com$image
 ||pinnacle.com/ru/?btag=
 ||piper.amocrm.ru^
 ||prime.rambler.ru^$~script
+||programmatica.com^$third-party
 ||promworld.ru^*/counter.php?
 ||properm.ru/top/counter_new.php?
 ||r.mail.ru^$image
@@ -7814,6 +7819,7 @@ omni.soundestlink.com$image
 ||scounter.rambler.ru^
 ||sepyra.com^$third-party
 ||sishik.ru/counter.php?
+||sov.stream^$third-party
 ||sp.aviasales.com^
 ||sp.aviasales.ru^
 ||st.hbrd.io^
@@ -8285,6 +8291,7 @@ omni.soundestlink.com$image
 ||data.webullfintech.com/event/
 ||data.younow.com^
 ||datadoghq.com/assets/dd-browser-logs-rum.js
+||datadome.maisonsdumonde.com^
 ||datadome.patreon.com^
 ||datayze.com/callback/record_visit?
 ||dbhsejcg-meetup-com.cdnjs.network^
@@ -8730,6 +8737,7 @@ omni.soundestlink.com$image
 ||mcs-ie.tiktokw.eu^
 ||mcs-va.tiktokv.com^
 ||mcs.tiktokv.us^
+||mcs.tiktokw.us^
 ||mcs.us.tiktokv.com^
 ||medal.tv^$ping
 ||medium.com/_/batch
@@ -9109,6 +9117,7 @@ omni.soundestlink.com$image
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.sg^
 ||stats.justpaste.it^
+||stats.mempool.space^
 ||stats.newsweek.com^
 ||stats.pstream.net^
 ||stats.qwant.com^
@@ -9196,6 +9205,7 @@ omni.soundestlink.com$image
 ||tapeadsenjoyer.com/stat/
 ||tapeantiads.com/stat/
 ||tapeblocker.com/stat/
+||tapelovesads.org/stat/
 ||tapenoads.com/stat/
 ||tapewithadblock.com/stat/
 ||tapewithadblock.org/stat/
@@ -9524,6 +9534,7 @@ omni.soundestlink.com$image
 ||event.evtm.53.com^
 ||idstatus.sky.com^
 ||imgs.signifyd.com^
+||mfasa.chase.com/auth/js/jpmc_bb_check.js
 ||olacontent.schwab.com^$script
 ||qfp.intuit.com^
 ||rba-screen.healthsafe-id.com^
@@ -45214,18 +45225,13 @@ omni.soundestlink.com$image
 @@||analytics.casper.com/gtm.js$~third-party
 @@||analytics.edgekey.net/ma_library/html5/html5_malibrary.js$script,domain=mxplayer.in
 @@||analytics.itunes.apple.com^$~third-party
-@@||answers.ros.org/m/default/media/images/$image,~third-party
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api-js.datadome.co/js/$domain=sso.garena.com
 @@||api-mg2.db-ip.com^$xmlhttprequest,domain=journal-news.com
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
-@@||api.enthusiastgaming.net^$xmlhttprequest,domain=diep.io
-@@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
-@@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
-@@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
 @@||assets.msn.com/staticsb/statics/latest/adboxes/$script,~third-party
 @@||att.com/scripts/adobe/prod/$script,~third-party
 @@||att.com/scripts/adobe/virtual/detm-container-hdr.js$~third-party
@@ -45233,17 +45239,14 @@ omni.soundestlink.com$image
 @@||att.tv^*/VisitorAPI.js$script,~third-party
 @@||autocomplete.clearbit.com^$xmlhttprequest,domain=dzone.com
 @@||azureedge.net/prod/smi/loader-config.json$domain=pressdemocrat.com
-@@||azureedge.net^*/analytics/eventtracking.js$script,domain=crimemapping.com
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||bgp.he.net/images/flags/*.gif?$image,~third-party
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
 @@||blackcircles.ca^$script,~third-party
 @@||blueconic.net/bostonglobemedia.js$domain=bostonglobe.com
-@@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
 @@||board-game.co.uk/cdn-cgi/zaraz/s.js$script,~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||bostonglobe.com/login/js/lib/AppMeasurement.js$~third-party
-@@||builder.lift.acquia.com/lift.js$script,domain=edwardjones.com
 @@||c.lytics.io/api/tag/$script,domain=time.com
 @@||c.paypal.com/da/r/fb.js$script
 @@||c.webtrends-optimize.com/acs/$image,script,domain=tvlicensing.co.uk
@@ -45264,7 +45267,7 @@ omni.soundestlink.com$image
 @@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca|finishline.com|summitracing.com|tumi.com
 @@||channel.images.production.web.w4a.tv^*/ard.png?$domain=yallo.tv
 @@||chart-embed.service.newrelic.com^$subdocument,xmlhttprequest
-@@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
+@@||chasecdn.com/web/*/eventtracker.js$domain=chase.com
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||check.ddos-guard.net/check.js$script
 @@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
@@ -45289,6 +45292,7 @@ omni.soundestlink.com$image
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/app-measurement.html$xmlhttprequest
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/visitor-api.html$xmlhttprequest
 @@||cqcounter.com^$domain=cqcounter.com
+@@||crimemapping.com/cdn/*/analytics/eventtracking.js$~third-party
 @@||cults3d.com/packs/js/quantcast-$~third-party
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d2ma0sm7bfpafd.cloudfront.net/wcsstore/waitrosedirectstorefrontassetstore/custom/js/analyticseventtracking/$script,domain=waitrosecellar.com
@@ -151516,6 +151520,7 @@ tracker-aa.pafbetscore.lv
 tracker-aa.paf.es
 tracker.blutv.com
 tracker.decomworld.com
+tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
 tracker.durasite.net
 tracker.eft.com
