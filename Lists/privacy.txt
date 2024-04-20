@@ -5564,7 +5564,6 @@ omni.soundestlink.com$image
 ||logs.mezmo.com^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
-||logs.viadata.store^
 ||longtailvideo.com^*/yourlytics-
 ||loomia.com^*/setcookie.html
 ||lps.qantas.com^
@@ -7606,6 +7605,7 @@ omni.soundestlink.com$image
 ||shinobi.jp/track?
 ||shinobi.jp/zen?
 ||sitest.jp/tracking/
+||smaero.jp/js/access.js
 ||smart-bdash.com/receptions/action/impression
 ||smart-bdash.com/tracking-script/
 ||snva.jp/api/bcon/basic?
