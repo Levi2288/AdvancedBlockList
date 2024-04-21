@@ -4312,6 +4312,7 @@ omni.soundestlink.com$image
 ||adsolutions.com^$third-party
 ||adyen.com/checkoutshopper/images/analytics.png?
 ||adyen.com/checkoutshopper/v2/analytics/log?
+||affiliate-api.raptive.com^
 ||affiliates.minglematch.com^
 ||affirm.com/api/v2/cookie_sent
 ||affirm.com/api/v2/session/touch_track
@@ -8171,6 +8172,7 @@ omni.soundestlink.com$image
 ||c.newyorker.com^
 ||c.paypal.com^$image,script
 ||c.thredup.com^
+||c.vanityfair.com^
 ||c.vogue.com^
 ||c.wired.com^
 ||c.wort-suche.com^
@@ -8947,6 +8949,7 @@ omni.soundestlink.com$image
 ||qc.arstechnica.com^
 ||qc.gq.com^
 ||qc.newyorker.com^
+||qc.vanityfair.com^
 ||qc.vogue.com^
 ||qc.wired.com^
 ||qm.redbull.com^
