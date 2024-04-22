@@ -18,7 +18,6 @@
 .jp/pv?
 .jp/static/js/track.js
 .js?id=GTM-
-.lms-analytics/
 .net/l.gif?
 .no/app/aas/a
 .php?action=browse&
@@ -117585,6 +117584,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc8.nl3.eu.criteo.com
  gbc8.nl.eu.criteo.com
  gbc8.sg1.as.criteo.com
+ gbc8.us5.us.criteo.com
  gbc8.va.us.criteo.com
  gbc.criteo.com
  gbc.fr3.vip.prod.criteo.com
