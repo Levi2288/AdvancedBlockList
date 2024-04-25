@@ -429,6 +429,7 @@ omni.soundestlink.com$image
 ||mdstats.info^
 ||mediamathrdrt.com^
 ||mirabelanalytics.com^
+||mircheigeshoa.com^
 ||mitour.de^
 ||mitself.net^
 ||ml-sys.xyz^
@@ -453,6 +454,7 @@ omni.soundestlink.com$image
 ||notifpush.com^
 ||ns1p.net^
 ||nxakpj4ac8gkd53.info^
+||o1ych4jb.com^
 ||omappapi.com^
 ||omtrdc.net^
 ||openfpcdn.io^
@@ -7574,6 +7576,7 @@ omni.soundestlink.com$image
 ||mofa.go.jp^*/count.cgi?
 ||monipla.com/launch.js
 ||moshimo.com^*/impression?
+||ocn-tag.sienca.jp/api/v1/event/pv
 ||omt.shinobi.jp^
 ||otoshiana.com/ufo/
 ||panda.kasika.io^
@@ -8893,6 +8896,7 @@ omni.soundestlink.com$image
 ||pingback.issuu.com^
 ||pingo.staticmoly.me^
 ||pinkvilla.com/comscore_response.php
+||pinterest.com/_/_/$xmlhttprequest
 ||pixel.archive.
 ||pixel.archivecaslytosk.onion^
 ||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
