@@ -6773,6 +6773,7 @@ omni.soundestlink.com$image
 ||d1vg5xiq7qffdj.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
+||d1z3r0i09bwium.cloudfront.net^
 ||d1z9vm58yath60.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
 ||d21o24qxwf7uku.cloudfront.net^
@@ -44072,6 +44073,7 @@ omni.soundestlink.com$image
 ||t.wayfair.de^
 ||tagm.eduscho.at^
 ||tarnkappe.info^$ping
+||taz.de/count/
 ||teltarif.de/scripts/fb.js
 ||teltarif.de/scripts/ttt.js
 ||teltarif.de/ttt.go?
@@ -44797,6 +44799,8 @@ omni.soundestlink.com$image
 ||mixi.net/static/js/build/mixi-analysis.production.js
 ||mng.jiji.com/cookie.html
 ||muragon.com/js/normal/gtag-event.js
+||mwed.jp/assets/packs/js/measurements/
+||newsdig.tbs.co.jp/op/analytics.js
 ||next.rikunabi.com/api/logRecommendRealtimeI2AV2
 ||nhk.or.jp^*/bc.js
 ||nicoad.nicovideo.jp/*/instream/tracking/
@@ -134437,6 +134441,7 @@ d2wy8f7a9ursnm.cloudfront.net
 d2z0bn1jv8xwtk.cloudfront.net
 d2zue0pgsssbc6.cloudfront.net
 d34r8q7sht0t9k.cloudfront.net
+d39ion77s0ucuz.cloudfront.net
 d3gi6isrskhoq.cloudfront.net
 d3lqotgbn3npr.cloudfront.net
 d3or5d0jdz94or.cloudfront.net
