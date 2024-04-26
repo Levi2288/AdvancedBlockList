@@ -3717,6 +3717,7 @@ omni.soundestlink.com$image
 ||cr-nielsen.com^$third-party
 ||ctags.cn^$third-party
 ||datayi.cn^$third-party
+||eland-tech.com^$third-party
 ||emarbox.com^$third-party
 ||fraudmetrix.cn^$third-party
 ||ggxt.net^$third-party
@@ -8654,7 +8655,6 @@ omni.soundestlink.com$image
 ||kck.st/web/track
 ||kgoma.com/v1/stat/
 ||khanacademy.org/api/internal/_analytics/
-||khanacademy.org/api/internal/_bb/
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kkam.com/rest/high/api/cogitoergosum^
 ||klm.us/CWZUvc/
@@ -8896,7 +8896,6 @@ omni.soundestlink.com$image
 ||pingback.issuu.com^
 ||pingo.staticmoly.me^
 ||pinkvilla.com/comscore_response.php
-||pinterest.com/_/_/$xmlhttprequest
 ||pixel.archive.
 ||pixel.archivecaslytosk.onion^
 ||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
@@ -45459,6 +45458,7 @@ omni.soundestlink.com$image
 @@||redbull.com/gtm.js$~third-party
 @@||res-x.com^*/Resonance.aspx?
 @@||researchintel.com^*/feedback.asp$xmlhttprequest,domain=intel.com
+@@||rest.edit.site/geoip-service/geoip$domain=systemshouse.com
 @@||retailmenot.com/__wsm.gif$ping,~third-party,xmlhttprequest
 @@||rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com
 @@||rollbar.com^*/rollbar.min.js$domain=rollingstone.com|variety.com|wwd.com
@@ -117551,6 +117551,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc3.nl3.eu.criteo.com
  gbc3.nl.eu.criteo.com
  gbc3.sg1.as.criteo.com
+ gbc3.us5.us.criteo.com
  gbc3.va.us.criteo.com
  gbc4.da.us.criteo.com
  gbc4.fr3.eu.criteo.com
