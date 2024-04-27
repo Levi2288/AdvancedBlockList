@@ -261,6 +261,7 @@ omni.soundestlink.com$image
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
 ||bounceexchange.com^
+||bouncex.net^
 ||bqstreamer.com^
 ||bringmethehats.com^
 ||briskeagle.io^
@@ -273,6 +274,7 @@ omni.soundestlink.com$image
 ||catsunrunjam.com^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
+||cdnwidget.com^
 ||ciqtracking.com^
 ||cityrobotflower.com^
 ||ck123.io^
@@ -475,6 +477,7 @@ omni.soundestlink.com$image
 ||pixrealm.com^
 ||pjstat.com^
 ||plausiblecdn.co^
+||prfct.co^
 ||procroanalytics.com^
 ||progmxs.com^
 ||pushvisit.xyz^
@@ -586,6 +589,7 @@ omni.soundestlink.com$image
 ||zippyfrog.co^
 ||zononi.com^
 ||zqtk.net^
+||ztsrv.com^
 ||0emm.com^$third-party
 ||103bees.com^$third-party
 ||105app.com^$third-party
@@ -1010,6 +1014,7 @@ omni.soundestlink.com$image
 ||chtbl.com^$script,third-party,xmlhttprequest
 ||cintnetworks.com^$third-party
 ||cityadstrack.com^$third-party
+||cityspark.com^$third-party
 ||claritytag.com^$third-party
 ||clarium.io^$third-party
 ||clarivoy.com^$third-party
@@ -1467,6 +1472,7 @@ omni.soundestlink.com$image
 ||getaawp.com^$third-party
 ||getambassador.com^$third-party
 ||getbackstory.com^$third-party
+||getblue.io^$third-party
 ||getblueshift.com^$third-party
 ||getclicky.com^$third-party
 ||getconversion.net^$third-party
@@ -2217,7 +2223,6 @@ omni.soundestlink.com$image
 ||predictiveresponse.net^$third-party
 ||premiumimpression.com^$third-party
 ||presage.io^$third-party
-||prfct.co^$third-party
 ||privymktg.com^$third-party
 ||prnx.net^$third-party
 ||proclivitysystems.com^$third-party
@@ -3048,7 +3053,6 @@ omni.soundestlink.com$image
 ||zoosnet.net^$third-party
 ||zoossoft.net^$third-party
 ||zprk.io^$third-party
-||ztsrv.com^$third-party
 ||zuzab.com^$third-party
 ||zx-adnet.com^$third-party
 .1.1.1.l80.js^$third-party
@@ -5086,7 +5090,6 @@ omni.soundestlink.com$image
 ||event-service.letslinc.com^
 ||event-stream.spot.im^
 ||event.api.drift.com^
-||event.getblue.io^
 ||event.instiengage.com^
 ||event.syndigo.cloud^
 ||event.webcollage.net^
@@ -8880,6 +8883,7 @@ omni.soundestlink.com$image
 ||pcgamesn.com/cdn-cgi/trace
 ||pcmag.com/js/ga.js
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
+||pcp.coupert.com^
 ||pendo.scopus.com/data/ptm.gif
 ||perf.mouser.com^
 ||performance-logger.minted.com^
@@ -9660,6 +9664,7 @@ omni.soundestlink.com$image
 ||jimmyjohns.com/Abo2Yc8X/init.js
 ||joann.com/qXTWmr91/init.js
 ||kerastase-usa.com/IZ/PXXiuO7QTJ/init.js
+||kget.com/CvbtpUrj/init.js
 ||kickstarter.com/Uy3R669N/init.js
 ||kiehls.com/IZ/PXG8ATFja1/init.js
 ||kiva.org/r3pNVz1F/init.js
@@ -45369,6 +45374,7 @@ omni.soundestlink.com$image
 @@||kaxsdc.com/collect/sdk$xmlhttprequest,domain=vanillaereward.com
 @@||kilimall.co.ke/sensorsdata.min.js$~third-party
 @@||kilimall.co.tz/sensorsdata.min.js$~third-party
+@@||kilimall.com&*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
 @@||lacoste.com^*/click-analytics.js$~third-party
 @@||languagecloud.sdl.com/node_modules/fingerprintjs2/dist/fingerprint2.min.js$~third-party
@@ -134439,6 +134445,7 @@ d1hyarjnwqrenh.cloudfront.net
 d1qnmu4nrib73p.cloudfront.net
 d1tbj6eaenapdy.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
+d1z3r0i09bwium.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
@@ -143452,6 +143459,7 @@ mimakiusa.actonservice.com
 mini-site.larksuite-marketing.com
 m.ioicommunity.com.my
 mirabelanalytics.com
+mircheigeshoa.com
 mirec.ubmmexico.com
 m.irlmail.org
 missionrs.actonservice.com
@@ -144037,6 +144045,7 @@ nz-go.experian.com
 nzqrfa.hushpuppies.com
 nzueib.dice.com
 nzzvvf.goldengoose.com
+o1ych4jb.com
 o2.ikontwerpflyers.nl
 o3gxzoewxl1x.cp.zomro.com
 o8.hyatt.com
