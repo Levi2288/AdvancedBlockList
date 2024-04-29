@@ -133298,6 +133298,7 @@ bot.asksyllable.com
 botb.rtl2.de
 bot.stackbots.com
 bot.streaktrivia.com
+bouncex.net
 boutique.ricoh.fr
 bowl.actonservice.com
 b.parade.com
@@ -133713,6 +133714,7 @@ cdl.lvsafe.io
 cdn.ad-platform.jmty.jp
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
+cdnwidget.com
 cdp.cifinancial.com
 cdp.yna.co.kr
 cdrive.compellent.com
@@ -134297,6 +134299,7 @@ cryptotax.efscle.com
 cs1470sbeda.schoolasp.com
 cs2113sbeda.hokto-onlineshop.jp
 cs42.pikabu.ru
+cs43.pikabu.ru
 cscsexam.quantresear.ch
 c.seznam.cz
 cs.nakanohito.jp
@@ -137154,6 +137157,7 @@ go.petrelocation.com
 go.piccolo.mobi
 go.picsart.com
 go.pinoy.innovatedating.com
+go.planetnine.com
 go.playbackbone.com
 go.player2app.com
 go.plygem.com
@@ -137292,6 +137296,7 @@ go.unifiedav.com
 go.unifysquare.com
 go.unverbluemt.de
 go.usecaya.com
+go-usertrack-importer.pub.24ur.si
 go.venezuela.innovatedating.com
 governmentcloud.avaya.com
 government.informaengage.com
@@ -137500,6 +137505,7 @@ hiknhe.tanabesports.com
 hi.littlepixi.com
 hipizza.openapp.link
 hipkqt.contorion.de
+hirsung.de
 hi.syllable.ai
 hitachi-hightech-as.actonservice.com
 hit.interia.pl
@@ -139073,6 +139079,7 @@ ipinternational.actonservice.com
 ipixsi.aboutyou.fi
 i.play.vividpicks.com
 ip.lovely-app.com
+ip.momentummedia.com.au
 ipn-app.hotdoc.com.au
 i.poker2u.app
 i.pokerbros.net
@@ -141994,6 +142001,7 @@ mat.socy.es
 ma.tss.se
 matsubun.matsubun.com
 matt.mercadolivre.com.br
+mat.ukraine-nachrichten.de
 matytt.tone.ne.jp
 maui.shakaguide.com
 ma.uslawns.com
@@ -144642,6 +144650,7 @@ pci.aon.com
 pciokm.glamuse.com
 pcm.symantec.com
 pcnphysio-com.ca-eulerian.net
+pcp.coupert.com
 pc.personalcreations.com
 p.cquotient.com
 pcs.capgroup.com
@@ -150689,6 +150698,7 @@ t2.click.subway.com
 t.360.audion.fm
 t.360playvid.info
 t3e.firstchoice.co.uk
+t810.ctpost.com
 tablesafe.actonservice.com
 tacsc.net.anwalt.de
 t.actemra.com
