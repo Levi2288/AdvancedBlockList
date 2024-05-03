@@ -133118,6 +133118,7 @@ axp.yourcentralvalley.com
 axp.yourerie.com
 aydtkb.pikabu.ru
 aygccr.eonet.jp
+az.nzn.io
 azwxpp.nequittezpas.jp
 b0.yahoo.co.jp
 b1tow9h4erpw.anur.polymerdev.com
@@ -144774,6 +144775,7 @@ pkiawn.konvy.com
 pkmvjx.my-store.ch
 pktbag.flighthub.com
 pktytp.membershop.lv
+pla.fwdcdn.com
 plan.devbyexample.com
 plans.ceteraretirement.com
 plans.fundtherebuild.com
@@ -145661,6 +145663,7 @@ rtvision.actonservice.com
 ru-go.experian.com
 rugttt.robinson.com
 rum.corewebvitals.io
+rum-ingress-coralogix.com
 rum.perfops.net
 rumsey.actonservice.com
 rumstat.cdnvideo.ru
@@ -150506,6 +150509,7 @@ strack.store.manutd.com
 strack.tarif.allianz.ch
 strack.www.allianzcare.com
 strack.www.allianzcare-corporate.com
+strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 stratitude.actonservice.com
 stream.9now.com.au
@@ -151616,6 +151620,7 @@ tracker.gleanview.com
 tracker.hdtvcloud.com
 tracker.incite-group.com
 tracker.insurancenexus.com
+tracker.jkplayers.com
 tracker.myth.dev
 tracker.novage.com.ua
 tracker.openwebtorrent.com
@@ -151625,6 +151630,7 @@ tracker.ranker.com
 tracker.services.vaix.ai
 tracker.shanon-services.com
 tracker.smartseminar.jp
+tracker-v4.gamedock.io
 track.estoneworks.com
 track.eurogirlsescort.com
 track.evertondirect.evertonfc.com
@@ -154858,6 +154864,7 @@ zhyeqw.mercury.ru
 zieyeq.intent24.fr
 zimadifirenze.net.anwalt.de
 z.inlist.com
+zion-telemetry-nonprod.api.cnn.io
 ziqrso.24mx.no
 zisr3w3i2csfa76m.edge41.testandtarget.omniture.com
 ziwewm.tecovas.com
