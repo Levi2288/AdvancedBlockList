@@ -6037,7 +6037,6 @@ omni.soundestlink.com$image
 ||rum.uptime.com^
 ||rumstat.cdnvideo.ru^
 ||run.app/data.log
-||run.app/events
 ||run.app/metrics/
 ||rw.marchex.io^
 ||s-microsoft.com/mscc/$~stylesheet
@@ -8804,6 +8803,7 @@ omni.soundestlink.com$image
 ||mktcs.cloudapps.cisco.com^
 ||mo8it.com/count.js
 ||modanisa.com/al/j/analytics.js
+||mollusk.apis.ign.com/metrics/
 ||mon.us.tiktokv.com^
 ||moneycontrol.com/news/services/get_comscore_pageview/
 ||monitor.channel4.com^
@@ -9039,7 +9039,7 @@ omni.soundestlink.com$image
 ||rum.condenastdigital.com^
 ||rum.kobo.com^
 ||rumble.com/l/
-||run.app/events$domain=imgur.com
+||run.app/events$domain=imgur.com|worldstar.com
 ||rv.modanisa.com^$script
 ||rvo-cohesion.healthline.com^
 ||s.gofile.io^
@@ -44963,6 +44963,7 @@ omni.soundestlink.com$image
 ||g.delfi.lt/g.js
 ||lrytas.lt/counter/
 ||event-tracking.hellohealthgroup.com^
+||propertyguru.com.my/api/consumer/vast-media/impression?
 ||click.vgnett.no^
 ||data.nrk.no^
 ||nrk.no^*/stats/
