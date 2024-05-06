@@ -5346,6 +5346,7 @@ omni.soundestlink.com$image
 ||hits.dealer.com^
 ||hits.getelevar.com^
 ||hits.informer.com^
+||hk-trc-events.taboola.com^
 ||hktracker.hankookilbo.com^
 ||hm.baidu.com^$third-party
 ||hocalwire.com/tracking-
@@ -128539,6 +128540,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  us.chantelle-com.eulerian.net
  user-registration.fr3.vip.prod.criteo.com
  user-registration.nl3.vip.prod.criteo.com
+ user-registration.us5.vip.prod.criteo.com
  us-plz-as19750.anchors.atlas.ripe.net
  us-qas-as19750.anchors.atlas.ripe.net
  ut.actonsoftware.com
@@ -137555,6 +137557,7 @@ hjgcdi.farmacybeauty.com
 hjgkdv.fiverr.com
 hk-go.experian.com
 hkskqs.belvilla.fr
+hk-trc-events.taboola.com
 hlagkl.vinatis.com
 hleouh.feelunique.com
 hlms.ecologie.gouv.fr
@@ -154873,6 +154876,7 @@ zisr3w3i2csfa76m.edge41.testandtarget.omniture.com
 ziwewm.tecovas.com
 zjbfke.centerparcs.be
 zjkpxw.tesco.hu
+zjptg.com
 zjrbwb.markenschuhe.de
 zjzain.aboutyou.bg
 zjzste.tom-tailor.de
