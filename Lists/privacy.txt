@@ -4711,6 +4711,7 @@ omni.soundestlink.com$image
 ||californiatimes.com/privacy/$image
 ||calltrack.co^
 ||calltrk.com/companies/
+||calvera-telemetry.polaris.me^
 ||camel.headfarming.com^
 ||canada.com/js/analytics/
 ||capture-api.ap3prod.com^
@@ -7606,6 +7607,7 @@ omni.soundestlink.com$image
 ||log.gs3.goo.ne.jp^
 ||log.popin.cc^
 ||log000.goo.ne.jp^
+||logger.torimochi-ad.net^
 ||macromill.com/imp/
 ||mofa.go.jp^*/count.cgi?
 ||monipla.com/launch.js
