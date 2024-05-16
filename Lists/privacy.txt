@@ -3428,6 +3428,7 @@ omni.soundestlink.com$image
 ||counter-kostenlos.info^$third-party
 ||counter-kostenlos.net^$third-party
 ||counter-treff.de^$third-party
+||counter-zaehler.de^$third-party
 ||counter.de^$third-party
 ||counter27.ch^$third-party
 ||countercity.net^$third-party
@@ -3467,6 +3468,7 @@ omni.soundestlink.com$image
 ||eurocounter.com^$third-party
 ||exapxl.de^$third-party
 ||faibl.org^$third-party
+||fast-counter.net^$third-party
 ||fastcounter.de^$third-party
 ||fixcounter.com^$third-party
 ||free-counters.net^$third-party
@@ -7173,6 +7175,7 @@ omni.soundestlink.com$image
 ||webcounter.goweb.de^
 ||wieistmeineip.de/ip-address/$third-party
 ||wo-cloud.com^$ping
+||wranalytics.wildrocket.io^
 ||x.bloggurat.net^
 ||xnewsletter.de/count/counter.php?
 ||zs.dhl.de^
@@ -44904,6 +44907,7 @@ omni.soundestlink.com$image
 ||sy.ameblo.jp^
 ||t.syosetu.org^
 ||tekoki-fuzoku-joho.com/js/ALinkPrepare_
+||temp.twicomi.com^
 ||tower.jp/bundle/beacon
 ||track.buyma.com^
 ||track.prod.smash.pet^
@@ -151478,6 +151482,7 @@ t.mktg.genesys.com
 tmlt.actonservice.com
 t.mmaeast.com
 tm-marketing.wolterskluwer.com
+tm.msgs.jp
 t.montecarlosbm.com
 tmpbr.getgifted.com
 tms.53.com
