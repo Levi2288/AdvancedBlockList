@@ -5397,6 +5397,7 @@ omni.soundestlink.com$image
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||identification.hotmart.com^
 ||iheart.com/events
+||ihi.flowplayer.com^
 ||imageshack.us^*/thpix.gif
 ||imgfarm.com/images/nocache/tr/*.gif?$image
 ||imgfarm.com/images/trk/myexcitetr.gif?
@@ -6435,6 +6436,7 @@ omni.soundestlink.com$image
 ||track.uc.cn^
 ||track.untd.com^
 ||track.uppromote.com^
+||track.us.org^
 ||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
@@ -7454,6 +7456,7 @@ omni.soundestlink.com$image
 ||nelonenmedia.fi/logger/
 ||tags.op-palvelut.fi^
 ||vine.eu/track/
+||analytics.palitra.ge^
 ||links.boom.ge^
 ||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
@@ -7916,7 +7919,9 @@ omni.soundestlink.com$image
 ||hits.tf.rs^
 ||moa.mediaoutcast.com^
 ||w4m.rs/tracker.js
+||engerio.sk/api/v1/listener/
 ||stat.ringier.sk^
+||tipsport.sk/c/1x1.php?
 ||1to1.bbva.com^
 ||ab.blogs.es^
 ||advgo.net/hits/
@@ -8900,7 +8905,6 @@ omni.soundestlink.com$image
 ||ohm-dot-hackster-io.appspot.com^
 ||oklink.com/jsstat/
 ||okx.com/jsstat/sb?
-||olympics.com/ddna-event-router/ddna-analytics.js
 ||online-umwandeln.de/analytics.js
 ||ontraport.com/opt_assets/static/js/logging.js
 ||opendesktop.org/l/fp
@@ -9493,6 +9497,14 @@ omni.soundestlink.com$image
 ||wsj.com/cookies/pixel.gif
 ||wstats.e-wok.tv^
 ||www.ebay.*/gh/dfpsvc?
+||x.com/1.1/attribution
+||x.com/1.1/jot
+||x.com/9/measurement/
+||x.com/i/api/1.1/jot
+||x.com/i/csp_report
+||x.com/i/csp_report?
+||x.com/i/jot
+||x.com^*/log.json
 ||xero.com/api/events/
 ||xfinity.com/event/
 ||xhamster.com/api/$ping
@@ -45179,6 +45191,7 @@ omni.soundestlink.com$image
 ||xray.mail.ru^
 ||yandex.ru/log?
 ||yast.rutube.ru^
+||harvester.cms.markiza.sk^
 ||24ur.com/bin/player/?mod=statistics&
 ||dnevnik.si/tracker/
 ||go-usertrack-importer.pub.24ur.si^
