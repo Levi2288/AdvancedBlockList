@@ -5836,6 +5836,7 @@ omni.soundestlink.com$image
 ||pageturnpro.com/tracker.aspx?
 ||pair.com/itero/tracker_ftc/
 ||pap.qualityunit.com^$third-party
+||parallax.askmediagroup.com^
 ||parkwhiz.com/events/
 ||parsely.com/keys/$script,third-party
 ||partners.etoro.com^$script
@@ -5999,6 +6000,7 @@ omni.soundestlink.com$image
 ||radiotime.com/reports/
 ||rakanto.com/cx_collector/
 ||ramp.purch.com^
+||rampjs-cdn.system1.com^
 ||raygun.io/events?
 ||rbl.ms/res/users/tracking/
 ||reach-id.orbit.tm-awx.com^
@@ -6374,6 +6376,7 @@ omni.soundestlink.com$image
 ||tinypass.com/checkout/offer/trackShow
 ||tinypass.com^*/track?
 ||tinyurl.com/pixel.gif/
+||tk.pathmonk.com^
 ||tkx.mp.lura.live/rest/v2/server_time
 ||tl.tradetracker.net^
 ||tm-awx.com/pageview
@@ -9502,7 +9505,6 @@ omni.soundestlink.com$image
 ||x.com/9/measurement/
 ||x.com/i/api/1.1/jot
 ||x.com/i/csp_report
-||x.com/i/csp_report?
 ||x.com/i/jot
 ||x.com^*/log.json
 ||xero.com/api/events/
@@ -131799,6 +131801,7 @@ analytics.nrgprotects.com
 analytics-nssl.bradyid.com
 analytics.onlinehomeretail.co.uk
 analytics.oyorooms.com
+analytics.palitra.ge
 analytics.pangle-ads.com
 analytics.phn.com
 analytics.pipelife.at
@@ -137516,6 +137519,7 @@ harmantest.epoise.com
 harpra-companion.harvinar.com
 harpra-companion-test.harvinar.com
 harris.ni.com
+harvester.cms.markiza.sk
 hasslefree.redwingshoes.com
 hauixd.halistores.com
 hauzdj.quellogiusto.it
@@ -137777,6 +137781,7 @@ igyswj.sixt.it
 ihcamp.ybtour.co.kr
 ihc.cellmarque.com
 ihfwer.aboutyou.com
+ihi.flowplayer.com
 ihnbqe.shane.co.jp
 ih.newegg.com
 i.honk.me
@@ -151168,6 +151173,7 @@ telsmith.actonservice.com
 telstraphonewords.actonservice.com
 tel.telegraaf.nl
 temails.productnotice.thomsonreuters.com
+temp.twicomi.com
 temsys.temsys.fr
 t.emueagles.com
 t.emusic.com
@@ -154221,6 +154227,7 @@ wqfflc.plantopedia.de
 wqkcsg.armandthiery.fr
 wqudcv.finnishdesignshop.com
 wqytxm.kurly.com
+wranalytics.wildrocket.io
 wrhv.education.gouv.fr
 wrkbha.lyst.de
 wrlnvt.pepita.hu
