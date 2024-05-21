@@ -387,6 +387,7 @@ omni.soundestlink.com$image
 ||hs-analytics.net^
 ||hsadspixel.net^
 ||hsleadflows.net^
+||htplayground.com^
 ||i218435.net^
 ||ia-dmp.com^
 ||iconmediapixel.com^
@@ -5155,6 +5156,7 @@ omni.soundestlink.com$image
 ||evidon.com/pub/
 ||eviesays.com/js/analytics/
 ||evri.com/analytics/
+||evt.24.com^
 ||evt.collarity.com^$image
 ||evt.houzz.com^
 ||ex.co/content/monetization/legacy-pixels/
@@ -6653,6 +6655,7 @@ omni.soundestlink.com$image
 ||visual.ly/track.php?
 ||visualstudio.com/_da.gif?
 ||visualwebsiteoptimizer.com/dyn
+||visualwebsiteoptimizer.com/ee.gif?
 ||visualwebsiteoptimizer.com/gv.gif?
 ||visualwebsiteoptimizer.com/j.php
 ||visualwebsiteoptimizer.com/server-side/track-user?
@@ -7438,18 +7441,21 @@ omni.soundestlink.com$image
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
 ||bbvms.com/zone/js/zonestats.js
+||bol.com/click/impression?
 ||botndm.nl^*/init.min.js
 ||dmtgo.upc.biz^
 ||go.planetnine.com^
 ||hottraffic.nl^$third-party
 ||marktplaats.net/cnt/
 ||mediahuis.be/cxense/
+||mhtr.be/public/tr/tracker.min.js
 ||npo.nl/divolte/tt/web-event?$domain=zapp.nl
 ||pijper.io/visits/
 ||rmgdapfnccsharpprd.azurewebsites.net^
 ||sp.dpgmedia.net^
 ||stat.24liveplus.com^
 ||statistics.rbi-nl.com^
+||tags.hilabel.nl^
 ||trkr.shoppingminds.net^
 ||ugent.be/js/log.js
 ||almamedia.fi^*/scroll-monitor.min.js
@@ -9305,6 +9311,7 @@ omni.soundestlink.com$image
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
 ||thedailybeast.com/static/js/thirdparty.
 ||thefreedictionary.com/_/tr.ashx?
+||thehackernews.com/zscripts/
 ||theladders.com/api/user-tracking/
 ||thesun.co.uk/assets/client/analyticsListeners~
 ||thesun.co.uk/assets/client/newrelicExperimentTracking~
@@ -144695,6 +144702,7 @@ paladion.actonservice.com
 pal-v.actonservice.com
 papemz.rcwilley.com
 paqqlk.motatos.de
+parallax.askmediagroup.com
 parallel6.actonservice.com
 paramedicexam.quantresear.ch
 pardko.pricerunner.com
@@ -145349,6 +145357,7 @@ radio.moodybible.org
 rake.11st.co.kr
 r.akipam.com
 rakuten.actonservice.com
+rampjs-cdn.system1.com
 randstad.epoise.com
 randstadtest.epoise.com
 r.apkpure.net
@@ -151443,6 +151452,7 @@ tk.macif.fr
 tk.manouvellevoiture.com
 tkmeyf.houseoflotus.jp
 tk.opinion-assurances.fr
+tk.pathmonk.com
 tk.petit-bateau.be
 tk.petit-bateau.co.uk
 tk.petit-bateau.de
