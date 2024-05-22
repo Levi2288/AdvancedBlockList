@@ -8897,6 +8897,7 @@ omni.soundestlink.com$image
 ||nextdoor.*/ajax/ping_ndas/
 ||nextdoor.com/events/
 ||nflshop.com/api/track
+||nid.thetimes.com/prod/sp/nid_sp.js
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
 ||no9pldds1lmn3.soundcloud.com^
@@ -136256,6 +136257,7 @@ evolent.actonservice.com
 evolutionmarketing.actonservice.com
 evs.icy-lake.kickstarter.com
 ev.stellarlabs.ai
+evt.24.com
 evt-api.ntm.eu
 evupmg.olehenriksen.com
 ewfarp.kappa.com
@@ -137702,6 +137704,7 @@ hstats.askmiso.com
 hstats.hepsiburada.com
 htcnbx.odkarla.cz
 htc.oaken.com
+htplayground.com
 htqfxh.vuch.cz
 htrace.wetvinfo.com
 httr.redskins.com
@@ -150835,6 +150838,7 @@ tagourounakia.openapp.link
 tags.dxmdp.com
 tags.esri.ca
 tags.esri.com
+tags.hilabel.nl
 tags.igeo.com.bo
 tags.stepstone.com
 tag.statshop.fr
@@ -153710,6 +153714,7 @@ vfghe.com
 vfgte.com
 vfmahn.slevomat.cz
 vfo4.carrefour-banque.fr
+vf.startpage.com
 vfvcxv.naturhaeuschen.de
 vfzxaz.bloomingdales.ae
 vg247-p2.vg247.com
