@@ -8,7 +8,6 @@
 .com/g.gif?
 .com/log/?
 .com/stats.aspx?
-.com/track?$~object
 .content_tracking.js
 .de/l.gif?
 .eloqua.js
@@ -5840,6 +5839,7 @@ omni.soundestlink.com$image
 ||pagesocket.glam.com^
 ||pageturnpro.com/tracker.aspx?
 ||pair.com/itero/tracker_ftc/
+||panorama.wixapps.net^
 ||pap.qualityunit.com^$third-party
 ||parallax.askmediagroup.com^
 ||parkwhiz.com/events/
@@ -6498,6 +6498,7 @@ omni.soundestlink.com$image
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
 ||tracking.audio.thisisdax.com^
+||tracking.b-cdn.net^
 ||tracking.bababam.com^
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
@@ -6532,6 +6533,7 @@ omni.soundestlink.com$image
 ||tracking.plattformad.com^$third-party
 ||tracking.plinga.de^
 ||tracking.practicefusion.com^$third-party
+||tracking.prepr.io^
 ||tracking.quisma.com^
 ||tracking.rapidape.com^
 ||tracking.scenepass.com^
@@ -9179,7 +9181,6 @@ omni.soundestlink.com$image
 ||startpage.com/sp/$ping
 ||startpage.com/sp/dplpxs?
 ||startpage.com/sp/jst
-||startpage.com/sp/sxpra?
 ||starzplay.com/resources/js/analytics.js
 ||stat.pubhtml5.com^
 ||stat.tildacdn.com^
@@ -44982,6 +44983,7 @@ omni.soundestlink.com$image
 ||l.m.naver.com^
 ||log.etoday.co.kr^
 ||log.kinolights.com^
+||log.tossinvest.com^
 ||log.zdnet.co.kr^
 ||naver.com/PostView.nhn?$image
 ||nil.naver.com^
