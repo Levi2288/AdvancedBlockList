@@ -112915,7 +112915,8 @@ zm232.com
 zmedia.com
 zumodemarketing.com
 zxxds.net
-zy16eoat1w.com sanalytics.spark.co.nz
+zy16eoat1w.com
+ads.servenobid.com sanalytics.spark.co.nz
  analytics.metro.com.kz
  smetrics.airbank.cz
  smetrics.moneta.cz
@@ -131722,6 +131723,7 @@ analytics.alrajhibank.com.sa
 analytics.andrewsmith.com.au
 analytics.angelina-fieber.com
 analytics-api.klickly.com
+analyticsapi.qogita.com
 analytics.argeton.com
 analytics.avis.de
 analytics.banksneveraskthat.com
@@ -131743,6 +131745,7 @@ analytics.clubic.com
 analytics.conad.it
 analytics-consent-manager-v2-prod.azureedge.net
 analytics.cookiefirst.dev
+analytics.cosmonova.net
 analytics.crazygames.com
 analytics.crowdkeep.com
 analytics.cycleworld.com
@@ -131852,6 +131855,7 @@ analytics.pipelife.se
 analytics.plumbworld.co.uk
 analytics.pollardwater.com
 analytics-prd.aws.wehaa.net
+analytics.qogita.com
 analytics.qualcomm.com
 analytics.ratioform.ch
 analytics.recamov.com
