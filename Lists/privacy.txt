@@ -45305,6 +45305,7 @@ omni.soundestlink.com$image
 ||tracker.blutv.com^
 |http://r.i.ua^
 |https://r.i.ua^
+||analytics.cosmonova.net^
 ||at.ua/stat/
 ||counter.nv.ua^
 ||counter.ukr.net^
