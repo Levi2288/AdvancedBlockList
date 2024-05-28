@@ -7452,7 +7452,7 @@ omni.soundestlink.com$image
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
 ||bbvms.com/zone/js/zonestats.js
-||bol.com/click/impression?
+||bol.com/click/
 ||botndm.nl^*/init.min.js
 ||cloudfunctions.net/webtraffic$domain=eurocampings.nl
 ||contentreveal.net/event/events.js
@@ -7464,11 +7464,13 @@ omni.soundestlink.com$image
 ||mhtr.be/public/tr/tracker.min.js
 ||npo.nl/divolte/tt/web-event?$domain=zapp.nl
 ||pijper.io/visits/
+||pxr.nl/v1/stats/
 ||rmgdapfnccsharpprd.azurewebsites.net^
 ||sp.dpgmedia.net^
 ||stat.24liveplus.com^
 ||statistics.rbi-nl.com^
 ||tags.hilabel.nl^
+||tr.mediafin.be^
 ||trkr.shoppingminds.net^
 ||ugent.be/js/log.js
 ||almamedia.fi^*/scroll-monitor.min.js
@@ -44661,6 +44663,7 @@ omni.soundestlink.com$image
 ||npo.nl/tag/atinternet/
 ||pcmweb.nl/track/
 ||pg.totaaltv.nl/api/metrics
+||pipeline.lc.nl^$~script
 ||pipeline.rd.nl^$~script
 ||r.kleertjes.com^
 ||rtl.nl/system/track/
