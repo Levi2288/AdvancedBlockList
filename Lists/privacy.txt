@@ -424,6 +424,7 @@ omni.soundestlink.com$image
 ||logicanalytics.io^
 ||logtail.com^
 ||loopcybersec.com^
+||lordofthesuperfrogs.com^
 ||lsdm.co^
 ||lyfnh.io^
 ||maggieeatstheangel.com^
@@ -9227,6 +9228,7 @@ omni.soundestlink.com$image
 ||streamadblocker.store/stat/
 ||streamadblocker.xyz/stat/
 ||streamate.com/api/metrics
+||streamed.su/api/preload
 ||streamlabs.com/web/data/ping
 ||streamnoads.com/stat/
 ||streamstats.prd.dlive.tv^
@@ -9395,6 +9397,7 @@ omni.soundestlink.com$image
 ||tracking.engineering.cloud.seek.com.au^
 ||tracking.game8.co^
 ||tracking.hsn.com^
+||tracking.rocketleague.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
 ||tracking.unrealengine.com^
@@ -45855,6 +45858,9 @@ omni.soundestlink.com$image
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
 @@||ev.tpocdm.com^$xmlhttprequest,domain=wowma.jp
+@@||f-gear.ec-optimizer.com/img/spacer.gif$image,domain=ec.f-gear.co.jp
+@@||f-gear.ec-optimizer.com/search4.do$script,domain=ec.f-gear.co.jp
+@@||f-gear.ec-optimizer.com/speights/searchresult2fgear.js$script,domain=ec.f-gear.co.jp
 @@||gamerch.com/s3-assets/library/js/fingerprint2.min.js?$script,~third-party
 @@||geolocation-db.com/json/$domain=admanager.line.biz
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
@@ -110929,6 +110935,7 @@ ads.satyamonline.com
 ads.saymedia.com
 ads.scifi.com
 ads.servebom.com
+ads.servenobid.com
 ads.sexinyourcity.com
 ads.shizmoo.com
 ads.shopstyle.com
@@ -112921,8 +112928,7 @@ zm232.com
 zmedia.com
 zumodemarketing.com
 zxxds.net
-zy16eoat1w.com
-ads.servenobid.com sanalytics.spark.co.nz
+zy16eoat1w.com sanalytics.spark.co.nz
  analytics.metro.com.kz
  smetrics.airbank.cz
  smetrics.moneta.cz
@@ -134451,6 +134457,7 @@ csvtr.bmo.com
 csvtt.bmolife.com
 csvtu.bmolending.com
 csymrm.24mx.fr
+ct.beslist.nl
 ct.capterra.com
 ctc.wolterskluwer.com
 ct-dev.taskhuman.com
@@ -140614,6 +140621,7 @@ lokalwerben.t-online.de
 look-ahead.nurturemarketing.com
 loopcybersec.com
 lord.actonservice.com
+lordofthesuperfrogs.com
 lotte.myomee.com
 loveeveryday.brighterkind.com
 lowermybills.actonsoftware.com
@@ -143943,6 +143951,7 @@ nasscomtest.epoise.com
 nationalaccounts.adp.com
 natsp.xing.com
 navfja.answear.hu
+navigator-analytics.tweakwise.com
 nbcnews.black.news
 nbcxa65t001z.net.jumia.ug
 nbfopy.jjshouse.com
@@ -144638,6 +144647,7 @@ p16-tiktokcdn-com.akamaized.net.iberostar.com
 p1.danskebank.co.uk
 p1.danskebank.dk
 p1.danskebank.ie
+p2ro4u.trybawaryjny.pl
 p3tq.pandasuite.io
 p5mcwdbu.ginzo-buy.jp
 p7cloud.net
@@ -145056,6 +145066,7 @@ pqrede.fiatprofessional.com
 praluent-e.regeneron.com
 prassas.openapp.link
 prasserie.openapp.link
+pr-bh.ybp.yahoo.com
 pr.cision.com
 pr.cision.co.uk
 pr.cision.fi
@@ -152171,6 +152182,7 @@ tracking.risk.lexisnexis.co.jp
 tracking.risk.lexisnexis.com
 tracking.risk.lexisnexis.com.br
 tracking.risk.lexisnexis.co.uk
+tracking.rocketleague.com
 tracking.rogers.com
 tracking.rootinc.com
 tracking.rti-inc.com
@@ -153097,6 +153109,7 @@ tr.marketing.tennaxia.com
 tr.mattressman.co.uk
 tr.mcom03b.espmp-aufr.net
 tr.mcom04p.espmp-aufr.net
+tr.mediafin.be
 tr.mes-bonsplans.be
 tr.mes-prestataires.fr
 tr.mhch.moet.hennessy.com
@@ -153904,6 +153917,7 @@ w3.air-worldwide.com
 w3.flatex.es
 w3n.llbean.com
 w4.air-worldwide.com
+w6.chabad.org
 w7.berliner-silvester.de
 w88.freeform.com
 w88.natgeo.pt
