@@ -11,4 +11,5 @@
 ^count(ers?)?[0-9]*[_.-]
 ^mads\.
 ^pixels?[-.]
+^stat(s|istics)?[0-9]*[_.-]# Regex filters provided by MMotti
 ^stat(s|istics)?[0-9]*[_.-]
