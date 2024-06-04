@@ -577,8 +577,6 @@ omni.soundestlink.com$image
 ||vkanalytics.net^
 ||vpdcp.com^
 ||vstats.me^
-||vturb.com.br^
-||vturb.net^
 ||wct-2.com^
 ||whale3.io^
 ||widgetbe.com^
@@ -4322,6 +4320,7 @@ omni.soundestlink.com$image
 ||a.hcaptcha.com^
 ||a.mobify.com^
 ||a.opumo.net^
+||a.vturb.net^
 ||a2z.com/sping?
 ||aan.amazon.com^$third-party
 ||accesswire.com/img.ashx
@@ -6853,6 +6852,7 @@ omni.soundestlink.com$image
 ||d2j1fszo1axgmp.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
+||d2lxqodqbpy7c2.cloudfront.net^
 ||d2nq0f8d9ofdwv.cloudfront.net/track.js
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
@@ -44832,6 +44832,7 @@ omni.soundestlink.com$image
 ||stats.splinder.com^
 ||stats.stylight.it^
 ||stats.suedtirolerjobs.it^
+||t.mediaset.it^
 ||tantifilm.top^*/ping
 ||timinternet.it/timmobilestatic/img/*.gif?
 ||timinternet.it/timmobilestatic/jsPrivacy/gdl_function_cookie.js
@@ -136170,6 +136171,7 @@ ets.ni.com
 etude.epidemiologie-pop-ge.ch
 etwovr.underarmour.eu
 etznkn.ec-store.net
+eu-1-id5-sync.com
 euapp.levi.com
 eu.business.samsung.com
 eu.cignaglobalhealth.com
@@ -148995,6 +148997,7 @@ so.desertschools.org
 soejzg.efe.com.pe
 soelui.butosklep.pl
 sofa.bankofamerica.com
+sofire.terabox.app
 solar.sunpower.com
 solar.sunpowercorp.com
 solicitud.pacifico.com.pe
@@ -153905,6 +153908,8 @@ vtneexam.quantresear.ch
 v.topya.com
 vttics.world.co.jp
 v-t.topya.com
+vturb.com.br
+vturb.net
 vuypew.ikks.com
 vvaaol.enuygun.com
 vvcufx.colombo.com.br
@@ -154702,6 +154707,7 @@ wzzhvn.hammer.de
 x88s.pandasuite.io
 xaguwy.thomas-muenz.ru
 xait.actonservice.com
+xanalytics.vip
 xbmady.daimaru-matsuzakaya.jp
 xbwpfs.fotocasa.es
 xceylw.xn--n8jl9ba4rwjva86b2cb1301jl6ubz75c.com
