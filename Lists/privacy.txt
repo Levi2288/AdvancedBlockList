@@ -7650,6 +7650,7 @@ omni.soundestlink.com$image
 ||log000.goo.ne.jp^
 ||logger.torimochi-ad.net^
 ||macromill.com/imp/
+||metrics.streaks.jp^
 ||mofa.go.jp^*/count.cgi?
 ||monipla.com/launch.js
 ||moshimo.com^*/impression?
@@ -44941,6 +44942,7 @@ omni.soundestlink.com$image
 ||nikkei.com/.resources/tracking/
 ||nvapi.nicovideo.jp/v1/bandit-machine/
 ||odsyms15.com/impression?
+||portal.kotodaman.jp/api/otel/v1/logs
 ||pvtag.yahoo.co.jp^
 ||pw.gigazine.net^
 ||pzd.rakuten.co.jp^
@@ -44963,6 +44965,7 @@ omni.soundestlink.com$image
 ||seesaawiki.jp/img/rainman.gif?
 ||service.webgoto.net/*?wAnalytics
 ||so-zou.jp/js/ga.js
+||ssai.api.streaks.jp/*/ad_info?
 ||stats.nhk.or.jp^
 ||sy.amebame.com^
 ||sy.ameblo.jp^
