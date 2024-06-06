@@ -45579,6 +45579,7 @@ omni.soundestlink.com$image
 @@||paypal.com/xoplatform/logger/api/logger$domain=play.leagueofkingdoms.com
 @@||paypalobjects.com/*/pageView.js$script,domain=paypal.com
 @@||paypalobjects.com/web/*/gAnalytics.js$script,domain=paypal.com
+@@||pcoptimizedsettings.com/wp-content/plugins/koko-analytics/$~third-party
 @@||pcoptimizedsettings.com/wp-content/uploads/breeze/google/gtag.js$~third-party
 @@||pendo.io/agent/static/$script,domain=recruiting.adp.com
 @@||plantyn.com/optiext/optiextension.dll$~third-party
@@ -133093,6 +133094,7 @@ avid.actonservice.com
 avnet.actonservice.com
 avolvesoftware.actonservice.com
 avs.adpinfo.com
+a.vturb.net
 a.weareknitters.com
 a.weareknitters.co.uk
 a.weareknitters.de
@@ -134398,7 +134400,6 @@ counter.live4members.com
 counter.nv.ua
 counter.powr.io
 counter.reddigital.ru
-counter.wikiwiki.jp
 count.gothaer-digital.de
 count-server.sharethis.com
 count.sibbo.net
@@ -134618,6 +134619,7 @@ d1tbj6eaenapdy.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
+d2lxqodqbpy7c2.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
@@ -151565,6 +151567,7 @@ tmapp.fitnessyard.com
 t.mashable.com
 t.massmutualcenter.com
 tmbsxx.oxybul.com
+t.mediaset.it
 tm-eps.neutrino.nu
 t.metrilo.com
 tmetrix.my.chick-fil-a.com
@@ -153909,8 +153912,6 @@ vtneexam.quantresear.ch
 v.topya.com
 vttics.world.co.jp
 v-t.topya.com
-vturb.com.br
-vturb.net
 vuypew.ikks.com
 vvaaol.enuygun.com
 vvcufx.colombo.com.br
