@@ -4834,6 +4834,7 @@ omni.soundestlink.com$image
 ||cloudfunctions.net/ingest?
 ||cloudfunctions.net/sendwebpush-analytics
 ||cloudfunctions.net/vanalytics
+||cloudmetrics.xenforo.com^
 ||cltgtstor001.blob.core.windows.net^
 ||clustrmaps.com/counter/$third-party
 ||cmail19.com/t/$image,third-party
@@ -5464,6 +5465,7 @@ omni.soundestlink.com$image
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
 ||iterable.com/analytics.js
+||iturl.in/analytics?
 ||iubenda.com/write?
 ||iyisayfa.net/inc.php?
 ||jailbaitchan.com/tp/
@@ -45651,6 +45653,7 @@ omni.soundestlink.com$image
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
+@@||stats.wnba.com/templates/angular/tables/events/$~third-party
 @@||steamstatic.com/steam/apps/$image,domain=store.steampowered.com
 @@||tagcommander.com^*/tc_$script
 @@||tags.news.com.au/prod/heartbeat/$script
@@ -134009,6 +134012,7 @@ c.lolamarket.com
 cloud.diagral.fr
 cloudhosting.actonservice.com
 cloudhosting-business.vodafone.com
+cloudmetrics.xenforo.com
 cloud.trapptechnology.com
 cloud.webtrack.online
 cloverleaf.infor.com
@@ -143402,6 +143406,7 @@ metrics.statestreet.com
 metrics.steinhafels.com
 metrics.stockhead.com.au
 metrics.store.irobot.com
+metrics.streaks.jp
 metrics.striderite.com
 metrics.stubhub.co.uk
 metrics.stubhub.de
