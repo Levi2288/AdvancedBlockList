@@ -1,6 +1,6 @@
 # AdvancedBlockList
 
-- Current Host List Contains ```4667199``` domains, IP addresses and DNS servers
+- Current Host List Contains ```4667141``` domains, IP addresses and DNS servers
 - :star: Stars are always appreciated.
 - If u use my list please give credit
 
