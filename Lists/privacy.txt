@@ -4280,6 +4280,7 @@ omni.soundestlink.com$image
 ||truehits.net^$third-party
 ||truehits3.gits.net.th^$third-party
 ||brainsland.com^$third-party
+||elmasistatistik.com.tr^$third-party
 ||onlinewebstat.com^$third-party
 ||realist.gen.tr^$third-party
 ||sayyac.com^$third-party
@@ -117736,6 +117737,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
  gbc2.nl3.eu.criteo.com
  gbc2.nl.eu.criteo.com
  gbc2.sg1.as.criteo.com
+ gbc2.us5.us.criteo.com
  gbc2.va.us.criteo.com
  gbc3.da.us.criteo.com
  gbc3.fr3.eu.criteo.com
