@@ -216,6 +216,7 @@
 img.promio-connect.com$image
 omni.soundestlink.com$image
 ||00px.net^
+||1bliq.io^
 ||1cros.net^
 ||2cnt.net^
 ||2l6ddsmnm.de^
@@ -4344,6 +4345,7 @@ omni.soundestlink.com$image
 ||adobedc.net/collector/
 ||ads-trk.vidible.tv^
 ||adsolutions.com^$third-party
+||adv-analytics-collector.videograph.ai^
 ||adyen.com/checkoutshopper/images/analytics.png?
 ||adyen.com/checkoutshopper/v2/analytics/log?
 ||affiliate-api.raptive.com^
@@ -44309,6 +44311,7 @@ omni.soundestlink.com$image
 ||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
 ||analytics.clubic.com^
+||api.doctolib.fr/nr_insert_
 ||api.odysee.com/locale/get
 ||api.ouedkniss.com^*&xTrackId=
 ||api.tacotax.fr/v2/amplitude_trackers
@@ -44361,6 +44364,7 @@ omni.soundestlink.com$image
 ||lemonde.fr/*&cts=
 ||lemonde.fr/*&stc=
 ||lemonde.fr/bucket/*/tagistan.
+||lemonde.fr^$ping
 ||leparking-moto.fr/jsV155/Tracker.js
 ||leparking.fr/*/Tracker.js
 ||lepoint.fr/img-l/$image
@@ -44369,6 +44373,7 @@ omni.soundestlink.com$image
 ||ma-petite-recette.fr/visites
 ||marmiton.org/reloaded/errpix.php
 ||medoucine.com/tracking/
+||metrics-broker.prod.p.tf1.fr^
 ||neko-san.fr/stats
 ||ocular.dealabs.com^
 ||ouest-france.fr/v1/javascripts/*-googletag-
