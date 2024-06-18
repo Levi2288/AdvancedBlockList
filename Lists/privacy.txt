@@ -331,6 +331,7 @@ omni.soundestlink.com$image
 ||etop.ro^
 ||eu-1-id5-sync.com^
 ||everesttech.net^
+||ew3.io^
 ||experianmatch.info^
 ||ezodn.com^
 ||ezstat.ru^
@@ -5928,6 +5929,7 @@ omni.soundestlink.com$image
 ||platform.twitter.com/impressions.js
 ||plausible.io/js/p.js
 ||plausible.io/js/plausible.
+||plausible.server.hakai.app^
 ||plausibleio.workers.dev^$third-party
 ||play.adtonos.com^
 ||play.ht/views/
@@ -8059,6 +8061,7 @@ omni.soundestlink.com$image
 ||342251b-beta.perplexity.ai/api/$xmlhttprequest
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
+||4kporn.xxx/static/analytics/
 ||4shared.com/js/d1VisitsCounter.4min.js
 ||9gag.com/event/
 ||9gag.com/track/
@@ -8829,6 +8832,7 @@ omni.soundestlink.com$image
 ||lookawoman.com/t/
 ||lowes.com/gauge/
 ||lyft.com/api/track
+||lyngsat.com/system/loadclick.js
 ||m.facebook.com/ajax/weblite_load_logging/
 ||m.facebook.com/ajax/weblite_resources_timing_logging/
 ||ma.redhat.com^
@@ -45735,7 +45739,7 @@ omni.soundestlink.com$image
 @@||google-analytics.com/ga.js$domain=meritonsuites.com.au|realpage.com
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|enoteca.co.jp|goodwillfinds.com|samash.com|viajeguanabara.com.br|vitalsource.com|wilsonparking.com.au
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
-@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=nbc.com|tatamotors.com
+@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=nbc.com|tatamotors.com|usanetwork.com
 @@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|poweredbycovermore.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|tatacliq.com|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com|wowway.net
 @@||adobedtm.com^*-libraryCode_source.min.js$domain=doda.jp
 @@||adobedtm.com^*_source.min.js$domain=ally.com|americanexpress.com|as.com|backcountry.com|crave.ca|disneyplus.disney.co.jp|hilton.com|hl.co.uk|homedepot.ca|kroger.com|mora.jp|nbarizona.com|pnc.com|tatacliq.com|telus.com
@@ -129200,6 +129204,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
 161779.publy.co
 176.net.jumia.ma
 1baq2nvd6n7.www.keevowallet.com
+1bliq.io
 1bpmtrvkqkj.pettoonies.com
 1cros.net
 1e90.pandasuite.io
@@ -131588,6 +131593,7 @@ adtarget.fcbarcelona.jp
 adtd.douglas.cz
 ad.theatre.co.jp
 ad-tracker-api.luizalabs.com
+adv-analytics-collector.videograph.ai
 advancedsolutions.actonservice.com
 advancing.acams.org
 advantageauburn.actonservice.com
@@ -134856,6 +134862,7 @@ data.janvanderstorm.de
 data.kameleoon.io
 data.keybank.dev.cjmadobe.com
 data.kulturkaufhaus.de
+datalayer.orange.fr
 data-logdelivery.wconcept.co.kr
 data.loyalty.timhortons.ca
 data.lp.eurobet.it
@@ -142724,6 +142731,7 @@ metrics.bridgestoneamericas.com
 metrics.brighthorizons.com
 metrics.britishgas.co.uk
 metrics.brocade.com
+metrics-broker.prod.p.tf1.fr
 metrics.bt.com.au
 metrics.bt.se
 metrics.buildasign.com
