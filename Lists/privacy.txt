@@ -133407,6 +133407,7 @@ bienvenido.americanindustriesgroup.com
 bigbtmbvdzda.freelancer.taxmachine.be
 bigcustomernetwork.actonservice.com
 bigdata.clarin.com
+bi.heyloyalty.com
 bi.irisdating.com
 bijkep.hotelesestelar.com
 bilder11.markt.de
@@ -145025,6 +145026,7 @@ plausible.reabra.com.br
 plausible.retune.de
 plausible.safing.io
 plausible.sbw.org
+plausible.server.hakai.app
 plausible.shadygrovepca.org
 plausible.srijn.net
 plausible.tasteslikeme.ca
