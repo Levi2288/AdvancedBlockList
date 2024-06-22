@@ -3474,6 +3474,7 @@ omni.soundestlink.com$image
 ||divolution.com^$third-party
 ||dl8.me^$third-party
 ||dreamcounter.de^$third-party
+||durchsichtig.xyz^
 ||eanalyzer.de^$third-party
 ||easytracking.de^$third-party
 ||econda-monitor.de^$third-party
@@ -7833,6 +7834,7 @@ omni.soundestlink.com$image
 ||biggylabs.com.br/track-api/v2/track/site?
 ||collect.chaordicsystems.com^
 ||events.chaordicsystems.com^
+||feature-flag-edge.live.clickbus.net^
 ||hitserver.ibope.com.br^
 ||jsuol.com/rm/clicklogger_
 ||linximpulse.net/impulse/
@@ -7889,6 +7891,7 @@ omni.soundestlink.com$image
 ||counter.photopulse.ru^
 ||counter.pr-cy.ru^
 ||counter.reddigital.ru^
+||counter.smotrim.ru^
 ||crm-analytics.imweb.ru^
 ||d.wi-fi.ru^
 ||dbex-tracker-v2.driveback.ru^
@@ -44105,6 +44108,7 @@ omni.soundestlink.com$image
 ||zelle.odencat.com^
 ||zombieslayer-alternate.kano.link^
 ||zombieslayer.kano.link^
+||1438976156.recolution.de^
 ||20min.ch/ana/
 ||aachener-zeitung.de/zva/drive.js
 ||aerzteblatt.de/inc/js/ga4.js
@@ -45007,6 +45011,7 @@ omni.soundestlink.com$image
 ||scinable.net/access?
 ||seesaawiki.jp/img/rainman.gif?
 ||service.webgoto.net/*?wAnalytics
+||shipping.jp/raa/rd.js
 ||so-zou.jp/js/ga.js
 ||ssai.api.streaks.jp/*/ad_info?
 ||stats.nhk.or.jp^
@@ -45283,6 +45288,7 @@ omni.soundestlink.com$image
 ||trk.mail.ru^$image,script
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
+||vstat.rtr-vesti.ru^
 ||xapi.ozon.ru^$ping
 ||xray.mail.ru^
 ||yandex.ru/log?
@@ -45369,6 +45375,7 @@ omni.soundestlink.com$image
 ||glami.com.tr/tracker/
 ||h.n11.com^
 ||haberler.com/dinamik/
+||hit.cnbce.com^
 ||hstats.hepsiburada.com^
 ||iys.org.tr/mti-popts.js
 ||sahibinden.com/sbbi/
@@ -45782,6 +45789,7 @@ omni.soundestlink.com$image
 @@||sourcepointcmp.bloomberg.*/mms/get_site_data?$domain=bloomberg.co.jp|bloomberg.com
 @@||app.clarity.so^$~third-party
 @@||cbsi.map.fastly.net^
+@@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
 @@||online-metrix.net^$script,domain=eki-net.com
@@ -134458,6 +134466,7 @@ counter.live4members.com
 counter.nv.ua
 counter.powr.io
 counter.reddigital.ru
+counter.smotrim.ru
 count.gothaer-digital.de
 count-server.sharethis.com
 count.sibbo.net
@@ -136479,6 +136488,7 @@ fdkeip.azafashions.com
 fdowic.hoiku.mynavi.jp
 fdxtbs.meeters.org
 featured.bradyid.com
+feature-flag-edge.live.clickbus.net
 fec1.optimhome.com
 fedexfield.redskins.com
 fedsched.actonservice.com
@@ -137731,6 +137741,7 @@ hipkqt.contorion.de
 hirsung.de
 hi.syllable.ai
 hitachi-hightech-as.actonservice.com
+hit.cnbce.com
 hit.interia.pl
 hitmse.altinbas.com
 hits.getelevar.com
@@ -153981,6 +153992,7 @@ vsfius.aranzulla.it
 vsgwsk.bergzeit.at
 vsqyaz.sweetwater.com
 vs.target.com
+vstat.rtr-vesti.ru
 vstats.me
 vs.verisure.fr
 vtneexam.quantresear.ch
