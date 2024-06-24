@@ -5632,6 +5632,7 @@ omni.soundestlink.com$image
 ||lucid.mjhassoc.com^
 ||luminate.com/track/
 ||lycos.com/hb.js
+||m.clear.link/cpr/external/track
 ||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
 ||magento-recs-sdk.adobe.net^
@@ -8135,7 +8136,6 @@ omni.soundestlink.com$image
 ||aiv-delivery.net/v1/ReportEvent
 ||akamaihd.net/paay6hyr.gif?
 ||alb.reddit.com^
-||algolia.net/1/isalive?
 ||alicdn.com/AWSC/et/
 ||aliexpress.com/ts?
 ||alipay.com/web/bi.do?ref=
@@ -129224,6 +129224,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
 10stepswp.advancedtech.com
 125.net.jumia.co.ke
 12915784.care.sanvello.com
+1438976156.recolution.de
 1558334541.rsc.cdn77.org
 16134024.artcollection.io
 161779.publy.co
@@ -134713,6 +134714,7 @@ d712.theinformation.com
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 dabu.askmediagroup.com
 dacocorp.actonservice.com
+dadalytics.it
 dadispapi.gmarket.co.kr
 da.freo.nl
 da.hornbach.be
@@ -135527,6 +135529,7 @@ d.tv-asahi.co.jp
 dtxtngytz5im1.cloudfront.net
 dujgiq.trendhim.pl
 duprelogistics.actonservice.com
+durchsichtig.xyz
 dvczvm.cyfrowe.pl
 dvvkov.agrieuro.de
 d.whoscall.com
@@ -137835,6 +137838,7 @@ hssyje.theathletesfoot.com.au
 hst2-invite.ander.ai
 hstats.askmiso.com
 hstats.hepsiburada.com
+hstatstest.hepsiburada.com
 htcnbx.odkarla.cz
 htc.oaken.com
 htplayground.com
@@ -141045,6 +141049,7 @@ managedaccounts.rockymountainpower.net
 mandant.net.anwalt.de
 mantis.edge47.testandtarget.omniture.com
 manufacturing.autodeskcommunications.com
+mapixl.com
 mapp.biryanibykilo.com
 ma.pricegain.com
 map.rockwellautomation.com
@@ -143697,6 +143702,7 @@ mggakg.littleblack.co.kr
 m.giftry.com
 mg.info.averydennison.com
 mgixgn.wittchen.com
+mgln.ai
 mg.mistrasgroup.com
 mgn.ebis.xn--olsz5f0ufw02b.net
 m.go4.io
@@ -144986,6 +144992,7 @@ pivotpointsecurity.actonservice.com
 pixel.archipro.co.nz
 pixel.barion.com
 pixel.byspotify.com
+pixel.driveniq.com
 pixel.ionos.com
 pixel.ionos.de
 pixel.poptok.com
