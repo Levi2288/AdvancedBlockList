@@ -6835,7 +6835,6 @@ omni.soundestlink.com$image
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
-||d1af033869koo7.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
@@ -8161,6 +8160,7 @@ omni.soundestlink.com$image
 ||analytics-api.dvdfab.
 ||analytics-batch.blitz.gg^
 ||analytics-proxy.springboard.com^
+||analytics-server.arras.cx^
 ||analytics-tracking.meetup.com^
 ||analytics-wcms.joins.net^
 ||analytics-zone-1.api.leadfamly.com^
@@ -9486,7 +9486,6 @@ omni.soundestlink.com$image
 ||tumblr.com/pop/js/modern/sentry-
 ||tumblr.com/services/bblog
 ||tunein.com/api/v1/log/
-||tweakers.net/ajax/$ping
 ||twitter.com/1.1/attribution
 ||twitter.com/1.1/jot
 ||twitter.com/9/measurement/
@@ -44920,6 +44919,7 @@ omni.soundestlink.com$image
 ||vvvvid.it^$ping
 ||yachtingnetwork.it/stat/
 ||abema-tv.com/v1/stats/
+||ad-platform.jmty.jp^
 ||amazonaws.com/ai-img/aia.js
 ||ameba.jp/cookie/
 ||ameblo.jp/accesslog/
@@ -45085,7 +45085,7 @@ omni.soundestlink.com$image
 ||stat.tiara.kakao.com^
 ||stat.tiara.tistory.com^
 ||stat.wanted.jobs^
-||t*.daumcdn.net/adfit/static/kp.js
+||t1.daumcdn.net/*/static/kp.js
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
 ||tracker.cauly.co.kr^
