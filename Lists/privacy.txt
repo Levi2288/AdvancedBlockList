@@ -540,6 +540,7 @@ omni.soundestlink.com$image
 ||speedyrhino.co^
 ||spinnaker-js.com^
 ||srmdata-eur.com^
+||ssevt.com^
 ||stack-sonar.com^
 ||stat.ovh^
 ||statisticplatform.com^
@@ -608,8 +609,6 @@ omni.soundestlink.com$image
 ||youboranqs01.com^
 ||zdbb.net^
 ||zenaps.com^
-||zfctrack.net^
-||zhctrack.net^
 ||zippyfrog.co^
 ||zjptg.com^
 ||zononi.com^
@@ -6802,6 +6801,7 @@ omni.soundestlink.com$image
 ||yimg.com/cx/vzm/cs.js
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
+||yoast-schema-graph.com^$third-party
 ||yottaa.com/rapid.min.js
 ||yottaa.net/log-jh
 ||zapcdn.space/zapret.js
@@ -7124,6 +7124,7 @@ omni.soundestlink.com$image
 ||data.econa.com^
 ||data.kameleoon.io^
 ||datacomm.ch^*/count.cgi?
+||datahub-srgssr.ch/tracking/
 ||djuf7jb483wz1.cloudfront.net/p/l.jpg
 ||et.twyn.com^
 ||events.onet.pl^
@@ -8107,6 +8108,7 @@ omni.soundestlink.com$image
 ||about.me/track?
 ||abysscdn.com/cdn-cgi/trace
 ||academia.edu/record_hit
+||acast.com/api/stats
 ||accor.com/g/collect?
 ||accuterm.com/data/stat.js
 ||acronymfinder.com/~/tr.ashx
@@ -9049,6 +9051,7 @@ omni.soundestlink.com$image
 ||pixel.tuko.co.ke^
 ||pixelzirkus.gameforge.com^
 ||pixiedust.buzzfeed.com^
+||pks-analytics.raenonx.cc^
 ||pl.letsblock.it^
 ||planetradio.co.uk/crystal/log
 ||plausible.bots.gg^
@@ -9111,6 +9114,7 @@ omni.soundestlink.com$image
 ||r.apkpure.net^
 ||r.bbci.co.uk^
 ||raenonx.cc/api/analytics
+||raenonx.cc/api/usage
 ||raindrop.io/pb/api/event
 ||rakuten.com/rmsgjs/soj2.js
 ||ranker.com/api/px
@@ -44875,6 +44879,7 @@ omni.soundestlink.com$image
 ||libero.it/cgi-bin/ajaxtrace?
 ||libero.it/cgi-bin/cdcounter.cgi?
 ||libero.it/cgi-bin/cdcountersp.cgi?
+||libero.it/cgi-bin/twit?
 ||libero.it/search/abin/ajaxtrace?
 ||libero.it^*/counter.php?
 ||lupoporno.com/js/analytics
@@ -45390,6 +45395,7 @@ omni.soundestlink.com$image
 ||glami.com.tr/tracker/
 ||h.n11.com^
 ||haberler.com/dinamik/
+||hepsiburada.com/api/track
 ||hit.cnbce.com^
 ||hstats.hepsiburada.com^
 ||hstatstest.hepsiburada.com^
@@ -45929,6 +45935,8 @@ omni.soundestlink.com$image
 @@||radio24.ilsole24ore.com/plugins/cordova-plugin-nielsen/www/nielsen.js$script,~third-party
 @@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|ilsecoloxix.it|lastampa.it
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
+@@||sport.virgilio.it/js/web-vitals-evnt.25/web-vitals.attribution.js$script,domain=sport.virgilio.it
+@@||tecnologia.libero.it/js/dist.1/web-vitals.attribution.js$script,domain=tecnologia.libero.it
 @@||thron.com/shared/plugins/tracking/current/tracking-library-min.js$domain=dainese.com
 @@||timvision.it/libs/fingerprint/fingerprint.js
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
