@@ -95,6 +95,9 @@
 ||google.com/gen_204?
 ||googleapis.com^*/gen_204?
 ||gstatic.com/gen_204?
+%2Fevent.gif%3F
+%2Fo.gif&
+%2Fopen.aspx%3F
 .acemlna.com/lt.php?$image
 .acemlna.com/Prod/link-tracker?$image
 .acemlnb.com/Prod/link-tracker?$image
@@ -6341,6 +6344,7 @@ omni.soundestlink.com$image
 ||t.clic2buy.com^
 ||t.dgm-au.com^$third-party
 ||t.enuygun.com^
+||t.fullres.net^
 ||t.ghostboard.io^
 ||t.id.net/log
 ||t.irtyc.com^
