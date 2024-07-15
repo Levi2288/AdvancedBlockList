@@ -281,6 +281,7 @@ omni.soundestlink.com$image
 ||bringmethehats.com^
 ||briskeagle.io^
 ||briskpelican.io^
+||broadstreet.ai^
 ||brsrvr.com^
 ||brwsrfrm.com^
 ||btloader.com^
@@ -5173,6 +5174,7 @@ omni.soundestlink.com$image
 ||events.flagship.io^
 ||events.jotform.com^
 ||events.launchdarkly.com^$third-party
+||events.mapbox.com^
 ||events.matterport.com^
 ||events.medio.com^
 ||events.missena.io^
@@ -5552,7 +5554,7 @@ omni.soundestlink.com$image
 ||l.player.ooyala.com^
 ||l.sharethis.com^
 ||l.typesquare.com^
-||lambda-url.us-east-1.on.aws^
+||lambda-url.us-east-1.on.aws/chug/event
 ||laurel.macrovision.com^
 ||laurel.rovicorp.com^
 ||lciapi.ninthdecimal.com^
@@ -5614,6 +5616,7 @@ omni.soundestlink.com$image
 ||livestats.kaltura.com^
 ||livestory.io/*/collect
 ||llama.fi/script.js
+||lma.npaw.com^
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||location3.com/analytics/
@@ -8414,6 +8417,7 @@ omni.soundestlink.com$image
 ||collector.githubapp.com^
 ||collector.megaxh.com^
 ||collector.pi.spectrum.net^
+||collector.quillbot.com^
 ||collector.taoxh.life^
 ||collector.xhaccess.com^
 ||collector.xhamster.com^
@@ -8775,6 +8779,7 @@ omni.soundestlink.com$image
 ||imf.org/Assets/IMF/js/SocialScript.js
 ||imgur.com/albumview.gif?
 ||imgur.com/imageview.gif?
+||impressions.svc.abillion.com^
 ||improve.tempest.com^
 ||indeed.com/cmp/_rpc/dwell-log?
 ||indeed.com/cmp/_rpc/flog
@@ -9441,8 +9446,6 @@ omni.soundestlink.com$image
 ||terabox.com/abdr?
 ||termsfeed.com/track/
 ||tgt.maep.ibm.com^
-||the-sun.com/assets/client/analyticsListeners~
-||the-sun.com/assets/client/newrelicExperimentTracking~
 ||theblock.co/api/analytics
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
 ||thedailybeast.com/static/js/thirdparty.
@@ -9640,7 +9643,6 @@ omni.soundestlink.com$image
 ||whattomine.com/stats
 ||wheregoes.com/api/event
 ||whistleout.com.au/track
-||wikihow.com/q9783LyeWk/
 ||wikihow.com/x/collect?
 ||wikimonde.com/matom.js
 ||wikipedia.org/beacon/
@@ -46474,6 +46476,8 @@ omni.soundestlink.com$image
 ||bukalapak.com/track_external.json
 ||ktracker.kumparan.com^
 ||t.bukalapak.com^
+||ta.tokopedia.com/promo/v1/views
+||tokopedia.com/helios-client/client-log
 ||alfemminile.com/logpix.php
 ||altervista.org/js/contatore.js
 ||altervista.org/js_tags/contatore.js
@@ -47414,11 +47418,11 @@ omni.soundestlink.com$image
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|enoteca.co.jp|goodwillfinds.com|samash.com|viajeguanabara.com.br|vitalsource.com|wilsonparking.com.au
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=nbc.com|tatamotors.com|usanetwork.com
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|poweredbycovermore.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|tatacliq.com|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com|wowway.net
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|poweredbycovermore.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|tatacliq.com|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com
 @@||adobedtm.com^*-libraryCode_source.min.js$domain=doda.jp
 @@||adobedtm.com^*_source.min.js$domain=ally.com|americanexpress.com|as.com|backcountry.com|crave.ca|disneyplus.disney.co.jp|hilton.com|hl.co.uk|homedepot.ca|kroger.com|mora.jp|nbarizona.com|pnc.com|tatacliq.com|telus.com
 @@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|fedex.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|ssrn.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
-@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|backcountry.com|ceair.com|conad.it|costco.com|dhl.de|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|sony.jp|tatacliq.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
+@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|backcountry.com|ceair.com|conad.it|costco.com|dhl.de|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|sony.jp|tatacliq.com|usanetwork.com|vanityfair.com|wired.com
 @@||adobedtm.com/extensions/$domain=antena3.com|apple.com|atresmedia.com|atresplayer.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|lasexta.com|telus.com|verizon.com|xfinity.com
 @@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com|uphold.com
 @@||cxense.com/document/search?
