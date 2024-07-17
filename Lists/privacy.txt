@@ -135906,6 +135906,7 @@ beacon.dropbox.com
 beaconhealthsystem.hrm.healthgrades.com
 beacon.klm.com
 beacon.sftoaa.com
+beacon-v2.helpscout.net
 beamanalytics.b-cdn.net
 beam.telex.hu
 beanworks.actonservice.com
@@ -136249,6 +136250,7 @@ broadstreet.ai
 b.rohde-schwarz.com
 bronxvanilla.openapp.link
 brooklynway.openapp.link
+browser.covatic.io
 brpayless.eccocar.com
 br.probablecausesolutions.com
 brqory.notino.sk
@@ -139209,6 +139211,7 @@ events.tafensw.edu.au
 events.trapptechnology.com
 events.ubembed.com
 events.verticurl.com
+event.tagtoo.co
 event.thermofisher.com
 event.thermoscientific.cn
 event.thermoscientific.com
@@ -140694,7 +140697,6 @@ hjyfhi.misterspex.fi
 hk-go.experian.com
 hksfkh.otomotoprofi.pl
 hkskqs.belvilla.fr
-hk-trc-events.taboola.com
 hlagkl.vinatis.com
 hleouh.feelunique.com
 hlhyzh.fann.cz
@@ -148308,6 +148310,7 @@ pl.hitthefrontpage.com
 pljuin.lensmode.com
 pl.letsblock.it
 pll.pearlinsurance.com
+pl.lucida.to
 pl.mynorthstarapp.com
 p.logbox.io
 plongezdanslabdkj.carte-gr.total.fr
@@ -154954,7 +154957,6 @@ t.mgoblue.com
 tmhgma.juwelo.de
 t.miamihurricanes.com
 t.miamiredhawks.com
-tm.jsuol.com.br
 t.mktg.genesys.com
 tmlt.actonservice.com
 t.mmaeast.com
