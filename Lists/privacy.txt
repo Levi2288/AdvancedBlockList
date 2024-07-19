@@ -649,7 +649,6 @@ omni.soundestlink.com$image
 ||204st.us^$third-party
 ||206solutions.com^$third-party
 ||247-inc.com^$third-party
-||247-inc.net^$third-party
 ||247ilabs.com^$third-party
 ||24counter.com^$third-party
 ||24log.com^$third-party
@@ -8552,6 +8551,7 @@ omni.soundestlink.com$image
 ||el.quizlet.com^
 ||elitesingles.com/cs/tp.png?
 ||embed.reddit.com/svc/shreddit
+||embedme.top/embed/extra
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
 ||engagement.feedly.com^
@@ -134382,6 +134382,7 @@ analytics.hottopic.com
 analytics-hub.3plearning.com
 analytics.id.amazongames.com
 analytics.idfnet.net
+analytics.inquisitr.com
 analytics.jazel.net
 analytics.jjkellerconsulting.com
 analytics.jjkellerdatasense.com
@@ -134612,6 +134613,7 @@ a.perfumesclub.pl
 a.perfumesclub.pt
 aperio.leicabiosystems.com
 apfbrk.butorline.hu
+apharponloun.com
 aphxav.green-acres.it
 api-analytics-prd.pelcro.com
 api.apiok.net.iberostar.com
@@ -138216,6 +138218,7 @@ dmcc.actonservice.com
 dmcnyf.nevzatonay.com
 dmc.romotur.com
 dmdgdu.atmosphera.com
+dmepyodjotcuks.com
 dmpmetrics.rcsmetrics.it
 dmqykw.thirtymall.com
 dm.smfl.jp
@@ -138508,6 +138511,7 @@ ef71.pandasuite.io
 efadyz.smartbuyglasses.co.nz
 efbenj.adorebeauty.com.au
 e.fdm.dk
+effect.habr.com
 efficiency.visma.dk
 efgam.actonservice.com
 efglbp.baur.de
@@ -139033,6 +139037,7 @@ enquiry.marketingcube.com.au
 enrolldi.glic.com
 enroll.workforcewellness.com
 en-sg.siemensplmevents.com
+enterombacerick.com
 enterprise2.secureforms.mcafee.com
 enterprise.dnb.ca
 enterprisehive.actonservice.com
@@ -140093,6 +140098,7 @@ godev.steps.me
 go.dev.upnext.in
 go.dgsta.com
 go.diagraphmsp.com
+godiciardstia.com
 go.divorced.ignite.technology
 go.dngn.kr
 go.dreamgaragealabama.com
@@ -145443,6 +145449,7 @@ m.bell.ca
 mbeoxt.perfumesclub.pt
 m.bigroad.com
 m.bitmo.com
+mbmgivexdvpajr.com
 mbna.bruker.com
 m.bookis.com
 mbopt.bruker.com
@@ -148613,6 +148620,7 @@ pywiia.lfmall.co.kr
 pyxjkx.springjapan.com
 pzajdh.guicheweb.com.br
 pzapi-kg.com
+q0losid.com
 q4l5gz6lqog6.www.eventus.io
 q88.actonservice.com
 qaapp.forever21.com
@@ -153550,6 +153558,7 @@ stats.gtnetworks.com
 stats.guidingwallet.app
 stats.guycarp.com
 stats.gynsprechstunde.de
+stats.habr.com
 stats.hackershare.dev
 stats.hager.com
 stats.halcyon.hr
@@ -154215,6 +154224,7 @@ sxjfhh.thetowntalk.com
 sxjfhh.timesrecordnews.com
 sxp.allianz.de
 sxwxswg8z1xe.www.arnowebtv.com
+sy57d8wi.com
 symantec.ecs.arrow.com
 symbio.actonservice.com
 synapse-da.actonservice.com
@@ -154640,6 +154650,7 @@ tengointernet.actonservice.com
 te.nitro-production.otto.boreus.de
 te.nitro-test-extern.otto.boreus.de
 t.enuygun.com
+tepatonol.com
 teracom.actonservice.com
 t.erivedge.com
 terradatum.actonservice.com
@@ -157247,6 +157258,7 @@ velocitypartners.actonservice.com
 venture-365-inspired.com
 veoci.actonservice.com
 veosfi.woonexpress.nl
+veozn3f.com
 veqvek.bnnbloomberg.ca
 veqvek.ctv.ca
 veqvek.ctvnews.ca
@@ -157365,6 +157377,7 @@ vmsspl.tenamall.co.kr
 vmsxzx.buienradar.nl
 vmwody.seibu-k.co.jp
 v.myvoleo.com
+vmzqqmlpwwmazjnio.com
 vnlvxi.vivastreet.co.uk
 vnmopn.brax.com
 vnqcyq.noon.co.kr
