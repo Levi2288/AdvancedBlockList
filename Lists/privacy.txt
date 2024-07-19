@@ -3887,6 +3887,7 @@ omni.soundestlink.com$image
 ||tracking*.euroads.fi^$third-party
 ||vihtori-analytics.fi^$third-party
 ||tbcconnect.ge^$third-party
+||appocalypsis.com^$third-party
 ||linkwi.se^$third-party
 ||enter-system.com^$third-party
 ||erate.co.il^$third-party
@@ -8543,6 +8544,7 @@ omni.soundestlink.com$image
 ||edge.staging.fullstory.com^
 ||edisound.com/api/p/stats
 ||eec.crunchyroll.com^
+||effect.habr.com^
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
 ||eighten-bloc-party.thebrowser.company/script.js
@@ -9323,6 +9325,7 @@ omni.soundestlink.com$image
 ||stats.codeur.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
+||stats.habr.com^
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.sg^
 ||stats.justpaste.it^
@@ -9636,6 +9639,7 @@ omni.soundestlink.com$image
 ||wattpad.com/js/tracker/app.
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
+||web.snapchat.com/web-analytics-v2/web/events
 ||web.whatsapp.com/wam
 ||webd-assets.cdn4dd.com/s.js$domain=doordash.com
 ||weblog.flyasiana.com^
@@ -46025,6 +46029,7 @@ omni.soundestlink.com$image
 ||igen.fr/modules/statistics/statistics.php
 ||insights.v3.decathlon.net^
 ||iphoneaddict.fr/wp-content/*/counter.php
+||iptvgratuit.net/wp-content/*/analytics.js
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
 ||kwgs.letudiant.fr^
@@ -47400,6 +47405,7 @@ omni.soundestlink.com$image
 @@||travel-assets.com/platform-analytics-prime/$domain=chase.com
 @@||tunein.com/api/v1/comscore$~third-party
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
+@@||usplastic.com/js/hawk.js
 @@||uwufufu.com/_nuxt/mixpanel.$~third-party
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||vidible.tv^*/ComScore.StreamSense.js
