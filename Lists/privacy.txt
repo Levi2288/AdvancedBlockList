@@ -8277,6 +8277,7 @@ omni.soundestlink.com$image
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
 ||appanalysis.banggood.com^
+||apple-mapkit.com/mw/v1/reportAnalytics
 ||argtesa.com/cdn-cgi/trace
 ||armedangels.com/javascript/script.js
 ||arttrk.com/pixel/
@@ -9695,6 +9696,8 @@ omni.soundestlink.com$image
 ||xhcdn.com/js/*.track.min.js
 ||xing.com/logjam/
 ||xnxx.com/picserror/
+||xp-qa.apple.com/report/2/xp_amp_web_error_log
+||xp-qa.apple.com/report/2/xp_amp_web_perf_log
 ||xvideos.com/picserror/
 ||xxf.mobi/hit
 ||ya.ru/clck/
@@ -130963,6 +130966,7 @@ zy16eoat1w.com sanalytics.spark.co.nz
 3skickasurf.tre.se
 40caidaylimpia.catzolab.net
 4251.tech
+46rtpw.ru
 492733704185584515.academyforconsciousculture.com
 4b.oktium.com
 4jaehnfqizyx.controlconceptsusa.com
