@@ -1639,6 +1639,7 @@ omni.soundestlink.com$image
 ||hotlog.ru^$third-party
 ||hscta.net^$third-party
 ||hubvisor.io^$third-party
+||hum.works^$third-party
 ||humanclick.com^$third-party
 ||humanpresence.app^$third-party
 ||hunt-leads.com^$third-party
@@ -2242,6 +2243,7 @@ omni.soundestlink.com$image
 ||pjtra.com^$third-party
 ||placemypixel.com^$third-party
 ||platformpanda.com^$third-party
+||plausible-analytics.xyz^$third-party
 ||plausible.avris.it^$third-party
 ||plausible.io^$third-party
 ||plavxml.com^$third-party
@@ -2593,6 +2595,7 @@ omni.soundestlink.com$image
 ||smartctr.com^$third-party
 ||smarterhq.io^$third-party
 ||smarterremarketer.net^$third-party
+||smartico.ai^$third-party
 ||smartlook.com^$third-party
 ||smartocto.com^$third-party
 ||smartology.co^$third-party
@@ -4444,6 +4447,7 @@ omni.soundestlink.com$image
 ||analyticcdn.globalmailer.com^
 ||analytics-1.cavai.com^
 ||analytics-api.klickly.com^
+||analytics-cf.bigcrunch.com^
 ||analytics-cms.whitebeard.me^
 ||analytics-consent-manager-v2-prod.azureedge.net^
 ||analytics-prd.aws.wehaa.net^
@@ -5257,7 +5261,6 @@ omni.soundestlink.com$image
 ||feedblitz.com/imp?$third-party
 ||feedblitz.com^*.gif?$third-party
 ||feedify.net/thirdparty/json/track/
-||feliz.data.tm-awx.com^
 ||filament-stats.herokuapp.com^
 ||files.envoke.com^*_nvk_tracking.js
 ||filesonic.com/referral/$third-party
@@ -5961,6 +5964,7 @@ omni.soundestlink.com$image
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
 ||pixel.driveniq.com^
+||pixel.fohr.co^
 ||pixel.inforsea.com^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
@@ -7682,6 +7686,7 @@ omni.soundestlink.com$image
 ||b.karte.io^
 ||b.sli-spark.com^
 ||b0.yahoo.co.jp^
+||bance.jp/bnctag.js
 ||bidder.mediams.mb.softbank.jp^
 ||blogroll.livedoor.net/img/blank.gif?
 ||blozoo.info/js/ranktool/
@@ -8106,6 +8111,7 @@ omni.soundestlink.com$image
 ||hulyagedikci.com/vhit.php?
 ||iyzipay.com/buyer-protection/assets/js/analytics.js
 ||izinal.com/log
+||sayac.kapital.com.tr^
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
 ||tracking.venturify.at^
@@ -47080,6 +47086,7 @@ omni.soundestlink.com$image
 ||hstats.hepsiburada.com^
 ||hstatstest.hepsiburada.com^
 ||iys.org.tr/mti-popts.js
+||kunduz.com/kunduzlytics.min.js
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^
 ||tracker.blutv.com^
@@ -47475,6 +47482,7 @@ omni.soundestlink.com$image
 @@||adobedtm.com/extensions/$domain=antena3.com|apple.com|atresmedia.com|atresplayer.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|lasexta.com|telus.com|verizon.com|xfinity.com
 @@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com|uphold.com
 @@||cxense.com/document/search?
+@@||cxense.com/persisted/execute$domain=nippon.com
 @@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|inquirer.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tn.com.ar|tvnet.lv|wsj.com
 @@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|inquirer.com|mainichi.jp|marketwatch.com|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tvnet.lv|wsj.com
 @@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|inquirer.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|str.toyokeizai.net|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|tvnet.lv|wsj.com
@@ -137146,6 +137154,7 @@ corporate.wpcarey.com
 cortellisconnections.thomsonreuters.com
 cosme.caseepo.jp
 cotemaison.np6.com
+count.darkreader.app
 counter.darkreader.app
 counter.live4members.com
 counter.nv.ua
@@ -149574,6 +149583,7 @@ sa.uswitch.com
 save.salary.com.au
 save.smartsalary.com.au
 savings.adp.ca
+sayac.kapital.com.tr
 say.hello.navan.com
 say.hello.tripactions.com
 sbc-app-links.specialized.com
@@ -154675,6 +154685,7 @@ telemetry.ruthschris.com
 telemetry.sdk.inmobi.com
 telemetry.smartframe.io
 telemetry.stryker.com
+telemetry.stytch.com
 telemetry.vtex.com
 telemetry.webasto.com
 telem.sre.gopuff.com
