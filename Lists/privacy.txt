@@ -465,7 +465,6 @@ omni.soundestlink.com$image
 ||mdhv.io^
 ||mdstats.info^
 ||mediamathrdrt.com^
-||mgln.ai^
 ||michiganrobotflower.com^
 ||mirabelanalytics.com^
 ||mircheigeshoa.com^
@@ -560,6 +559,7 @@ omni.soundestlink.com$image
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
+||sprtnd.com^
 ||srmdata-eur.com^
 ||ssevt.com^
 ||stack-sonar.com^
@@ -1981,6 +1981,7 @@ omni.soundestlink.com$image
 ||metricsdirect.com^$third-party
 ||metricswave.com^$third-party
 ||mezzobit.com^$third-party
+||mgln.ai^$third-party
 ||miadates.com^$third-party
 ||mialbj6.com^$third-party
 ||micpn.com^$script,third-party
@@ -2132,7 +2133,6 @@ omni.soundestlink.com$image
 ||ogt.jp^$third-party
 ||ohayoo.io^$third-party
 ||ohmystats.com^$third-party
-||ojrq.net^$third-party
 ||okt.to^$third-party
 ||oktopost.com^$third-party
 ||ometria.com^$third-party
@@ -3419,7 +3419,6 @@ omni.soundestlink.com$image
 ||push4site.com^$third-party
 ||ravelin.net^$third-party
 ||simility.com^$third-party
-||spideraf.com^$third-party
 ||123-counter.de^$third-party
 ||193.197.158.209^$third-party,domain=~statistik.lubw.baden-wuerttemberg.de.ip
 ||212.95.32.75^$third-party,domain=~ipcounter.de.ip
@@ -6001,6 +6000,7 @@ omni.soundestlink.com$image
 ||playtomic.com/Tracker/
 ||plista.com/activity
 ||pm.boostintegrated.com^
+||pmi.flowplayer.com^
 ||poool.fr/api/v3/access/event
 ||popup-static.unisender.com^
 ||porpoise.azettl.net^
@@ -6692,6 +6692,7 @@ omni.soundestlink.com$image
 ||uhit.eu/id/$third-party
 ||uid.mediacorp.sg^
 ||uim.tifbs.net^
+||umami.aigenerations.net^
 ||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
 ||unifyintent.com/analytics/
 ||units.knotch.it^
@@ -6942,6 +6943,7 @@ omni.soundestlink.com$image
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
+||d2pozfvrp52dk4.cloudfront.net^
 ||d2pt12ct4kmq21.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
@@ -8664,6 +8666,7 @@ omni.soundestlink.com$image
 ||fdt.kraken.com^
 ||feedly.com/mxpnl/
 ||femetrics.grammarly.io^
+||fgn-plausible.serverable.com^
 ||figma.com/api/figment-proxy/
 ||filext.com/pageview^
 ||findmatches.com/bts.js
@@ -9282,6 +9285,7 @@ omni.soundestlink.com$image
 ||searchiq.co/api/tr?
 ||secure.checkout.visa.com/logging/
 ||seekingalpha.com/mone_event
+||services.haaretz.com^
 ||servo-report.dvdfab.
 ||sexu.com/api/events
 ||sexu.com/api/ttrack
@@ -46508,6 +46512,7 @@ omni.soundestlink.com$image
 ||cellstats.mako.co.il^
 ||ds.haaretz.co.il^
 ||inn.co.il/Controls/HPJS.ashx?act=log
+||services.haaretz.co.il^
 ||stats.mako.co.il^
 ||walla.co.il/CountsHP.asp?
 ||walla.co.il/impression/
@@ -138392,6 +138397,7 @@ dtnmyp.cocotorico.com
 dtqcpx.eskor.se
 dtr-onsite-feed.datarize.ai
 d.tv-asahi.co.jp
+dt.xfyun.cn
 dtxtngytz5im1.cloudfront.net
 dtzrrz.green-japan.com
 dujgiq.trendhim.pl
@@ -146907,7 +146913,6 @@ mgefhu.suomi24.fi
 mggakg.littleblack.co.kr
 m.giftry.com
 mgixgn.wittchen.com
-mgln.ai
 mg.mistrasgroup.com
 mgn.ebis.xn--olsz5f0ufw02b.net
 m.go4.io
@@ -147458,6 +147463,7 @@ nnobek.waschbaer.de
 nnofmj.studiof.com.co
 nnqyed.laredoute.be
 nnvoia.closetworld.com
+noa.yahoo.com
 nocaadobefpc.optus.com.au
 noeyeon.click
 noeyeon.com
