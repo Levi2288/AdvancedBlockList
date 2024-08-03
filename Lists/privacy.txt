@@ -5202,6 +5202,7 @@ omni.soundestlink.com$image
 ||events.devcycle.com^
 ||events.elev.io^
 ||events.flagship.io^
+||events.getsitectrl.com^
 ||events.jotform.com^
 ||events.launchdarkly.com^$third-party
 ||events.mapbox.com^
@@ -7445,6 +7446,7 @@ omni.soundestlink.com$image
 ||experiments.sparanoid.net^
 ||fourier.taobao.com^
 ||g.yccdn.com^
+||gdt.qq.com^
 ||gias.jd.com/js/td.js
 ||haostat.qihoo.com^
 ||hudong.com/flux.js
@@ -8406,6 +8408,7 @@ omni.soundestlink.com$image
 ||cc.cc/visit_log_ajax/visit_log_save_ajax.php?
 ||cdn.jsdelivr.net/npm/@adshield/
 ||centerblog.net/stats.js
+||cgtn.com/api/collect/
 ||ch3ngl0rd.com/hit/
 ||change.org/api-proxy/-/bandit/pull
 ||change.org/api-proxy/-/et
@@ -9314,6 +9317,7 @@ omni.soundestlink.com$image
 ||shopmetric.rediff.com^
 ||siberiantimes.com/counter/
 ||sid.nordstrom.com^
+||sided.co/analytics/
 ||silvergames.com/div/g.php?
 ||simplelogin.io/p/api/event
 ||sjc.cloud.optable.co^
@@ -36587,7 +36591,6 @@ omni.soundestlink.com$image
 ||info.marketingcube.com.au^
 ||info.markmonitor.com^
 ||info.mdsol.com^
-||info.medtronicdiabetes.com^
 ||info.metronet.com^
 ||info.metronetbusiness.com^
 ||info.metronetinc.com^
@@ -46221,6 +46224,7 @@ omni.soundestlink.com$image
 ||ctrmi.cn/t/
 ||data.bilibili.com^
 ||dcard.tw/v1/events
+||df.huya.com^
 ||dig.lianjia.com^
 ||dlswbr.baidu.com^
 ||dolphin.deliver.ifeng.com^
@@ -46245,6 +46249,7 @@ omni.soundestlink.com$image
 ||h5log.zongheng.com^
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
+||hoyoverse.com/dora/biz/mihoyo-h5log/
 ||huaxiang.eastmoney.com^
 ||hujiang.com/v2/log
 ||i-cable.com/ci/tracking/
@@ -46260,7 +46265,9 @@ omni.soundestlink.com$image
 ||jiayuan.com^*/pv.js
 ||js.ea3w.com/pv.js
 ||kn007.net/snmp.php
+||l.web.huya.com^
 ||le.com/op/
+||log-upload-os.hoyoverse.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^
 ||log.m.sm.cn^
@@ -46366,8 +46373,10 @@ omni.soundestlink.com$image
 ||static.funshion.com/*/common/log/
 ||static.qiyi.com/js/pingback/
 ||statistic.qzone.qq.com^
+||statwup.huya.com^
 ||steamchina.com/events/
 ||sugar.zhihu.com^
+||t.home.news.cn^
 ||tbskip.taobao.com^$script
 ||tf.360.cn^
 ||theav.xyz/anyalytics
@@ -46390,6 +46399,7 @@ omni.soundestlink.com$image
 ||trackcommon.hujiang.com^
 ||tracker.ai.xiaomi.com^
 ||trail.53kf.com^
+||udblog.huya.com^
 ||uestat.video.qiyi.com^
 ||utrack.hexun.com^
 ||uuu9.com/s.php?
@@ -46654,6 +46664,7 @@ omni.soundestlink.com$image
 ||ameba.jp/cookie/
 ||ameblo.jp/accesslog/
 ||analysis.aws.locondo.jp^
+||analysis.prod.joyfru.jiji.com^
 ||analytics.castel.jp^
 ||analytics.cocolog-nifty.com^
 ||analytics.ikyu.com^
@@ -134366,6 +134377,7 @@ anal.doubledouble.top
 analitik.bik.gov.tr
 anal.sataniskwijt.be
 analysis.aws.locondo.jp
+analysis.prod.joyfru.jiji.com
 analys.live
 analytic.alabama.aaa.com
 analytic.americanfunds.com
@@ -134537,6 +134549,7 @@ analytics.plumbworld.co.uk
 analytics.pollardwater.com
 analytics-prd.aws.wehaa.net
 analytics-prod2.glance-internal.inmobi.com
+analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 analytics.qogita.com
 analytics.qualcomm.com
 analytics.ratioform.ch
@@ -137261,6 +137274,7 @@ csbmey.viherpeukalot.fi
 cscsexam.quantresear.ch
 c.seznam.cz
 cs.nakanohito.jp
+csplog.kwai-pro.com
 csp.secureserver.net
 csp.yandex.net
 csr11.net.asambeauty.com
@@ -137438,6 +137452,7 @@ d1vg5xiq7qffdj.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
 d2lxqodqbpy7c2.cloudfront.net
+d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
@@ -139265,6 +139280,7 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
+event.platform.autotrader.com.au
 event.platform.tunein.com
 event.raise3d.cn
 event-router.olympics.com
@@ -139321,6 +139337,7 @@ events.squarespace.com
 events.storifyme.com
 events.tafensw.edu.au
 events.trapptechnology.com
+events.tryamped.com
 events.ubembed.com
 events.verticurl.com
 event.tagtoo.co
@@ -139466,6 +139483,7 @@ fdxtbs.meeters.org
 fea-cfd.simutechgroup.com
 featured.bradyid.com
 feature-flag-edge.live.clickbus.net
+featuregates.org
 fedexfield.redskins.com
 fedsched.actonservice.com
 feedback.aon.com
@@ -139490,6 +139508,7 @@ ffuodj.lanebryant.com
 ffyvsn.evisu.com
 fgfecw.rebelle.com
 fgmaal.u-canshop.jp
+fgn-plausible.serverable.com
 fgosob.unhcr.it
 fhdnds.mrmarvis.com
 fhiwyq.axiory.com
@@ -141604,6 +141623,7 @@ impression.clickinc.com
 impressions.svc.abillion.com
 impression-tracker-service-5eimuebuhq-lz.a.run.app
 improve.tempest.com
+in.brilliant.org
 in-business.vodafone.com
 incisive.actonservice.com
 incs.get-go.com
@@ -142326,6 +142346,7 @@ insights.jackporter.com
 insights.journey.world
 insights.labcorp.com
 insights.morrismohawk.ca
+insights-mxp-cdn.coursecareers.com
 insights.networks.global.fujitsu.com
 insights.nexansdatacenter.com
 insights.nowitmatters.com
@@ -142368,6 +142389,7 @@ interedgemarketing.actonservice.com
 interest.truvenhealth.com
 internalcomms.dbschenker.com
 internalcomms.hubinternational.com
+internal-e.posthog.com
 internal.hcltech.com
 international.edc.ca
 internationalpayments.americanexpress.com
@@ -143952,6 +143974,7 @@ log.qvb.qcloud.com
 log.rabobank.nl
 log.recommend.nicovideo.jp
 log.rhythmtowers.com
+logsdk.kwai-pro.com
 logs.mezmo.com
 logs.netflix.com
 logs.openbank.com
@@ -148453,6 +148476,7 @@ pm.eu.viatrisconnect.com
 pm.eu.viatrisconnect.de
 pm.eu.viatrisconnect.it
 pm.geniusmonkey.com
+pmi.flowplayer.com
 p.minds.com
 pnaagn.haekplanter-heijnen.dk
 pnnpan.cv-library.co.uk
@@ -150096,6 +150120,8 @@ services.blackboard.com
 services.cairn.info
 services.eclerx.com
 services.edc.ca
+services.haaretz.co.il
+services.haaretz.com
 services.princes-trust.org.uk
 services.releasepoint.com
 service.vrp.com
@@ -152835,6 +152861,7 @@ splitexpenses.oworld.fr
 spmaeu.gumtree.com.au
 spread.epoolers.com
 springboard.aon.com
+sprtnd.com
 spt.ahram.org.eg
 sp.tinymce.com
 sp.welcometothejungle.com
@@ -157175,6 +157202,7 @@ uldtqa.weekendmaxmara.com
 ulhyys.naehwelt.de
 ulinyo.bandito.com.tr
 ulutlv.esprit.fr
+umami.aigenerations.net
 umassmemorial.hrm.healthgrades.com
 umazvs.raybiotech.com
 um.contentstudio.io
