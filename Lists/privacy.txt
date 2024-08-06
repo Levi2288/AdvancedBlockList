@@ -87,6 +87,8 @@
 ?logType=impression&
 ?logType=trackEvent&
 ?pageviews=$third-party
+?sam-item/*/track-view
+?sam-item/track-impressions
 ?statify_referrer=
 ?type=page&event=
 ?type=pageview&
@@ -501,6 +503,7 @@ omni.soundestlink.com$image
 ||opti-digital.com^
 ||opticksprotection.com^
 ||optistats.ovh^
+||orhdev.com^
 ||ostrichesica.com^
 ||p2r14.com^
 ||p7cloud.net^
@@ -4890,6 +4893,7 @@ omni.soundestlink.com$image
 ||cloudfront.net/sso.js
 ||cloudfront.net/t.gif
 ||cloudfront.net/t?event=
+||cloudfront.net/tag-manager/
 ||cloudfront.net/track.html
 ||cloudfront.net/track?
 ||cloudfront.net/trackb.html
@@ -8697,6 +8701,7 @@ omni.soundestlink.com$image
 ||flipboard.com/usage?
 ||flipkart.com/api/3/data/collector/
 ||flirt4free.com/pixel/
+||flow.1passwordservices.com/api/v1/event
 ||flya.me/eventtrack
 ||foodcouture.net/public_html/ra/script.php
 ||formula1.com/api/track
@@ -46446,6 +46451,7 @@ omni.soundestlink.com$image
 ||jslog.post.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
 ||sa.kolik.cz^
+||seznam.cz^$ping
 ||stat.super.cz^
 ||statistics.csob.cz^
 ||2dehands.be/px/
@@ -138048,6 +138054,7 @@ dev.sswt.co
 devtest.cocoon.today
 dextersolutions.actonservice.com
 dffpxg.targus.com
+df.huya.com
 dfigxb.underarmour.com.mx
 dfitgc.yamamay.com
 dfr.deloitte.com
@@ -139312,6 +139319,7 @@ events.executiveboard.com
 events.ferrari.com
 events.flagship.io
 events.forddirectdealers.com
+events.getsitectrl.com
 events.glory-global.com
 events.gogoair.com
 events.golubcapital.com
@@ -139842,6 +139850,7 @@ gdg.gardnerdenver.com
 gdmelqact.gartner.com
 gdphhl.elite-auto.fr
 gdqlno.weisshaus.de
+gdt.qq.com
 gea-exchange-03.net.jumia.ug
 gear.echovisuals.com
 gecfnc.foresight.jp
@@ -141999,7 +142008,6 @@ info.marumatchbox.com
 info.mccloudservices.com
 info.mdsol.com
 info.med-iq.com
-info.medtronicdiabetes.com
 info.membercoverage.com
 info.memberzone.com
 info.mergertech.com
@@ -142920,6 +142928,7 @@ kqhckf.outfits24.de
 kqkcoq.vidaxl.fr
 kqkydl.postel-deluxe.ru
 kqvtez.watt24.com
+k.qwant.com
 kqzbph.zerohedge.com
 kraken.rambler.ru
 kratosdefense.actonservice.com
@@ -143989,6 +143998,7 @@ logstash-3.radio-canada.ca
 logs.theccaa.com
 logtail.com
 log.tossinvest.com
+log-upload-os.hoyoverse.com
 log.v.ssp.yahoo.com
 log.zdnet.co.kr
 lokalwerben.t-online.de
@@ -144207,6 +144217,7 @@ l.voalearningenglish.in
 l.voleousa.com
 lvsats.gardner-white.com
 lw.b.inhaabit.com
+l.web.huya.com
 lwh1.carrefour-banque.fr
 l.whizzl.com
 lwkvkd.maison-objet.com
@@ -149517,6 +149528,7 @@ sailinsight20-app.sapsailing.com
 sailinsight-app.sapsailing.com
 sa.investigationdiscovery.com
 s.airgoat.com
+sa.kolik.cz
 salesandmarketing.aitcfis.com
 sales.hot.net.il
 saleslists.inform.equifax.com
@@ -154032,6 +154044,7 @@ stat.wolterskluwer.com
 stat.wolterskluwer.es
 stat.wolterskluwer.pl
 stat.wolterskluwer.pt
+statwup.huya.com
 stay.lottehotel.com
 stbg.bankonline.sboff.com
 stbg.looksee.co.za
@@ -154949,6 +154962,7 @@ thhesw.tre.it
 thialfi.net.anwalt.de
 t.hmwy.io
 t.hokiesports.com
+t.home.news.cn
 thomsonreuters.actonservice.com
 t.hornetsports.com
 thraka.openapp.link
@@ -156168,6 +156182,7 @@ tr.cyberarchi.info
 tr.cyprusparadiseestates.com
 tr.cypruspremiervacations.com
 tr.datacom.espmp-pofr.net
+tr.dec-connect.decsuite.com
 tr.demo.np6.com
 tr.designoutlet-contact.fr
 tr.devisminute-affranchissement.com
@@ -157133,6 +157148,7 @@ ucmetrics.unicreditgroup.eu
 ucmetrics.unicredit.it
 ucppeo.silux.hr
 uc.xddi.ru
+udblog.huya.com
 udgrbq.malwarebytes.com
 udicje.perrys.co.uk
 udmmdl.dudalina.com.br
