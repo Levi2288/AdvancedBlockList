@@ -8336,7 +8336,6 @@ eventarte.es.amp.cloudflare.com
 everythingbarca-com.cdn.ampproject.org
 everythingexperiential-businessworld-in.cdn.ampproject.org
 evicdan-doeda-com.cdn.ampproject.org
-evirolog-doeda-.com.cnd.ampproject.org
 evnerds-com.cdn.ampproject.org
 evotec-xyz.cdn.ampproject.org
 evtk-aerodinamik-info.cdn.ampproject.org
@@ -8386,7 +8385,6 @@ fairbahisgiris-com.cdn.ampproject.org
 fakty-ictv-ua.cdn.ampproject.org
 fakty-ua.cdn.ampproject.org
 fame-grid-id.cdn.ampproject.org
-familydoctor-.cdn.ampproject.org
 familydoctor-org.cdn.ampproject.org
 fandomwire-com.cdn.ampproject.org
 fansided-com.cdn.ampproject.org
@@ -16449,10 +16447,7 @@ zonajakarta-pikiran--rakyat-com.cdn.ampproject.org
 zon-it.cdn.ampproject.org
 zor-livefyre-com.cdn.ampproject.org
 zp-vgorode-ua.cdn.ampproject.org
-zur--eisenbahn--hotel--limburg--an--der--lahn-ibooked-nl.cdn.ampproject.org#Copyright(c)2021-2024Willi"WillDieEnte"Entenmann-https://ente.dev/
-zur--eisenbahn--hotel--limburg--an--der--lahn-ibooked-nl.cdn.ampproject.org#Title:Lightswitch05'samp-hosts-extended.txt
 d-103090104143969910.ampproject.net
 d-294686873040608003.ampproject.net
 d-4190200080714617234.ampproject.net
 zur--eisenbahn--hotel--limburg--an--der--lahn-ibooked-nl.cdn.ampproject.org
-ykaedivmrovgjhtdh.ampproject.org#Copyright(c)2021-2024Willi"WillDieEnte"Entenmann-https://ente.dev/
