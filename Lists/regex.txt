@@ -9,7 +9,6 @@
 ^banners?[_.-]
 ^beacons?[0-9]*[_.-]
 ^count(ers?)?[0-9]*[_.-]
-^mads\
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]pihole-regex/regex.listatmaster·mmotti/pihole-regex·GitHub
 Skiptocontent
@@ -109,6 +108,10 @@ Pullrequests
 Projects
 Insights
 Additionalnavigationoptions
+Files masterBreadcrumbspihole-regex/regex.listBlame
+Blame
+Latestcommit HistoryHistory31lines(27loc)·1.14KB masterBreadcrumbspihole-regex/regex.listTopFilemetadataandcontrolsCodeBlame31lines(27loc)·1.14KBRaw12345678910111213141516171819202122232425262728293031#RegexfiltersprovidedbyMMotti#https://github.com/mmotti
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]^(.+[_.-])?telemetry[_.-]^adim(age|g)s?[0-9]*[_.-]^adtrack(er|ing)?[0-9]*[_.-]^advert(s|is(ing|ements?))?[0-9]*[_.-]^aff(iliat(es?|ion))?[_.-]^analytics?[_.-]^banners?[_.-]^beacons?[0-9]*[_.-]^count(ers?)?[0-9]*[_.-]^mads\.^pixels?[-.]^stat(s|istics)?[0-9]*[_.-]
 Footer
 ©2024GitHub, Inc
 Footernavigation
