@@ -58692,6 +58692,7 @@ data.qamailing.mcafee.com
 data.qamarketing.giftcards.com
 data.rewards.riteaid.com
 data.ricaud.com
+datas3ntinel.com
 datas.connectingthreads.com
 data.securemetrics-apple.com
 data.service.aware.com.au
