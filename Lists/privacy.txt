@@ -57578,6 +57578,7 @@ choose.adelaide.edu.au
 choymp.pooldawg.com
 chpspb.bubbleroom.fi
 chrczt.vite-envogue.de
+chronicle.medal.tv
 chrooo.soccerandrugby.com
 ci42.rgp.com
 cihac.ubmmexico.com
@@ -57690,6 +57691,7 @@ cloudmetrics.xenforo.com
 cloud.trapptechnology.com
 cloud.webtrack.online
 cloverleaf.infor.com
+cl.t3n.de
 cltr.irlmail.org
 clyexf.decathlon.ie
 cmc.americanexpress.co.uk
@@ -58358,6 +58360,7 @@ dafvng.sunrefre.jp
 da.hornbach.be
 dajdnm.splits59.com
 dallas-content.cresa.com
+d.analyticsmania.com
 danielsmoving.actonservice.com
 d-app.progressive.com
 da.rabobank.nl
@@ -61454,6 +61457,8 @@ g.staging.pathsha.re
 gsupplyair.carte-gr.total.fr
 gtm.diamond.jp
 gtmfsstatic.getgoogletagmanager.com
+gtm.lercio.it
+gtm.mandesager.dk
 gtm.wise.com
 gtzpic.opodo.co.uk
 guardian-app.hotdoc.com.au
@@ -70928,6 +70933,8 @@ s.grabble.com
 s.grigora.com
 sgsb.aba.com
 sgstats.com
+sgtm.tagmanageritalia.it
+sgtm.tennis-point.de
 sgwhvw.alura.com.br
 share.1stphorm.app
 share2.360vuz.com
@@ -73735,6 +73742,7 @@ ssc.vozdeamerica.com
 ssc.wa.gto.db.com
 ssc.zeriamerikes.com
 ssdc.easybank.at
+ss.esade.edu
 ssevt.com
 ssfllp.actonservice.com
 ssgamf.stories.com
@@ -73998,8 +74006,10 @@ sstats.wired.com
 sstats.wmagazine.com
 sstats.www.o2.cz
 sstats.yourchi.org
+sst.colemanfurniture.com
 sst.cooperativa.cl
 s.stgeorgeafc.com.au
+sst.shopware.com
 ssuork.sixt.at
 ssuperstats.observepoint.com
 ssushe.kennethcole.com
@@ -74748,6 +74758,7 @@ strack.www.allianzcare-corporate.com
 strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 stream.9now.com.au
+stream.corporatefinanceinstitute.com
 streams.cablecar.sph.com.sg
 strikenurse.usnursing.com
 sts.authramp.com
@@ -76732,6 +76743,7 @@ trck.medlem.elogit.no
 trck.medtronic.com
 trck.my.elca.ch
 trck.naco-do.com
+trckng.dainese.com
 trck.nuwlnuwl.com
 trck.propo.co.jp
 trck.repesta.com
@@ -77540,6 +77552,7 @@ tr.vernede.huilesdolive.fr
 tr.vf7n.espmp-agfr.net
 tr.vitals.co
 tr.wa.wordappeal.com
+tr.wbstraining.de
 tr.welcome.lacollection-airfrance.be
 tr.welcome.lacollection-airfrance.ch
 tr.welcome.lacollection-airfrance.de
