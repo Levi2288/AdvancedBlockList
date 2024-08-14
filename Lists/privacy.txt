@@ -55103,6 +55103,7 @@ aegis.trovo.live
 ae-go.experian.com
 a.ehc.com
 a.ekero.se
+a.emea01.idio.episerver.net
 aeotgu.asi-reisen.de
 aepxlg.adobe.com
 aerezb.nepamall.com
@@ -69633,7 +69634,6 @@ qttfwb.shaneco.com
 qtxxdm.levi.jp
 qtycwy.modivo.cz
 qualitas-app.hotdoc.com.au
-query.petametrics.com
 quest.epoise.com
 questintegrity.actonservice.com
 question.snapiio.com
