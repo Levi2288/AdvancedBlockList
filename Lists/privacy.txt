@@ -55413,7 +55413,6 @@ analytics.kellyservices.com
 analytics.kkb.com.tr
 analytics.klickly.com
 analytics.kongregate.io
-analytics.kooapp.com
 analytics.lasegunda.ecn.cl
 analytics.lemoolah.com
 analytics.lexisnexisrisk.com
@@ -55571,7 +55570,6 @@ anl.footlocker.com
 anmeldung.promatis.ch
 anmeldung.promatis.de
 announcement.lyreco.com
-anonstat.pw
 ans.avast.ru
 an.sny.tv
 answers.teradata.ch
@@ -55607,7 +55605,6 @@ aon.insurancemail.ca
 aonjkj.intermundial.es
 aooptout.zoominformation.com
 ao.pioncomm.net
-a.opumo.net
 aoqcqh.eavalyne.lt
 aoqhfs.optikdodomu.cz
 ao.tolydigital.net
@@ -55638,7 +55635,6 @@ api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
 a.pikabu.ru
 apilog-web.acfun.cn
-api.privacyguides.net
 apis.4bn.xyz
 apisensor.actonservice.com
 api-websystems.landing.ni.com
@@ -56889,7 +56885,6 @@ bank.svb.com
 bannerhealth.hrm.healthgrades.com
 bapages.carte-gr.total.fr
 b.arenum.games
-barnes.send.cm
 barracuda.carte-gr.total.fr
 basket.mondo.link
 basuey.toyscenter.it
@@ -56936,7 +56931,6 @@ beaconhealthsystem.hrm.healthgrades.com
 beacon.klm.com
 beacon.radiko.jp
 beacon.sftoaa.com
-beacon-v2.helpscout.net
 beamanalytics.b-cdn.net
 beam.telex.hu
 beanworks.actonservice.com
@@ -56945,7 +56939,6 @@ beat.yourtv.jp
 bebpon.zetronix.com
 beer2s.millerbrewing.com
 be-go.experian.com
-behavior.tongdun.net
 belgium.wolterskluwer.com
 beneficios.davivienda.sv
 benefits.aon.com
@@ -57770,8 +57763,6 @@ collector.dmp.cnna.io
 collector.fiverr.com
 collector.hippodromeonline.com
 collector.quillbot.com
-collector-soompi.viki.io
-collectorsvc.apac.vesta.io
 collector.taoxh.life
 collector-videoplayer.5centscdn.net
 collector.wawlabs.com
@@ -58339,13 +58330,11 @@ d2pt12ct4kmq21.cloudfront.net
 d2wa5sea6guof0.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2z0bn1jv8xwtk.cloudfront.net
-d2zue0pgsssbc6.cloudfront.net
 d34r8q7sht0t9k.cloudfront.net
 d39ion77s0ucuz.cloudfront.net
 d3gi6isrskhoq.cloudfront.net
 d3lqotgbn3npr.cloudfront.net
 d3or5d0jdz94or.cloudfront.net
-d3pi0tys5sdysl.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
 d401.dollartree.com
 d6ek.pandasuite.io
@@ -58471,7 +58460,6 @@ data.discover.ringcentral.com
 data.dm.casio.com
 data.dm.casio.info
 datadome.maisonsdumonde.com
-datadome.patreon.com
 data.dow.com
 data.e.adobe.com
 data.ear.nespresso.com
@@ -59227,7 +59215,6 @@ domorewithless.adp.ca
 dopljl.noleggiosemplice.it
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
-dot.nonolive.com
 dotvox.actonservice.com
 doublestat.info
 do.usefireside.com
@@ -60160,7 +60147,6 @@ events.glory-global.com
 events.gogoair.com
 events.golubcapital.com
 events.icmi.com
-events-ingestion.services.gorgias.com
 eventsink.api.redbee.live
 events.interface.com
 events.kangan.edu.au
@@ -60866,6 +60852,7 @@ gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 glamipixel.com
 glass.autovistagroup.com
+glassbox-hlx-igw.bankofamerica.com
 glassguide-au.autovistagroup.com
 glbgox.djoser.de
 gli9.inseec-bs.com
@@ -62418,7 +62405,6 @@ i.morons.us
 impact.carmeuse.com
 impact-dm.actonservice.com
 impact.go.economist.com
-impression.clickinc.com
 impressions.svc.abillion.com
 impression-tracker-service-5eimuebuhq-lz.a.run.app
 improve.tempest.com
@@ -63596,7 +63582,6 @@ jzoxch.menswearhouse.com
 jzqfac.bestsecret.ch
 k50.rtl2.de
 k5app.byjus.com
-k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 kaacsi.belvilla.nl
 kadlec.psjhealth.org
 kaebyy.autouncle.se
@@ -64782,7 +64767,6 @@ logs.theccaa.com
 logtail.com
 log.tossinvest.com
 log-upload-os.hoyoverse.com
-log.v.ssp.yahoo.com
 log.zdnet.co.kr
 lokalwerben.t-online.de
 loobmf.hardloop.fr
@@ -66965,7 +66949,6 @@ metrics.dog.com
 metrics.dollar.com
 metrics.donaldson.com
 metrics.doppiocdn.com
-metrics.doppiocdn.org
 metrics.doppiostreams.com
 metrics.dreamvacationweek.com
 metrics.drklein.de
@@ -68297,8 +68280,6 @@ nnqyed.laredoute.be
 nnvoia.closetworld.com
 noa.yahoo.com
 nocaadobefpc.optus.com.au
-noeyeon.click
-noeyeon.com
 nogxjk.dackonline.se
 nohaxn.damattween.com
 nom.familysearch.org
@@ -69162,7 +69143,6 @@ plausible.beanti.me
 plausible.buildfirst.tech
 plausible.campwire.com
 plausible.canpoi.com
-plausiblecdn.co
 plausible.citynews.ovh
 plausible.countingindia.com
 plausible.dailytics.com
@@ -69248,7 +69228,6 @@ pls.fcrpg.net
 pl.sharpmarketing.eu
 pls.skycastle.dev
 pl-topgal.m-shop.me
-p.lucida.to
 plugs.jameco.com
 plusavecmoins.adp.ca
 pl.venusafe.com
@@ -73170,7 +73149,6 @@ social.tinyview.com
 so.desertschools.org
 soejzg.efe.com.pe
 soelui.butosklep.pl
-sofa.bankofamerica.com
 sofire.terabox.app
 solar.sunpower.com
 solar.sunpowercorp.com
@@ -74143,7 +74121,6 @@ stats.achtsame-yonimassage.de
 stats.activityvault.io
 stats.adlperformance.es
 stats.adobe.com
-stats.afrocave.com
 stats.agl.com.au
 stats.airfarewatchdog.com
 stats.airfarewatchdog.co.uk
@@ -75477,7 +75454,6 @@ test.takedwn.ws
 testtarget.jeep.com
 test.thei.co
 test.thomsonreuters.com
-test.torrentfreak.com
 test.zeus-wifi.jp
 tevjso.konesso.pl
 te.waeschepur.de
@@ -75607,7 +75583,6 @@ t.itsehoitoapteekki.fi
 tittendestages.net.anwalt.de
 t.iuhoosiers.com
 tivixv.nutribullet.com
-t.iwara.tv
 tjbhng.hemington.com.tr
 tj.img4399.com
 tjitde.dodo.it
@@ -75829,7 +75804,6 @@ tpfrro.justlease.nl
 tp.heine-shop.nl
 t.pittsburghpanthers.com
 t.playhousesquare.org
-t.playwayfinder.com
 tp.lexisnexis.com.au
 tp.lexisnexis.co.nz
 tpmexb.vans.co.nz
@@ -75907,7 +75881,6 @@ track.concur.com.sg
 track.connectwise.com
 track.cornerstonebuildingbrands.com
 track.craudia.com
-track.dark.bz
 track-dark-bz.b-cdn.net
 track.deloitte.com
 track.docusign.ca
@@ -77720,7 +77693,6 @@ tytpdz.climamarket.it
 tyumen.net.anwalt.de
 tzgurwizule3.app.cardahealth.com
 tzovkp.aboutyou.at
-t.zulily.com
 uaaooa.stansberryresearch.com
 uaemarketing.sedgwick.com
 ualkzq.moobel1.ee
@@ -78599,7 +78571,6 @@ wqfflc.hausgarten.net
 wqfflc.plantopedia.de
 wqudcv.finnishdesignshop.com
 wqytxm.kurly.com
-wranalytics.wildrocket.io
 wrhv.education.gouv.fr
 wrkbha.lyst.de
 wrlnvt.pepita.hu
@@ -79069,6 +79040,7 @@ xmyvhu.soxo.pl
 xnukcp.cpcompany.com
 xp2023-pix.s3.amazonaws.com
 xp.allianz.de
+xp.apple.com
 xpcpmr.gsm55.com
 xps.huk24.de
 xps.huk.de
