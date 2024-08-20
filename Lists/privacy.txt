@@ -51951,6 +51951,7 @@ zy33.smallable.com
 00px.net
 07b3.pandasuite.io
 0ddf.pandasuite.io
+0.myikas.com
 0.net.easyjet.com
 0tfsd2rwwu3xjstb.edge41.testandtarget.omniture.com
 10079290.fluz.app
@@ -54761,6 +54762,7 @@ abastur.ubmmexico.com
 ab.blogs.es
 abbqns.gowabi.com
 abcd.coderays.com
+ab.chatgpt.com
 abclegal.actonservice.com
 abdpac.williamsshoes.com.au
 abdrjm.eurostarshotels.de
@@ -58318,6 +58320,7 @@ cz-tropicliberec.m-shop.me
 cz-velkykosik.m-shop.me
 d11bdev7tcn7wh.cloudfront.net
 d1f0tbk1v3e25u.cloudfront.net
+d1get58iwmjrxx.cloudfront.net
 d1hyarjnwqrenh.cloudfront.net
 d1qnmu4nrib73p.cloudfront.net
 d1tbj6eaenapdy.cloudfront.net
@@ -58512,6 +58515,7 @@ data.email.verizon.com
 data.email.virginatlantic.com
 data.email.yourmessage.aviva.co.uk
 data.em.assurancewireless.com
+data.embeddables.com
 data.emdev.officedepot.com
 data.em.macys.com
 data.em.officedepot.com
@@ -60137,6 +60141,7 @@ event.seatradecruiseevents.com
 event.seatradecruiseglobal.com
 events.elev.io
 events.elliemae.com
+events-endpoint.pointandplace.com
 events.engage.cebglobal.com
 events.executiveboard.com
 events.ferrari.com
@@ -67557,6 +67562,7 @@ metrics.thenation.com
 metrics.theomnichannelconference.co.uk
 metrics.therestaurantshow.co.uk
 metrics.thesellingagency.com
+metrics.th.gl
 metrics.thingsremembered.com
 metrics.thomasandfriends.com
 metrics.thomastrackmaster.com
@@ -67989,6 +67995,7 @@ m.sm.princess.com
 mstm.motorsport.com
 msub.mmail.northeast.aaa.com
 m.suda.io
+ms.vk.com
 mtbflj.elementaree.ru
 mt-business.vodafone.com
 mtc.nhk.or.jp
@@ -68419,6 +68426,7 @@ obqvss.debameubelen.be
 obrazy.dlabiznesu.pracuj.pl
 obrqts.hudforeclosed.com
 observe.metarouter.io
+observe-nexus.pointandplace.com
 oca.microsoft.com
 o.catalyst.com.sa
 occidente.ubmmexico.com
@@ -68961,6 +68969,7 @@ palramamericas.actonservice.com
 pal-v.actonservice.com
 panorama.wixapps.net
 papemz.rcwilley.com
+papi.stylar.ai
 paqqlk.motatos.de
 parallax.askmediagroup.com
 parallel6.actonservice.com
@@ -69424,6 +69433,7 @@ pro.stormwindstudios.com
 protapes.actonservice.com
 providentcrm.actonservice.com
 prowareness.actonservice.com
+proxy.trysavvy.com
 pr.prnewswire.com
 pr.prnewswire.co.uk
 prudential.distribution.team.prudential.co.uk
@@ -70877,6 +70887,7 @@ servicing.business.hsbc.com
 servicing.unitedautocredit.net
 serv.letudiant.fr
 se-se.siemensplmevents.com
+sessions.embeddables.com
 setaram.actonservice.com
 setonhill.actonservice.com
 setup.physiapp.com
