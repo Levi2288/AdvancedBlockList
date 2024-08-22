@@ -54762,7 +54762,6 @@ abastur.ubmmexico.com
 ab.blogs.es
 abbqns.gowabi.com
 abcd.coderays.com
-ab.chatgpt.com
 abclegal.actonservice.com
 abdpac.williamsshoes.com.au
 abdrjm.eurostarshotels.de
@@ -60109,6 +60108,7 @@ event.boozallen.com
 event.clubcorp.com
 event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
+event.collector.scopely.io
 event.dnv.com
 event.grassicpas.com
 event.hackle.io
@@ -60147,6 +60147,7 @@ events.executiveboard.com
 events.ferrari.com
 events.flagship.io
 events.forddirectdealers.com
+events.getmodemagic.com
 events.getsitectrl.com
 events.glory-global.com
 events.gogoair.com
@@ -75593,6 +75594,7 @@ titomacia.net.anwalt.de
 t.itsehoitoapteekki.fi
 tittendestages.net.anwalt.de
 t.iuhoosiers.com
+tivan.naver.com
 tivixv.nutribullet.com
 tjbhng.hemington.com.tr
 tj.img4399.com
@@ -76325,6 +76327,7 @@ tracking.pdc.wisc.edu
 tracking.peco.com
 tracking.pella.com
 tracking.pennmedicine.princetonhcs.org
+tracking.peopleareeverything.com
 tracking.pepsicopartners.com
 tracking.petrelocation.com
 tracking.pgi.com
