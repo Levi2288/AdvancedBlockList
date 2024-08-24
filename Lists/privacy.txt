@@ -55377,6 +55377,7 @@ analytics.eip.telegraph.co.uk
 analytics.emol.com
 analytics.ericafischerphotography.com
 analytics.evo.co.uk
+analytics.faprika.net
 analytics.firstbankcardcenter.com
 analytics.firstbankcardplcc.com
 analytics.firstnational.com
@@ -58112,6 +58113,7 @@ cp.official-deals.co.uk
 cp.phiilu.com
 cppm-kc2.net.jumia.ci
 cp.rootielearning.com
+cpx.smind.si
 cqbkhv.anacapri.com.br
 cqemus.gartenhaus-gmbh.de
 cqlonl.spartoo.cz
@@ -60253,6 +60255,7 @@ explore-ft.agilent.com
 explore.revenera.com
 explore-uat.agilent.com
 explore.waldenu.edu
+exp.notion.so
 expo.nada.org
 exprealty377.myre.io
 extendyourreach.actonservice.com
@@ -64739,6 +64742,7 @@ log000.goo.ne.jp
 log-ads.r7.com
 log-api.cli.im
 log.cognex.com
+log.collectaction.com
 log.cookieyes.com
 log.dance
 log.dpa.com
@@ -69154,6 +69158,7 @@ plausible.buildfirst.tech
 plausible.campwire.com
 plausible.canpoi.com
 plausible.citynews.ovh
+plausible.corsme.com
 plausible.countingindia.com
 plausible.dailytics.com
 plausible.dev.logicboard.com
