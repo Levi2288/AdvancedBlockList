@@ -57489,6 +57489,7 @@ carlisleit.actonservice.com
 cars.smartfleetaustralia.com.au
 c.arstechnica.com
 cartoon.hardalist.com
+cartx.cloud
 cascadion.thermo.com
 cascadion.thermofisher.com
 casl.couch-associates.com
@@ -68342,6 +68343,8 @@ nqacsh.boosted.dk
 nqozgp.botland.com.pl
 nqxnvy.levi.com.hk
 nra.locktonaffinity.net
+nr-data.noelleeming.co.nz
+nr.noelleeming.co.nz
 nrquff.supurgemarket.com
 nrrgyk.hair-gallery.it
 nr.static.mmcdn.com
@@ -75922,6 +75925,7 @@ track-e.infineoncommunity.com
 tracker-00.qvb.qcloud.com
 tracker-aa.pafbetscore.lv
 tracker-aa.paf.es
+tracker.au.zitcha.app
 tracker.blutv.com
 tracker.decomworld.com
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
@@ -75937,6 +75941,7 @@ tracker.hdtvcloud.com
 tracker.incite-group.com
 tracker.insurancenexus.com
 tracker.jkplayers.com
+tracker.multisearch.io
 tracker.myth.dev
 tracker.nocodelytics.com
 tracker.novage.com.ua
@@ -77921,6 +77926,7 @@ us-now.experian.com
 usnvuj.skillfactory.ru
 us.pdc.micloud.xiaomi.net.iberostar.com
 us.ricoh-usa.com
+usr.interactiveone.com
 usrkrz.zdravcity.ru
 ussco-dev.actonservice.com
 ussolutions.equifax.com
