@@ -69173,6 +69173,7 @@ plausible.dev.logicboard.com
 plausible.dingran.me
 plausible.dragonfru.it
 plausible.ejs.dev
+plausible.elbisebul.com
 plausible.external.sine.foundation
 plausible.getlean.digital
 plausible.giveatip.io
@@ -69509,6 +69510,7 @@ pxbnou.ig.com.br
 px.dmp.zaloapp.com
 px-intl.ucweb.com
 pxjkbj.bostonproper.com
+pxlstat.com
 px.srvcs.tumblr.com
 pxvlcc.crocs.fr
 pxxhbz.apamanshop.com
@@ -75944,6 +75946,7 @@ tracker.eyeforpharma.com
 tracker.gamedock.io
 tracker.gamemonkey.org
 tracker.gleanview.com
+tracker.grupanya.com
 tracker.hdtvcloud.com
 tracker.incite-group.com
 tracker.insurancenexus.com
@@ -75952,7 +75955,6 @@ tracker.multisearch.io
 tracker.myth.dev
 tracker.nocodelytics.com
 tracker.novage.com.ua
-tracker.openwebtorrent.com
 tracker.prom.ua
 tracker.psjhealth.org
 tracker.ranker.com
