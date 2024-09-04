@@ -56659,7 +56659,6 @@ attivoconsulting.actonservice.com
 a-t.topya.com
 aud.banque-france.fr
 audiofly.actonservice.com
-audit.qiuwen.net.cn
 audsoa.narumiya-online.jp
 audxht.effeweg.nl
 au-go.experian.com
@@ -59162,7 +59161,6 @@ dl.manscore.com
 dl.nalbes.com
 dl.nekropol-khv.ru
 d-log.asahi.co.jp
-d-log.bs-asahi.tv
 d-log.tv-asahi.co.jp
 dl.oneworldonesai.com
 dl.orders.accredo.com
@@ -69644,6 +69642,7 @@ qttfwb.shaneco.com
 qtxxdm.levi.jp
 qtycwy.modivo.cz
 qualitas-app.hotdoc.com.au
+query1.petametrics.com
 quest.epoise.com
 questintegrity.actonservice.com
 question.snapiio.com
@@ -70900,7 +70899,6 @@ services.blackboard.com
 services.cairn.info
 services.eclerx.com
 services.edc.ca
-services.haaretz.co.il
 services.princes-trust.org.uk
 services.releasepoint.com
 service.vrp.com
@@ -74648,6 +74646,7 @@ stats.xactware.com
 stats.xn--antnio-dxa.pt
 stats.zimri.net
 stat.taxlive.nl
+stat.testme.cloud
 stat.thegeneral.com
 stat.tiara.tistory.com
 stat.ucetni-roku.cz
@@ -75381,6 +75380,7 @@ tele2.actonservice.com
 telegraph.prd.api.max.com
 telemetry.algolia.com
 telemetry.boxt.co.uk
+telemetry.canva.com
 telemetry.commonspirit.org
 telemetry.dematic.com
 telemetry-eastus.trafficmanager.inmobi.com
