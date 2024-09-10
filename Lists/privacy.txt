@@ -54933,6 +54933,7 @@ ada8.ampleur.jp
 ad-a8.www.zeiri4.com
 ad.aceplanet.co.kr
 ad.aim-universe.co.jp
+a-da.invideo.io
 adat.borsonline.hu
 adat.ingatlanbazar.hu
 adat.koponyeg.hu
@@ -55372,6 +55373,7 @@ analytics.cyrillus.ch
 analytics.cyrillus.com
 analytics.cyrillus.de
 analytics.cyrillus.fr
+analytics-dataplane.invideo.io
 analytics.data.visenze.com
 analytics.disney.go.com
 analytics.egernsund.com
@@ -55486,6 +55488,7 @@ analytics-prod2.glance-internal.inmobi.com
 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 analytics.qogita.com
 analytics.qualcomm.com
+analytics.qushad.com
 analytics.ratioform.ch
 analytics.recamov.com
 analyticsresults.datev.com
@@ -60140,6 +60143,7 @@ events.accuity.com
 events.api.secureserver.net
 events.auth.gid.ru
 events.avaya.com
+events.baselime.io
 events.bendigotafe.edu.au
 events.blackboard.com
 events.careallies.com
@@ -69127,6 +69131,7 @@ pittaking.openapp.link
 pixel.archipro.co.nz
 pixel.barion.com
 pixel.byspotify.com
+pixel.clutter.com
 pixel.driveniq.com
 pixel.fohr.co
 pixel.ionos.com
@@ -74206,6 +74211,7 @@ stats.canadapost.ca
 stats.canadapost-postescanada.ca
 stats.caseydunham.com
 stats.celcom.com.my
+stats.chromatone.center
 stats.clavisaurea.xyz
 stats.coachinghive.com
 stats.codeur.com
