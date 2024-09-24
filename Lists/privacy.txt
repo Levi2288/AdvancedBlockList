@@ -54833,6 +54833,8 @@ access.sunpower.com
 acc.info.lumxpert.signify.com
 acclaro.actonservice.com
 acc-link-ccontact.focuscura.com
+acclog001.shop-pro.jp
+acclog002.shop-pro.jp
 acc.marketing.adobedxcusteng.com
 accountancy.bppeloqua.com
 accounting.frbservices.org
@@ -55510,6 +55512,7 @@ analytics.smart.mercedes-benz.com
 analytics.soluforce.com
 analytics.sona-mira.co.jp
 analytics.southpointcasino.com
+analytics.spearly.com
 analytics.spun.com.br
 analytics-ssl.allconnect.com
 analytics-ssl.bradyid.com
@@ -57660,6 +57663,7 @@ click.zoominformation.com
 client-analytics.mts.ru
 client-logger.beta.salemove.com
 client-logger.salemove.com
+client-log.karte.io
 clientlog.music.163.com
 clients.belairdirect.com
 clients.hermes-investment.com
@@ -63942,6 +63946,7 @@ l.guesthug.com
 lgylib.dg-home.ru
 lhaqtn.lyst.ca
 lhasalimited.actonservice.com
+lh.bigcrunch.com
 lhcivu.dekbed-discounter.nl
 lhdidz.successories.com
 lhevhb.hjgreek.com
@@ -77704,7 +77709,6 @@ t.villanova.com
 t.virginiasports.com
 tvppa.actonservice.com
 t.vrbo.io
-t.vrt.be
 tv-test.esvdigital.com
 tv.totaljobs.com
 tvuaeb.taqi.com.br
