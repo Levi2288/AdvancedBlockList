@@ -57622,7 +57622,6 @@ cksfgh.jaycar.com.au
 ckygge.mohd.it
 ckyhec.maxisport.com
 clanker-events.squarespace.com
-clanto.cloud
 clariant.actonservice.com
 clarice.streema.com
 clarity-infographic.zebra.com
@@ -61529,6 +61528,7 @@ harpra-companion.harvinar.com
 harpra-companion-test.harvinar.com
 harris.ni.com
 harvester.cms.markiza.sk
+harvest.graindata.com
 hasslefree.redwingshoes.com
 hauixd.halistores.com
 hauzdj.quellogiusto.it
@@ -66353,6 +66353,8 @@ masternaut.actonservice.com
 mathilde-ads.com
 math.meistercody.com
 mat.lgdisplay.com
+mato.clanto.cloud
+matomo.clanto.cloud
 matrix.elecle.bike
 matrix.itshboanytime.com
 matrk.rockymountainpower.net
@@ -75966,6 +75968,7 @@ tracker-00.qvb.qcloud.com
 tracker-aa.pafbetscore.lv
 tracker-aa.paf.es
 tracker.au.zitcha.app
+tracker.bang.com
 tracker.blutv.com
 tracker.decomworld.com
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
