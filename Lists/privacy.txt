@@ -42067,6 +42067,10 @@ info.uplogix.com
 info.vantageiras.com
 info.witt.ru
 info.zoomcare.com
+in-ftd-65.fr3.vip.prod.criteo.com
+in-ftd-65.jp2.vip.prod.criteo.com
+in-ftd-65.nl3.vip.prod.criteo.com
+in-ftd-65.sg1.vip.prod.criteo.com
 in-ftd-65.us5.vip.prod.criteo.com
 ingnl04.webtrekk.net
 ins01.eulerian.net
@@ -55309,11 +55313,14 @@ a.munters.jp
 a.munters.nl
 a.munters.se
 a.munters.us
+ana.3751chat.com
+ana.chat.shalove.net
 anaconda.net.anwalt.de
 ana.e-ticket.co.jp
 anal.doubledouble.top
 analitik.bik.gov.tr
 anal.sataniskwijt.be
+ana.luvul.net
 analysis.aws.locondo.jp
 analysis.prod.joyfru.jiji.com
 analys.live
@@ -55574,6 +55581,7 @@ analytics.zevvle.com
 analytic.tidewater.aaa.com
 analyt.ir
 anapp.adobe.com
+ana.skypemeet.net
 an.avast.ru
 android.txtsmarter.com
 a.nelo.mx
@@ -60208,6 +60216,7 @@ event.tagtoo.co
 event.thermofisher.com
 event.thermoscientific.cn
 event.thermoscientific.com
+event-tracker-library.mediaownerscloud.com
 event-tracking.hellohealthgroup.com
 eversource.actonservice.com
 evhvza.sodimac.com.br
@@ -69471,6 +69480,7 @@ pro.stormwindstudios.com
 protapes.actonservice.com
 providentcrm.actonservice.com
 prowareness.actonservice.com
+proxima.midjourney.com
 proxy.trysavvy.com
 pr.prnewswire.com
 pr.prnewswire.co.uk
