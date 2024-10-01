@@ -76999,6 +76999,7 @@ tr.jend.espmp-pofr.net
 tr.jimb.espmp-cufr.net
 tr.jkcd.espmp-cufr.net
 tr.jkcd.espmp-pofr.net
+trjs2.mediafin.be
 trk01.informaconnect.com
 trk01.knect365.com
 trk02.knect365.com
