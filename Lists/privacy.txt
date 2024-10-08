@@ -55421,6 +55421,7 @@ analytics.hottopic.com
 analytics-hub.3plearning.com
 analytics.id.amazongames.com
 analytics.idfnet.net
+analytics.ifanrusercontent.com
 analytics.inquisitr.com
 analytics.jazel.net
 analytics.jjkellerconsulting.com
@@ -56949,6 +56950,7 @@ bdqzcj.micuento.com
 bdtestsendpulse.branch.rocks
 bdtheque.net.jumia.com.gh
 beacon.adelphic.com
+beacon.cdn.qq.com
 beaconcdn.qq.com
 beacon.dropbox.com
 beaconhealthsystem.hrm.healthgrades.com
@@ -60758,6 +60760,7 @@ get.informedmortgage.com
 get.ingomoney.com
 get.instalocum.com
 get.jan.ai
+getjan.io
 get.jaranda.kr
 get.kabbee.com
 getl4w.lookout.com
@@ -62400,6 +62403,7 @@ imap2.carte-gr.total.fr
 imap.happ.social
 imbhdu.housedo.co.jp
 imeetcentral.pgi.com
+img2021.navyfederal.org
 img.aonunited.com
 img.biospace.com
 img.buch.ch
