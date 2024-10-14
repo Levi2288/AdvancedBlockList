@@ -56575,6 +56575,7 @@ ascendintegratedmedia.actonservice.com
 ascentcrm.actonservice.com
 ascmart.abphotos.link
 asd.bauhaus.lu
+aseads.com
 asentech-dev.actonservice.com
 ashasafety.actonservice.com
 ashcroft.actonservice.com
@@ -68326,6 +68327,7 @@ nl-nl.coloplastcare.com
 nlog.naver.com
 nltihf.fashiondays.ro
 nlvnht.miror.jp
+nlytcs.idfnet.net
 nmetrics.samsungmobile.com
 nmgassets.com
 nmgplatform.com
@@ -69167,6 +69169,7 @@ pixel.barion.com
 pixel.byspotify.com
 pixel.clutter.com
 pixel.driveniq.com
+pixel.embed.su
 pixel.fohr.co
 pixel.ionos.com
 pixel.ionos.de
