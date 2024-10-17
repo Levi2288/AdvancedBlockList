@@ -42068,6 +42068,8 @@ info.uplogix.com
 info.vantageiras.com
 info.witt.ru
 info.zoomcare.com
+in-ftd-107.fr3.vip.prod.criteo.com
+in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-65.da1.vip.prod.criteo.com
 in-ftd-65.fr3.vip.prod.criteo.com
 in-ftd-65.jp2.vip.prod.criteo.com
@@ -68332,6 +68334,7 @@ nmetrics.samsungmobile.com
 nmgassets.com
 nmgplatform.com
 nmiodk.promiflash.de
+nmo-ep.nl
 n.netquote.com
 nnhxjd.zielonalazienka.pl
 nnkeoi.timarco.com
