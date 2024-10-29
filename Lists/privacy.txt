@@ -55669,6 +55669,7 @@ api.digitalpiloten.org
 api.fuck.education
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
+api.june.so
 a.pikabu.ru
 apilog-web.acfun.cn
 apis.4bn.xyz
@@ -74175,6 +74176,7 @@ statistic.jac-systeme.de
 statisticplatform.com
 statisticsplatform.com
 statistics.streamdav.com
+statistiek.rijksoverheid.nl
 stat.jetsetter.com
 stat.jogaszvilag.hu
 stat.juridicas.com
