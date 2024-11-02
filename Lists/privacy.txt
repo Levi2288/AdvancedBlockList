@@ -42074,6 +42074,7 @@ in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
+in-ftd-109.da1.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
 in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
@@ -59238,6 +59239,7 @@ dmcnyf.nevzatonay.com
 dmc.romotur.com
 dmdgdu.atmosphera.com
 dmepyodjotcuks.com
+dmp.citynews.ovh
 dmpmetrics.rcsmetrics.it
 dmqykw.thirtymall.com
 dm.smfl.jp
@@ -60543,6 +60545,7 @@ fpc.gartner.com
 fpc.golubcapital.com
 fpc.immattersacp.org
 fpc.inxinternational.com
+fpcn.bpsgameserver.com
 fpc.questoraclecommunity.org
 fpcs.firemountaingems.com
 fpc.sg2.com
@@ -67840,6 +67843,7 @@ mikelperaia.openapp.link
 mill-all.actonservice.com
 mimakiusa.actonservice.com
 mini-site.larksuite-marketing.com
+minstats.xyz
 m.ioicommunity.com.my
 miqeuu.timberland.it
 mirabelanalytics.com
