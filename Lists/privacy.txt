@@ -42076,6 +42076,7 @@ in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
 in-ftd-109.da1.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
+in-ftd-109.jp2.vip.prod.criteo.com
 in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
 in-ftd-109.us5.vip.prod.criteo.com
@@ -55355,6 +55356,7 @@ analytics.adliners.de
 analytics.adobe.io
 analytics.adobe.ly
 analytics.agenedia.com
+analytics.ahrefs.dev
 analytics.airindia.com
 analytics.airtron.com
 analytics.algolia.com
@@ -62864,7 +62866,6 @@ info.moneycontrol.network18online.com
 info.monsooninc.com
 info.morganfranklin.com
 info.motion10.nl
-info.mouser.com
 info.msconsultants.com
 info.m.seek.com.au
 info.m.seek.co.nz
@@ -75843,7 +75844,6 @@ t.msz-bahn.de
 tmt.intelligence.informa.com
 tmvasapp.fitnessyard.com
 tmwkya.jh-profishop.at
-tmx.bestbuy.com
 tmxjdr.benaza.ro
 tmx.td.com
 t.mynexity.fr
@@ -78126,7 +78126,6 @@ vfmahn.slevomat.cz
 vfo4.carrefour-banque.fr
 vf.startpage.com
 vfvcxv.naturhaeuschen.de
-vg247-p2.vg247.com
 vg247-uk.vg247.com
 vgavzy.spierandmackay.com
 vgazda.krefel.be
