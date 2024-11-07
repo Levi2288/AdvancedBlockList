@@ -60084,6 +60084,7 @@ ergrbp.hobidunya.com
 ermiph.petermanningnyc.com
 eroar.lionsclubs.org
 errorreports.couponcabin.com
+errors.darkreader.app
 es-business.vodafone.com
 es-es.siemensplmevents.com
 es-go.experian.com
@@ -71127,6 +71128,7 @@ sh.b.inhaabit.com
 shelbypublishing.actonservice.com
 shell-recharge.tupinambaenergia.com.br
 sheregesh-io.traveler.today
+shgcdn3.com
 shhoix0fuonj0hz6.net.fidor.de
 shipsmarter.idrivelogistics.com
 shjwhv.falsepeti.com
@@ -74182,6 +74184,7 @@ stat.interestfree.com.au
 statistic.audima.co
 statistic.jac-systeme.de
 statisticplatform.com
+statistics.darkreader.app
 statisticsplatform.com
 statistics.streamdav.com
 statistiek.rijksoverheid.nl
@@ -74295,6 +74298,7 @@ stats.crypdit.com
 stats.curtiscummings.me
 stats.cybersim.de
 stats.danestevens.dev
+stats.darkreader.app
 stats.datamanie.cz
 stats.davydepauw.be
 stats.dawn.md
@@ -74419,6 +74423,7 @@ stats.jhsheridan.com
 stats.jjude.com
 stats.joaopedro.dev
 stats.jsbible.com
+statsjs.klevu.com
 stats.jtrees.io
 stats.jun-etan.com
 stats.juttu.be
