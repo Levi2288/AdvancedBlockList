@@ -57811,6 +57811,7 @@ collector.api.video
 collector.appconsent.io
 collector.betway.be
 collector.betway.com
+collector-direct.xhamster.com
 collector.dmp.cnna.io
 collector.fiverr.com
 collector.hippodromeonline.com
@@ -57820,6 +57821,7 @@ collector-videoplayer.5centscdn.net
 collector.wawlabs.com
 collector.xhaccess.com
 collector.xhamster3.com
+collector.xhamsterporno.mx
 collect.reagroupdata.com.au
 collect.rebelmouse.io
 collect.stepstone.co.uk
@@ -63151,6 +63153,7 @@ info.zoominfo.io
 info.zoominfo-notice.com
 info.zoominfo-privacy.com
 info.zoominfotechnologies.com
+ingest.coincodex.com
 ingest.make.rvohealth.com
 in-go.experian.com
 ingredients.firmenich.com
@@ -68847,6 +68850,7 @@ oracletechnology.arrow.com
 orbis.actonservice.com
 ordbng.extra.com.br
 oregonstate.actonservice.com
+organiccdn.io
 organizations.stratfor.com
 orhdev.com
 origin-smetrics.go365.com
@@ -74455,6 +74459,7 @@ stats.limitlessnetworks.eu
 stats.lippeshirts.de
 stats.literaturkreis.online
 stats.lmdsp.com
+stats.locallabs.com
 stats.localmetravel.com
 stats.lumension.com
 stats.lyricall.cz
