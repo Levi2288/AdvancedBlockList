@@ -57049,7 +57049,6 @@ bizz.cochraneco.com
 bjdqbl.nippn-kenko.net
 bjpsuk.fray-id.com
 bjqnpe.i-office1.net
-b.karte.io
 bk.brookeo.fr
 bke.actonservice.com
 bkifg.actonservice.com
@@ -60192,6 +60191,7 @@ events.bendigotafe.edu.au
 events.blackboard.com
 events.careallies.com
 events.centex.com
+events.character.ai
 events.cigna.com
 events.clips4sale.com
 events.coface.com
@@ -64835,6 +64835,7 @@ log.qvb.qcloud.com
 log.rabobank.nl
 log.recommend.nicovideo.jp
 log.rhythmtowers.com
+logs.chatboost-cv.algoage.co.jp
 logsdk.kwai-pro.com
 logs.mezmo.com
 logs.netflix.com
@@ -69457,6 +69458,7 @@ procurement.cipscomms.org
 prod-events.nykaa.com
 prod.fennec.atp.fox
 prod.nitrosniffer.ottogroup.io
+prodregistryv2.org
 prod.tracking.refinitiv.com
 product.cel-fi.com
 product.cloud.travelport.com
@@ -76956,6 +76958,7 @@ tr.e.m-entreprise.fr
 trends.privacywall.org
 tr.enquetes.actionlogement.fr
 t.rentcafe.com
+t.rentio.jp
 tr.entreprise.axa.fr
 tr.eqs.cpam67.net
 tr.ere.emailing.bnpparibas
