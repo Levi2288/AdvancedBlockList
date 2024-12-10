@@ -67553,6 +67553,7 @@ beacon.dropbox.com
 beaconhealthsystem.hrm.healthgrades.com
 beacon.klm.com
 beacon.radiko.jp
+beacons.digital.disneyadvertising.com
 beacon.sftoaa.com
 beamanalytics.b-cdn.net
 beam.telex.hu
@@ -85172,6 +85173,7 @@ tracker-aa.paf.es
 tracker.au.zitcha.app
 tracker.bang.com
 tracker.blutv.com
+tracker.curama.jp
 tracker.decomworld.com
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 tracker-dot-optimeeze.appspot.com
