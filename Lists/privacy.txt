@@ -71829,7 +71829,6 @@ go.wondavr.com
 go.worldwinner.com
 go.wtcmachinery.com
 go.wu.com
-goya.rutube.ru
 go.you-app.com
 go.zakatpedia.com
 go.zapyle.com
@@ -78947,6 +78946,7 @@ pages.uchicagomedicine.org
 pages.usviolifeprofessional.mktg-upfield.com
 pages.wardsintelligence.informa.com
 pages.zenefits.com
+pageviews.tray.com.br
 page.vital4.net
 paginaseloqua.unisabana.edu.co
 paintersusainc.actonservice.com
@@ -84858,6 +84858,7 @@ tidy.intel.fr
 tidy.intel.in
 tidy.intel.la
 tif.ionos.com
+tiktok.tray.com.br
 timeclock.mytoolr.com
 timing.uhrforum.de
 timing.whenandhowagency.com
