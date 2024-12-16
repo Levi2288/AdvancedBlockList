@@ -75058,6 +75058,7 @@ log.qvb.qcloud.com
 log.rabobank.nl
 log.recommend.nicovideo.jp
 log.rhythmtowers.com
+logs.adplay.ru
 logs.chatboost-cv.algoage.co.jp
 logsdk.kwai-pro.com
 logs.mezmo.com
@@ -83457,6 +83458,7 @@ stat.ciss.es
 stat.cuadernosdepedagogia.com
 stat.dauc.cz
 stat.detelefoongids.nl
+stat.fly.codes
 stat.gomastercard.com.au
 stat.i3.dmm.com
 static.fengkongcloud.com
