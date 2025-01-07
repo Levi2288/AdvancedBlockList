@@ -68291,6 +68291,7 @@ cmr.customer.americanexpress.de
 cmrcustomer.americanexpress.es
 cmrhvx.lojapegada.com.br
 cm-sg.americanexpress.com
+cms-stats-view.vitrinabox.com
 cmtmwn.ditano.com
 cmzaly.gebrueder-goetz.de
 cname-aa.022022.net
@@ -68580,6 +68581,7 @@ content.blackboard.com
 content.booksplusapp.com
 content.box.net
 content.cammackhealth.com
+content.canadiantire.ca
 content.cannon-dunphy.com
 content.commandc.com
 content.convio.com
@@ -73677,7 +73679,6 @@ jatflh.pharmamarket.be
 jatpmv.megacolchoes.com.br
 javs.actonservice.com
 javvso.newone-shop.com
-jazzyzest.cfd
 jc917x3.adaptive.marketing
 jcblar.floridarentals.com
 jcimgi.bestcuckoo.co.kr
@@ -75253,6 +75254,7 @@ lyegyo.bluenile.com
 lyfnh.io
 lyfrir.purehockey.com
 lynjbq.sizeofficial.nl
+lynx.gruender.de
 lyonsdown.actonservice.com
 l.your.md
 lytics.findairpods.com
@@ -84768,7 +84770,6 @@ thanecityfc.spyn.co
 thanks.hubspaces.jp
 thanks.olivesitter.com
 thanks.tsubaki-musicschool.com
-thatmonkeybites3.com
 t.hawaiiathletics.com
 t.hawkeyesports.com
 thebasiccompanies.actonservice.com
@@ -87083,7 +87084,6 @@ vetsource.actonservice.com
 ve.velocityclinical.com
 vezsyr.bxblue.com.br
 vfghe.com
-vfgte.com
 vfmahn.slevomat.cz
 vfo4.carrefour-banque.fr
 vf.startpage.com
