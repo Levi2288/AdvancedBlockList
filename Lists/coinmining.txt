@@ -7754,3 +7754,4 @@ monerooceans.stream
 miningocean.org
 awgoaigartnj-xmr.com
 c3pool.org
+ultra-pool.com
