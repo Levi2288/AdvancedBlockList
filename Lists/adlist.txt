@@ -91879,10 +91879,6 @@ samsungcloudsolution.net
 samsungotn.net
 samsungrm.net
 tvinteractive.tv
-flingo.tv
-samsungelectronics.com
-samsungqbe.com
-trvdp.com
 clickhouse.com
 newir3ltyug79aiman.com
 tuleceti.com
@@ -113946,6 +113942,7 @@ globalsun.io
 beintoo.com
 seepsoaceva.net
 stelronsi.net
+flingo.tv
 gepush.com
 videostep.com
 palm.tech
@@ -113962,6 +113959,7 @@ viicxwec.com
 cdndex.io
 veve.com
 myfinance.com
+trvdp.com
 chilipiper.com
 dood.work
 hyenadata.com
