@@ -89973,10 +89973,6 @@ samsungcloudsolution.net
 samsungotn.net
 samsungrm.net
 tvinteractive.tv
-flingo.tv
-samsungelectronics.com
-samsungqbe.com
-trvdp.com
 clickhouse.com
 newir3ltyug79aiman.com
 tuleceti.com
@@ -112412,9 +112408,7 @@ bestcontentnetwork.top
 54646.co
 54.222.186.106
 pavoshare.com
-31.14.252.148
 d-load.org
-kusuriyasan.org
 alicdn.com
 blog-sokuhou.com
 gamaibids.com
@@ -112549,6 +112543,7 @@ dewrain.life
 anyclip.com
 gobankingrates.com
 oveeo.com
+flingo.tv
 sail-track.com
 static-swaven.com
 yeahtargeter.com
@@ -112679,6 +112674,7 @@ fongumporg.net
 auwoocmair.net
 kidpowers.com
 qwadro.com
+trvdp.com
 sparteo.com
 inmarket.com
 quiq-api.com
@@ -121284,6 +121280,7 @@ easyfrag.org
 entry.org
 esprima.org
 fjrfjrsitenchdnfjr.org
+kusuriyasan.org
 lien-amateur.org
 mycountdown.org
 mylivejasmin.org
