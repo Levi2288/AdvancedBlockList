@@ -31,3 +31,8 @@ js.stripe.com
 android-appboot.netflix.com
 web.facebook.com
 cdn.fbsbx.com // used by facebook & messenger for voice messages and sometimes pictures
+apkpure.com
+freedownloadmanager.org
+cdpn.io
+winudf.com
+ storm-prod-app.azurewebsites.net
