@@ -35,4 +35,5 @@ apkpure.com
 freedownloadmanager.org
 cdpn.io
 winudf.com
- storm-prod-app.azurewebsites.net
+storm-prod-app.azurewebsites.net
+elasticbeanstalk.com
