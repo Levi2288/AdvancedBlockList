@@ -81,3 +81,8 @@ google.de
 google.fr
 google.ie
 google.se
+apkpure.com
+freedownloadmanager.org
+cdpn.io
+winudf.com
+elasticbeanstalk.com
