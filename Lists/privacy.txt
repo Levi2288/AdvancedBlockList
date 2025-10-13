@@ -20462,9 +20462,7 @@ boucou.fr
 brosmailing.com
 c1oudfront.net
 campustech.com
-cleartripmail.com
 criteolabs.com
-criteonlts.com
 crmchevrolet.com
 crto.in
 delairerecyclage.com
@@ -20483,7 +20481,6 @@ em-americanexpress.com
 emsuite.net
 eulerian.org
 eulerian.wiki
-ewm-mail.com
 flex-communications.com
 genetex.email
 global-cdn.net
@@ -20493,11 +20490,9 @@ jpmcabp.com
 knigge.de
 meuchevrolet.com
 michevrolet.com
-mutualofomahaemail.com
 news-nuernberger.de
 news-pg.pl
 offerteperme.it
-peacocks-mail.com
 restaurant-information.com
 rilem.fr
 shortest-route.com
@@ -20616,6 +20611,7 @@ berserkhydrant.com
 bespokesandals.com
 bestshoesboot.com
 betazebra.com
+bgalytics.com
 bidgx.com
 bidpapers.com
 bikepaws.com
@@ -21423,6 +21419,7 @@ notconscious.com
 notifyglass.com
 noundictionary.com
 novaseekers.com
+nowaymail.com
 nudgeduck.com
 numerousnest.com
 nutritiousbean.com
@@ -21996,7 +21993,6 @@ vibranttalisman.com
 vibrantvale.com
 victoriousrequest.com
 victoryideas.com
-videocdnmetrika.com
 vilenexus.com
 virtualvincent.com
 visitstor.com
