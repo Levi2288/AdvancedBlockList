@@ -10,4 +10,4 @@
 ^beacons?[0-9]*[_.-]
 ^count(ers?)?[0-9]*[_.-]
 ^pixels?[-.]
-^stat(s|istics)?[0-9]*[_.-]
+^stat(s|istics)?[0-9]*[_.-]pihole-regex/regex.listatmaster·mmotti/pihole-regex·GitHub
