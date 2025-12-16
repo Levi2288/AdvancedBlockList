@@ -105784,11 +105784,6 @@ samsungcloudsolution.net
 samsungotn.net
 samsungrm.net
 tvinteractive.tv
-flingo.tv
-hse-ctv.com
-samsungelectronics.com
-samsungqbe.com
-trvdp.com
 clickhouse.com
 newir3ltyug79aiman.com
 tuleceti.com
@@ -133821,6 +133816,7 @@ fleahat.com
 flerap.com
 flickeringchutney.com
 flightsjabbed.com
+flingo.tv
 fliplens.com
 fliplineads.com
 flirtcafe.de
@@ -140980,6 +140976,7 @@ trustuwallet.cc
 trustworthy-form.pro
 trustworthy-friendship.pro
 trustworthyturnstileboyfriend.com
+trvdp.com
 trynectar.ai
 ts-shimada.com
 ts-tracker.me
