@@ -12430,6 +12430,7 @@ mouseflow.com
 mouseflow.net
 mouseflow.org
 mouseflow.us
+mousegesturesapi.com
 moutaihotel.cn
 movfile.net
 movingos.com
@@ -13011,6 +13012,7 @@ rebrand.today
 rebranded.link
 rebrandly.com
 rebrandly.pro
+rebrandlydomain.com
 reclaimthenet.com
 redcounter.net
 reddadd.net
@@ -13417,6 +13419,7 @@ smartology.co
 smartology.net
 smartpassage.com
 smartstream.tv
+smarturl.it
 smct.co
 smrk.io
 snapads.com
@@ -13463,6 +13466,7 @@ sojern.com
 solidinc.net
 solorpowernowme.com
 solvemedia.com
+songlytics.net
 sonobi.com
 soosooka.com
 sophus3.com
@@ -13870,6 +13874,7 @@ valassisdigital.io
 valdelabs.com
 valtrk.com
 valueclick.com
+vasgenerete.site
 vcmedia.vn
 vcommission.com
 vdna-assets.com
@@ -14131,11 +14136,6 @@ zxad.com
 zxad.net
 zylpfood.com
 zzhengre.com
-zzword.com
-vasgenerete.site
-rebrandlydomain.com
-smarturl.it
-mousegesturesapi.com
 212.150.34.116
 213.239.214.240
 63.214.247.19
@@ -20704,6 +20704,7 @@ businessupdater.com
 bustlingbook.com
 buttonladybug.com
 buzzaoutlet.com
+buzzfry.com
 bx-cloud.com
 cafefrench.com
 cafescampfires.com
@@ -20804,6 +20805,7 @@ condemnedcomb.com
 confiant-integrations.net
 confidencetalks.com
 configchain.com
+configcontrol.com
 confirmglobal.com
 confusedcart.com
 connectashelf.com
@@ -20817,10 +20819,12 @@ convead.io
 convertbatch.com
 convertlink.com
 cooingcoal.com
+cookiestorybook.com
 coolestcatcare.com
 coolguesthouse.com
 copperstills.net
 copyfranchise.com
+copytweaks.com
 copyvibes.com
 coralcranes.com
 coralreverie.com
