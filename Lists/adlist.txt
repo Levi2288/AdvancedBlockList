@@ -2188,6 +2188,7 @@ adbit.co
 adbitty.com
 adblade.org
 adblender.ru
+adblendr.io
 adblock.fr
 adblockanalytics.com
 adblockerkillswebsites.pw
@@ -27559,7 +27560,6 @@ pivotalmedialabs.com
 pivotnetworks.com
 pivotrunner.com
 piwik.org
-piwik.pro
 piwwplvxvqqi.com
 pixanalytics.com
 pixazza.com
@@ -33592,7 +33592,6 @@ supertura.com
 superwebs.pro
 supletcedintand.pro
 supload.com
-supplyframe.com
 support-ip.com
 support-win1230.com
 supportaeon.com
@@ -47677,6 +47676,7 @@ supersearchmanager.com
 supersimpletools.com
 supersizebombshells.com
 supersmashbash.com
+supplyframe.com
 suprememobiles.com
 surdthechannel.com
 surefthechannel.com
@@ -52568,6 +52568,7 @@ ethgift.pro
 halleyperson.pro
 jypugepha.pro
 mimilcnf.pro
+piwik.pro
 sskmnews.pro
 trredir.pro
 autocapital.pw
