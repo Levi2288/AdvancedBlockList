@@ -14133,6 +14133,7 @@ zxad.com
 zxad.net
 zylpfood.com
 zzhengre.com
+zzword.com
 212.150.34.116
 213.239.214.240
 63.214.247.19
@@ -20455,6 +20456,7 @@ zxxds.net
 acoor-environnement.com
 actonservice.com
 aerewardsae.com
+anglo.email
 bluehornet.com
 boucou.fr
 brosmailing.com
@@ -20469,8 +20471,10 @@ e3rd.net
 email-gamestop.com
 emailsendr.net
 email-telekom.de
+em-americanexpress.com
 emsuite.net
 eulerian.org
+eulerian.wiki
 flex-communications.com
 genetex.email
 global-cdn.net
