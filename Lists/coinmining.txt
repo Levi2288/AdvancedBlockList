@@ -5275,6 +5275,7 @@ actinium.org
 actionblockchain.org
 adapools.org
 adbtc.top
+adiri.tel
 adsbtc.fun
 aeon-pool.com
 aeon.xyz
@@ -6241,6 +6242,7 @@ thewhitepepper.com
 ticketszones.com
 titan.io
 tmspool.top
+tokenist.com
 tokenmetrics.com
 tokenpocket.pro
 tokenview.com
